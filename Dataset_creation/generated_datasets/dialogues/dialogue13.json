@@ -1,0 +1,164 @@
+{
+  "scenario_id": "consulta_infeccion_urinaria_01",
+  "title": "Consulta Urgencias - Infección urinaria",
+  "context": "Paciente mujer con síntomas de infección urinaria. Se pauta tratamiento con fosfomicina dosis única y medidas de cuidado.",
+  "turns": [
+    {
+      "speaker": "PacienteMujer",
+      "text": "Buenos días, doctor. Vengo porque desde ayer tengo muchas ganas de orinar, pero hago muy poca cantidad y me arde bastante.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Buenos días. ¿Ha tenido fiebre, dolor en la espalda o escalofríos?",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, solo el ardor y esa sensación de urgencia.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Bien. ¿Es la primera vez que le ocurre o ya ha tenido infecciones de orina antes?",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Alguna vez hace años, pero se me pasó con antibiótico.",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "¿Toma algún medicamento habitualmente?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, tomo enalapril 10 mg al día para la tensión. Nada más.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Perfecto. Voy a tomarle la tensión y luego le pediré un análisis de orina rápido aquí mismo.",
+      "duration_estimate": 5.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "La tensión está bien, 132/85 mmHg. El test de orina muestra leucocitos y nitritos positivos, lo que sugiere infección urinaria.",
+      "duration_estimate": 6.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Entonces necesito antibiótico?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Sí. Lo indicado en su caso es un tratamiento corto. Le voy a recetar fosfomicina trometamol 3 g en dosis única, que se disuelve en agua y se toma por la noche, con la vejiga vacía.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Solo una dosis?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Sí, en infecciones urinarias no complicadas suele ser suficiente. Si los síntomas no mejoran en 48 horas, debe volver para valorar un cultivo y quizá otro antibiótico.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y puedo tomar algo para aliviar el dolor al orinar?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Puede tomar paracetamol 1 g cada 8 horas si tiene dolor o molestias generales. También es importante beber bastante agua, al menos 1,5–2 litros al día, salvo que tenga alguna contraindicación.",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Debo seguir alguna dieta especial?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "No hace falta una dieta especial, pero conviene evitar alcohol y café porque pueden irritar la vejiga.",
+      "duration_estimate": 5.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Esto es contagioso?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "No, no se transmite como una infección respiratoria, aunque sí puede haber factores de riesgo relacionados con la higiene o las relaciones sexuales.",
+      "duration_estimate": 7.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Entiendo. ¿Y si me vuelve a pasar?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Si se repite con frecuencia, haremos estudios adicionales para descartar causas predisponentes. Pero lo habitual es que sea un episodio aislado.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto, doctor.",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Muy bien. Entonces, hoy mismo tome la fosfomicina 3 g esta noche. Beba bastante líquido y, si en dos días sigue con síntomas o aparece fiebre o dolor lumbar, vuelva de inmediato.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "De acuerdo, muchas gracias.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "A usted. Que se mejore pronto.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 350,
+    "turn_count": 25,
+    "avg_turn_length": 14.0
+  },
+  "estimated_total_duration": 116.70000000000002,
+  "generated_at": "2025-09-22T16:56:20.466294Z"
+}

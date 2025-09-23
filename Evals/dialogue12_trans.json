@@ -1,0 +1,211 @@
+{
+  "scenario_id": "consulta_insomnio_fragmentada_01",
+  "title": "Consulta Cardiología - Insomnio",
+  "context": "Paciente con insomnio de más de un mes, ansiedad y malos hábitos de sueño. Se recomiendan medidas de higiene del sueño y tratamiento ansiolítico suave.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿en qué puedo ayudarle hoy?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me he venido porque no consigo dormir bien desde hace más de un mes. Me cuesta mucho"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mi mente no para, estoy pensando en mil cosas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y cuántas horas duerme en total?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Unas cinco horas como mucho. Me levanto a las siete para ir al trabajo y"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "estoy hecho polvo. Por las tardes estoy irritable y no rindo nada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha pasado algo especial en su vida últimamente, algún cambio importante o situación de estrés?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, mi padre estuvo ingresado el mes pasado por un problema del corazón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya está bien, pero me quedé muy preocupado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y en el trabajo también tenemos mucha carga últimamente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal que situaciones como esa afecten al sueño."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Toma café, té o bebidas energéticas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, café tomo bastante, sobre todo por las mañanas porque"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "estoy muy cansado. A veces también por la tarde."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y por las noches, ve la televisión en la cama, usa el móvil?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, suelo estar con el móvil o viendo series hasta tarde. Como no me duermo, pues me entretengo con algo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ahí tenemos parte del problema."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es una pastilla para dormir?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es un ansiolítico suave que también ayuda a relajarse y conciliar el sueño."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero es importante que lo tomes solo cuando realmente lo necesites."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "televisión ni tablet."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Una hora entera?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, la luz blanca de las pantallas altera la producción de melatonina, que es la hormona del sueño. En esa hora puede leer"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "rutinas de sueño. No es bueno tomarla durante mucho tiempo, porque puede crear dependencia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y para la preocupación por mi padre? Eso es lo que más me quita el sueño."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es comprensible que esté preocupado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ha hablado con él sobre cómo se encuentra?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A veces expresar nuestros miedos ayuda a gestionarlos mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hablo con él pero sigo teniendo miedo de que le vuelva a pasar algo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuando se vaya a la cama y empiecen esos pensamientos, pruebe técnicas de rela"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "ción. Respiración profunda, contar hacia atrás desde 100 o imaginar un lugar que le transmita paz."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "En cuánto tiempo debería empezar a dormir mejor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si sigue las pautas que le he dado, en una semana debería notar mejoría. La medicación le ayudará los primeros días, pero importante"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "es que establezca buenos hábitos de sueño."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y si no mejoro?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en dos semanas no hay mejoría, vuelva y valoraremos otras opciones. A veces ayuda a hablar con un psicólogo para gestionar mejor la ansiedad y las preocupaciones."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo. Puedo hacer ejercicio? Ayuda a dormir?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "desconexión"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "digital."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Una hora antes"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "de"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "acostarse,"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "medicación solo"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "cuando la necesite."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y técnicas de relajación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Verá cómo poco a poco"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "va."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Recuperando el sueño."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sueño. Muchas gracias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Espero poder descansar"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "por fin."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "scenario_id": "consulta_angina_01",
+  "title": "Consulta Cardiología - Dolor torácico",
+  "context": "Paciente con dolor torácico de esfuerzo, se sospecha angina o síndrome coronario agudo. Se realizan pruebas y se inicia tratamiento.",
+  "turns": [
+    {
+      "speaker": "PacienteHombre",
+      "text": "Buenos días, desde ayer tengo un dolor en el pecho que aparece cuando camino rápido o subo escaleras. Hoy ha sido más fuerte y me he asustado.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Ha hecho bien en venir. ¿Podría describirme el dolor? ¿Es opresivo, punzante, se irradia a algún sitio?",
+      "duration_estimate": 5.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Es más bien como una presión, como si me apretaran el pecho. A veces me sube al cuello y al brazo izquierdo.",
+      "duration_estimate": 7.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entiendo. ¿Tiene antecedentes de hipertensión, colesterol alto o diabetes?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, soy hipertenso desde hace años y tomo enalapril 10 mg al día. El colesterol lo tengo un poco alto, pero no tomo nada.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "De acuerdo. ¿Fuma o ha fumado?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, fumo unos 10 cigarrillos diarios desde hace más de veinte años.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Eso también es un factor de riesgo. Voy a tomarle la tensión y escuchar su corazón. Su tensión está algo elevada, 155/95 mmHg. El ritmo cardíaco es regular, pero por seguridad vamos a hacer un electrocardiograma ahora mismo.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Cree que puede ser un infarto?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "No lo sabemos todavía, pero necesitamos descartar una angina de pecho o un síndrome coronario agudo. El electro y una analítica con marcadores cardíacos nos ayudarán.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y mientras tanto?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Mientras tanto, le administraremos ácido acetilsalicílico 300 mg por vía oral para reducir el riesgo de coagulación y monitorización cardíaca.",
+      "duration_estimate": 6.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Está bien, lo que usted diga.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Ha tenido mareos, sudor frío o sensación de falta de aire?",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, esta mañana cuando subía escaleras sentí que me faltaba el aire y sudé mucho.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Eso refuerza la sospecha. Si el dolor empeora aquí, avísenos inmediatamente. También podríamos administrarle nitroglicerina sublingual, 0,4 mg, si reaparece el dolor opresivo.",
+      "duration_estimate": 7.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Esa medicina es peligrosa?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "No, en general es segura, pero puede bajar la tensión, por eso la administramos bajo control.",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y si los resultados salen mal?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Si confirman un síndrome coronario, lo ingresaremos en la unidad de cardiología para valorar un cateterismo. Es un procedimiento que nos permite abrir la arteria obstruida.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Necesitará medicación  para controlar la TA y según los resultados de laboratorio el colesterol, pero es fundamental que deje de fumar.controlar la presión y mejorar la dieta. La medicación es una parte del tratamiento, pero su estilo de vida es clave.",
+      "duration_estimate": 13.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Lo entiendo.",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Muy bien. Vamos a empezar ya con el ácido acetilsalicílico 300 mg, después haremos el electro y la analítica. En función de los resultados decidiremos el siguiente paso.",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Gracias por explicármelo todo tan claro.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "De nada, cuídese.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 397,
+    "turn_count": 25,
+    "avg_turn_length": 15.88
+  },
+  "estimated_total_duration": 132.50000000000003,
+  "generated_at": "2025-09-22T16:13:11.524817Z"
+}

@@ -1,0 +1,79 @@
+{
+  "scenario_id": "consulta_bronquitis_01",
+  "title": "Consulta Atención Primaria - Bronquitis aguda",
+  "context": "Paciente con tos, expectoración y febrícula. Se diagnostica bronquitis aguda viral y se indica tratamiento sintomático.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, tome asiento. ¿Qué le sucede?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días. Verá, llevo casi una semana con una tos muy molesta. Empezó con picor de garganta y ahora es una tos con flemas, a veces me duelen los pulmones al toser. También me siento muy cansado y con fiebre."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Ha notado dificultad para respirar o le ha sonado el pecho?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, a veces noto como un silbido al respirar, sobre todo por las noches. Y la tos es tan fuerte que me está impidiendo dormir."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. ¿Ha tenido fiebre alta? ¿Más de 38 grados?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo un poco de febrícula. Unas décimas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Permítame auscultarle el pecho. Respire hondo y suelte... otra vez."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, oigo algunos ruidos en los bronquios. Los síntomas que me describe, junto con lo que escucho, apuntan a una bronquitis aguda. Es una inflamación de los bronquios, las vías respiratorias que llevan el aire a los pulmones. Suele ser causada por un virus, por lo que los antibióticos no sirven."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo se cura? ¿Hay algún medicamento?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La mayoría de los casos de bronquitis se resuelven solos con el tiempo. Lo más importante es que descanse y beba muchos líquidos para mantenerse hidratado y ayudar a fluidificar las flemas. Para la tos, que es lo más molesto, le voy a recetar un jarabe."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Un jarabe para la tos?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, le daré un jarabe expectorante con carbocisteína. Le ayudará a expulsar las flemas y a aliviar la opresión en el pecho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo me lo tomo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tome 10 mililitros de este jarabe tres veces al día, después de las comidas. También puede tomar paracetamol o ibuprofeno si la fiebre o el malestar general aumentan. Si fuma, es fundamental que lo deje de forma temporal, ya que el humo irrita aún más las vías respiratorias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo. ¿Y cuándo voy a mejorar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La tos puede durar hasta dos o tres semanas, aunque irá mejorando progresivamente. El malestar general y la fiebre deberían desaparecer en unos días. Si en una semana la tos no ha mejorado, la fiebre sube a más de 38 grados y medio o nota una dificultad grave para respirar, vuelva a verme para descartar una complicación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entendido, muchas gracias, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Descanse y cuídese."
+    }
+  ]
+}

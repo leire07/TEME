@@ -1,0 +1,122 @@
+{
+  "scenario_id": "consulta_bronquitis_01",
+  "title": "Consulta Atención Primaria - Bronquitis aguda",
+  "context": "Paciente con tos, expectoración y febrícula. Se diagnostica bronquitis aguda viral y se indica tratamiento sintomático.",
+  "turns": [
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Buenos días, tome asiento. ¿Qué le sucede?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Buenos días. Verá, llevo casi una semana con una tos muy molesta. Empezó con picor de garganta y ahora es una tos con flemas, a veces me duelen los pulmones al toser. También me siento muy cansado y con fiebre.",
+      "duration_estimate": 13.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Entiendo. ¿Ha notado dificultad para respirar o le ha sonado el pecho?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, a veces noto como un silbido al respirar, sobre todo por las noches. Y la tos es tan fuerte que me está impidiendo dormir.",
+      "duration_estimate": 8.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "De acuerdo. ¿Ha tenido fiebre alta? ¿Más de 38 grados?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, solo un poco de febrícula. Unas décimas.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Muy bien. Permítame auscultarle el pecho. Respire hondo y suelte... otra vez.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, oigo algunos ruidos en los bronquios. Los síntomas que me describe, junto con lo que escucho, apuntan a una bronquitis aguda. Es una inflamación de los bronquios, las vías respiratorias que llevan el aire a los pulmones. Suele ser causada por un virus, por lo que los antibióticos no sirven.",
+      "duration_estimate": 17.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y cómo se cura? ¿Hay algún medicamento?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "La mayoría de los casos de bronquitis se resuelven solos con el tiempo. Lo más importante es que descanse y beba muchos líquidos para mantenerse hidratado y ayudar a fluidificar las flemas. Para la tos, que es lo más molesto, le voy a recetar un jarabe.",
+      "duration_estimate": 15.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Un jarabe para la tos?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, le daré un jarabe expectorante con carbocisteína. Le ayudará a expulsar las flemas y a aliviar la opresión en el pecho.",
+      "duration_estimate": 7.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y cómo me lo tomo?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Tome 10 mililitros de este jarabe tres veces al día, después de las comidas. También puede tomar paracetamol o ibuprofeno si la fiebre o el malestar general aumentan. Si fuma, es fundamental que lo deje de forma temporal, ya que el humo irrita aún más las vías respiratorias.",
+      "duration_estimate": 16.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "De acuerdo. ¿Y cuándo voy a mejorar?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "La tos puede durar hasta dos o tres semanas, aunque irá mejorando progresivamente. El malestar general y la fiebre deberían desaparecer en unos días. Si en una semana la tos no ha mejorado, la fiebre sube a más de 38 grados y medio o nota una dificultad grave para respirar, vuelva a verme para descartar una complicación.",
+      "duration_estimate": 19.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Entendido, muchas gracias, doctor.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "De nada. Descanse y cuídese.",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 371,
+    "turn_count": 18,
+    "avg_turn_length": 20.61111111111111
+  },
+  "estimated_total_duration": 123.5,
+  "generated_at": "2025-09-22T15:50:20.073177Z"
+}

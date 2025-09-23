@@ -1,0 +1,152 @@
+{
+  "scenario_id": "consultation_reflujo_01",
+  "title": "Consulta Medicina General - Reflujo gastroesofágico",
+  "context": "Paciente con ardor estomacal y sensación de plenitud, se diagnostica reflujo y se inicia tratamiento con omeprazol.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, pasa, por favor. Siéntate. ¿Qué tal estás?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Buenos días. Pues regular, la verdad.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuéntame, ¿qué te trae por aquí?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Verá, llevo unas semanas con un dolor de estómago bastante molesto. Es como una sensación de ardor, sobre todo después de comer. Y a veces me despierta por la noche. Además, me siento como muy lleno, incluso con comidas pequeñas.",
+      "duration_estimate": 13.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Desde cuándo notas estos síntomas exactamente?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Creo que unas tres o cuatro semanas. Al principio no le di importancia, pensé que era algo puntual. Pero no mejora y cada vez me molesta más.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Has tomado algo para aliviarte? ¿Al algún antiácido?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, probé con Almax, pero me alivia solo un rato y luego vuelve. Y además, no sé por qué, pero me da un poco de gases.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Vamos a revisar tu historial. Tienes 45 años y no fumas, ¿verdad? Y no tienes antecedentes familiares de enfermedades graves, que yo recuerde.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No, nada de eso.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Y dime, ¿cómo es tu alimentación? ¿Comes a menudo comidas picantes o muy grasas? ¿Bebes mucho café?",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Bueno, sí, me gusta el café y tomo unos tres o cuatro al día. Y las comidas, pues soy de comer de todo, pero es cierto que a veces ceno un poco tarde y pesado.",
+      "duration_estimate": 11.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo sospechaba. Todos esos factores pueden irritar el esófago y el estómago. Lo que me cuentas, esa sensación de ardor y de lleno, apunta a un posible reflujo gastroesofágico. Es algo bastante común.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y eso qué es exactamente, doctora? ¿Es grave?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, tranquilo, no suele ser grave. El reflujo ocurre cuando el ácido del estómago sube al esófago. Por eso sientes ese ardor. Vamos a empezar con un tratamiento sencillo para ver si mejoramos. Te voy a recetar un protector de estómago, un medicamento que se llama omeprazol.",
+      "duration_estimate": 15.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Omeprazol? ¿Y cómo lo tengo que tomar?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vas a tomar una cápsula de 20 miligramos cada mañana en ayunas, media hora antes del desayuno. Es importante que sea así para que funcione bien. Y lo harás durante cuatro semanas.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y con eso me voy a curar?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Debería. Además, quiero que hagas algunos cambios en tus hábitos. Intenta reducir el café y las comidas muy grasas o picantes. Cena más ligero y al menos dos horas antes de acostarte. Si puedes, eleva un poco la cabecera de la cama, unos 15 centímetros, para evitar que el ácido suba por la noche.",
+      "duration_estimate": 18.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "De acuerdo, doctora. Haré todo lo que me dices. ¿Y si no mejoro?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si después de las cuatro semanas sigues con los síntomas o incluso empeoras, te volveré a ver. En ese caso, podríamos considerar hacer algunas pruebas, como una gastroscopia, para ver el estado de tu estómago. Pero confío en que con el medicamento y los cambios de hábitos te sentirás mucho mejor.",
+      "duration_estimate": 17.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Muy bien, gracias, doctora. Me quedo más tranquilo.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Tómate el tratamiento con disciplina y verás. Que tengas un buen día.",
+      "duration_estimate": 4.7,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 483,
+    "turn_count": 23,
+    "avg_turn_length": 21.0
+  },
+  "estimated_total_duration": 161.1,
+  "generated_at": "2025-09-22T15:41:26.815128Z"
+}

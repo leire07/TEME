@@ -1,0 +1,24 @@
+[
+  {
+    "scenario_id": "cardiology_consultation_01",
+    "title": "Consulta Cardiología - Arritmias Complejas",
+    "description": "Cardiólogo explica arritmias ventriculares complejas y discute anticoagulantes",
+    "context": "Consulta especializada de cardiología donde el cardiólogo explica al paciente las arritmias ventriculares detectadas en su Holter, discute opciones de ablación por catéter, y prescribe warfarina con monitorización de INR. El paciente interrumpe constantemente con preguntas sobre los efectos secundarios de la amiodarona y digoxina.",
+    "participants": ["Cardiólogo", "Paciente"],
+    "target_duration": 180,
+    "difficulty_level": "hard",
+    "language": "es",
+    "domain": "cardiology"
+  },
+  {
+    "scenario_id": "oncology_rounds_01",
+    "title": "Visita Oncológica - Carcinoma Pulmonar Avanzado",
+    "description": "Equipo oncológico discute protocolo de quimioterapia multimodal",
+    "context": "Sala de oncología donde oncólogo médico, radio-oncólogo y enfermera oncóloga discuten el caso de carcinoma pulmonar no microcítico estadio IIIB. Debaten sobre pembrolizumab más quimioterapia neoadyuvante, radioterapia conformacional 3D, y posibles toxicidades del docetaxel y ciclofosfamida. El paciente y su familia escuchan atentamente mientras suena el monitor de signos vitales.",
+    "participants": ["Oncólogo", "Radio-oncólogo", "Enfermera", "Paciente", "Familiar"],
+    "target_duration": 240,
+    "difficulty_level": "hard",
+    "language": "es",
+    "domain": "oncology"
+  }
+]

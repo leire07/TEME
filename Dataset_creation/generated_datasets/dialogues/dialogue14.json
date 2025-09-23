@@ -1,0 +1,176 @@
+{
+  "scenario_id": "consulta_dermatitis_contacto_01",
+  "title": "Consulta Atención Primaria - Dermatitis de contacto",
+  "context": "Paciente hombre con erupción cutánea y prurito tras uso de suavizante nuevo. Se diagnostica dermatitis de contacto.",
+  "turns": [
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Buenos días, ¿qué le trae por la consulta?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Doctor, tengo unas manchas rojas en los brazos y las piernas que me pican muchísimo. Llevo así una semana y cada vez está peor.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Déjeme ver... Quítese la manga, por favor. ¿Ha usado algún producto nuevo últimamente? ¿Detergente, crema, perfume...?",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Pues sí, cambié de suavizante hace unos diez días. Compré uno nuevo que olía muy bien, pero no sé si puede ser eso.",
+      "duration_estimate": 7.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Es muy probable que sea eso. Veo que tiene una dermatitis de contacto típica. Las lesiones son muy características: enrojecimiento, pequeñas vesículas y descamación. ¿Lo ve?",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí. ¿Es grave? Es que me pica tanto que no puedo ni dormir por las noches.",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "No es grave, pero sí muy molesto. Es una reacción alérgica al suavizante nuevo. Lo primero que debe hacer es dejar de usarlo inmediatamente y lavar toda la ropa con el detergente que usaba antes.",
+      "duration_estimate": 11.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Ya lo dejé ayer, pero sigue picando igual.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Normal, la piel necesita tiempo para recuperarse. Le voy a dar dos tratamientos: uno tópico y otro oral. Para la piel, aplíquese crema de Betametasona al 0.05%, una fina capa en las zonas afectadas dos veces al día.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y eso me va a quitar el picor?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, es un corticoide tópico que reduce la inflamación y el picor. Pero úselo solo en las zonas con lesiones y no más de una semana seguida.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y para el picor mientras tanto? Es que por las noches es horrible.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Para eso le doy un antihistamínico oral. Tome Loratadina de 10 miligramos, un comprimido cada 24 horas, preferiblemente por la noche porque puede dar un poco de sueño.",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Cuánto tiempo tengo que tomarlo?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Unos cinco días debería ser suficiente. Entre la crema y las pastillas, en tres o cuatro días debería empezar a notar alivio.",
+      "duration_estimate": 7.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Puedo ducharme normalmente?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, pero con agua tibia, no caliente, y use un jabón neutro. Nada de geles perfumados ni esponjas. Después de la ducha, séquese sin frotar y aplique la crema.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y si me rasco?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Trate de no hacerlo porque puede empeorar las lesiones e infectarse. Si le pica mucho, póngase compresas frías en la zona o dé palmaditas suaves en lugar de rascar.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿En cuánto tiempo se me quitará del todo?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si evita el contacto con el suavizante y sigue el tratamiento, en una semana debería estar mucho mejor. La piel puede tardar hasta dos semanas en normalizarse completamente.",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y cómo sé qué productos puedo usar sin que me den alergia?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Use productos hipoalergénicos y sin perfumes. Si quiere cambiar de detergente o suavizante, hágalo de uno en uno y observe si le sale algo. También puede probar primero en una pequeña zona de piel.",
+      "duration_estimate": 11.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Tengo que volver?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Solo si en una semana no mejora o si empeora. Si aparecen ampollas grandes, supuración o fiebre, venga antes. Pero creo que con el tratamiento se va a quedar bien.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Perfecto, doctor. Muchas gracias.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Seguro que pronto se encuentra mejor. Recuerde, betametasona dos veces al día, loratadina por las noches, y nada del suavizante nuevo.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 502,
+    "turn_count": 27,
+    "avg_turn_length": 18.59259259259259
+  },
+  "estimated_total_duration": 167.40000000000003,
+  "generated_at": "2025-09-22T16:58:46.925561Z"
+}

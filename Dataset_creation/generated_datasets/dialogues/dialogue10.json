@@ -1,0 +1,248 @@
+{
+  "scenario_id": "consulta_fractura_radio_01",
+  "title": "Consulta Traumatología - Fractura de radio distal",
+  "context": "Paciente mujer con fractura de radio distal tras caída en bicicleta. Se indica tratamiento con férula y posterior escayola.",
+  "turns": [
+    {
+      "speaker": "Traumatólogo",
+      "text": "Buenas tardes, he visto la radiografía que le han hecho. Pase y siéntese, por favor. ¿Puede contarme exactamente qué le ha pasado?",
+      "duration_estimate": 7.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Me he caído de la bicicleta hace unas dos horas. Iba por el carril bici y un peatón se cruzó de repente. Para evitarlo frené muy fuerte y salí volando por encima del manillar. Instintivamente puse las manos para frenar la caída y sentí un crack horrible en la muñeca derecha.",
+      "duration_estimate": 17.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Entiendo. ¿Ha perdido el conocimiento en algún momento? ¿Se ha golpeado la cabeza?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, no me desmayé. Me golpeé un poco la rodilla y el hombro, pero lo que más me duele es la muñeca. Es un dolor muy fuerte y no puedo moverla nada.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Veo que ya le han puesto hielo y una férula provisional. ¿El dolor ha mejorado algo desde que llegó?",
+      "duration_estimate": 6.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Un poco, sí, pero sigue siendo muy intenso. Como punzadas constantes. Y mire cómo se me ha hinchado.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Sí, efectivamente está muy inflamada. Bueno, le doy la noticia directamente: tiene una fractura de radio distal. Es el hueso que va del codo a la muñeca, en la parte del pulgar. Se ve claramente en la radiografía.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Una fractura? ¿Eso significa que tengo el hueso roto?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Exacto. Concretamente es lo que llamamos una fractura de Colles, muy típica en caídas donde se apoya la mano extendida para frenar. La buena noticia es que no está desplazada, los fragmentos están bien alineados.",
+      "duration_estimate": 11.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y eso qué significa? ¿Necesito operación?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "No, no va a necesitar cirugía. Al estar bien alineada la podemos tratar de forma conservadora con una escayola. Pero sí va a necesitar llevarla unas 6 semanas aproximadamente.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Seis semanas? ¿Y para el dolor qué puedo tomar? Porque ahora mismo es insoportable.",
+      "duration_estimate": 4.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Para el dolor le voy a prescribir Tramadol de 50 miligramos. Tome una cápsula cada 6-8 horas según necesite, pero no exceda de 4 al día. Es un analgésico bastante fuerte que le va a aliviar bien.",
+      "duration_estimate": 12.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y si el tramadol no me funciona?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "También puede combinarlo con ibuprofeno. Tome 600 miligramos de ibuprofeno cada 8 horas, siempre con comida. El ibuprofeno además de quitar dolor reduce la inflamación, que en su caso va a ser muy útil.",
+      "duration_estimate": 11.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Cuándo me van a poner la escayola?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Ahora mismo. Vamos a esperar que baje un poco más la inflamación, así que le voy a poner primero una férula de yeso durante una semana. Luego volverá y le pondremos la escayola definitiva.",
+      "duration_estimate": 11.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y mientras tanto qué cuidados debo tener?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Lo más importante: mantenga la muñeca elevada por encima del nivel del corazón siempre que pueda, especialmente cuando duerma. Póngase varias almohadas debajo del brazo. Esto es fundamental para que baje la hinchazón.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Puedo mojar la férula?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "No, para nada. Debe mantenerla completamente seca. Para ducharse, envuélvala con una bolsa de plástico y átela bien en el antebrazo. Si se moja, puede aflojarse y perder la sujeción.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y puedo mover los dedos?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Sí, es muy importante que mueva los dedos frecuentemente para evitar que se pongan rígidos. También puede mover el hombro y el codo normalmente. Lo único que no puede mover es la muñeca.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Disculpe, trabajo con ordenador todo el día. ¿Voy a poder trabajar?",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Va a ser complicado las primeras semanas. ¿Es usted diestro?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, y justo me he roto la mano derecha.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Entonces va a tener que adaptarse. Al principio, con el dolor y la inflamación, le va a costar mucho. Le recomiendo que pida unos días de baja laboral, al menos la primera semana. Luego ya verá cómo evoluciona.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Cuándo tengo que volver?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Tiene cita para control en una semana. Ahí le haremos otra radiografía para ver cómo va evolucionando la fractura y le cambiaremos a la escayola definitiva. Pero si antes nota que los dedos se le ponen azules, blancos, o siente hormigueo, venga inmediatamente.",
+      "duration_estimate": 14.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Eso puede pasar?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Es poco frecuente, pero puede ocurrir si la férula queda demasiado apretada con la inflamación. También si nota que el dolor empeora mucho de repente, en lugar de ir mejorando día a día.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y después de las 6 semanas ya podré hacer vida normal?",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "Bueno, cuando le quitemos la escayola tendrá que hacer rehabilitación. La muñeca va a estar rígida y débil después de tanto tiempo inmóvil. Con fisioterapia, en unas 4-6 semanas más debería recuperar casi toda la movilidad y fuerza.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Puedo conducir con la férula?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "No es recomendable, especialmente al principio. Necesita las dos manos para manejar con seguridad. Cuando tenga ya la escayola y menos dolor, podrá intentarlo, pero siempre trayectos cortos y viendo cómo se siente.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Una última pregunta: ¿puede quedarme alguna secuela?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "En fracturas como la suya, que no están desplazadas y se tratan bien, la recuperación suele ser excelente. Puede que note alguna molestia ocasional con los cambios de tiempo, pero debería recuperar toda la funcionalidad. Lo importante es que siga todas las indicaciones y haga bien la rehabilitación.",
+      "duration_estimate": 16.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto. Muchas gracias por explicármel.",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Traumatólogo",
+      "text": "De nada. Ahora vamos a ponerle la férula. Recuerde, elevación, medicación según le he dicho, mantener seco, mover los dedos, y si hay cualquier problema, no dude en venir. La enfermera le dará el informe y las recetas antes de irse.",
+      "duration_estimate": 13.7,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 856,
+    "turn_count": 39,
+    "avg_turn_length": 21.94871794871795
+  },
+  "estimated_total_duration": 285.29999999999995,
+  "generated_at": "2025-09-22T16:28:32.862797Z"
+}

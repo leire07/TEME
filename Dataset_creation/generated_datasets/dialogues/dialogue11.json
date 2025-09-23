@@ -1,0 +1,206 @@
+{
+  "scenario_id": "consulta_intestino_irritable_01",
+  "title": "Consulta Atención Primaria - Síndrome de intestino irritable",
+  "context": "Paciente hombre con dolor abdominal recurrente y alteraciones digestivas. Se diagnostica síndrome de intestino irritable.",
+  "turns": [
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Buenos días, ¿qué le sucede?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Vengo porque llevo ya como tres semanas con dolor de barriga que va y viene. No es algo que me impida hacer vida normal, pero me tiene preocupado porque no se me quita.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Entiendo. ¿Puede describirme mejor ese dolor? ¿Dónde lo nota exactamente?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Pues lo noto aquí, en el centro y un poco hacia la izquierda. Es como un dolor sordo, a veces se vuelve más intenso, como calambres. Y he notado que me molesta más cuando como.",
+      "duration_estimate": 11.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Ha notado cambios en el ritmo intestinal? ¿Diarrea, estreñimiento...?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, últimamente voy más suelto, como tres o cuatro veces al día. Y algunas veces he visto como mucosidad en las heces.",
+      "duration_estimate": 7.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Ha tenido estrés últimamente? ¿Cambios en la rutina, trabajo, familia...?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Pues sí, la verdad. Empecé un trabajo nuevo hace un mes y he estado bastante nervioso. Duermo peor y como más deprisa y a deshoras.",
+      "duration_estimate": 8.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Ya veo. ¿Ha perdido peso? ¿Ha tenido fiebre?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Peso no he perdido, y fiebre no he tenido. Lo que sí noto es que me hincho mucho después de comer, como si tuviera gases.",
+      "duration_estimate": 8.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Déjeme palparle el abdomen... A ver, relájese. ¿Le duele aquí? ¿Y aquí?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Ahí sí me duele un poco, pero no es terrible.",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Por los síntomas que me describe y la exploración, parece que tiene lo que llamamos síndrome del intestino irritable. Es muy frecuente en situaciones de estrés y cambios en el estilo de vida.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Eso es grave?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "No, no es grave en absoluto, pero sí molesto. Es un trastorno funcional, es decir, el intestino funciona de manera irregular pero no hay ninguna lesión. Suele relacionarse mucho con el estrés y la ansiedad.",
+      "duration_estimate": 11.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y qué puedo hacer?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Vamos a empezar con cambios en la dieta y un medicamento para regular el tránsito intestinal. Le voy a recetar Trimebutina de 200 miligramos. Tome una cápsula tres veces al día, antes de las principales comidas.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y eso me va a quitar los síntomas?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "La trimebutina ayuda a regular los movimientos del intestino y debería reducir tanto el dolor como la diarrea. En cuanto a la dieta, evite las comidas muy grasas, picantes, el café y los lácteos durante unos días a ver cómo se encuentra.",
+      "duration_estimate": 14.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Puedo comer de todo lo demás?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, pero mastique despacio y coma en horarios regulares. Aumente la fibra soluble: avena, manzana, plátano maduro. Y muy importante: trate de gestionar el estrés. ¿Hace algún ejercicio?",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "La verdad es que no, con el trabajo nuevo no he tenido tiempo.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Intente al menos caminar 30 minutos al día. El ejercicio suave ayuda mucho con el intestino irritable y también para el estrés. Si puede, pruebe técnicas de relajación.",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿En cuánto tiempo debería notar mejoría?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Con la medicación y los cambios dietéticos, en una o dos semanas debería empezar a encontrarse mejor. Si en 15 días no mejora nada, vuelva para valorar otros tratamientos.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y si empeoro?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si aparece fiebre, sangre en las heces, o el dolor se vuelve muy intenso, venga inmediatamente. Pero por lo que me cuenta, no creo que vaya a empeorar.",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Una cosa más: ¿puedo tomar algo para los gases? Me molestan mucho.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, puede tomar simeticona después de las comidas si le molestan mucho. La encuentra en cualquier farmacia sin receta. Y recuerde: coma despacio y evite las bebidas con gas.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Perfecto, doctor. ¿Cuándo tengo que volver?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "En dos semanas, para ver cómo evoluciona. Mientras tanto, medicación, dieta suave, ejercicio y tranquilidad. Verá como se va encontrando mejor.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Muchas gracias, doctor. Me quedo más tranquilo sabiendo que no es nada grave.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "neutral"
+    }
+  ],
+  "metadata": {
+    "word_count": 587,
+    "turn_count": 32,
+    "avg_turn_length": 18.34375
+  },
+  "estimated_total_duration": 195.50000000000003,
+  "generated_at": "2025-09-22T16:50:00.459246Z"
+}
