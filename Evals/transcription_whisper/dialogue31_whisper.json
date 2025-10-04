@@ -1,0 +1,119 @@
+{
+  "scenario_id": "cardiologia_02",
+  "title": "Consulta de cardiología - Dolor torácico y control de tensión",
+  "context": "Consulta de cardiología remitida desde hospital de Inca",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a empezar la consulta. Es la primera vez que vienes, tienes 47 años y vienes remitido desde el hospital de Inca."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. ¿Eres alérgico a algún medicamento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, no soy alérgico y no tomo medicación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Tienes intolerancia a algún alimento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fumas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Alcohol? ¿Alguna cerveza?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Poco."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, consumo ocasional. ¿Alguna enfermedad conocida?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, casi nunca voy al médico."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Alguna cirugía?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Antecedentes familiares de enfermedad grave o muerte precoz?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No antes de los 50. Mi abuelo murió del corazón, pero más mayor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. ¿Por qué te derivan aquí?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me dijeron que tenía el corazón un poco grande. A veces siento como aire que se mete en el pecho. Me duele mucho y se me encogen las costillas. Ese dolor aparece cuando, a veces al respirar profundo, al estornudar o tras no comer bien. También últimamente me duele una pierna, aunque creo que puede ser por ejercicio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces es un dolor torácico, no claramente relacionado con el esfuerzo, más bien posicional. ¿Cuánto suele durar?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Un par de minutos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Con el esfuerzo, como subir escaleras, tienes molestias?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, aunque si me cuelgo de una barra o hago fuerza con el brazo, sí aparece el dolor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, parece un dolor más bien músculo esquelético y posicional. ¿Analítica reciente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hace menos de seis meses."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Vamos a revisarte. Respira profundo. Bien. La tensión está en 150-100 milímetros de mercurio, bastante alta. Te voy a pedir un mapa de tensión, monitorización ambulatoria de presión arterial, que mide la tensión cada media hora de día y cada hora de noche. Si sale alta, será hipertensión. También te pediremos analítica de sangre y orina. Para ello, debes venir en ayunas 12 horas el mismo día que te coloquemos el mapa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entonces, vengo aquí otra vez."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, todo se hace aquí. Llegas a las 8 de la mañana, te haces la analítica y luego te colocamos el mapa. Además, te pediremos un ecocardiograma basal y un ecocardiograma de esfuerzo para valorar la función y válvulas del corazón en reposo y con ejercicio. ¿De acuerdo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, organizamos las citas y seguimos con los resultados."
+    }
+  ]
+}

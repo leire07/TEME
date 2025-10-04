@@ -1,0 +1,95 @@
+{
+  "scenario_id": "digestivo_02",
+  "title": "Consulta de digestivo - Gastroenteritis aguda",
+  "context": "Paciente con diarrea, fiebre leve y vómitos tras posible intoxicación alimentaria",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Qué le ocurre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Desde ayer tengo diarrea. He ido al baño como ocho veces. Además, me duele la barriga. Y me siento débil."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido fiebre o vómitos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, un poco de fiebre, treinta y ocho grados. Y he vomitado un par de veces. Sobre todo anoche."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha comido algo fuera de lo normal los últimos días?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El domingo comí en un restaurante. No sé si fue eso, porque desde el día siguiente estoy mal."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Alguien más que comiera con usted se puso enfermo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, mi pareja también estuvo con diarrea, pero más leve."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Ha podido beber líquidos o los vomita enseguida?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Agua y un poco de infusión. Eso sí lo tolero."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a explorarlo. Tiene la tensión un poco baja, 105/65, pulso 92. La tripa suena mucho, típica de gastroenteritis, pero no hay signos de apendicitis ni nada que requiera urgencias. Esto es una gastroenteritis aguda, probablemente viral o por alimento contaminado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué debo hacer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo más importante es hidratarse. Le voy a recetar sobres de sales de rehidratación oral que debe disolver en agua e ir tomando a lo largo del día a pequeños sorbos. También puede beber agua, caldos suaves o infusiones, pero evite bebidas con gas o alcohol."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En cuanto a la comida, haga una dieta blanda: arroz, zanahoria cocida, pan tostado, banana madura, manzana rallada. Evite fritos, lácteos, café y comidas muy grasientas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para la fiebre o dolor abdominal puede usar paracetamol, pero evite ibuprofeno porque irrita más el estómago. No le voy a dar antibiótico porque la mayoría de gastroenteritis son víricas y se curan solas en unos días."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cuánto suele durar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo normal es que en dos a cuatro días empiece a mejorar. Si en una semana sigue igual, habría que hacer pruebas. Y muy importante: si ve sangre en las heces, la fiebre sube mucho, no puede beber nada o se marea al levantarse, debe acudir de inmediato a urgencias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si mejora, no hace falta volver. Si empeora, sí."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted, cuídese mucho y que se recupere pronto."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "scenario_id": "neumologia_05",
+  "title": "Consulta de neumología - Bronquitis aguda",
+  "context": "Paciente con tos persistente postcatarral y diagnóstico de bronquitis aguda sin signos de neumonía",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué le pasa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vengo porque desde hace casi una semana tengo tos muy fuerte. Al principio era seca, pero ahora ya saco bastante flema. A veces me cuesta hasta dormir."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido fiebre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Los primeros dos días sí, unos 38 grados, pero ya no. Solo me siento cansado y sigo con la tos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Tiene dolor en el pecho o sensación de ahogo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Un poco de presión cuando toso mucho, pero puedo respirar bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fuma?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, unos cinco cigarrillos al día, aunque intento reducir."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso no ayuda. Conviene que lo deje, sobre todo en episodios como este."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, ya me lo han dicho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La exploro. Vale, los pulmones se escuchan con algunos ruidos bronquiales, pero no hay signos de neumonía. La saturación está bien y no hay fiebre ahora mismo. Esto es una bronquitis aguda, que suele aparecer tras un catarro."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y necesita antibiótico?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, en la mayoría de los casos la bronquitis aguda es causada por virus y los antibióticos no sirven. Lo que necesita es tratamiento para los síntomas. Le voy a recetar un jarabe para la tos con expectorante para ayudar a expulsar las flemas y paracetamol si vuelve la fiebre o el dolor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También es importante beber bastante agua, descansar y evitar el tabaco, al menos mientras dure el cuadro."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, intentaré no fumar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en los próximos días nota que la fiebre regresa, que el dolor en el pecho empeora o que le falta el aire, entonces sí debe volver a consulta, porque habría que descartar una neumonía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La tos puede durar incluso dos o tres semanas, aunque se encuentre bien, eso es normal. Lo importante es que poco a poco vaya mejorando y no se complique."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Nos vemos si no mejora en 10 días o antes si empeora."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, gracias doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted, que se mejore pronto."
+    }
+  ]
+}

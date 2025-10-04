@@ -1,0 +1,115 @@
+{
+  "scenario_id": "cardiologia_11",
+  "title": "Consulta por dolor torácico (sospecha de síndrome coronario)",
+  "context": "Paciente con dolor torácico de esfuerzo reciente, hipertensión conocida y episodios de disnea al esfuerzo; evaluación inicial en cardiología",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días. Desde ayer tengo un dolor en el pecho que aparece cuando camino rápido o subo escaleras. Hoy ha sido más fuerte y me he asustado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ha hecho bien en venir."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Podría describirme el dolor?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es opresivo, punzante, se irradia a algún sitio. Es más bien como una presión, como si me apretaran el pecho. A veces me sube al cuello y al brazo izquierdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Tiene antecedentes de hipertensión, colesterolanto o diabetes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, soy hipertenso desde hace años y tomo en el abril 10 miligramos al día. El colesterol lo tengo un poco alto, pero no tomo nada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. ¿Fuma o ha fumado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, fumo unos 10 cigarrillos diarios desde hace más de 20 años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso también es un factor de riesgo. Voy a tomarle la tensión y escuchar su corazón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Su tensión está algo elevada. 155-95 milímetros de mercurio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El ritmo cardíaco es regular, pero por seguridad vamos a hacer un electrocardiograma ahora mismo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cree que puede ser un infarco?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No lo sabemos todavía, pero necesitamos descartar una angina de pecho o un síndrome coronario agudo. El electro y una analítica con marcadores cardíacos nos ayudarán."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y mientras tanto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mientras tanto le administraremos ácido acetilsalicílico 300 miligramos por vía oral para reducir el riesgo de coagulación y monitorización cardíaca."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien. Lo que usted diga."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido mareos, sudor frío o sensación de falta de aire?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, esta mañana cuando subí escaleras sentí que me faltaba el aire y sudé mucho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso refuerza la sospecha. Si el dolor empeora aquí, avísenos inmediatamente. También podríamos administrarle nitroglicerina sublingual, 0,4 miligramos si reaparece el dolor opresivo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Esa medicina es peligrosa?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, en general es segura. Pero puede bajar la tensión. Por eso la administramos bajo control."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si los resultados salen mal?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si confirman un síndrome coronario lo ingresaremos en la unidad de cardiología para valorar un cateterismo. Es un procedimiento que nos permite abrir la arteria obstruida. Necesitará medicación para controlar la TA y, según los resultados de laboratorio, el colesterol. Pero es fundamental que deje de fumar, controlar la presión y mejorar la dieta. La medicación es una parte del tratamiento, pero su estilo de vida es clave."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Lo entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, vamos a empezar ya con el ácido acetilsalicílico 300 miligramos, después haremos el electro y la analítica, en función de los resultados decidiremos el siguiente paso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias por explicármelo todo tan claro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada, cuídese."
+    }
+  ]
+}

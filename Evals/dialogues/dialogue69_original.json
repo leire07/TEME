@@ -1,0 +1,105 @@
+{
+    "scenario_id": "geriatria_03",
+    "title": "Consulta de geriatría - Revisión de polimedicación",
+    "context": "Consulta externa de geriatría",
+    "turns": [
+      {
+        "speaker": "Geriatra",
+        "text": "Buenos días, ¿cómo se encuentra?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bien en general, pero me noto mareada a veces, y creo que son tantas pastillas que ya no sé cuál me sienta bien y cuál no.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Vamos a repasarlas una por una. ¿Me dice qué toma a diario?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Pues por la mañana tomo la pastilla para la tensión, la del colesterol, una para el estómago y el omeprazol. Al mediodía la del azúcar, y por la noche otra para dormir. En total creo que son siete u ocho.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Ya veo. Le reviso el listado: enalapril para la tensión, atorvastatina para el colesterol, omeprazol, metformina para la diabetes, lorazepam por la noche, y además aspirina por el corazón.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, esas son.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "El problema es que a veces tantas medicinas juntas aumentan los efectos secundarios. Por ejemplo, el lorazepam puede causar mareos y aumentar el riesgo de caídas. Y el omeprazol, tomado tanto tiempo, puede dar déficit de vitamina B12 y calcio.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vaya… y yo llevo años con ellos.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "No se preocupe, lo vamos a organizar. Mi propuesta: mantenemos el enalapril, la metformina y la atorvastatina, porque son necesarios. El omeprazol lo podemos suspender y dejarlo solo si reaparecen molestias de estómago. Y el lorazepam vamos a ir reduciéndolo poco a poco hasta retirarlo, para evitar mareos.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y qué tomo para dormir entonces?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Lo ideal es mejorar la higiene del sueño: horarios fijos, evitar pantallas por la noche, y si hace falta podemos usar melatonina de liberación prolongada, 2 mg antes de dormir, que es más segura.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale, lo intentaré.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Además, añadiremos vitamina D diaria para proteger los huesos. Y la voy a citar en tres meses para revisar cómo va el sueño y la tensión.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo, doctor.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Perfecto, menos pastillas y mejor calidad de vida.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 640,
+      "turn_count": 15,
+      "avg_turn_length": 20.5
+    },
+    "estimated_total_duration": 180.0,
+    "generated_at": "2025-09-25T07:10:00Z"
+  }
+  

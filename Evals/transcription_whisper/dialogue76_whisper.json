@@ -1,0 +1,111 @@
+{
+  "scenario_id": "neurologia_02",
+  "title": "Consulta de neurología - Migraña con aura",
+  "context": "Consulta externa por cefaleas recurrentes compatibles con migraña con aura",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿cómo se encuentra?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Regular, doctor. Vengo porque tengo dolores de cabeza muy frecuentes, casi todas las semanas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Cuénteme, ¿cómo son esos dolores?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es un dolor fuerte, como un latido, normalmente en un lado de la cabeza. A veces me da náusea y no soporto la luz. Tengo que encerrarme en la habitación a oscuras."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cuánto suelen durar?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entre un día y dos. He tenido meses con tres o cuatro crisis largas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha notado algún síntoma previo, como destellos de luz, visión borrosa o cosquilleo en la cara o el brazo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, a veces antes del dolor veo como lucecitas en zigzag y sé que después viene la migraña."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso corresponde a un aura migrañosa. ¿Qué medicación toma ahora cuando le aparece la crisis?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo paracetamol o ibuprofeno, pero casi nunca me hace efecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Cuando la crisis ya está avanzada, esos fármacos suelen ser insuficientes. Le voy a recetar un tratamiento específico: Sumatriptán 50 miligramos en pastilla, que debe tomar al inicio del dolor. Si no cede, puede repetir una segunda dosis a las dos horas, máximo dos al día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso corta el dolor más rápido?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto, suele funcionar muy bien si se toma a tiempo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y para prevenir? Porque me dan muy seguido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Justo, cuando hay más de cuatro crisis al mes conviene un tratamiento preventivo. En su caso empezaremos con propranolol 40 miligramos dos veces al día. Ayuda a reducir la frecuencia e intensidad de las migrañas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y es de por vida?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No necesariamente. Lo usaremos unos meses y si mejora podemos retirarlo. Además de la medicación, hay factores desencadenantes que debe vigilar: estrés, falta de sueño, exceso de café, alcohol o cambios hormonales."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le recomiendo llevar un diario de migrañas apuntando cuándo aparece, cuánto dura y qué pudo desencadenarla."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Eso me ayudará a darme cuenta porque a veces no sé por qué me vienen."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. También es importante mantener horarios regulares de sueño y comidas, hidratarse bien y hacer ejercicio moderado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, mi sueño es bastante irregular."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ahí tiene una clave. Mejor dormir siempre entre 7 y 8 horas, a la misma hora. Y si nota que una crisis empieza, además del sumatriptán, póngase en un ambiente tranquilo, sin ruido ni luz."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, lo intentaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: Sumatriptán para las crisis, propranolol diario como preventivo, llevar diario de migrañas, cuidar sueño e hidratación. Lo citaré en tres meses para ver si la frecuencia disminuye."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, vamos a intentar que estas migrañas dejen de condicionar su vida diaria."
+    }
+  ]
+}

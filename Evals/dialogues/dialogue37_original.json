@@ -1,0 +1,165 @@
+{
+    "scenario_id": "cardiologia_12",
+    "title": "Consulta de cardiología - Resultados de TAC coronario y Holter",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Hola, ¿cómo andas?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bien, bien.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Espera un segundo, voy a revisar tu caso. Te vi el primero de agosto: tienes 54 años, sin factores de riesgo, y viniste por un episodio de dolor en el pecho. Te pedimos un TAC de coronarias, un Holter y un ecocardiograma. Hoy vienes para ver los resultados.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, para resultados.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale. ¿Qué tal el dolor?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Al final resultó que era del músculo del pecho, el pectoral.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Claro, entonces era molestia muscular. Vamos a ver el TAC.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "El TAC muestra coronarias en buen estado: la derecha y la descendente posterior sin lesiones; el tronco de la coronaria limpio; en la descendente anterior tienes plaquitas pequeñas de colesterol; y una rama intermedia con una placa calcificada muy pequeña. No es raro a tu edad. La aorta no está dilatada, mide 34 mm. El calcio score es de 59: por debajo de 100 se considera riesgo bajo.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y una persona joven cuánto tiene?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Cero. Mira, aquí se ven los puntitos blancos, esos son depósitos de calcio. Son mínimos y las arterias no están estrechas, porque con el contraste las vemos por dentro y están permeables.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿No están estrechas, entonces?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No, nada. Eso confirma que el dolor era muscular y que el riesgo de infarto es bajo si te cuidas.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y cómo me cuido para que no vaya a más?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Mantener el colesterol bajo, controlar la tensión, hacer ejercicio y seguir dieta mediterránea. Las plaquitas no desaparecen, pero lo importante es que no crezcan.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "El Holter también está normal: ritmo sinusal todo el tiempo, frecuencia mínima 47, media 70, máxima 108. Sin arritmias ni pausas. Todo muy bien.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Mira, aquí en la descendente anterior tenías esa plaquita pequeñita, y otra en otro punto, pero muy leves. Esto azul es una vena, lo rojo es una arteria. Esta grande es la aorta, y de ahí salen las coronarias. Esta es la circunfleja, esta la descendente y aquí la coronaria derecha.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entonces es una plaquita pequeña, nada más.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Exacto, nada preocupante.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Y las arterias que van a la cabeza, ¿se pueden mirar también?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Esas no hace falta, no son las que se tapan. Lo que se trata son las coronarias, y si se estrechan, se colocan stents.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, esos tubitos pequeñitos, de 3 o 4 mm.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso es. Cuando se estrechan mucho y quedan de apenas 1 mm, el corazón sufre para bombear y entonces hay que ponerlos.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Tengo un amigo que estaba bien, pero cuando empezaba a caminar o subir cuestas se cansaba mucho y le pusieron un stent.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 670,
+      "turn_count": 25,
+      "avg_turn_length": 26.8
+    },
+    "estimated_total_duration": 210.0,
+    "generated_at": "2025-09-24T22:00:00Z"
+  }
+  

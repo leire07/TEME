@@ -1,0 +1,237 @@
+{
+    "scenario_id": "cardiologia_15",
+    "title": "Consulta de cardiología - Hipertensión, antecedentes familiares y control de taquicardias",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a repasar tu historial.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Creo que te vi hace un año, ¿no?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, más de un año.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale. Entonces, eres hipertenso moderado, sin alergias, sin diabetes, pero con colesterol alto. ¿Sigues tomando una cerveza al día?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Más o menos, sí.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Y nunca has fumado, ¿verdad?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "No, nunca.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Tu padre falleció de un infarto y tu madre también es hipertensa.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, de hecho hace poco, con 60 años, le dio un infarto. Tuvo una trombosis, se cayó, se golpeó la cabeza y le salió sangre en el cerebro. Ahora está recuperándose, aunque al principio no podía ni moverse.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso es muy delicado.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Veo que estás con Ixia Plus 40/12,5 mg y con eso tu tensión se controla bien. El eco salió normal y te puse revisión ahora. ¿Cuándo fue la última analítica?",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Hace unos cuatro meses, en una clínica cerca de casa.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Y cómo salió?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Tenía el ácido úrico un poco alto y también el azúcar, pero ya lo bajé. El colesterol lo tenía controlado.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, pero lo del azúcar hay que revisarlo bien, para descartar diabetes.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Cómo estás de tensión?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bien, la tengo controlada, normalmente 120 y a veces 130, pero muy ocasional.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto. Y me decías que a veces tienes taquicardias. ¿Cuándo te pasan?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "A veces con el ejercicio, tumbado o cuando me preocupo. Creo que sobre todo después de beber alcohol.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso es muy común, incluso puede provocar arritmias si tomas bastante. ¿Sueles tener resaca?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, alguna que otra.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces esas palpitaciones seguramente se deban al alcohol. Pero si aparecen en otras circunstancias, hay que mirarlo.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Llevas ya un año sin control, así que te vamos a pedir analítica completa, holter de 24 horas, prueba de esfuerzo y ecocardiograma. Así lo revisamos todo.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Voy a tomarte la tensión y auscultarte.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, hay que prevenir. Ya no bebo como antes.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Tomar algo ocasional no pasa nada, pero si es muy seguido sí que hace daño.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Toma aire profundo… suelta… otra vez… muy bien. Los pulmones están bien ventilados, no hay ruidos. El corazón está rítmico, aunque tienes un soplo leve en el foco mitral (grado 2/6). Nada grave, pero lo compararemos con el eco. La tensión hoy está en 130/85.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale. Por cierto, mi tío también lo operaron hace poco del corazón. Es que en mi familia hay mucho de esto.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, parece que hay una predisposición genética al colesterol.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Antes era muy fiestero, todos los fines de semana, dos días seguidos. Ahora ya no, desde que supe lo de la tensión.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Claro, eso ayuda mucho. ¿Y en qué trabajas?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "En la construcción.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien, aunque supongo que aquí en España el trabajo es más exigente.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, llevo 15 años aquí. En Colombia era distinto: allí se trabaja más relajado, aquí es todo por contrato y hay que correr. Eso también me genera estrés.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entiendo. ¿Y la última vez que fuiste al médico en tu país?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Fue complicado. Tuve un dolor en la espalda, fui a urgencias privadas y me hicieron esperar 4 horas. Al final firmé para irme y solo me recetaron paracetamol. La salud allá está saturada, no hay médicos suficientes.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Ya veo. Bueno, aquí lo revisaremos todo y nos aseguraremos de que estés controlado.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 980,
+      "turn_count": 36,
+      "avg_turn_length": 27.2
+    },
+    "estimated_total_duration": 310.0,
+    "generated_at": "2025-09-24T23:00:00Z"
+  }
+  

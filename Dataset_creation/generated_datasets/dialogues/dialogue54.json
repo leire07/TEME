@@ -1,0 +1,129 @@
+{
+    "scenario_id": "neumologia_02",
+    "title": "Consulta de neumología - EPOC con triple terapia",
+    "context": "Consulta externa de neumología",
+    "turns": [
+      {
+        "speaker": "Neumólogo",
+        "text": "A ver, repasemos un poco. El último año tuviste varias crisis, ¿verdad?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, tres. Dos veces con pastillas y una vez me ingresaron unos días.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Eso es. Y sobre todo en invierno, con mucha flema.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, ahí es cuando peor lo paso, me ahogo mucho y saco esputo espeso.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Bueno, en la prueba de hoy se ve que el pulmón está bastante limitado, no es de los grados leves. Eso explica que te canses tanto. Pero lo más importante es que dejaste el tabaco, ¿no?",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, hace seis meses.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Perfecto, eso es lo mejor que podías hacer. Ahora, como sigues teniendo crisis, vamos a cambiar el tratamiento. Te voy a recetar un inhalador nuevo que combina tres medicamentos en uno: broncodilatadores y corticoide. Se llama triple terapia. Tienes que tomar dos inhalaciones por la mañana y dos por la noche, todos los días.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale. ¿Y el otro inhalador azul?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Ese lo sigues teniendo de “rescate”, el salbutamol. Una o dos inhalaciones cuando notes que te falta aire de repente, y nada más.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entendido. ¿Y para la flema?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Te voy a dar un mucolítico, la acetilcisteína 600 mg, una pastilla cada 12 horas en las semanas que tengas más secreciones. Además, mucha agua y, si puedes, ejercicios respiratorios para ayudar a expulsarla.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bien, porque a veces siento que se me queda pegada.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Claro. Y si notas un empeoramiento fuerte, con fiebre o mucho más ahogo, vienes enseguida. No esperes a que se pase.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Te tomo la tensión y el oxígeno… vale, 95% de oxígeno en reposo, está correcto. El pulmón se escucha que le cuesta un poco al aire salir (una espiración prolongada), pero sin ruidos agregados ahora mismo.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, hoy estoy bastante bien.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Perfecto. Entonces, plan: inhalador de triple terapia mañana y noche, salbutamol solo si hace falta, acetilcisteína cuando tengas más flema, y mantener ejercicio suave y vacunas al día. Te cito en dos meses para ver cómo vas.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Muy bien, gracias.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "De nada, seguimos adelante.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 960,
+      "turn_count": 19,
+      "avg_turn_length": 33.8
+    },
+    "estimated_total_duration": 270.0,
+    "generated_at": "2025-09-25T03:25:00Z"
+  }
+  

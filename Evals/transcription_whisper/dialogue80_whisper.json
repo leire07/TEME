@@ -1,0 +1,91 @@
+{
+  "scenario_id": "neumologia_02",
+  "title": "Consulta de neumología - EPOC moderado",
+  "context": "Revisión de paciente exfumador con diagnóstico de EPOC moderado",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿cómo estás?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, aunque sigo con mucha tos y me cuesta subir cuestas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Desde cuándo notas más ahogo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Desde hace meses. Pensaba que era por la edad, pero ahora incluso caminando despacio me falta el aire."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Sigues fumando?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, lo dejé hace casi un año. Fumé más de 30 años, pero ya nada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es lo mejor que podías haber hecho, te felicito. Mira, la espirometría que hicimos muestra que tienes EPOC moderado. Es decir, el pulmón ya no ventila como debería. Por eso toses y te ahogas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso se cura?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No se cura, pero podemos controlarlo. Te voy a recetar un inhalador con dos broncodilatadores. Se llama LAMA-LABA. Lo usas una inhalación por la mañana y otra por la noche, todos los días. Eso ayudará a abrir los bronquios y respirar mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y el inhalador azul?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ese lo sigues teniendo de rescate, solo si de repente notas mucho ahogo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. ¿Y la tos con flema?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puedes ayudarte con un mucolítico, acetilcisteína, 600 miligramos, una vez al día, en las épocas en que tengas más secreciones. Y sobre todo, bebe bastante agua."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además de la medicación, lo más importante es mantenerte activo. Camina todos los días, aunque sea despacio. Y si puedes, haz ejercicios respiratorios. También revisa que tengas las vacunas de gripe y neumonía al día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, la de la gripe me la pongo todos los años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. En cuanto a alimentación, evita ganar peso de más, porque eso también hace trabajar al pulmón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entendido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Plan: inhalador doble cada día, salbutamol solo si lo necesitas, mucolítico en épocas de más flema, ejercicio suave y vacunas al día. Te veo en tres meses para ver cómo vas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, gracias doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A ti, lo importante es que ya dejaste el tabaco, eso es lo que más alarga la vida en el EPOC."
+    }
+  ]
+}

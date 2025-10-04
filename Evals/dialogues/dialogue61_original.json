@@ -1,0 +1,117 @@
+{
+    "scenario_id": "oncologia_03",
+    "title": "Consulta de oncología - Diagnóstico de cáncer de pulmón no microcítico",
+    "context": "Consulta externa de oncología",
+    "turns": [
+      {
+        "speaker": "Oncólogo",
+        "text": "Hola, ¿cómo te encuentras hoy?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "La verdad, un poco nervioso… me dijeron que la mancha en el pulmón podía ser mala y no he dormido nada.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Entiendo tu preocupación. Vamos a repasarlo juntos. Te hicieron un TAC de tórax y, en efecto, se ve un nódulo en el pulmón derecho. La biopsia que realizamos confirma que se trata de un cáncer de pulmón no microcítico, que es la forma más frecuente.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Eso es muy grave?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Depende de la extensión. En tu caso, por las pruebas que tenemos, el tumor está en el pulmón pero no parece que se haya extendido a otros órganos. Eso es positivo porque nos da margen de tratamiento.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y qué se hace ahora?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Lo primero es la cirugía para quitar el lóbulo del pulmón donde está el tumor. Después, según lo que encontremos en el análisis de la pieza, veremos si necesitas quimioterapia complementaria para reducir el riesgo de recaída.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y me quedo sin medio pulmón?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "No, se quita solo el lóbulo afectado. Aunque te quedes con menos capacidad pulmonar, la mayoría de personas se adapta bien y puede hacer vida normal, sobre todo si no fumas.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Dejé el tabaco hace tres meses.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Muy bien, eso es fundamental. Para que llegues en las mejores condiciones a la cirugía, te voy a recetar un broncodilatador inhalado que usarás cada mañana, y también ejercicios de fisioterapia respiratoria. Eso te ayudará a fortalecer el pulmón.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Además, como sigues con tos, puedes usar jarabe de codeína por la noche si te impide dormir.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Gracias, porque esa tos no me deja descansar.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Entonces, plan: programar la cirugía, empezar con el broncodilatador diario, usar jarabe para la tos si es necesario y mantenerte sin tabaco. Cuando tengamos la pieza operada, veremos si necesitas quimio.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale, doctor. ¿Puedo seguir trabajando hasta la operación?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Sí, siempre que no hagas esfuerzos muy grandes. Lo importante es que llegues lo más fuerte posible.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 910,
+      "turn_count": 17,
+      "avg_turn_length": 34.5
+    },
+    "estimated_total_duration": 265.0,
+    "generated_at": "2025-09-25T05:20:00Z"
+  }
+  

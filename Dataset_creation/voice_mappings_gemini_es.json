@@ -51,7 +51,7 @@
     "speaker_name": "Neurólogo",
     "voice_id": "Sadaltager",
     "voice_name": "Sadaltager",
-    "voice_description": "Voz conocedora con acento español peninsular para neurólogos"
+    "voice_description": "Voz conocedora con acento español peninsular de Madrid."
   },
   {
     "speaker_name": "Residente",
@@ -114,10 +114,10 @@
     "voice_description": "Voz pareja con acento español peninsular para anestesiólogos"
   },
   {
-    "speaker_name": "Perfusionista",
+    "speaker_name": "Geriatra",
     "voice_id": "Iapetus",
     "voice_name": "Iapetus",
-    "voice_description": "Voz clara con acento español peninsular para perfusionistas"
+    "voice_description": "Voz clara con acento español peninsular de Madrid."
   },
   {
     "speaker_name": "Endocrinólogo",
@@ -141,13 +141,13 @@
     "speaker_name": "Reumatólogo",
     "voice_id": "Vindemiatrix",
     "voice_name": "Vindemiatrix",
-    "voice_description": "Voz gentil con acento español peninsular para reumatólogos"
+    "voice_description": "Voz gentil con acento español peninsular de Madrid."
   },
   {
     "speaker_name": "Neumólogo",
     "voice_id": "Enceladus",
     "voice_name": "Enceladus",
-    "voice_description": "Voz respiratoria con acento español peninsular para neumólogos"
+    "voice_description": "Voz respiratoria con acento español peninsular de Madrid."
   },
   {
     "speaker_name": "Intensivista",

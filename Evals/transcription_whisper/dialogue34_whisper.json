@@ -1,0 +1,67 @@
+{
+  "scenario_id": "cardiologia_07",
+  "title": "Consulta de cardiología - Revisión con estenosis aórtica",
+  "context": "Paciente con fibrilación auricular y estenosis aórtica en seguimiento",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, vienes a revisión. La vez pasada estuvimos mirándote. Eres hipertenso, tienes una insuficiencia mitral moderada, una disfunción diastólica grado 2 y una fibrilación auricular permanente. Estás anticoagulado con ACOTS, tomas heliquis y amlodipino. Te hicimos el ecocardiograma. En el informe aparecía una hipertrofia excéntrica, la fracción de eyección normal, 60-65%, el ventrículo derecho funcionaba normal, la válvula órtica muy calcificada y aparentemente bicúspide con un RAFE, tenía un gradiente máximo de 51, medio de 29, velocidad 3,5 y un área de 1,5 centímetros cuadrados, eso corresponde a una estenosis moderada. La válvula mitral sólo con calcificación leve, las demás válvulas bien. También hicimos el holter, salió fibrilación auricular con extrasístoles ventriculares frecuentes, un 13% del trazado. Multifocales. No hubo taquicardias. Creo que te pedimos también analítica, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, analítica y ecocardiograma otra vez."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ah, vale, lo tengo aquí. Es de junio. ¿Y por qué te plantearon operarte?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me lo dijeron, pero de momento no parece necesario."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a revisar la analítica. Hemoglobina 13,5, hematocrito 40, leucocitos 7,000, plaquetas 234,000, glucosa 119, un poco alta, creatinina 0,8, filtrado 90, todo normal, electrolitos bien, perfil hepático normal, probé NP 840, algo elevado, pero en tu contexto lo consideramos aceptable. En resumen, la analítica está bien. El eco repetido está igual. ¿Estenosis aórtica moderada en reposo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Claro, yo en reposo estoy bien, no me acelera el corazón ni tengo dolor. El problema es cuando hago más esfuerzo, ahí me fatigo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, pero cuando alguien se fatiga así, con tu tipo de problema, suele ser porque la estenosis es severa en reposo y también con el esfuerzo. No cambia. Puede que tengas una estenosis de bajo gradiente y para confirmarlo hay que hacer una prueba especial, un ecocardiograma con dobutamina."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es solo para la prueba?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, la medicación es solo para la prueba. Te la ponemos para que el corazón lata con más fuerza y más rápido y vemos cómo se comporta la válvula. Si con el esfuerzo suben mucho las presiones, confirmamos que es estenosis severa. Ese mismo día te vas a casa, pero como la prueba tiene su riesgo, se hace en la UCI. Aquí tienes el consentimiento informado. Léelo y si estás de acuerdo lo firmas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. ¿Te ha visto también neumología?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me hicieron espirometría y TAC con la doctora Antonia."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, sé quién es. Entonces sería como darme un chute para acelerar el corazón y ver cómo responde."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto, y todo bajo vigilancia. Primero pedimos autorización a tu aseguradora y después te darán la cita."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, ¿me la dan ahora o después?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Primero tramitan la autorización, luego te citan."
+    }
+  ]
+}

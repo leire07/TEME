@@ -1,0 +1,153 @@
+{
+    "scenario_id": "neurologia_03",
+    "title": "Consulta de neurología - Revisión por epilepsia",
+    "context": "Consulta externa de neurología",
+    "turns": [
+      {
+        "speaker": "Neurólogo",
+        "text": "Buenos días, ¿cómo se encuentra?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bastante bien, aunque hace dos meses tuve una crisis y me asusté un poco, porque llevaba tiempo sin ninguna.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Cuénteme cómo fue.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Estaba en casa, sentado, y de repente noté como un mareo raro y luego perdí la conciencia. Mi pareja me dijo que estuve unos segundos con movimientos en los brazos. Después me quedé muy cansado y con dolor de cabeza.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "¿Recuerda cuánto tiempo había pasado desde la última crisis?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Más de un año.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Perfecto. Está tomando levetiracetam 500 mg cada 12 horas, ¿verdad?",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, siempre lo tomo, no me salto ninguna dosis.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Muy bien. La analítica y el electroencefalograma que le hicimos el mes pasado están dentro de lo esperado. Puede que la crisis haya sido por falta de sueño o estrés. ¿Cómo estaba esos días?",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Justo había dormido mal y estaba muy nervioso en el trabajo.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Eso lo explica. En muchos PacienteMujers el estrés, el cansancio y el alcohol son desencadenantes habituales. ¿Consume alcohol?",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Muy poco, solo alguna cerveza el fin de semana.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Perfecto, eso no suele ser problema.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Tengo que cambiar la medicación?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "De momento, no. Lo importante es seguir con el levetiracetam a la misma dosis y vigilar. Solo si aparecieran más crisis en los próximos meses, ajustaríamos la dosis o valoraríamos otro fármaco.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Está bien. ¿Y puedo seguir conduciendo?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Según la normativa, tras una crisis conviene suspender la conducción durante al menos seis meses sin nuevos episodios. Lo anotaremos en su informe.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo, lo entiendo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Le aconsejo mantener horarios de sueño regulares, evitar el alcohol en exceso y no saltarse nunca la medicación. También es útil llevar un registro con la fecha y circunstancias de cada crisis, si aparece otra.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Lo haré, así tengo controlado todo.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Muy bien. Entonces, plan: continuar con levetiracetam, mejorar descanso y hábitos, no conducir de momento, y revisión en tres meses. Si hay una nueva crisis antes, venga de inmediato.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto, doctor.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Está evolucionando bien, solo tenemos que mantener la regularidad para evitar recaídas.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 890,
+      "turn_count": 23,
+      "avg_turn_length": 16.7
+    },
+    "estimated_total_duration": 245.0,
+    "generated_at": "2025-09-25T13:20:00Z"
+  }
+  

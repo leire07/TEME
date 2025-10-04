@@ -1,0 +1,75 @@
+{
+  "scenario_id": "neurologia_01",
+  "title": "Consulta de neurología - Deterioro leve de la memoria",
+  "context": "Consulta de neurología para evaluación y manejo de trastorno cognitivo leve",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "¡Buenos días! ¿Cómo se encuentra?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, aunque últimamente se me olvidan muchas cosas, cosa que no me pasaba de normal, y eso me preocupa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Qué tipo de cosas nota que se le olvidan más?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sobre todo citas, nombres de gente, y a veces no recuerdo dónde dejo las llaves o las gafas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿Ha llegado a perderse en la calle o desorientarse en qué día está?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, eso no. Todavía me ubico bien, pero noto que no estoy como antes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Revisé sus pruebas de memoria y la resonancia. Los resultados muestran un deterioro leve de la memoria, que puede ser el inicio de un problema de la memoria más acusado, aunque todavía está en fase temprana."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso significa que voy a perder la memoria del todo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No necesariamente. Evoluciona distinto en cada persona. Lo importante es que podemos actuar desde ahora para frenar la progresión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué puedo hacer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a empezar con un medicamento llamado Donepecilo, 5 miligramos, una pastilla por la noche, que ayuda a mejorar la memoria y la atención. Además, es fundamental mantener rutinas claras, ejercicio suave y estimulación mental. Leer, crucigramas, juegos de memoria..."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También revisaremos la medicación que toma para otras enfermedades, porque algunos fármacos pueden empeorar la memoria. Y haremos una analítica para descartar déficit de vitamina B12 o problemas de tiroides."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Plan: iniciar donepecilo, controles periódicos, analítica completa y fomentar actividad física y mental. Nos vemos en tres meses para valorar evolución."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Vamos a acompañarle en este proceso."
+    }
+  ]
+}

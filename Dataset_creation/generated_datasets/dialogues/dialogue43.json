@@ -1,0 +1,159 @@
+{
+    "scenario_id": "cardiologia_18",
+    "title": "Consulta de cardiología - Revisión de fibrilación auricular crónica",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, entonces vamos a repasar tu historial. Tienes 73 años, hipertensión, colesterol alto, diabetes y una fibrilación auricular crónica.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Tomas Edoxabán 60 mg, Bisoprolol 2,5 mg, Losartán 100 mg, Amlodipino 5 mg, Atorvastatina 40 mg, Caduet y Dutasterida.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien. ¿Cómo te has encontrado?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bien, con la tensión controlada y el azúcar también.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Cuándo fue tu última analítica?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "La tengo que hacer el 17 de noviembre para llevar al endocrino. Y en diciembre tengo otra para el urólogo, por la operación de próstata que tuve.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Después de esa operación tuve problemas con coágulos. La cirugía salió perfecta, pero al despertar estuve horas sacando coágulos, fue muy duro. Me pusieron más de 50 inyecciones en la tripa hasta que pasé a la medicación oral.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, eso es doloroso, pero ahora estás estable.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a explorarte. Respira hondo… suelta… otra vez… Vale. Los pulmones están bien ventilados, el corazón arrítmico como es habitual en la fibrilación auricular, pero sin soplos. La tensión muy bien: 120/80, frecuencia cardíaca 77.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "A veces me sube un poco la tensión, a 15/9.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No pasa nada si la mayoría del tiempo está bien. Puede influir la alimentación o nervios puntuales.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Te hicimos un ecocardiograma. El resultado: fracción de eyección normal, aurícula izquierda algo dilatada, válvula aórtica con calcificación moderada, válvula mitral normal. El ritmo de base es fibrilación auricular, sin cambios respecto al eco de 2023.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "O sea, lo tengo todo bien.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, está igual que el año pasado. Seguimos igual.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Lo que me pasa es que por la noche me levanto cada dos horas a orinar.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No es por diuréticos, porque no tomas. Lo que ocurre es que al estar tumbado la sangre llega mejor al riñón y orinas más. Si bajas algo de peso, puede mejorar.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Ah, ya.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces todo está estable. Te propongo que nos veamos una vez al año, mientras sigas así.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 670,
+      "turn_count": 24,
+      "avg_turn_length": 27.9
+    },
+    "estimated_total_duration": 180.0,
+    "generated_at": "2025-09-25T00:00:00Z"
+  }
+  

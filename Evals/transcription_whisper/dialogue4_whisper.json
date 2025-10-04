@@ -1,0 +1,107 @@
+{
+  "scenario_id": "urologia_03_variant",
+  "title": "Consulta por dolor en flanco derecho (texto con errores preservados)",
+  "context": "Versión del diálogo sobre dolor en costado derecho / sospecha de cólico renal; el texto original contiene errores ortográficos y de puntuación que se conservan aquí.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenas. Llevo todo el día con un dolor muy fuerte en el costado derecho. Me empezó de repente esta mañana y cada vez va a más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Ha tenido fiebre, vómitos o algún otro síntoma acompañante?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hace unas horas tuve náuseas y he vomitado una vez. También me he notado algo de fiebre, pero no la he medido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Bien? ¿Ha tenido problemas renales, infecciones urinarias o cálculos en el pasado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "no que yo recuerde nunca me han diagnosticado piedras en el riñón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Voy a explorarle el abdomen."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Noto dolor en la zona lumbar derecha, la palpación, bastante localizado. Eso podría estar relacionado con un cólico renal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No necesariamente, pero sí muy doloroso y requiere tratamiento. Para control del dolor vamos a administrarle ahora mismo un antiinflamatorio. Ibuprofeno 600mg vía oral si puede tolerarlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Más adelante, si no mejora, podemos valorar analgesia e intravenasa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, gracias La verdad es que el dolor esso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo sé. Después de darle la medicación le haremos una analítica de orina y una ecografía abdominal para confirmar si se trata de un cálculo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si es un cálculo? ¿Qué pasa?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La mayoría de las veces los cálculos pequeños se expulsan solos. Le recetaré analgésicos para casa y un fármaco para ayudar a relajar la musculatura de las vías urinarias. También es fundamental beber bastante agua, unos 2 litros al día si no tiene contraindicaciones."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si la piedra es grande?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si supera cierto tamaño, normalmente más de 7 milímetros, puede que necesite un procedimiento para fragmentarla o extraerla. Pero eso lo decidiríamos con el urólogo según los resultados."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Qué puedo tomar en casa si me vuelvo el dolor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede tomar paracetamol un gramo cada ocho horas o ibuprofeno, siempre que no tenga problemas gástricos ni renales previos. Le voy a recetar ambas opciones y le explicaré cómo alternarlas si el dolor es muy intenso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y los vomitos?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si persisten, podemos darle medicación antiemética aquí en urgencias y si lo necesita en casa, se la prescribiré en pastillas, pero muchas veces pegan al controlar el dolor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien. ¿Cuándo debe volver?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si tiene fiebre alta, escalofríos, incapacidad total para orinar o un dolor que no mejora con la medicación, debe volver inmediatamente. También le citaré con urología para seguimiento en los próximos días."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto doctor, gracias por la atención."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Vamos a empezar con el ibuprofeno 600 miligramos ahora y después seguimos con las pruebas."
+    }
+  ]
+}

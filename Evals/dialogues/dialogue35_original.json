@@ -1,0 +1,291 @@
+{
+    "scenario_id": "cardiologia_10",
+    "title": "Consulta de cardiología - Asma, hipertensión y control del tratamiento",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Buenos días, ¿cómo has estado?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bueno, pues ahí andamos, haciendo pruebas. He estado con el neumólogo y me ha mandado varias cosas. Le traigo el informe para que lo vea.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, enséñamelo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Este es el de hace poco.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Ajá, veo… Bueno, aquí está lo del neumólogo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí. También me ha pedido una prueba del sueño, pero de momento está para diciembre. A ver si la pueden adelantar, porque está saturado.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, suele haber mucha demora.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Leo lo que pone: asma bronquial moderada, hipertensión, hipercolesterolemia, infecciones urinarias de repetición, reflujo gastroesofágico, alteraciones tiroideas con episodios de hiper e hipotiroidismo, osteopenia y problemas cervicales.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Para el asma, estás con Flutiform.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, Flutiform 250/10. Me han subido la pauta. Antes lo usaba solo cuando notaba que me bajaba el aire, pero ahora me ha dicho que lo tome de forma rutinaria, mañana y noche, porque dura 12 horas.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso es lo correcto, hay que tomarlo siempre.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, lo empecé ayer. Y me quieren repetir la espirometría en seis meses para ver si funciona esta pauta o hay que cambiar de estrategia.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale. Y además estás con Lioceral por la noche, Atorzet para el colesterol…",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, ese me lo cambiaron. Antes tomaba Alista, pero ya no me bajaban los valores, siempre se quedaban en 218. Por eso me pusieron Atorzet.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien. ¿Y el enalapril para la tensión?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Tomo uno por la mañana, de 5 mg.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Hay que tomarlo mañana y noche.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "A mí solo me dijeron por la mañana.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No, debe ser cada 12 horas, si no, no hace efecto.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Pues es que también me mandaron otro porque retenía líquidos, y me bajaba tanto la tensión que parecía que iba borracha todo el día. Por eso me da miedo mezclar cosas.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Tranquila, no pasa nada. No se va a juntar.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale. Yo lo digo porque no quiero ir como borracha otra vez.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Otra opción es cambiarte a lisinopril, que se toma una sola vez al día.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bueno, si es más cómodo, me da igual.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Es la misma potencia, solo que dura más tiempo. Te hago la receta de lisinopril 5 mg.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sobre el colesterol, tenías 218 de LDL. Eso lo comprobaremos con la próxima analítica.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí. Y en el TAC de tórax me dieron una buena noticia: me descartaron el EPOC. En otras ocasiones me habían dicho que podía tenerlo, pero ahora no.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "El EPOC se diagnostica con la espirometría. Si sale negativa, no lo tienes. Tú lo que tienes es asma, no EPOC.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, asma sí, pero no sabía la diferencia.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "El EPOC es por fumar y no mejora con inhaladores. El asma sí mejora.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Ah, vale, entendido.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "También pone que debes bajar de peso y caminar.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, pero con las tiroides es complicado. Como muy poco, hasta el digestivo me lo dijo. Lo que para otros es un entrante, para mí es la comida. Procuro evitar frituras, pero como de todo. A la noche ceno un panecillo pequeño, a veces con un poco de embutido o queso.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No soy de picar, solo a veces una cerveza o un vino cuando salgo. Pero no hago excesos.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto. Esta es la analítica. La guardo en tu historia.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, lo pongo todo junto para no perderlo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a tomarte la tensión… 129/90, frecuencia 72.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Ahora está estupenda, porque a veces pasa de 10.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, está bien. Te veo tranquila.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces, por ahora nos vemos con el resultado de la polisomnografía.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Qué es eso?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "La prueba del sueño, la que vienes a dormir.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Ah, vale. Aquí me pone la dosis y para qué es, ¿verdad?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, lisinopril, para la tensión, una vez al día.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 930,
+      "turn_count": 47,
+      "avg_turn_length": 19.8
+    },
+    "estimated_total_duration": 300.0,
+    "generated_at": "2025-09-24T21:25:00Z"
+  }
+  

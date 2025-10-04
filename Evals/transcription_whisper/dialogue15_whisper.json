@@ -1,0 +1,147 @@
+{
+  "scenario_id": "lumbalgia_ciática_01",
+  "title": "Lumbalgia con ciática tras esfuerzo (dolor lumbar irradiado a pierna derecha)",
+  "context": "Paciente con 3 días de lumbalgia tras esfuerzo (mudanza), irradiación a pierna derecha compatible con ciática. Tratamiento conservador: AINE, relajante muscular, actividad moderada y seguimiento.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué le ocurre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es que tengo un dolor de espalda horrible desde hace tres días. Me duele aquí abajo, en la zona lumbar, y se me irradia hacia la pierna derecha."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Recuerda haber hecho algún movimiento brusco o esfuerzo? ¿Cómo empezó el dolor?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, el lunes estuve ayudando a mi hijo a mudarse. Cargué cajas pesadas y muebles. Al final del día ya notaba molestias, pero el martes me levanté y no me podía ni mover."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿El dolor baja por toda la pierna o solo hasta cierto punto?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me baja hasta la rodilla más o menos. Y por las mañanas es cuando peor estoy. Casi no me puedo levantar de la cama."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido problemas de espalda antes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, de vez en cuando me duele, pero nunca tan fuerte como ahora. Y nunca me había bajado por la pierna."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Déjeme explorarle. Túmbese aquí boca arriba. ¿Le duele si le levanto la pierna así? ¿Y así?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ahí sí. Ahí me duele mucho. Como un tirón muy fuerte."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por lo que veo, tiene una lumbalgia conciática. El dolor que baja por la pierna indica que hay compresión del nervio ciático, probablemente por una contractura muscular o una pequeña protrusión discal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es grave? ¿Necesito alguna prueba?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De momento no es grave. Si no mejora en unas semanas, ya valoraremos hacer una resonancia. Pero la mayoría de lumbalgias se resuelven bien con tratamiento conservador."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué tratamiento me va a dar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le voy a recetar un antiinflamatorio y un relajante muscular. Para el dolor, tome diclofenaco de 50 miligramos cada 8 horas con las comidas. Y para la contractura, ciclobenzaprina de 10 miligramos por la noche antes de acostarse."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y la ciclobenzaprina me dará sueño?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, es normal que de somnolencia. Por eso se toma por la noche. No conduzca ni maneje maquinaria si nota que está adormilado durante el día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y debo hacer reposo absoluto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, eso es un error muy común. El reposo absoluto empeora la lumbalgia. Debe mantenerse activo, pero evitando esfuerzos y movimientos bruscos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entonces, ¿puedo caminar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, caminar es muy bueno. Empiece con paseos cortos y vaya aumentando según se vaya encontrando mejor. También puede aplicarse calor en la zona con una manta eléctrica o bolsa de agua caliente."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cuándo debería empezar a encontrarme mejor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En 4 o 5 días debería notar mejoría con la medicación. El dolor de la pierna suele ser lo primero en mejorar. El dolor lumbar puede tardar una o dos semanas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y puedo trabajar? Trabajo en una oficina."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Depende de cómo se encuentre. Si puede estar sentado sin mucho dolor, puede trabajar, pero levántese cada hora para caminar un poco. Evite estar más de 30 minutos en la misma posición."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y debo dormir de alguna manera especial?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Duerma de lado con una almohada entre las piernas o boca arriba con una almohada debajo de las rodillas. Evite dormir de boca abajo porque fuerza mucho la columna."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cuándo puedo volver a hacer esfuerzos normales?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuando esté sin dolor. Pero cuando vuelva a cargar peso, hágalo siempre doblando las rodillas, no la espalda. Y evite cargar más de 10 kilos las próximas semanas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Necesito fisioterapia?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en 15 días sigue con molestias, le derivaré al fisioterapeuta. Pero muchas veces se resuelve solo con medicación y actividad moderada."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cuándo tengo que volver si no mejoro?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en una semana no nota nada de mejoría o si el dolor empeora mucho, vuelva. También si aparece hormigueo en la pierna, pérdida de fuerza o problemas para controlar esfínteres."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, doctor. Espero que se me pase pronto porque esto es muy incómodo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Seguro que sí. Debe mantenerse activo sin forzar, calor local y posiciones correctas para dormir y sentarse."
+    }
+  ]
+}

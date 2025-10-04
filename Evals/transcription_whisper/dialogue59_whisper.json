@@ -1,0 +1,83 @@
+{
+  "scenario_id": "oncologia_03",
+  "title": "Consulta de oncología - Diagnóstico de fibroadenoma mamario",
+  "context": "Paciente acude para revisión de resultados de pruebas mamarias; se confirma fibroadenoma benigno.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿cómo estás? Hoy tenemos ya los resultados de las pruebas que te pedimos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, estaba muy nerviosa. No he podido dormir bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal preocuparse, pero quédate tranquila. Las pruebas muestran que el bulto que tienes en la mama es benigno. Se trata de un fibroadenoma."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Entonces no es cáncer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, no lo es. Los fibroadenomas son tumores muy frecuentes en mujeres jóvenes. No tienen riesgo de transformarse en malignos y muchas veces ni siquiera crecen."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¡Qué alivio! Tenía mucho miedo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro. Entiendo tu angustia. Mira, en la mamografía y la ecografía se ve claramente que la lesión es redondeada, con bordes lisos y móviles, que son las características típicas de benignidad. Además, la biopsia con aguja lo confirma."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué tengo que hacer ahora? ¿Me lo quitan?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No siempre hace falta operar. Como no es grande y no da síntomas, lo más recomendable es vigilarlo con revisiones cada 12 meses y una ecografía si presenta cambios. Solo se quita si crece mucho o si empieza a doler."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Yo a veces siento un poco de molestia."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso puede pasar, sobre todo en los días previos a la regla. Si te duele, puedes tomar paracetamol 1 gramo cada 8 horas según necesidad y te receto también ibuprofeno 600 miligramos cada 12 horas después de las comidas para los días de más dolor, siempre que no tengas problemas de estómago."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Otra recomendación es llevar un sujetador firme que dé buen soporte, porque eso también disminuye la sensación de tirantez."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo. ¿Y si noto que crece?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces vuelves antes de la cita. Si aumenta de tamaño o cambia de forma, lo revisamos y valoramos la cirugía. Pero lo habitual es que se mantenga estable o incluso que desaparezca con el tiempo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ojalá."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Así que, plan: analgésico si hay dolor, sujetador adecuado, revisión en seis meses con ecografía y mientras tanto, vida normal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchísimas gracias. Me quedo mucho más tranquila."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Estás bien. Y lo más importante es que no hay nada maligno."
+    }
+  ]
+}

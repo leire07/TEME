@@ -1,0 +1,103 @@
+{
+  "scenario_id": "rehab_osteoarticular_01",
+  "title": "Dolor articular en rodillas y cadera (sospecha de artrosis)",
+  "context": "Paciente con semanas de dolor en rodillas y cadera, predominio con la actividad y rigidez leve matutina; manejo inicial conservador y solicitud de radiografías.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, doctor. Desde hace unas semanas noto dolor en las rodillas y en la cadera, sobre todo al levantarme o cuando camino mucho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿El dolor es constante o aparece solo con el movimiento? ¿Es más fuerte cuando me levanto por la mañana o después de estar un rato sentado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Luego mejora un poco, pero vuelves y camino bastante."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Ha tenido caídas, golpes o alguna fractura previa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, ninguna. Solo la típica molestia de la edad, pero ahora me preocupa porque cada vez es más frecuente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Toma alguna medicación habitual?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, en al april 10 miligramos al día para la tensión y sin bastatina 20 miligramos por la noche."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Por lo que describe, podría tratarse de un proceso articular degenerativo, como artrosis. ¿Ha notado rigidez matutina prolongada? ¿De más de media hora?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo un poco de rigidez, pero enseguida se me pasa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es la punta más artrosis que artritis inflamatoria. Para confirmarlo le pediré una radiografía de rodillas y cadera."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y mientras tanto, ¿qué puedo hacer para el dolor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede tomar paracetamol un gramo cada 8 horas, que es seguro como analgésico de base. Si no es suficiente y no tiene problemas gástricos, también puede usar ibuprofeno 600 mg cada 8 horas durante unos días, siempre después de las comidas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El ibuprofeno a veces me da un poco de ardor de estómago."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En ese caso mejor limitarlo y usarlo solo si el dolor es intenso. También puedo recetarle un protector gástrico, como Omeprazole 20 mg al día mientras tome antiinflamatorios."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y no hay algo más que no sea solo medicación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, de hecho es fundamental mantener un peso adecuado para reducir la carga en las articulaciones, además de realizar ejercicios suaves como natación o bicicleta estática, evitar actividades de alto impacto y puede aplicar calor local cuando haya rigidez."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Suelo caminar bastante. ¿Eso está bien?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, caminar es muy recomendable, siempre que lo haga a un ritmo cómodo y sin forzar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y la artrosis tiene cura?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, la artrosis es degenerativa, pero podemos controlar los síntomas y ralentizar su progresión. En casos avanzados la cirugía, como prótesis de rodilla o cadera, puede ser una opción, pero aún no estamos en ese punto."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien doctor, me quedo más tranquilo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, resumiendo, tomará paracetamol 1 g cada 8 horas como tratamiento de base. Si el dolor es intenso, puede usar ibuprofeno 600 mg tras las comidas, con omeprazol 20 mg diario para proteger el estómago. Además, haremos una radiografía y controlaremos la evolución en consulta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor. Muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Seguiremos de cerca su caso y ajustaremos el tratamiento según la evolución."
+    }
+  ]
+}

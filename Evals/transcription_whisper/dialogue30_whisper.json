@@ -1,0 +1,103 @@
+{
+  "scenario_id": "cardiologia_04",
+  "title": "Consulta de cardiología - Seguimiento extrasístoles ventriculares",
+  "context": "Revisión de paciente con extrasístoles ventriculares y tratamiento con visoprolol",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Bueno, entonces vamos a comenzar. La última vez que te vi fue en abril de 2024. Vienes ahora con el resultado del Holter, que mostró una alta densidad de extrasístoles ventriculares, 18%, aunque en la prueba de esfuerzo desaparecieron. En ese momento se indicó revisión a los nueve meses con ecocardiograma y valorar un nuevo Holter. ¿Has vuelto a sentir palpitaciones?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, no las he sentido. Alguna vez de forma aislada, pero muy poco."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Entonces, de momento no notas síntomas. Fuiste a tu médica de cabecera, te hice un electro y por eso te derivaron aquí, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, exactamente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Estás tomando visoprolol 2,5 miligramos, correcto?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, medicación para artrosis, calcio, condroitín sulfato, glucosamina y algún suplemento para la circulación, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. No tomas medicación para colesterol ni para diabetes. ¿Alergias a medicamentos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo intolerancia a gramíneas y olivo y bronquitis asmática."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Qué inhalador utilizas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Foster, pero no lo uso siempre. Lo empiezo cuando refresca el tiempo, en otoño, y también en primavera porque sé que tendré crisis."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El Foster, beclometasona más formoterol, debes usarlo todos los días porque es tratamiento preventivo. El salbutamol, ventolín, solo en crisis."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, lo tomaré diariamente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por lo demás, ¿te has sentido bien?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, aunque me fatigo en cuestas, pero desde hace tiempo no ha empeorado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. No duermes con varias almohadas, no te despiertas con falta de aire ni has tenido dolor en el pecho, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Vamos a revisarte. Respira profundo. Muy bien. Los pulmones están bien ventilados, sin ruidos agregados. El corazón está rítmico, sin soplos. La tensión arterial está en 114-63 milímetros de mercurio. Y la frecuencia cardíaca en 56 latidos por minuto."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿No es muy baja? Antes solía tener 70-80."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, está bien. El visoprolol baja un poco la frecuencia, pero también protege al corazón y reduce las extrasístoles. Hoy en la auscultación no se detectan."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El plan es repetir Holter de 24 horas y ecocardiograma para ver cómo evolucionas con el tratamiento."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tendré que tomar visoprolol toda la vida?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, porque presentas muchas extrasístoles. Es importante mantener el tratamiento."
+    }
+  ]
+}

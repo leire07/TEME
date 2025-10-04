@@ -1,0 +1,141 @@
+{
+    "scenario_id": "traumatologia_01",
+    "title": "Consulta de traumatología - Artrosis de rodilla",
+    "context": "Consulta externa de traumatología",
+    "turns": [
+      {
+        "speaker": "Traumatólogo",
+        "text": "Buenos días, ¿qué le trae hoy por aquí?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vengo por dolor en la rodilla derecha. Llevo meses con molestias, pero últimamente me duele incluso al caminar despacio.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Entiendo. ¿Ese dolor aparece más con el esfuerzo o también en reposo?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sobre todo al subir o bajar escaleras, al levantarme de la silla y cuando camino mucho rato. Por la noche a veces también me molesta.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "¿Ha notado que la rodilla se le hinche o que cruje al moverla?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, cruje bastante y a veces se me queda como rígida.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Vale. Le exploro: la rodilla está algo inflamada, tiene limitación de movimiento y al moverla se nota crepitación. Las radiografías que le hicieron muestran desgaste del cartílago, lo que llamamos artrosis de rodilla.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y eso tiene cura?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "La artrosis no se cura, pero podemos mejorar mucho el dolor y la movilidad. El primer paso es perder algo de peso si puede, porque cada kilo de más multiplica la carga sobre la rodilla. Además, el ejercicio suave, como caminar en llano o nadar, ayuda a mantener el músculo fuerte.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Ya, pero a veces me duele tanto que no puedo ni caminar.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Para esos momentos, puede tomar paracetamol 1 g cada 8 horas. Si no es suficiente, añadiremos ibuprofeno 600 mg cada 12 horas después de las comidas, siempre que no tenga problemas de estómago. Y le recetaré un gel antiinflamatorio para aplicar localmente en la rodilla dos veces al día.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "También podemos hacer infiltraciones intraarticulares con corticoide si el dolor se hace más intenso y no mejora con medicación. Y a largo plazo, si la artrosis avanza mucho y limita demasiado, la opción es la prótesis de rodilla.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y eso sería operación?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Sí, pero solo cuando el dolor sea incapacitante y no responda a otros tratamientos. De momento no está en ese punto.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y el ejercicio?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Muy recomendable: ejercicios de fortalecimiento de cuádriceps, bicicleta estática sin resistencia, natación. Evite correr o saltar, que dañan más la articulación.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Entonces, plan: dieta para bajar algo de peso, ejercicio suave, medicación analgésica y antiinflamatoria cuando lo necesite, gel local, y revisamos en tres meses. Si en ese tiempo el dolor sigue fuerte, valoramos infiltraciones.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, doctor.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Muy bien, con estas medidas debería mejorar bastante la calidad de vida.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 860,
+      "turn_count": 21,
+      "avg_turn_length": 16.9
+    },
+    "estimated_total_duration": 250.0,
+    "generated_at": "2025-09-25T10:15:00Z"
+  }
+  

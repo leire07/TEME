@@ -1,0 +1,134 @@
+{
+  "scenario_id": "consulta_embarazo_01",
+  "title": "Consulta Atención Primaria - Revisión embarazo segundo trimestre",
+  "context": "Paciente mujer embarazada de 24 semanas en revisión rutinaria con síntomas leves de cansancio y dolor lumbar. Se revisa tratamiento y recomendaciones.",
+  "turns": [
+    {
+      "speaker": "PacienteMujer",
+      "text": "Buenos días, doctor. Estoy de 24 semanas de embarazo y quería la revisión de rutina, aunque últimamente tengo algo de cansancio y dolor lumbar.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Buenos días. Es normal sentir algo de cansancio y dolor lumbar en el segundo trimestre, pero vamos a revisarlo con detalle. ¿Ha tenido fiebre, sangrado, contracciones o dolor abdominal intenso?",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, nada de eso. Solo el dolor de espalda y algo de fatiga.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Perfecto. ¿Toma alguna medicación habitualmente o suplementos?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, ácido fólico 400 mcg diarios desde el inicio del embarazo y hierro 30 mg una vez al día.",
+      "duration_estimate": 6.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Muy bien. Voy a tomar su tensión, peso y auscultar el corazón y los pulmones… (pausa) Todo parece normal. La tensión está en 110/70 mmHg y la frecuencia cardíaca es regular.",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Me preocupa el dolor lumbar, ¿puedo tomar algo para aliviarlo?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, de forma segura en este trimestre puede usar paracetamol 500–1000 mg cada 6–8 horas, sin superar 4 g al día. Evite ibuprofeno o aspirina, ya que no son seguros en el embarazo.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Entiendo. ¿Y el cansancio?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "El cansancio suele deberse al aumento de volumen sanguíneo y cambios hormonales. Mantener actividad física moderada, descansar y alimentarse bien suele ayudar. Si el cansancio es excesivo o aparece mareo, palpitaciones o falta de aire, hay que valorarlo.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Puedo seguir con la dieta y el hierro?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, continúe con el hierro y el ácido fólico. Le recomiendo también alimentos ricos en proteínas y calcio, y mantener una buena hidratación.",
+      "duration_estimate": 7.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y la revisión del bebé?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Hoy haremos control de la tensión, peso y análisis rutinarios. En la próxima ecografía valoraremos crecimiento y bienestar fetal. También le recuerdo la importancia de vacunar contra la gripe y la tosferina si aún no lo ha hecho.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto. ¿Algo más que deba hacer?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Evite esfuerzos físicos excesivos, use calzado cómodo y apoye la espalda al levantar objetos. Si nota dolor abdominal intenso, sangrado o contracciones, acuda de inmediato a urgencias.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Está bien, doctor. Muchas gracias por la información.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "A usted. Resumiendo: paracetamol para dolor lumbar según necesidad, seguir con suplementos, dieta equilibrada, actividad moderada y control rutinario de embarazo.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "De acuerdo, lo haré.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Muy bien, nos vemos en la próxima revisión y recuerde avisar ante cualquier síntoma fuera de lo habitual.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 367,
+    "turn_count": 20,
+    "avg_turn_length": 18.35
+  },
+  "estimated_total_duration": 122.30000000000001,
+  "generated_at": "2025-09-24T10:25:48.172060Z"
+}

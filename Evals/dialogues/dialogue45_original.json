@@ -1,0 +1,183 @@
+{
+    "scenario_id": "cardiologia_20",
+    "title": "Consulta de cardiología - Ajuste de tratamiento por tensión baja",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bueno, yo me he tomado el Entresto y el Carvedilol.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Y me quitaste el Carvedilol y me pusiste el Aldactone, ese diurético.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "El Aldactone no actúa como diurético a la dosis que tú tomas, es más bien un protector del corazón.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Ah. Pues empecé a tomarlo como me dijiste, pero se me baja mucho la tensión, a veces no me llega ni a ocho.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, vamos a ver.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Me da miedo porque además sudo un montón y tengo dolores aquí, no sé si será por la tensión.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No, por tensión baja no, eso más bien lo daría la tensión alta. Además, en el cateterismo vimos que las coronarias estaban bien.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, pero estoy así.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "A ver, repasemos lo que tomas. Estás con la espironolactona, el Jardiance, el Lipocon, el Entresto y el Carvedilol, ¿no?",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, me tomo media de Carvedilol por la mañana y media por la noche.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien. Lo importante no es tanto el número de la tensión sino cómo te sientes. ¿Te mareas?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "A veces, sobre todo si me agacho.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Y tomas suficiente agua?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, orino claro.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto. Vamos a medirte la tensión. Respira… Vale, está bien.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Hoy sí, pero otros días la tengo muy baja y me suben las pulsaciones.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso pasa cuando reducimos el Carvedilol, la frecuencia sube un poco.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Es que con el Carvedilol me encontraba mejor.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Lo quitamos porque te mareabas, pero podemos volver a ajustarlo. Para verlo bien, lo mejor es hacer un MAPA de tensión, que es una máquina que te mide cada media hora de día y cada hora de noche. Así sabremos exactamente cómo se comporta tu tensión.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Además, recuerda que en julio el eco salió con el corazón ya normal, mucho mejor que antes. Por eso lo ideal es mantener la medicación que te ayudó a recuperarte.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Ya, pero el calor me afecta mucho, sudo demasiado.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Claro, en verano la tensión suele bajar, y si sudas mucho también pierdes líquidos. Cuando llegue el frío mejorarás.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entonces, ¿qué hago?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Volvemos a la dosis bajita de Carvedilol y mantenemos el resto igual. Hazte el MAPA y con eso vemos si hace falta cambiar algo más.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, con esa combinación yo me sentía mejor.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Pues seguimos así y controlamos.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 970,
+      "turn_count": 27,
+      "avg_turn_length": 35.9
+    },
+    "estimated_total_duration": 280.0,
+    "generated_at": "2025-09-25T00:40:00Z"
+  }
+  

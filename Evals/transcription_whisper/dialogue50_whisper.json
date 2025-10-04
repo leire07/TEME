@@ -1,0 +1,83 @@
+{
+  "scenario_id": "neurologia_02",
+  "title": "Consulta de neurología - Migraña con aura",
+  "context": "Paciente con cefaleas recurrentes de seis meses de evolución, compatibles con migraña con aura",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenas tardes. Vienes por dolores de cabeza, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Desde hace unos seis meses me dan unas crisis muy fuertes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuéntame cómo son esos dolores."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Son como punzadas en la sien izquierda. Me duran horas, a veces todo el día. Me molestan mucho la luz y los ruidos y si no me acuesto en una habitación oscura no aguanto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Te acompañan náuseas o vómitos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Casi siempre."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cada cuánto te dan esas crisis? ¿Y cuánto duran? Bien. ¿Has notado si empiezan con alguna señal previa, como visión borrosa, luces, hormigueo o dificultad para hablar?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. A veces me aparece una especie de luz brillante que me tapa parte de la vista durante unos 20 minutos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso se llama aura. Lo que describes es una migraña con aura. ¿Has probado algún tratamiento hasta ahora?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo paracetamol o ibuprofeno, pero casi nunca me hacen efecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. En estos casos, se suele pautar un tratamiento específico para cortar la crisis. Por ejemplo, con triptanes. Además, como tienes más de cuatro crisis al mes, conviene iniciar un tratamiento preventivo para reducir la frecuencia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso es de por vida?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No necesariamente. Lo probamos durante unos meses y si mejora, luego podemos retirarlo. Lo importante es que no afecte tanto a tu calidad de vida."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, me interesa porque cuando me dan me deja tirado todo el día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Vamos a pedir también una resonancia para descartar otras causas. Aunque con tu historia clínica, lo más probable es que sea migraña."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entretanto, evita los desencadenantes habituales: exceso de café, alcohol, falta de sueño, ayunos largos o estrés. Te doy pauta de triptanes para las crisis y un preventivo con topiramato en dosis baja. Lo revisamos en tres meses."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien. Gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Nos vemos en la próxima revisión."
+    }
+  ]
+}

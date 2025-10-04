@@ -1,0 +1,141 @@
+{
+    "scenario_id": "endocrinologia_04",
+    "title": "Consulta de endocrinología - Síndrome de ovario poliquístico (adaptado a PacienteHombre)",
+    "context": "Consulta externa de endocrinología",
+    "turns": [
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Buenos días, ¿qué tal estás?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Pues un poco preocupado… llevo meses con las reglas muy irregulares, a veces pasan dos o tres meses sin que me venga, y además me han salido muchos granos en la cara y algo de vello en la barbilla.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Entiendo. Eso es algo bastante frecuente. Ya revisé tu analítica y la ecografía, y lo que tienes es un síndrome de ovario poliquístico. ¿Habías oído hablar de él?",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, algo, pero no sé muy bien qué significa.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Te lo explico sencillo: en este síndrome los ovarios no maduran bien los óvulos, las hormonas se desequilibran y eso provoca reglas irregulares, aumento de vello, acné y, en algunas mujeres, dificultad para quedarse embarazadas.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y tiene tratamiento?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Sí. El tratamiento depende de lo que quieras priorizar. Por ejemplo, si ahora mismo no buscas embarazo, lo mejor es regular las hormonas con la píldora anticonceptiva combinada, que te ayudará a tener reglas regulares, mejorar el acné y disminuir el vello.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Pues de momento no quiero hijos, así que eso me vendría bien.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Perfecto. Además, por el análisis he visto que tienes la insulina algo alta, lo que es común en este síndrome. Por eso, además de la píldora, podemos usar metformina 850 mg, una pastilla al día después de la cena, para ayudar a que el cuerpo use mejor la insulina y prevenir diabetes en el futuro.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Tengo riesgo de diabetes?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Sí, el SOP aumenta un poco el riesgo, sobre todo si hay sobrepeso. Por eso también es clave cuidar la alimentación y hacer ejercicio. ¿Cómo llevas el peso?",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "He subido unos 8 kilos en los últimos dos años.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Eso influye mucho. Con una pérdida del 5–10% del peso ya mejorarían bastante los ciclos y los síntomas. Te recomiendo caminar cada día, reducir dulces y harinas, y aumentar verdura y proteína magra.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale, lo intentaré. ¿Y el vello de la cara se me quitará?",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Con la píldora suele mejorar, pero no desaparece de golpe. Para los pelos que ya tienes, puedes usar métodos como láser o depilación, y si en unos meses no mejora lo suficiente, valoramos añadir medicación antiandrogénica.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entiendo. ¿Y si en unos años quiero tener hijos?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Entonces cambiaremos la estrategia. Hay tratamientos específicos para inducir la ovulación cuando se busca embarazo. La buena noticia es que la mayoría de mujeres con SOP logran quedarse embarazadas con el tratamiento adecuado.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Me tranquiliza saberlo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Perfecto. Entonces, plan: píldora anticonceptiva diaria, metformina 850 mg al día, dieta y ejercicio para bajar algo de peso, y revisión conmigo en 3 meses con nueva analítica.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Muy bien, gracias doctor.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "De nada, verás cómo con esto los ciclos se regulan y te encuentras mucho mejor.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 1080,
+      "turn_count": 21,
+      "avg_turn_length": 35.7
+    },
+    "estimated_total_duration": 290.0,
+    "generated_at": "2025-09-25T06:15:00Z"
+  }
+  

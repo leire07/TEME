@@ -1,0 +1,87 @@
+{
+  "scenario_id": "embarazo_24s_revision_rutinaria_01",
+  "title": "Revisión obstétrica de 24 semanas — cansancio y dolor lumbar",
+  "context": "Gestante de 24 semanas que acude a revisión rutinaria por cansancio y dolor lumbar. Exploración y recomendaciones sobre analgesia segura, suplementos y seguimiento obstétrico.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, doctor. Estoy de 24 semanas de embarazo y quería la revisión de rutina, aunque últimamente tengo algo de cansancio y dolor lumbar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. Es normal sentir algo de cansancio y dolor lumbar en el segundo trimestre, pero vamos a revisarlo con detalle. ¿Ha tenido fiebre, sangrado, contracciones o dolor abdominal intenso?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, nada de eso. Solo el dolor de espalda y algo de fatiga."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. ¿Toma alguna medicación habitualmente o suplementos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Ácido fólico, 400 microgramos diarios desde el inicio del embarazo y hierro, 30 miligramos una vez al día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Voy a tomar su tensión, peso y a auscultar el corazón y los pulmones. ¿Pausa? Todo parece normal. La tensión está en 110-70 milímetros de Hg y la frecuencia cardíaca es regular."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me preocupa el dolor lumbar. ¿Puedo tomar algo para aliviarlo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. De forma segura en este trimestre puede usar paracetamol 500 a 1000 miligramos cada 6-8 horas sin superar 4 gramos al día. Evite ibuprofeno o aspirina ya que no son seguros en el embarazo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo. ¿Y el cansancio?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El cansancio suele deberse al aumento de volumen sanguíneo y cambios hormonales. Mantener actividad física moderada, descansar y alimentarse bien suele ayudar. Si el cansancio es excesivo o aparece mareo, palpitaciones o falta de aire, hay que valorarlo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Puedo seguir con la dieta y el hierro?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, continúe con el hierro y el ácido fólico. Le recomiendo también alimentos ricos en proteínas y calcio y mantener una buena hidratación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y la revisión del beliz?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Hoy haremos control de la tensión, peso y análisis rutinarios. En la próxima ecografía valoraremos crecimiento y bienestar fetal. También le recuerdo la importancia de vacunar contra la gripe y la tosferina si aún no lo ha hecho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto. ¿Algo más que deba hacer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Evite esfuerzos físicos excesivos, use calzado cómodo y apoye la espalda al levantar objetos. Si nota dolor abdominal intenso, sangrado o contracciones, acuda de inmediato a urgencias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien, doctor. Muchas gracias por la información."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Resumiendo, paracetamol para dolor lumbar según necesidad, seguir con suplementos, dieta equilibrada, actividad moderada y control rutinario de embarazo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, lo haré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Nos vemos en la próxima revisión y recuerde avisar ante cualquier síntoma fuera de lo habitual."
+    }
+  ]
+}

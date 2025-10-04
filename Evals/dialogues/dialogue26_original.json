@@ -1,0 +1,363 @@
+{
+    "scenario_id": "cardiologia_02_simplificado",
+    "title": "Consulta de cardiología - Angina e insuficiencia cardíaca leve (un paciente)",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Buenos días, ¿cómo se encuentra?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Buenos días, doctor. La verdad, un poco preocupado. Me noto cada vez más cansado y con molestias en el pecho. Antes podía subir escaleras sin problema y ahora tengo que parar varias veces. También me noto muy fatigado incluso al caminar.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Cuénteme con detalle. ¿Qué tipo de molestias nota en el pecho?",
+        "duration_estimate": 3.7,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Es como una presión fuerte, no un dolor agudo. Aparece al caminar rápido o al subir escaleras. Si me siento, se me pasa.",
+        "duration_estimate": 7.8,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Desde cuándo nota estos síntomas?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Desde hace unos seis meses, pero últimamente más seguidos y más intensos.",
+        "duration_estimate": 5.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Cuánto suele durar cada episodio?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entre cinco y diez minutos.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Se acompaña de mareos, sudoración, palpitaciones o dificultad para respirar?",
+        "duration_estimate": 4.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, me sudan las manos, me falta el aire y a veces siento el corazón acelerado. También ronco mucho por la noche y hay veces que parece que me quedo sin aire.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso podría ser apnea del sueño. ¿Duerme con almohadas extra?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, necesito al menos dos para no ahogarme.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a repasar sus antecedentes. ¿Es hipertenso?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, diagnosticado hace diez años. Tomo enalapril 20 mg cada 12 horas.",
+        "duration_estimate": 5.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Diabetes?",
+        "duration_estimate": 1.2,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "No diagnosticada, pero la glucosa me salió algo alta hace unos años.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Colesterol?",
+        "duration_estimate": 1.2,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, siempre alto. Nunca me trataron con medicación.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Infartos, anginas o arritmias previas?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "No.",
+        "duration_estimate": 0.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Problemas renales o pulmonares?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "No que yo sepa.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Cirugías?",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Apendicitis a los 20 años y artroscopia de rodilla a los 55.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Alguna alergia a medicamentos?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Ninguna conocida.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Antecedentes familiares?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Mi padre falleció de un infarto a los 65. Mi madre tenía hipertensión.",
+        "duration_estimate": 5.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Fuma actualmente?",
+        "duration_estimate": 1.8,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "No, lo dejé hace cinco años, pero fumé un paquete diario durante 30 años.",
+        "duration_estimate": 6.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Consume alcohol?",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Alguna cerveza y una copa de vino los fines de semana.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Cómo es su dieta?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bastante pan, embutidos y queso. Poca verdura.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Hace ejercicio?",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Antes caminaba todos los días, ahora no puedo porque me fatigo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Ha notado hinchazón en las piernas?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, sobre todo en los tobillos al final del día.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Orina con normalidad?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, aunque me levanto dos o tres veces por la noche.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Dolor en las piernas al caminar?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "En la izquierda, en la pantorrilla, cuando camino un rato.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entiendo. Vamos a explorarlo. Su tensión arterial es de 150/95 mmHg, la frecuencia de 88 lpm, el índice de masa corporal es de 30. En la auscultación cardíaca escucho un soplo sistólico leve en el foco mitral. En los pulmones noto crepitantes en bases. Presenta edemas leves en ambos tobillos. El pulso pedio izquierdo es débil comparado con el derecho.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Estos hallazgos sugieren que puede tener insuficiencia cardíaca leve, enfermedad coronaria y también enfermedad arterial periférica.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Es grave, doctor?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No lo sabemos aún. Puede tratarse de angina estable, hipertensión mal controlada, insuficiencia cardíaca inicial e incluso apnea del sueño. Pediremos pruebas para aclararlo: analítica completa, electrocardiograma, ecocardiograma, prueba de esfuerzo, Holter, radiografía de tórax, índice tobillo-brazo y, si procede, polisomnografía.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Son seguras esas pruebas?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Completamente. La de esfuerzo es la más exigente, pero estará monitorizado todo el tiempo.",
+        "duration_estimate": 5.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y mientras tanto?",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Mantenga el enalapril. Añadiremos atorvastatina 40 mg por la noche para el colesterol y aspirina 100 mg al día como prevención. También le prescribiré nitroglicerina sublingual 0,4 mg en caso de dolor. Si la tensión no mejora, añadiremos amlodipino 5 mg/día. Y si los edemas aumentan, probablemente necesite furosemida 20 mg por la mañana.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿No es mucha medicación?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Es lo necesario para proteger su corazón y reducir riesgos de infarto o ictus. Además, es fundamental cambiar hábitos: reducir la sal, seguir dieta mediterránea, caminar a diario según tolerancia, perder 6 a 8 kilos, medir la tensión en casa, limitar alcohol y evitar embutidos.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Me dará pautas más concretas de dieta?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, le entregaré un folleto y podemos derivarlo a nutrición.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y si empeoro antes de la próxima cita?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Si el dolor aparece en reposo y no cede con nitroglicerina, acuda a urgencias. También si nota mucha falta de aire o los tobillos se hinchan más.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Muchas gracias por todo, doctor.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "A usted. Nos vemos en cuatro semanas con las pruebas. Lo importante es que hemos detectado a tiempo la situación y tenemos margen para mejorar su calidad de vida.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 880,
+      "turn_count": 49,
+      "avg_turn_length": 18.0
+    },
+    "estimated_total_duration": 295.0,
+    "generated_at": "2025-09-24T20:10:00Z"
+  }
+  

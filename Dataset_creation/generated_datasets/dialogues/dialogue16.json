@@ -1,0 +1,218 @@
+{
+  "scenario_id": "consulta_diabetes_tipo2_01",
+  "title": "Consulta Atención Primaria - Diabetes tipo 2 mal controlada",
+  "context": "Paciente mujer con diabetes tipo 2, mal control glucémico y hemoglobina glicosilada elevada. Se ajusta tratamiento con metformina y dapagliflozina.",
+  "turns": [
+    {
+      "speaker": "PacienteMujer",
+      "text": "Buenos días, doctor. Vengo a la consulta porque últimamente noto mucha sed, voy al baño más de lo normal y me siento cansado todo el tiempo.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Buenos días. Entiendo. ¿Ha medido su glucemia en casa?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, tengo un glucómetro. Estos días me ha salido varias veces por encima de 200 mg/dl, incluso después de desayunar algo ligero.",
+      "duration_estimate": 7.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Eso es una cifra elevada. ¿Qué medicación para la diabetes está tomando actualmente?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Tomo metformina 850 mg dos veces al día, después de las comidas.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Bien, esa es la dosis habitual inicial. ¿Hace cuánto tiempo que está con metformina?",
+      "duration_estimate": 4.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Ya casi dos años. Al principio me iba bien, pero últimamente parece que no es suficiente.",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "De acuerdo. ¿Ha notado pérdida de peso, visión borrosa o infecciones urinarias frecuentes?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No he perdido peso, pero sí he tenido la vista borrosa a ratos.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Eso puede estar relacionado con los niveles altos de glucosa. Vamos a revisar su última analítica de hemoglobina glicosilada… aquí la tengo: 8,2%. El objetivo es mantenerla por debajo de 7%.",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Ya veo. ¿Qué significa que esté tan alta?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Significa que su glucosa ha estado elevada de manera sostenida en los últimos tres meses. Esto aumenta el riesgo de complicaciones a largo plazo: problemas en los riñones, en los ojos, en los nervios y en el corazón.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y qué podemos hacer?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "En primer lugar, reforzar los hábitos de vida: dieta baja en azúcares simples, reducir harinas refinadas, controlar las raciones y hacer ejercicio regular, al menos 30 minutos de caminata al día. Pero además, con una glicosilada de 8,2%, conviene intensificar el tratamiento farmacológico.",
+      "duration_estimate": 14.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Me va a cambiar la medicación?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí. Mantendremos la metformina 850 mg dos veces al día y añadiremos un segundo fármaco. Una opción adecuada es la dapagliflozina 10 mg una vez al día, que ayuda a eliminar el exceso de glucosa por la orina y también protege el corazón y el riñón.",
+      "duration_estimate": 15.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Eso es pastilla también?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, es una pastilla diaria, normalmente por la mañana. Otra alternativa sería un inhibidor de la DPP-4, como la sitagliptina 100 mg al día, pero dada su tensión arterial y su leve sobrepeso, la dapagliflozina puede ser más beneficiosa.",
+      "duration_estimate": 13.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y si tampoco funciona?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si después de tres meses no logramos bajar la glicosilada, valoraríamos añadir un tercer fármaco o incluso insulina basal en dosis bajas, por ejemplo insulina glargina 10 unidades por la noche, ajustando progresivamente según la glucemia en ayunas.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "La insulina me da un poco de miedo.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Es normal, muchos pacientes sienten lo mismo, pero cuando se necesita puede mejorar mucho el control y evitar complicaciones. Hoy no vamos a empezar con insulina, solo con la combinación de metformina y dapagliflozina, y controlaremos su evolución.",
+      "duration_estimate": 12.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Tengo que medir la glucosa todos los días?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, al menos una vez en ayunas y otra vez después de alguna comida principal. Eso nos ayudará a ajustar el tratamiento. Le daré una hoja para anotar los valores.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y la dieta? Me cuesta bastante dejar el pan y los dulces.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "No hace falta eliminarlos por completo, pero sí reducirlos y preferir pan integral o de cereales. Lo importante es la cantidad y la frecuencia. También debe evitar bebidas azucaradas y zumos industriales. Le recomiendo ver a la nutricionista del centro para un plan adaptado.",
+      "duration_estimate": 14.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y el alcohol?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Puede tomar alguna copa de vino esporádicamente, pero evite el consumo habitual. El alcohol interfiere con el control de la glucosa y puede aumentar el riesgo de hipoglucemias si en un futuro usa insulina.",
+      "duration_estimate": 11.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Lo entiendo. ¿Tengo que volver pronto?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí. Le daré cita en tres meses para repetir analítica y ver la glicosilada. Si en casa ve glucemias por encima de 250 mg/dl de manera repetida, o si presenta mareos, visión muy borrosa o pérdida de peso rápida, debe acudir antes.",
+      "duration_estimate": 14.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "De acuerdo, doctor. Muchas gracias por explicármelo todo.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "A usted. Resumo: continúe con metformina 850 mg dos veces al día, añadiremos dapagliflozina 10 mg una vez al día, controle la glucosa en casa y siga una dieta saludable con ejercicio. Así iremos ajustando el tratamiento paso a paso.",
+      "duration_estimate": 13.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto, lo haré.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Muy bien, nos vemos en tres meses o antes si hay cualquier problema.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 688,
+    "turn_count": 34,
+    "avg_turn_length": 20.235294117647058
+  },
+  "estimated_total_duration": 229.19999999999996,
+  "generated_at": "2025-09-24T09:58:36.447901Z"
+}

@@ -1,0 +1,75 @@
+{
+  "scenario_id": "oncologia_05",
+  "title": "Consulta de oncología - Cáncer de pulmón no microcítico localizado",
+  "context": "Paciente diagnosticado de cáncer de pulmón no microcítico, candidato a cirugía curativa.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿cómo te encuentras hoy?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La verdad, un poco nervioso. Me dijeron que la mancha en el pulmón podía ser mala y no he dormido nada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo tu preocupación. Vamos a repasarlo juntos. Te hicieron un TAC de tórax y, en efecto, se ve un nódulo en el pulmón derecho. La biopsia que realizamos confirma que se trata de un cáncer de pulmón no microcítico, que es la forma más frecuente."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es muy grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Depende de la extensión. En tu caso, por las pruebas que tenemos, el tumor está en el pulmón, pero no parece que se haya extendido a otros órganos. Eso es positivo porque nos da margen de tratamiento."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué se hace ahora?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo primero es la cirugía para quitar el lóbulo del pulmón donde está el tumor. Después, según lo que encontremos en el análisis de la pieza, veremos si necesitas quimioterapia complementaria para reducir el riesgo de recaída."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y me quedo sin medio pulmón?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, se quita solo el lóbulo afectado. Aunque te quedes con menos capacidad pulmonar, la mayoría de personas se adapta bien y puede hacer vida normal, sobre todo si no fumas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Dejé el tabaco hace tres meses."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, eso es fundamental. Para que llegues en las mejores condiciones a la cirugía, te voy a recetar un broncodilatador inhalado, que usarás todos los días hasta la operación para facilitar la función pulmonar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, como sigues con tos, puedes usar jarabe de codeína por la noche si te impide dormir."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias, porque esa tos no me deja descansar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: programar la cirugía, empezar con el broncodilatador diario, usar jarabe para la tos si es necesario y mantenerte sin tabaco. Cuando tengamos la pieza operada, veremos si necesitas quimio."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, doctor. ¿Y puedo seguir trabajando hasta la operación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, siempre que no hagas esfuerzos muy grandes. Lo importante es que llegues lo más fuerte posible."
+    }
+  ]
+}

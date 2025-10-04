@@ -1,0 +1,177 @@
+{
+    "scenario_id": "cardiologia_16",
+    "title": "Consulta de cardiología - Hipertensión arterial",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Buenos días, ¿qué tal está?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bien, aunque en el centro de salud me han visto la tensión alta varias veces y me mandaron aquí para revisarlo.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a ver. ¿Recuerda las cifras que le salieron?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, casi siempre sobre 150/95, y alguna vez más de 160.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Y en casa se la mide?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Alguna vez, pero no siempre. Cuando me la tomo en casa suele estar un poco más baja, alrededor de 140/90.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale. ¿Tiene antecedentes familiares de hipertensión o problemas de corazón?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Mi madre es hipertensa desde hace años y un tío tuvo un infarto joven.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Fuma o bebe alcohol?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Fumaba, pero lo dejé hace seis meses. Alcohol, solo en ocasiones, una copa de vino.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto que haya dejado el tabaco. ¿Hace ejercicio?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Camino algo, pero muy irregular, sobre todo por trabajo.",
+        "duration_estimate": 4.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien. Vamos a explorarlo. Corazón rítmico, sin soplos, pulmones bien ventilados, sin edemas en las piernas. La tensión ahora está en 152/92, así que efectivamente está alta.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y eso es muy grave?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "La hipertensión no da síntomas, pero a la larga aumenta el riesgo de infarto, ictus y daño en riñones. Lo bueno es que con cambios de hábitos y medicación se controla muy bien.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Tengo que empezar pastillas?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, en su caso conviene. Le voy a recetar enalapril 5 mg cada 12 horas, una por la mañana y otra por la noche. Es un medicamento seguro y eficaz para bajar la tensión.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y de por vida?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Lo más probable es que sea un tratamiento crónico, aunque con dieta, ejercicio y pérdida de peso a veces se puede reducir la dosis.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entiendo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Además, le recomiendo reducir la sal, evitar embutidos, comida rápida y precocinada. Más fruta, verdura y pescado. También caminar al menos 30 minutos al día.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Tendré que organizarme mejor.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No hace falta correr, con caminar rápido sirve. Lo importante es hacerlo de forma regular.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Le pediré una analítica y un electrocardiograma en un mes para ver cómo está respondiendo.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Muy bien, doctor.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto, nos vemos en la revisión.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 610,
+      "turn_count": 26,
+      "avg_turn_length": 11.3
+    },
+    "estimated_total_duration": 225.0,
+    "generated_at": "2025-09-27T18:40:00Z"
+  }
+  

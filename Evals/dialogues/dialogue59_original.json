@@ -1,0 +1,129 @@
+{
+    "scenario_id": "ginecologia_02",
+    "title": "Consulta de ginecología - Resultados de fibroadenoma mamario",
+    "context": "Consulta externa de ginecología",
+    "turns": [
+      {
+        "speaker": "Oncólogo",
+        "text": "Hola, ¿cómo estás? Hoy tenemos ya los resultados de las pruebas que te pedimos.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, estaba muy nerviosa, no he podido dormir bien.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Es normal preocuparse, pero quédate tranquila: las pruebas muestran que el bulto que tienes en la mama es benigno, se trata de un fibroadenoma.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Entonces no es cáncer?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "No, no lo es. Los fibroadenomas son tumores muy frecuentes en mujeres jóvenes, no tienen riesgo de transformarse en malignos y muchas veces ni siquiera crecen.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¡Qué alivio! Tenía mucho miedo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Claro, entiendo tu angustia. Mira, en la mamografía y la ecografía se ve claramente que la lesión es redondeada, con bordes lisos y móviles, que son las características típicas de benignidad. Además, la biopsia con aguja lo confirma.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y qué tengo que hacer ahora? ¿Me lo quitan?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "No siempre hace falta operar. Como no es grande y no da síntomas, lo más recomendable es vigilarlo con revisiones cada 12 meses y una ecografía si presenta cambios. Solo se quita si crece mucho o si empieza a doler.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Yo a veces siento un poco de molestia.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Eso puede pasar, sobre todo en los días previos a la regla. Si te duele, puedes tomar paracetamol 1 g cada 8 horas según necesidad, y te receto también ibuprofeno 600 mg cada 12 horas después de las comidas para los días de más dolor, siempre que no tengas problemas de estómago.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Otra recomendación es llevar un sujetador firme, que dé buen soporte, porque eso también disminuye la sensación de tirantez.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo. ¿Y si noto que crece?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Entonces vuelves antes de la cita. Si aumenta de tamaño o cambia de forma, lo revisamos y valoramos la cirugía. Pero lo habitual es que se mantenga estable o incluso que desaparezca con el tiempo.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Ojalá.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Así que, plan: analgésicos si hay dolor, sujetador adecuado, revisión en seis meses con ecografía, y mientras tanto vida normal.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Muchísimas gracias, me quedo mucho más tranquila.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "De nada, estás bien y lo más importante es que no hay nada maligno.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 940,
+      "turn_count": 19,
+      "avg_turn_length": 34.2
+    },
+    "estimated_total_duration": 265.0,
+    "generated_at": "2025-09-25T04:55:00Z"
+  }
+  

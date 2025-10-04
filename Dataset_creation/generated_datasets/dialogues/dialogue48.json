@@ -1,0 +1,183 @@
+{
+    "scenario_id": "cardiologia_23",
+    "title": "Consulta de cardiología - Dolor torácico de esfuerzo en mujer con hipotiroidismo",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "PacienteMujer",
+        "text": "Buenas tardes.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Buenas tardes. Vienes porque tienes dolor en el pecho, ¿verdad?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Antes de nada, ¿eres alérgica a algún medicamento?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, a la aspirina y a todos los antiinflamatorios.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, anotado. ¿Algún alimento que no toleres?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, ninguno.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Fumas?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, lo dejé en el año 2000, hace ya más de 20 años.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien. ¿Y alcohol?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Solo de forma ocasional.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto. ¿Tienes hipertensión, diabetes o colesterol alto?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Y qué medicación tomas habitualmente?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Solo Eutirox por el hipotiroidismo y unas gotas para el glaucoma.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien, eso es importante. Entonces, ¿desde cuándo notas el dolor en el pecho?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Hace unos dos meses, más o menos. Es como una opresión.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Y cuándo aparece?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Cuando estoy más activa, al hacer esfuerzo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Y se te quita en reposo?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, enseguida.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Hay algo más que lo desencadene?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "El estrés. Cuando estoy muy estresada, también lo noto.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "De acuerdo. Vamos a explorarte.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "El corazón late rítmico, no hay soplos. Los pulmones ventilan bien, no hay edemas en las piernas. La tensión está en 110/70 y la frecuencia cardíaca en 75. En la exploración todo está normal, pero lo que me cuentas puede ser un dolor de origen cardíaco. En una mujer de tu edad y con tu perfil de riesgo, lo que haremos es pedir unas pruebas: una analítica completa, un ecocardiograma y un TAC de coronarias con contraste. Este TAC nos dirá cómo están las arterias del corazón; si sale normal, podemos estar tranquilos de que el dolor no viene del corazón y de que tu riesgo de infarto en los próximos diez años es muy bajo.",
+        "duration_estimate": 28.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto, me parece muy bien.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces te programamos esas pruebas y cuando las tengamos, vemos los resultados.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 890,
+      "turn_count": 27,
+      "avg_turn_length": 33.0
+    },
+    "estimated_total_duration": 250.0,
+    "generated_at": "2025-09-25T01:40:00Z"
+  }
+  

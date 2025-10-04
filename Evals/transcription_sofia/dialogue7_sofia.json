@@ -1,0 +1,127 @@
+{
+  "scenario_id": "pediatria_01",
+  "title": "Fiebre y tos en niño - Cuadro respiratorio viral",
+  "context": "Consulta pediátrica por fiebre y tos de dos días de evolución",
+  "turns": [
+    {
+      "speaker": "Familiar",
+      "text": "Buenos días. Vengo porque mi hijo lleva dos días con fiebre y tos."
+    },
+    {
+      "speaker": "Familiar",
+      "text": "Anoche llegó a 38,9 grados Celsius y me preocupa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. Entiendo su preocupación. La fiebre es continua o sube y baja a lo largo del día?"
+    },
+    {
+      "speaker": "Familiar",
+      "text": "Sube sobre todo por"
+    },
+    {
+      "speaker": "Familiar",
+      "text": "la tarde y la noche. Con paracetamol baja, pero al cabo de unas horas vuelve a subir."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Qué dosis le ha dado?"
+    },
+    {
+      "speaker": "Familiar",
+      "text": "Le he dado paracetamol 250 mg cada 6 horas, como me indicaron la última vez que estuvo enfermo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Correcto. Esa es la dosis adecuada para su peso. Ha tenido dificultad para respirar, silbidos en el pecho o decaimiento excesivo?"
+    },
+    {
+      "speaker": "Familiar",
+      "text": "está algo cansado, pero juega cuando la fiebre baja. No he notado que le falte el aire."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ha tenido vómitos, diarrea o dolor de oído?"
+    },
+    {
+      "speaker": "Familiar",
+      "text": "No, solo tos y mocos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Voy a explorarlo. La auscultación pulmonar es normal, sin ruidos sospechosos. La garganta está algo enrojecida, pero no hay placas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Parece un cuadro respiratorio viral. Entonces, no necesita antibióticos. No de momento."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La mayoría de infecciones en niños son víricas y se resuelven solas con cuidados generales."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo importante es controlar la fiebre con paracetamol."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "mantenerlo hidratado y vigilar su evolución."
+    },
+    {
+      "speaker": "Familiar",
+      "text": "Pues no alternar con ibuprofeno?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, si la fiebre no baja bien solo con paracetamol, puede usar ibuprofeno 200 mg cada 8 horas, siempre que lo tolere bien y lo administre después de comer."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "no es necesario alternar siempre, solo si lo requiere."
+    },
+    {
+      "speaker": "Familiar",
+      "text": "De acuerdo. Hay algo más que deba hacer en casa?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, debe ofrecerle líquidos con frecuencia. También debe mantener la habitación ventilada, no abrigarlo en exceso cuando tenga fiebre y controlar la temperatura."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "temperatura con un termómetro fiable cada 6 a 8 horas."
+    },
+    {
+      "speaker": "Familiar",
+      "text": "¿Y cuándo debería volver?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si la fiebre dura más de 3 días, si nota que le cuesta respirar, si está muy decaído o si rechaza líquidos, tráigalo de inmediato. También si aparece dolor de oído intenso."
+    },
+    {
+      "speaker": "Familiar",
+      "text": "Perfecto, me quedo más tranquila."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Me alegro. Entonces, seguimos con paracetamol 250 mg cada 6 horas si lo necesita y puede añadir ibuprofeno 200 mg cada 8 horas si la fiebre es muy alta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "un volante para control si no mejora en unos días."
+    },
+    {
+      "speaker": "Familiar",
+      "text": "Muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Seguro que en pocos días se recupera."
+    }
+  ]
+}

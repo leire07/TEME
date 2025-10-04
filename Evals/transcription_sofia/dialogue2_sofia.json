@@ -1,0 +1,131 @@
+{
+  "scenario_id": "digestivo_01",
+  "title": "Consulta de digestivo - Reflujo gastroesofágico",
+  "context": "Consulta externa por dolor de estómago y ardor",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. Pasa, por favor. Siéntate. ¿Qué tal estás?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Regular, la verdad."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuéntame, ¿qué te trae por aquí?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Verá, llevo unas semanas con un dolor de estómago bastante molesto. Es como una sensación de ardor, sobre todo después de comer. Y a veces me despierta por la noche."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Además, me siento como muy lleno, incluso con comidas pequeñas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Desde cuándo notas estos síntomas exactamente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Creo que unas tres o cuatro semanas. Al principio no le di importancia, pensé que era algo puntual. Pero no mejora y cada vez me molesta más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Has tomado algo para aliviar, algún antiácido?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, probé con Almax, pero me alivia solo un rato y luego vuelve. Y además, no sé por qué, pero me da un poco de gases, entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a revisar tu historial. Tienes 45 años y no fumas, ¿verdad? Y no tienes antecedentes familiares de enfermedades graves que yo recuerde."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, nada de eso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Y dime, ¿cómo es tu alimentación? ¿Comes a menudo comidas picantes o muy grasas? ¿Bebes mucho café?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me gusta el café y tomo unos tres o cuatro al día. Y las comidas, pues suelo comer de todo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero es cierto que a veces como un poco tarde y pesado. Lo sospechaba. Todos esos factores pueden irritar el esófago y el estómago. Lo que me cuentas, esa sensación de ardor y de lleno, apunta a un posible reflujo gastroesofágico."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso qué es exactamente, doctora? ¿Es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, tranquilo, no suele ser grave. El reflujo ocurre cuando el ácido del estómago sube al esófago. Por eso sientes ese ardor. Vamos a empezar con un tratamiento sencillo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te voy a recetar un protector de estómago. Un medicamento que se llama omeprazol."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Omeprazol. ¿Y cómo lo tengo que tomar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vas a tomar una cápsula de 20 mg cada mañana en ayunas. Media hora antes del desayuno."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es importante que sea así para que funcione bien. Y lo harás durante cuatro semanas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y con eso me voy a curar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Debería. Además, quiero que hagas algunos cambios en tus hábitos. Intenta reducir el café y las comidas muy grasas o picantes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cena más ligero y al menos dos horas antes de acostarte. Si puedes, eleva un poco la cabecera de la cama, unos 15 centímetros, para evitar que el ácido suba por la noche."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, doctora. Haré todo lo que me dices. ¿Y si no mejoro?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si después de las cuatro semanas sigues con los síntomas o incluso empeoras, te volveré a ver."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En ese caso podríamos considerar hacer algunas pruebas como una gastroscopia para ver el estado de tu estómago."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero confío en que con el medicamento y los cambios de hábitos te sentirás mucho mejor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias, doctora. Me quedo más tranquilo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Tómate el tratamiento con disciplina y verás. Que tengas un buen día."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "scenario_id": "cardiologia_03",
+  "title": "Consulta de cardiología - Hipertensión y dolor torácico",
+  "context": "Consulta externa de cardiología por derivación desde atención primaria",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, pase un."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Qué le trae hoy a la consulta de cardiología?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, doctor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me derivó mi médico de cabecera porque llevo la tensión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Alta. Y últimamente he tenido un par de episodios de dolor en el pecho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Vamos a hablar de esos dolores. ¿Cuándo empezaron y cómo los describe?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues desde hace unas tres semanas. Me da como una presión en el pecho cuando subo escaleras o camino deprisa. Me dura unos minutos y luego se me pasa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Se acompaña de falta de aire, sudoración o mareo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, un poco de falta de aire, pero nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿El dolor cede cuando se detiene o se sienta?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, al parar mejora."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Eso es importante. Ahora, respecto a la tensión, ¿qué cifras ha tenido últimamente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "En el centro de salud me la tomaron varias veces y siempre estaba sobre 155/95 más o menos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿Está tomando alguna medicación actualmente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo paracetamol cuando me duele algo, pero para la tensión no me dieron nada todavía."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. ¿Tiene antecedentes familiares de infarto, angina o ictus?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, mi padre tuvo un infarto a los 60 años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fuma o ha fumado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Fumé de joven, pero lo dejé hace 10 años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y el colesterol y la glucosa se los han mirado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El médico me dijo que el colesterol estaba un poco alto, pero no me dio medicación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Me comento. Por lo que me cuenta, podría tratarse de angina de esfuerzo, es decir, dolor torácico al hacer actividad porque al corazón le cuesta recibir suficiente oxígeno. No es algo para alarmarse en este momento, pero sí debemos estudiarlo y tratar la hipertensión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me asusta un poco, la verdad."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo primero es pedirle una prueba de esfuerzo, un electrocardiograma, además de una analítica completa con perfil lipídico."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mientras tanto, vamos a iniciar tratamiento, ¿de acuerdo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le voy a recetar un antihipertensivo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Enalapril 10 miligramos, un comprimido por la mañana y otro por la noche. Además, por los episodios de dolor, le indicaré un antianginoso de inicio, como nitroglicerina sublingual, 0,5 miligramos, solo en caso de dolor torácico, colocándola bajo la lengua y esperando sentado hasta que ceda."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. ¿Eso lo tengo que tomar todos los días? No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La nitroglicerina solo cuando aparezca el dolor. El enalapril sí será diario. Y, dependiendo de los resultados de la analítica, quizás añadamos un hipolipemiante, como atorvastatina."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso lo decidiremos con los análisis en la consulta. ¿Entiendo? Es fundamental también cambiar algunos hábitos: bajar el consumo de sal, hacer ejercicio moderado al menos 30 minutos al día, controlar el peso y evitar grasas saturadas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cómo lleva la alimentación?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bastante normal, aunque suelo comer embutido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Habrá que reducirlo. Le daré un folleto con la dieta recomendada para hipertensión. Perfecto. Y muy importante, si el dolor aparece en reposo, dura más de 10 minutos o se acompaña de dificultad para respirar intensa, debe acudir inmediatamente a urgencias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, lo tendré en cuenta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces quedamos en iniciar el tratamiento con enalapril 10 mg cada 12 horas, nitroglicerina sublingual solo en caso de dolor, analítica y pruebas. Nos veremos en un mes para valorar resultados."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, muchas gracias, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted, cuídese mucho y no dude en acudir antes si está empeorando."
+    }
+  ]
+}

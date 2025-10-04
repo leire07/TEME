@@ -1,0 +1,129 @@
+{
+    "scenario_id": "cardiologia_21",
+    "title": "Consulta de cardiología - Seguimiento de hipertensión e hipotiroidismo",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bueno, entonces, te vi con el doctor que te seguía, vamos a hacer un repaso, ¿vale? Tenías hipertensión arterial, colesterol y también hipotiroidismo, ¿cierto?",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, me quitaron las tiroides.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso. Estás con Eutirox de 100 microgramos, ¿no?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Y te habían dado Indapamida y Amlodipino. Ahora estás con Amlodipino de 5 miligramos y con Indapamida de 2.5.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Cómo está la tensión?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "La mínima siempre la tengo alta, entre 8 y 9. La máxima suele estar en 13 y algo, a veces 14. Vamos, que siempre está un poco mal, aunque tome la medicación.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, entonces sigues con tensiones altas. El año pasado te hicieron un electro, estaba en ritmo sinusal, eje normal, QRS estrecho, sin alteraciones. Y también un ecocardiograma que salió con función normal, sin valvulopatías. En conclusión, el seguimiento contigo es más que nada por la tensión.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, porque lo demás lo tengo bien.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien. ¿Cuándo fue la última analítica?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Me la hice hace seis meses. Ahora tengo que hacer otra porque el día 30 tengo cita con el endocrino y se la tengo que llevar.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto, esa analítica me sirve a mí también. ¿Alguna vez te han puesto un mapa de tensión?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Pues quiero ponerte otro para ver cómo ajustar la medicación. Vamos a tomarte la tensión ahora.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien, respira hondo... suelta... otra vez... vale. Ahora tienes 116/70 y la frecuencia en 72. O sea, hoy está perfecta. Los pulmones se escuchan bien, el corazón rítmico, sin soplos. Entonces lo que vamos a hacer es ponerte el mapa de tensión. Si el resultado está bien, podemos estar tranquilos. Y de paso, cuando tengas la analítica, me la traes y la revisamos juntos.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale, yo tengo la cita con el endocrino el día 30.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto, pues después vienes conmigo ya con esa analítica, ¿de acuerdo?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 720,
+      "turn_count": 19,
+      "avg_turn_length": 37.9
+    },
+    "estimated_total_duration": 180.0,
+    "generated_at": "2025-09-25T01:00:00Z"
+  }
+  

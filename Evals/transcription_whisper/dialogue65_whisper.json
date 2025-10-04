@@ -1,0 +1,99 @@
+{
+  "scenario_id": "reumatologia_01",
+  "title": "Consulta de reumatología - Osteoporosis y prevención de fracturas",
+  "context": "Consulta para evaluación y tratamiento de osteoporosis diagnosticada por densitometría",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿cómo te encuentras?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, aunque sigo con dolor de espalda a ratos. Por eso me preocupaba lo de los huesos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, revisé la densitometría y muestra osteoporosis en la columna lumbar. Tienes menos densidad ósea de la normal, lo que aumenta el riesgo de fracturas. ¿Has tenido alguna fractura en los últimos años?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hace un año me rompí la muñeca al caerme."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso ya es un signo de fragilidad, o sea, vamos a tratarlo para fortalecer los huesos y evitar más fracturas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo se trata?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo primero es asegurarnos de que tienes suficiente calcio y vitamina D. Te voy a recetar calcio 600 miligramos con vitamina D 800 UI, una tableta dos veces al día. Además, te indicaré un fármaco llamado alendronato, 70 miligramos una vez a la semana. Es un comprimido que ayuda a frenar la pérdida de hueso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo se toma?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En ayunas, con un vaso grande de agua y después tienes que permanecer sentada o de pie al menos media hora sin acostarte, para que no te dé acidez."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo importante son dos cosas. Una es el calcio y la otra el fármaco."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También es fundamental el ejercicio. Caminar, ejercicios de equilibrio y un poco de pesas ligeras. Todo ayuda a fortalecer hueso y músculo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Intentaré hacerlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fumas o tomas alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Fumaba, pero lo dejé hace dos años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo una copa de vino de vez en cuando."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, porque el tabaco debilita el hueso. El alcohol, cuanto menos, mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "He entendido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: calcio más vitamina D cada día, alendronato una vez a la semana, ejercicio regular y revisión con analítica y nueva densitometría en un año."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, con esto reduciremos el riesgo de fractura y mejorarás la salud de tus huesos."
+    }
+  ]
+}

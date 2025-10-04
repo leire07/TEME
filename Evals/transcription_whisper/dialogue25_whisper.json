@@ -1,0 +1,103 @@
+{
+  "scenario_id": "palpitaciones_ejercicio_01",
+  "title": "Palpitaciones al hacer ejercicio — evaluación cardiológica",
+  "context": "Paciente con palpitaciones y sensación de taquicardia durante ejercicio progresivo en los últimos 3 meses. Exploración inicial normal; se planifican ECG y pruebas complementarias y medidas de higiene de estilo de vida.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, doctor. Últimamente, cuando corro o hago ejercicio intenso, siento que el corazón se me acelera mucho, y a veces me da como saltos o palpitaciones."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Desde cuándo nota estos episodios?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hace unos tres meses. Antes podía hacer deporte sin problemas, pero ahora aparecen varias veces por semana."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido mareos, desmayos, dolor en el pecho o falta de aire durante estos episodios?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No me he desmayado, pero a veces siento un poco de falta de aire y el corazón me late muy rápido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Tiene antecedentes médicos o toma alguna medicación?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo hipertensión leve y tomo enalapril 10 miligramos al día. Nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Voy a explorarle. Tensión arterial 130/80 milímetros mercurio, frecuencia cardíaca 78 latidos por minuto en reposo, saturación normal. La auscultación cardíaca es regular, sin soplos ni ruidos extraños."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cree que puede ser algo grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Las palpitaciones durante el ejercicio pueden ser benignas, como extrasístoles, pero también hay que descartar arritmias más serias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a hacer un electrocardiograma y, dependiendo de los resultados, podríamos indicar un holter de 24 horas o prueba de esfuerzo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mientras tengamos los resultados, evite deportes de alta intensidad que desencadenen los episodios. Mantenga actividad moderada, como caminar o bicicleta suave."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Puedo tomar algo para que no me palpite tanto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No de manera preventiva, solo si aparece una arritmia sintomática documentada; en algunos casos se indica un betabloqueante como metoprolol 25-50 mg una vez al día para controlar la frecuencia cardíaca. Por ahora no lo necesitamos hasta tener estudios."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Hay factores que empeoren estas palpitaciones?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. Cafeína, alcohol, estrés, falta de sueño y ciertos suplementos energéticos o de pre-entreno. Evite esos mientras investigamos la causa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Debo preocuparme por un infarto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En su caso, sin dolor torácico típico ni factores de riesgo graves, es poco probable. Lo importante es descartar arritmias y evaluar el corazón con pruebas complementarias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cada cuánto tendría que revisar esto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tras hacer el electro, y si procede el holter, volverá para revisar resultados y decidir si hay que iniciar medicación o simplemente seguimiento y cambios de estilo de vida."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Resumiendo, hoy haremos electrocardiograma. Le doy pautas para evitar desencadenantes, evitar ejercicio intenso hasta tener resultados y seguimiento según hallazgos. Betabloqueante u otro tratamiento sólo si se confirma arritmia significativa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Con las pruebas adecuadas podemos determinar la causa y manejarla de manera segura."
+    }
+  ]
+}

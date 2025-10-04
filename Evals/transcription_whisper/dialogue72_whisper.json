@@ -1,0 +1,75 @@
+{
+  "scenario_id": "traumatologia_02",
+  "title": "Consulta de traumatología - Fractura de cadera",
+  "context": "Atención hospitalaria tras caída con fractura de cadera izquierda",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Qué le ocurrió?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me caí en casa, en el pasillo. Tropecé y ya no pude levantarme. Me dolía mucho la cadera izquierda."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le hicieron la radiografía y, como sospechábamos, se trata de una fractura de cadera en el lado izquierdo. Es una lesión muy frecuente en personas mayores porque los huesos están más frágiles por la osteoporosis."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso significa operación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. En la mayoría de los casos hay que operar. La idea es colocar una prótesis parcial en la cadera para que pueda volver a caminar lo antes posible. Si solo pusiéramos eso, la recuperación sería mucho más lenta y habría más riesgo de complicaciones."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y es peligrosa la operación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Toda cirugía tiene riesgos, pero en su caso la fractura no consolidaría bien sin operar y el mayor riesgo sería quedarse encamado. Lo importante es que con la cirugía podrá levantarse pronto. Normalmente al día siguiente ya empieza a caminar con ayuda."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mientras tanto, para el dolor, le pondremos paracetamol e infiltraciones de analgesia intravenosa hasta la cirugía. Después, además de analgésicos, necesitaremos heparina pinchada en la barriga una vez al día para evitar trombos en las piernas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Eso ya me lo habían comentado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Tras la operación, necesitará rehabilitación diaria con fisioterapia para recuperar la fuerza y la movilidad. Cuanto antes empiece, mejor será la recuperación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cuánto tiempo tardaré en volver a caminar normal?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Normalmente en unos tres o cuatro meses estará caminando con relativa normalidad, primero con andador y luego con bastón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: cirugía con prótesis parcial de cadera, analgesia, heparina durante unas semanas, rehabilitación intensiva. Con eso podrá volver a caminar y recuperar su autonomía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchas gracias, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Vamos a trabajar juntos para que se recupere lo antes posible."
+    }
+  ]
+}

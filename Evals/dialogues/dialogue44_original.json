@@ -1,0 +1,201 @@
+{
+    "scenario_id": "cardiologia_19",
+    "title": "Consulta de cardiología - Revisión de hipertensión y hábitos de vida",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bueno, vamos a repasar. Tienes 49 años, hipertensión, y por lo demás todo ha salido bien, ¿no?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, de momento bien. Lo que pasa es que con el médico de cabecera me dan citas cada dos o tres meses, y como no avisan, a veces se me pasan. Aquí al menos me recuerdan antes, y eso va mucho mejor.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entiendo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Me encuentro mejor. La última vez me quitaste una pastilla y me pusiste otra por la noche. El primer día me encontré fatal por la mañana, así que tomé la que había dejado. Luego llamé para preguntar si podía tomar ambas, pero no me respondieron.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Lo ideal es que te tomes la tensión antes de hacer cambios.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, estoy teniendo valores de 13/9, 13/8, depende del trabajo y cómo me sienta.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "El 9 está un poco alto, habría que bajarlo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale. Estoy tomando productos naturales: espirulina, vinagre de manzana, taurina, cúrcuma y vitaminas. La inyección que me recetaste no la he podido comprar por el precio.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Cuando puedas, me lo dices y te hago la receta.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, pero me noto más tranquilo. A veces siento presión en el pecho, creo que es ansiedad. Mareos casi no, solo algo de vértigo al girarme. Antes sentía mucho las palpitaciones al tumbarme, ahora no.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien. Entonces, ¿qué tomas ahora mismo?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Estoy con Amlodipino y otra para la tensión… la que me dijiste que no tomara más era la Hidroclorotiazida.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso es, te quité el Ixia Plus porque te bajaba demasiado y lo cambié por Ixia normal y Amlodipino.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Exacto.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Pero aún tienes la tensión alta, así que habrá que ajustar la dosis. Y sigues fumando, ¿verdad?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí… hay días que más y otros que menos. He reducido, pero cuando estoy aburrido fumo más.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Es importante que lo dejes del todo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, lo sé. Estoy trabajando en ello.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a tomarte la tensión. Respira hondo… suelta… otra vez… Muy bien. Mira, hoy tienes 12/8, frecuencia 80, así que perfecto.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Mejor. Y si un día me sube, ¿sirve agua con limón?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No, eso no ayuda. Si sube mucho, hay que ajustar medicación, no con remedios caseros.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale. ¿Me puedes pesar?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Claro. La última vez estabas en casi 128 kilos. Ahora tienes 123. Has bajado unos 5 kilos.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¡Bien! He cambiado la dieta, sin frituras ni azúcar.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Se nota. La tensión antes siempre estaba alta y ahora mejor. Vamos a dejar la medicación igual por ahora.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto. Y sigo con los suplementos naturales.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Está bien, pero lo importante es perder peso, dejar de fumar y, si puedes, apuntarte al gimnasio.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, cuesta dar el primer paso, pero quiero hacerlo. El problema es el dinero, pienso más en los demás que en mí.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Pero si no te cuidas tú, no podrás cuidar de los demás.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Es verdad. He cambiado mucho desde que vine aquí.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sigue así, vas por buen camino.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 1110,
+      "turn_count": 29,
+      "avg_turn_length": 38.3
+    },
+    "estimated_total_duration": 310.0,
+    "generated_at": "2025-09-25T00:20:00Z"
+  }
+  

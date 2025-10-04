@@ -1,0 +1,163 @@
+{
+  "scenario_id": "urgencias_02",
+  "title": "Dolor torácico de esfuerzo - Sospecha de angina o síndrome coronario agudo",
+  "context": "Atención en urgencias por dolor torácico con factores de riesgo cardiovascular",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días. Desde ayer tengo un dolor en el pecho que aparece cuando camino rápido o subo escaleras. Hoy ha sido más fuerte."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "y me ha asustado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ha hecho bien en venir."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Podría describirme el dolor? ¿Es opresivo, punzante, se irradia a algún sitio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es más bien como una presión, como si me apretaran el pecho. A veces..."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "me sube al cuello y al brazo izquierdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Tiene antecedentes de hipertensión, colesterol alto o diabetes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, soy hipertenso desde hace años y tomo enalapril 10 miligramos al día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El colesterol lo tengo un poco alto, pero no tomo nada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. ¿Fuma o ha fumado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, fumo unos 10 cigarrillos diarios desde hace más de 20 años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso también es un factor de riesgo. Voy a tomarle la tensión y escuchar su corazón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Su tensión está algo elevada, 150."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "95 milímetros de mercurio. El ritmo cardíaco es regular, pero por seguridad vamos a hacer un electrocardiograma ahora mismo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cree que puede ser un infarto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No lo sabemos todavía, pero necesitamos descartar una angina de pecho o un síndrome coronario agudo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "el electro y una analítica con marcadores cardíacos nos ayudarán."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y mientras tanto, mientras tanto le administraremos ácido acetilsalicílico 300 miligramos por vía oral para reducir el riesgo de coagulación y monitorización cardíaca."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Lo que usted diga."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "o mareos, sudor frío o sensación de falta de aire?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, esta mañana cuando subí a escaleras, sentí que me faltaba el aire y sudé mucho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso refuerza la sospecha."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si el dolor empeora aquí, avísenos inmediatamente. También podríamos administrarle nitroglicerina sublingual."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "0,4 miligramos si reaparece el dolor opresivo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Esa medicina es peligrosa?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, en general es segura, pero puede bajar la tensión, por eso la administramos bajo control."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y si los resultados salen mal?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si confirman un síndrome coronario, lo ingresaremos en la unidad de cardiología para"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "valorar un cateterismo. Es un procedimiento que nos permite abrir la arteria ocluida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Necesitará medicación para controlar la TA y según los resultados de laboratorio el colesterol."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero es fundamental que deje de fumar, controlar la presión y mejorar la dieta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La medicación es una parte del tratamiento, pero su estilo de vida es clave."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Lo entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Vamos a empezar ya con el ácido acetilsalicílico, 300 miligramos. Después haremos el electro y la analítica. En función de los resultados, decidiremos el siguiente paso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "por explicármelo todo tan claro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada, cuídese."
+    }
+  ]
+}

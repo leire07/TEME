@@ -1,0 +1,115 @@
+{
+  "scenario_id": "geriatria_01",
+  "title": "Consulta de geriatría - Prevención de caídas y ajuste de medicación",
+  "context": "Evaluación de paciente con caídas recurrentes y revisión de tratamiento farmacológico",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿cómo se encuentra?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Un poco preocupado. En este último mes me he caído dos veces."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vaya, lo siento. Cuénteme, ¿cómo fueron esas caídas? ¿Se mareó antes o simplemente tropezó?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La primera fue en el baño, al levantarme de la taza. Sentí que las piernas se me aflojaban. La segunda fue en la calle. Iba despacio y de pronto me dio como un mareo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Perdió el conocimiento en alguna de ellas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No. No llegué a desmayarme, pero me costó recuperar el equilibrio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Se hizo alguna herida o fractura?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo moratones, por suerte."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Le tomo la tensión. Está un poco baja. Además noto que sus músculos de las piernas están más débiles de lo habitual. Y revisando su lista de medicamentos veo que está tomando un antihipertensivo, un diurético y un ansiolítico para dormir. Esa combinación puede favorecer mareos y caídas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me lo habían dicho. Pero me da miedo dejar la medicación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No se preocupe. No vamos a dejar nada de golpe. Solo vamos a ajustar. Reduciremos la dosis del diurético y bajaremos el ansiolítico nocturno porque ambos pueden darle mareos y debilidad."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, quiero que empiece ejercicios para reforzar las piernas y mejorar el equilibrio. Puede hacer fisioterapia o ejercicios sencillos en casa, levantarse varias veces seguidas de la silla, caminar apoyándose en la pared o en un bastón, subir un par de escalones."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, creo que eso puedo hacerlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También le recomiendo suplementos para los huesos. Vitamina D 800 unidades al día y calcio 600 miligramos dos veces al día. Así reducimos el riesgo de fracturas si hubiera otra caída."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En casa también hay que hacer cambios. Retire alfombras que se muevan, asegúrese de que los pasillos estén bien iluminados, ponga barras de apoyo en el baño y evite muebles bajos que puedan estorbar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, tengo una alfombra en la entrada que siempre se me arruga, la quitaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Otra cosa importante. Cuando se levante de la cama o de la silla, hágalo despacio. Primero siéntese un momento y después póngase de pie. Así evitamos mareos por bajada brusca de la tensión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es verdad. Yo me levanto de golpe y ahí me tambaleo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. También quiero que salga a caminar todos los días un poco, aunque sea solo 10 o 15 minutos. El movimiento es clave para mantener fuerza y equilibrio."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Intentaré hacerlo, aunque a veces me da miedo volver a caer."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo entiendo, pero cuanto menos se mueva, más se debilitan los músculos. Con bastón o andador si hace falta, y en lugares seguros puede hacerlo sin problema."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: ajustar medicación, suplementos de calcio y vitamina D, ejercicios de fuerza y equilibrio, cambios en casa y caminar a diario. Le citaré en dos meses para ver evolución. Si vuelve a caerse antes, venga de inmediato."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Vamos a trabajar para que se mantenga seguro, activo y sin más caídas."
+    }
+  ]
+}

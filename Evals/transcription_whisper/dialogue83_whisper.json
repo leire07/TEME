@@ -1,0 +1,91 @@
+{
+  "scenario_id": "pediatria_01",
+  "title": "Consulta de pediatría - Asma infantil y alergia respiratoria",
+  "context": "Niño con asma no controlada y síntomas de alergia respiratoria",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿qué tal está el niño?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues bien, en general, pero últimamente tiene mucha tos, sobre todo por las noches, y alguna vez se despierta con pitos en el pecho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cada cuánto le pasa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Casi todas las semanas, diría que dos o tres veces, y cuando corre en el colegio también se agita y empieza a toser."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Qué hace cuando le ocurre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Le damos el inhalador azul, el salbutamol, y se le pasa al rato."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, pero el hecho de que necesite el inhalador varias veces al mes significa que el asma no está bien controlada. ¿Le han mandado algún inhalador de mantenimiento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo el azul."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces tenemos que dar un paso más. El inhalador azul es solo para las crisis. Lo que vamos a hacer es añadir un tratamiento diario para prevenirlas. Le voy a recetar un inhalador con corticoide, budesonida 200 mcg. Una inhalación por la mañana y otra por la noche. Eso va a reducir la inflamación de los bronquios."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y sigue usando el azul?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, pero solo si de repente le falta el aire o empieza a pitar. Con el tratamiento nuevo debería necesitarlo mucho menos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, como me comentas que tose más en primavera y con los cambios de tiempo, probablemente tenga también alergia respiratoria. Le voy a recetar un antihistamínico en jarabe, una vez al día, durante las temporadas de alergia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También es importante revisar la casa. Evitar polvo, peluches en exceso, humo de tabaco o ambientadores fuertes. Y cuando haga deporte, que siempre caliente un poco antes de correr."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, a veces juega al fútbol y enseguida se agita."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede jugar sin problema, pero siempre con el tratamiento de base. Si un día nota que antes de entrenar se pone nervioso o empieza con tos, puede usar el inhalador azul 15 minutos antes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: budesonida dos veces al día todos los días, salbutamol solo si lo necesita, antihistamínico en época de alergia y medidas ambientales en casa. Lo veremos en dos meses para ver cómo va."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, doctor. Gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A ustedes. Lo importante es que el niño pueda hacer vida normal, sin que el asma lo limite."
+    }
+  ]
+}

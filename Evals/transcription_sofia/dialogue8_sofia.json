@@ -1,0 +1,275 @@
+{
+  "scenario_id": "cardiologia_04",
+  "title": "Palpitaciones y taquicardia supraventricular - Inicio de tratamiento con betabloqueante",
+  "context": "Consulta de cardiología tras derivación por episodios de palpitaciones y alteraciones analíticas",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, pase y siéntese, por favor. He revisado los resultados que me envió su médico de cabecera. Veo que viene derivado por episodios de palpitaciones y algunos"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "alterados en la analítica. ¿Cómo se encuentra últimamente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, doctor. Pues la verdad es que un poco preocupado. Estas últimas semanas he notado como que el corazón me va muy rápido. Sobre todo cuando subo escaleras o hago algún esfuerzo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "incluso estando en reposo, siento como latidos muy fuertes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo su preocupación, es normal. ¿Con qué frecuencia tiene estos episodios? ¿Duran mucho tiempo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues mire, al principio era muy de vez en cuando, pero ahora diría que casi a diario. Sobre todo por las tardes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "me duran unos minutos, otras veces hasta media hora. Y luego me quedo como cansado, como si hubiera corrido una maratón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Y ha notado si hay algo que los desencadene? Estrés, café, ejercicio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ahora que lo dice, sí, tomo bastante café."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "me levanto muy temprano para trabajar y me tomo tres o cuatro cafés al día. ¿Puede ser eso?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Podría estar influyendo, sí. El café puede acelerar el ritmo cardíaco en personas sensibles."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fuma usted?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, pero poco, unos cinco o seis cigarrillos al día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya sé que debería dejarlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Efectivamente, sería muy recomendable. Tanto el tabaco como el exceso de cafeína pueden contribuir a las arritmias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ahora, déjeme explicarle los resultados de las pruebas. El electrocardiograma muestra algunos episodios de taquicardia supraventricular. Nada grave, pero sí"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "necesitamos controlarlo. Sus niveles de colesterol están un poco elevados, 240 miligramos por decilitro, cuando lo ideal sería mantenerlo por debajo de 200."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "taquicardia supraventricular, eso suena muy complicado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No se alarme, es más común de lo que piensa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Básicamente significa que su corazón late más rápido de lo normal debido a señales eléctricas que se originan por encima de los ventrículos. Es molesto, pero tratable."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo que vamos a hacer es empezar con un tratamiento farmacológico suave y algunas modificaciones en su estilo de vida."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Qué tipo de medicamento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "tendría que tomar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le voy a recetar Propranolol. Es un betabloqueante que ayuda a regular el ritmo cardíaco y reduce la presión arterial."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Empezaremos con una dosis baja, 40 miligramos cada 12 horas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es importante que lo tome siempre a la misma hora, preferiblemente con las comidas, para evitar"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "molestias estomacales."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y tiene efectos secundarios?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Como todos los medicamentos, puede tener algunos, aunque no todo el mundo los experimenta. Los más comunes son sensación de cansancio al principio, manos y pies fríos, y a veces puede afectar ligeramente el sueño. Si no..."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "cualquier cosa rara, me llama inmediatamente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También es muy importante que nunca deje el tratamiento de golpe. Siempre tiene que ser de forma gradual."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo. Y durante cuánto tiempo tendré que tomarlo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Dependerá de cómo evolucione. Algunos pacientes necesitan tomarlo durante meses."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "otros durante años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo importante es que vayamos controlando su respuesta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Quiero verle en un mes para evaluar cómo va tolerando el medicamento y si han mejorado los síntomas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y lo del colesterol, también necesito medicación para eso?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De momento vamos a intentar controlarlo con cambios en la dieta y ejercicio moderado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "reduzca las grasas saturadas, aumente el consumo de pescado, verduras y frutas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en tres meses no mejora lo suficiente, entonces consideraremos añadir algún fármaco para el colesterol."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Y sobre el café y el tabaco, el café intente reducirlo gradualmente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "de cuatro tazas, pase a dos durante una semana, luego a una."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede sustituirlo por té verde, que tiene menos cafeína."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y el tabaco, bueno, sabe que es lo mejor que puede hacer por su corazón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ha intentado dejarlo alguna vez?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, varias veces, pero siempre recaigo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Con el estrés del trabajo"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "lo entiendo perfectamente. Si quiere, puedo derivarle a la consulta de deshabituación tabáquica. Tienen programas muy efectivos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mientras tanto, al menos intente reducir la cantidad."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me parece buena idea."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Una pregunta más. ¿Puedo hacer ejercicio con normalidad?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por supuesto, pero con moderación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Evite ejercicios muy intensos al principio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Caminar a paso ligero, nadar suavemente, bicicleta en llano."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El ejercicio moderado y regular será muy beneficioso para su corazón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero si durante el ejercicio nota palpitaciones muy intensas, mareo o dolor en el pecho, pare inmediatamente."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y en el trabajo, alguna restricción? ¿Qué tipo de trabajo realiza?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Soy administrativo, paso muchas horas sentado delante del ordenador."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, no hay problema. Solo le recomiendo que se levante cada hora, dé un pequeño paseo por la oficina y trate de"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "el estrés. A veces las técnicas de relajación o meditación pueden ayudar mucho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto. ¿Y cuándo tengo que volver?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Como le decía, en un mes. Pero si antes de esa fecha tiene alguna molestia importante o los síntomas empeoran, no dude en llamar o acudir a urgencias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le voy a dar también un"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "para que se haga una analítica dentro de 15 días, para controlar cómo está respondiendo su organismo al tratamiento."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, muchas gracias. Salgo más tranquilo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Me alegro. Cuídese."
+    }
+  ]
+}

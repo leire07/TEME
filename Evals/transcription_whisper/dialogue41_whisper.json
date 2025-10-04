@@ -1,0 +1,187 @@
+{
+  "scenario_id": "cardiologia_15",
+  "title": "Consulta de cardiología - Revisión tras síndrome coronario",
+  "context": "Paciente de 55 años en seguimiento tras colocación de stent, fumador y con diabetes",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Bueno, entonces, ¿tienes 55 años?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Eres alérgico a algún medicamento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Algún alimento te cae mal?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, ninguno."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fumas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Desde que tuve el problema estoy fumando 4 o 5 cigarrillos al día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y desde qué edad fumas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Desde los 11 años, más o menos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "O sea, que llevas unos 40 años fumando."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No. Solo un vaso de vino en Navidad."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿Hipertensión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No tenía, pero desde que estuve ingresado me dieron medicación para la tensión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Colesterol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Diabetes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, también. Estoy con insulina desde que estuve ingresado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces lo tuyo lo llevó el cardiólogo, no el endocrino."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me lo dio el del corazón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pues deberías estar controlado también por un endocrino. ¿Recuerdas qué medicación tomas ahora?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La estaba buscando en la hoja, pero no la encuentro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tranquilo, aquí veo que antes tomabas Zanumet, Frecali, Simvastatina y Citalopram. Pero eso era antes del cateterismo, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Después de ese ingreso, ya cambió todo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tuviste un síndrome coronario en 2020. Te pusieron un stent en la bifurcación entre la descendente anterior y un ramo diagonal. Desde entonces sigues con enalapril 12 mg cada 12 horas, citalopram 10 mg, lorazepam si lo necesitas por la noche, rosuvastatina 20 mg en la cena, insulina lenta 26 unidades y Adiro para el corazón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, así es."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿El resto de medicación ya no la tomas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Hace cuánto no vienes a revisión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Un año."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, la última fue en julio del año pasado. También tienes apnea del sueño, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, entonces vamos a repetirte la analítica, pedir un ecocardiograma y una prueba de esfuerzo para ver cómo estás."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a revisarte ahora. Respira profundo, suelta, otra vez. Bien, los pulmones se escuchan algo hipoventilados, seguramente por el tabaco. El corazón está rítmico, sin soplos. La tensión hoy está en 125/85 y la frecuencia en 82."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya sabes que para el corazón es igual de malo fumar uno que diez."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Exacto, por eso hay que intentar dejarlo. Además de la revisión, si quieres perder peso, hay medicación que puede ayudarte y también hay tratamientos para dejar de fumar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, se lo comenté a la doctora. Me dijo que esperara un poco porque ahora estoy con 4 o 5 cigarrillos al día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo importante es que no abandones la idea de dejarlo. Entonces, analítica en ayunas, 12 horas. Prueba de esfuerzo y ecocardiograma aquí en la consulta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, lo pediré en el mostrador."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias. Hasta luego."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Hasta luego."
+    }
+  ]
+}

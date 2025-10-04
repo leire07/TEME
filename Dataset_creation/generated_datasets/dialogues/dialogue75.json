@@ -1,0 +1,153 @@
+{
+    "scenario_id": "neurologia_01",
+    "title": "Consulta de neurología - Revisión tras ictus isquémico",
+    "context": "Consulta externa de neurología",
+    "turns": [
+      {
+        "speaker": "Neurólogo",
+        "text": "Buenos días, ¿cómo se encuentra desde el último ingreso?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Mejor, aunque sigo con algo de debilidad en la mano derecha y me cuesta escribir.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Es normal, todavía está en fase de recuperación. Repasemos: tuvo un ictus isquémico en el hemisferio izquierdo hace tres meses, lo que explica esa afectación en la mano. ¿Ha seguido con la rehabilitación?",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, voy dos veces por semana y en casa hago los ejercicios que me enseñaron.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Muy bien. En el informe veo que la resonancia mostró una obstrucción en una arteria cerebral pequeña y la analítica reveló colesterol alto y algo de hipertensión. ¿Está tomando la medicación que le pautamos?",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, todos los días. La pastilla para la tensión, la del colesterol y la que me dieron para la sangre.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Perfecto. Concretamente: enalapril 10 mg cada 12 horas, atorvastatina 40 mg por la noche y clopidogrel 75 mg al día como antiagregante para evitar nuevos ictus. ¿Ha tenido sangrados o moratones con el clopidogrel?",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Algún morado en el brazo, pero nada más.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Eso es normal, nada preocupante. ¿Y la tensión arterial cómo la tiene en casa?",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Suelo estar entre 125/70 y 135/75 de máxima.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Muy bien controlada.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Lo que me preocupa es que a veces me duele la cabeza y pienso que me puede dar otro ictus.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Entiendo la preocupación. Los dolores de cabeza ocasionales no significan necesariamente un nuevo ictus. Lo importante es acudir a urgencias si nota pérdida súbita de fuerza, dificultad para hablar, visión borrosa o desviación de la boca. ¿Lo recuerda?",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, eso me lo explicaron en el hospital.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Perfecto. Vamos a explorarle: la tensión hoy está en 128/80, pulso regular. La movilidad de la pierna derecha ha mejorado mucho, la fuerza es casi normal. En la mano todavía hay algo de rigidez, pero los reflejos son adecuados. El habla está clara.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Me cuesta un poco la escritura fina, pero al menos ya agarro el bolígrafo.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Eso es un buen progreso. Mantenga la rehabilitación. También recomiendo caminar todos los días al menos 20–30 minutos, evitar tabaco y reducir la sal en la dieta.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "El tabaco lo dejé, y ahora camino con mi hija todas las tardes.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Excelente. Como complemento, podemos añadir ácido fólico y vitamina B12 si en la próxima analítica siguen algo bajos",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Está bien.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Entonces, plan: continuar con enalapril, atorvastatina y clopidogrel, mantener rehabilitación, control estricto de tensión y colesterol, dieta baja en sal, caminar a diario. Revisión en tres meses con analítica completa.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo, doctor.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Muy bien, está evolucionando favorablemente. Vamos a seguir trabajando para que no tenga nuevos episodios.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 940,
+      "turn_count": 22,
+      "avg_turn_length": 17.1
+    },
+    "estimated_total_duration": 260.0,
+    "generated_at": "2025-09-25T12:30:00Z"
+  }
+  

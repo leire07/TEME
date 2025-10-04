@@ -1,0 +1,87 @@
+{
+  "scenario_id": "cardiologia_20",
+  "title": "Consulta de cardiología - Sospecha de apnea del sueño",
+  "context": "Paciente de 40 años remitido por disnea, se descarta origen cardíaco",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Bueno, entonces tienes 40 años, no tomas medicación y, que sepamos, no tienes ninguna enfermedad. Te mandaron con nosotros por dificultad para respirar, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me vuelve otra vez. Era por la apnea del sueño. Me mandaron aquí para ver si podía ser del corazón antes de mandarme al neumólogo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ajá. La vez pasada me tomaste la tensión y me salió alta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, recuerdo. Tenías 140-94. Por eso te pedí un mapa de tensión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, me lo puse. Vale. ¿Y la analítica?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "También me la hice."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Entonces hoy vienes, más que nada, para hacer el ecocardiograma y revisar lo demás. Queda pendiente la prueba de esfuerzo, que es para ver cómo responde tu corazón al ejercicio."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, todavía no me la han hecho. Me dijeron que cuando me den esta cita, ya me mandarán la otra."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, pues mira, el mapa de tensión te salió muy bien. Así que es lo que llamamos hipertensión de bata blanca."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ah, vale. Sí, yo lo sospechaba, porque en casa siempre me sale bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Y la analítica también salió normal. El PRO BNP está por debajo de 70. Así que la fatiga o la falta de aire es poco probable que sea por el corazón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ah, qué alivio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Vamos entonces a hacerte el ecocardiograma. Quítate la ropa de la cintura para arriba, te tumbas y te giras mirando hacia la pared."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Así, no? Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. El eco está normal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Menos mal, porque a veces me ahogo por la noche, aunque es por épocas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, pero teniendo el eco bien, el mapa de tensión normal y la analítica también, lo más probable es que sea por la apnea del sueño."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, queda pendiente que te hagan la prueba de esfuerzo. Cuando la tengas hecha, vuelves, y ese día ya te damos todo el informe."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, perfecto."
+    }
+  ]
+}

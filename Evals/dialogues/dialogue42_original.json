@@ -1,0 +1,297 @@
+{
+    "scenario_id": "cardiologia_17",
+    "title": "Consulta de cardiología - Revisión inicial por soplo",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "La primera vez que vienes con nosotros a cardiología, ¿verdad? ¿Tienes 65 años?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale. Te voy a hacer unas preguntas. ¿Tienes alguna alergia a medicamentos?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Algún alimento te cae mal?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Que yo sepa, no.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Fumas?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, lo dejé hace 21 años.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, entonces eres exfumador. ¿Alcohol?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Solo a veces, un fin de semana que no tengo que conducir, una copita de vino en la comida.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien. ¿Tienes hipertensión? ¿Tomas medicación para la tensión?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No. Solo tomo medicación para el colesterol.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Ah, hipercolesterolemia.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, me dijeron que mejor tomar la dosis mínima.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Claro, eso no es para que lo notes, es preventivo. El colesterol alto no da síntomas hasta que aparece el infarto.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces, no eres diabético, no tienes hipertensión, pero sí colesterol alto tratado. ¿Tienes ácido úrico elevado?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Me salió un poco alto en una analítica, pero nunca he tenido gota.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, entonces nada grave.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Alguna vez te han dicho que tienes apnea del sueño?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No diagnosticada, pero en casa me dicen que ronco mucho. Yo a veces me levanto cansado.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Es probable que tengas apnea, habría que estudiarlo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Y ahora vienes porque te han mandado revisión del corazón por un soplo. ¿Desde cuándo lo sabes?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Uf, hace muchos años. En las revisiones médicas del trabajo me lo detectaron. Después me hicieron un ecocardiograma y una prueba de esfuerzo.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien. Entonces ya te lo habían estudiado, pero ahora lo seguimos nosotros.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Cuándo fue tu última analítica?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Hace unos ocho o nueve meses.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, entonces vamos a pedir una analítica completa, un ecocardiograma y una prueba de esfuerzo.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Me quito el reloj?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No hace falta.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Es baratito, pero cuenta los pasos.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Lo importante es que funcione.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Toma aire profundo… suelta… otra vez… muy bien. Tienes un soplo sistólico en el foco aórtico. Los pulmones están bien ventilados, sin ruidos agregados. La tensión está muy bien, 120/70, frecuencia cardíaca 78.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "A veces me fatigo un poco al subir escaleras.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Es normal que notes algo, pero ahora mismo todo está controlado.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Alguna vez te han hecho un TAC de tórax?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No. Una vez me hicieron una resonancia del corazón.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Ah, vale, eso es distinto. Entonces TAC no.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, fue hace un par de años. No sé dónde tengo los resultados porque ahora estoy viviendo en casa de mi madre.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entiendo. Mejor así, además así la casa donde vivías no queda sola.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, mi nieta vive allí y así está habitada. Hoy en día no te puedes fiar, si no la ocupan.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Claro, mejor que esté cuidada. ¿Qué edad tiene tu nieta?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "26.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Ah, ya es mayor.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces vamos a pedirte las analíticas, el eco y la prueba de esfuerzo. Si te haces la analítica aquí, mejor, porque hacen todo completo. En otros sitios a veces faltan cosas.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, así también me ahorro usar el seguro privado.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Exacto, mejor aprovechar lo público, así no suben la cuota del seguro.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Es verdad.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 1100,
+      "turn_count": 45,
+      "avg_turn_length": 24.4
+    },
+    "estimated_total_duration": 340.0,
+    "generated_at": "2025-09-24T23:40:00Z"
+  }
+  

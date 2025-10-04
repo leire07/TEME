@@ -1,0 +1,127 @@
+{
+  "scenario_id": "consulta_cansancio_concentracion_01",
+  "title": "Consulta por cansancio y dificultad de concentración",
+  "context": "Paciente con semanas de cansancio persistente, dificultades de concentración y sueño no reparador; antecedente de hipertensión en tratamiento con enalapril.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días. Vengo porque desde hace varias semanas me siento muy cansado y me cuesta concentrarme en el trabajo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ese cansancio es constante o aparece en determinados momentos del día?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es casi constante, sobre todo por la tarde. Además, he notado que duermo peor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Ha tenido pérdida de peso, fiebre, dolor en alguna parte del cuerpo o algún otro síntoma asociado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, peso igual que siempre, solo algo de dolor de cabeza, pero lo achaco al estrés."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Tiene antecedentes médicos importantes o alguna medicación habitual?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo tomo en el april 10 miligramos por la mañana para la tensión, nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y cómo está su tensión últimamente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "En caja me suele salir sobre 140-90, aunque a veces un poco más alta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. Voy a tomarle la tensión ahora mismo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tiene 145-92 milímetros de mercurio, todavía un poco elevada."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No es grave de inmediato, pero sí conviene mantenerla más controlada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Podríamosar la medicación, por ejemplo el enalapril se debe tomar cada 12 horas porque es el tiempo que hace efecto, pero antes quiero descartar que el cansancio tenga otra causa, como anemia, alteraciones de la tiroides o déficit de vitaminas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Qué me recomienda?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le pediré una analítica completa con hemograma, perfil tiroideo y vitamina B12. Mientras tanto, mantenga un buen descanso nocturno, intente caminar al menos 30 minutos al día y reduzca el consumo de sal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Intentaré hacerlo, aunque con el trabajo me cuesta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo sé, pero incluso pequeñas rutinas ayudan."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Respecto a la tensión, si siguen cifras altas pese a las medidas, podríamos añadir un segundo medicamento, como amlodipino 5 miligramos una vez al día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso sería de por vida?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En la mayoría de los casos la hipertensión requiere tratamiento crónico, aunque los fármacos pueden ajustarse o reducirse si mejora su estilo de vida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y el cansancio?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si la analítica muestra anemia, podemos tratarla con hierro o vitaminas. Si la tiroides está alterada, lo abordaríamos con medicación específica."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A veces el cansancio también es consecuencia del estrés o del sueño poco reparador, en cuyo caso recomendaríamos pautas de higiene del sueño."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cuándo tendré los resultados?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En unos 5 o 7 días. Le daré cita para revisarlos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si aparece empeoramiento, como falta de aire, dolor en pecho o mareos intensos, debe venir antes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo. Muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. No se preocupe."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+    "scenario_id": "neumologia_06",
+    "title": "Consulta de neumología - Asma no controlada",
+    "context": "Consulta externa de neumología",
+    "turns": [
+      {
+        "speaker": "Neumólogo",
+        "text": "Hola, ¿qué tal? ¿Cómo has estado con el asma?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Pues regular, doctor. Últimamente me despierto varias noches con pitidos en el pecho y sensación de ahogo.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "¿Cada cuánto te pasa?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Casi todas las semanas, a veces dos veces. Uso el inhalador azul y me calma, pero al cabo de unos días vuelvo a estar igual.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "¿Durante el día también notas tos o falta de aire?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, sobre todo al subir escaleras o si voy deprisa. Y cuando hace frío también me cuesta.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Vale, eso significa que el asma no está bien controlada. El inhalador azul solo es para emergencias, no sirve como tratamiento diario.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Ya, pero es lo único que me habían dado.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Lo que necesitas ahora es un inhalador de mantenimiento, para evitar que aparezcan esas crisis. Te voy a recetar uno que combina dos medicamentos: un corticoide y un broncodilatador. Se llama budesonida/formoterol.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y cómo lo uso?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Dos veces al día: una inhalación por la mañana y otra por la noche, todos los días, aunque te encuentres bien. Y además, si tienes una crisis, puedes usar el mismo inhalador como rescate, una inhalación extra en ese momento.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entonces, ¿ya no uso el azul?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Exacto, con este es suficiente. El azul lo dejamos solo como respaldo, pero lo normal es que no lo necesites.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale, me parece bien.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Además, me contaste que tienes mocos y estornudos a menudo, ¿verdad?",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, sobre todo en primavera y cuando limpio en casa.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Eso seguramente es rinitis alérgica. Te recomiendo un spray nasal de corticoide, mometasona, una pulverización en cada fosa al día. Y si notas mucho picor o congestión, puedes tomar un antihistamínico.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bien.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Muy importante también: evita el humo, los ambientadores fuertes, ventila bien la casa y procura no tener alfombras o peluches, porque acumulan polvo.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, eso en mi casa es complicado, pero lo intentaré.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Haz lo que puedas, todo suma. Entonces, plan: inhalador nuevo mañana y noche, mismo inhalador si aparece crisis, spray nasal diario, medidas ambientales. Nos veremos en unos dos meses para ver si has mejorado.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, gracias doctor.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "A ti. Con este tratamiento deberías notar mejoría muy pronto.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 930,
+      "turn_count": 23,
+      "avg_turn_length": 16.2
+    },
+    "estimated_total_duration": 255.0,
+    "generated_at": "2025-09-25T16:00:00Z"
+  }
+  

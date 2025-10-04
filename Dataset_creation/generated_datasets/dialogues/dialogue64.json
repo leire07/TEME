@@ -1,0 +1,129 @@
+{
+    "scenario_id": "endocrinologia_03",
+    "title": "Consulta de endocrinología - Manejo de obesidad con semaglutida",
+    "context": "Consulta externa de endocrinología",
+    "turns": [
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Buenos días, ¿qué tal estás?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bien… bueno, la verdad es que preocupado por el peso. He intentado dietas pero no consigo bajar, y cada vez me noto más cansado.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Entiendo. Vamos a repasar. Pesas ahora 108 kilos y mides 1,68, lo que da un IMC de 38, que entra en obesidad. ¿Qué cambios de alimentación has hecho últimamente?",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "He intentado cenar menos y quitarme los dulces, pero me cuesta mucho. Además, con el trabajo me paso el día sentado.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Vale. ¿Tienes antecedentes de diabetes o hipertensión en la familia?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, mi padre era diabético.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Bueno, pues lo primero es que ya sabes que el exceso de peso aumenta el riesgo de diabetes, hipertensión, colesterol alto… y además sobrecarga articulaciones. Pero no estás solo: hoy en día tenemos más herramientas para ayudarte.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Hay algún tratamiento que no sea solo dieta?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Sí. Lo fundamental sigue siendo la alimentación y el ejercicio, pero podemos apoyarnos en medicación. Te voy a proponer Semaglutida, que es un inyectable una vez a la semana. Ayuda a controlar el apetito y mejora el azúcar, incluso en personas sin diabetes.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Inyectable? Uf…",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Es una aguja muy fina, apenas se nota, y se pone en la barriga o en el muslo. La mayoría de pacientes lo tolera bien.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y tiene efectos secundarios?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Al principio puede dar náuseas o malestar de estómago, pero suelen mejorar en unos días. Lo revisaremos juntos.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale, lo probaré.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Además, empezaremos con una dieta equilibrada: cinco comidas pequeñas, mucha verdura, fruta con moderación, proteína magra y poca fritura. Y ejercicio: aunque sea caminar 30 minutos diarios, ya es un gran paso.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, porque ahora apenas me muevo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Entonces: plan de inicio de Semaglutida con dosis progresiva, control analítico en 3 meses, dieta y ejercicio. Si bajas un 5–10% del peso, ya habremos ganado mucho para tu salud.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, doctor.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Muy bien, vamos a intentarlo juntos.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 960,
+      "turn_count": 19,
+      "avg_turn_length": 33.7
+    },
+    "estimated_total_duration": 270.0,
+    "generated_at": "2025-09-25T05:50:00Z"
+  }
+  

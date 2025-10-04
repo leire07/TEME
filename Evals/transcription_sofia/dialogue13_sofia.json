@@ -1,0 +1,151 @@
+{
+  "scenario_id": "urologia_01",
+  "title": "Infección urinaria no complicada - Tratamiento con fosfomicina",
+  "context": "Consulta de medicina general por disuria y polaquiuria de inicio reciente",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, doctor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vengo porque desde ayer tengo muchas ganas de orinar, pero hago muy poca cantidad y me arde bastante."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido fiebre?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "dolor en la espalda o escalofríos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo el ardor y esa sensación de urgencia."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Es la primera vez que le ocurre o ya ha tenido infecciones de orina antes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Alguna vez hace años, pero se me pasó con antibiótico."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Toma algún medicamento?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "habitualmente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, tomo enalapril 10 miligramos al día para la tensión. Nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Voy a tomarle la tensión y luego le pediré un análisis de orina rápido aquí mismo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La tensión está bien, 132/85 milímetros de mercurio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El test de orina muestra leucocitos y nitritos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "positivos, lo que sugiere infección urinaria."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entonces necesito antibiótico?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. Lo indicado en su caso es un tratamiento corto. Le voy a recetar fosfomicina trometamol, 3 gramos en dosis única, que se disuelve en agua y se toma por la noche con la vejiga vacía."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "la dosis. Sí, en infecciones urinarias no complicadas suele ser suficiente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si los síntomas no mejoran en 48 horas, debe volver para valorar un cultivo y quizá otro antibiótico."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y puedo tomar algo para aliviar el dolor al orinar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede tomar paracetamol 1 gramo cada 8."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "horas, si tiene dolor o molestias generales. También es importante beber bastante agua, al menos 1,5, 2 litros al día, salvo que tenga alguna contraindicación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Debo seguir alguna dieta especial?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No hace falta una dieta especial, pero conviene evitar alcohol y café porque pueden irritar la vejiga."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Puedo contagioso?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, no se transmite como una infección respiratoria, aunque sí puede haber factores de riesgo relacionados con la higiene o las relaciones sexuales."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo. ¿Y si me vuelve a pasar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si se repite con frecuencia haremos estudios adicionales para descartar causas predisponentes, pero lo"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "que sea un episodio aislado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Entonces, hoy mismo tome la fosfomicina 3 gramos esta noche."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Beba bastante líquido y si en dos días sigue con síntomas o aparece fiebre o dolor lumbar, vuelva de inmediato."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Que se mejore pronto."
+    }
+  ]
+}

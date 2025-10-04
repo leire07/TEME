@@ -1,0 +1,165 @@
+{
+    "scenario_id": "neumologia_09",
+    "title": "Consulta de neumología - Bronquitis crónica (EPOC)",
+    "context": "Consulta externa de neumología",
+    "turns": [
+      {
+        "speaker": "Neumólogo",
+        "text": "Buenos días, ¿cómo está?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Un poco cansado, doctor. Vengo porque desde hace años tengo tos con flemas, pero últimamente es más seguido y me preocupa.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "¿Desde cuándo tiene esa tos casi a diario?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Yo diría que desde hace más de dos años. Siempre por las mañanas toso y echo esputo, normalmente blanco o amarillento.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "¿Ha fumado?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, fumé durante treinta años, pero lo dejé hace cinco.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Muy bien, dejarlo fue lo mejor que pudo hacer.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Pero aún así, cada invierno empeoro. Me canso al subir cuestas y me cuesta recuperar el aire si camino rápido.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Entiendo. La espirometría que le hicimos muestra una obstrucción persistente de las vías respiratorias, compatible con bronquitis crónica, que es una forma de EPOC. Eso explica sus síntomas.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y tiene cura?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "No tiene cura, pero se puede controlar. Lo fundamental es que ya no fuma, y eso frena el avance. Ahora lo que haremos es mejorar los síntomas. Le voy a recetar un inhalador de broncodilatador de acción larga, una vez al día, para que respire mejor.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y ese inhalador lo tengo que usar siempre?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Sí, es un tratamiento de mantenimiento, no solo cuando se encuentre mal.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y si me ahogo de repente?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Para eso tendrá un inhalador de rescate, el salbutamol, una o dos inhalaciones solo cuando note falta de aire aguda.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale. ¿Y para la flema?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Puede usar acetilcisteína 600 mg diaria en épocas de más mucosidad, y además es importante beber agua abundante y, si puede, hacer ejercicios de fisioterapia respiratoria, que ayudan a expulsar el moco.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Está bien.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "También recomiendo caminar todos los días, aunque sea a paso lento, y mantenerse activo. El reposo prolongado empeora el pulmón.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, suelo salir a pasear, aunque me canso rápido.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Eso es suficiente, con el tratamiento debería aguantar más. Además, le recomiendo vacunarse contra la gripe todos los años y ponerse la del neumococo, porque las infecciones pueden complicar mucho la bronquitis crónica.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Nunca me la puse, tendré que hacerlo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Muy bien. Entonces, plan: inhalador diario de mantenimiento, salbutamol solo en caso de ahogo, mucolítico en épocas de más flema, caminar a diario, mucha hidratación y vacunas al día. Lo citaré en tres meses para ver cómo evoluciona.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto, doctor.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Con eso debería notar mejoría y menos crisis en invierno.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 890,
+      "turn_count": 25,
+      "avg_turn_length": 13.5
+    },
+    "estimated_total_duration": 270.0,
+    "generated_at": "2025-09-25T19:00:00Z"
+  }
+  

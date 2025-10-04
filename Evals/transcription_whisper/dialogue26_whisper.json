@@ -1,0 +1,255 @@
+{
+  "scenario_id": "cardio_cansancio_molestias_pecho_01",
+  "title": "Consulta cardiología: cansancio de esfuerzo, dolor torácico y sospecha de insuficiencia cardíaca",
+  "context": "Paciente con progresiva intolerancia al ejercicio, sensación de presión torácica al esfuerzo, antecedentes cardiovasculares y hallazgos en la exploración sugestivos de compromiso cardiometabólico. Se solicitan pruebas complementarias y se inician medidas farmacológicas y de estilo de vida.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿cómo se encuentra?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, doctor. La verdad, un poco preocupado. Me noto cada vez más cansado y con molestias en el pecho. Antes podía subir escaleras sin problema y ahora tengo que parar varias veces. También me noto muy fatigado incluso al caminar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuénteme con detalle, ¿qué tipo de molestias nota en el pecho?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es como una presión fuerte, un dolor agudo. Aparece al caminar rápido o al subir escaleras. Si me siento se me pasa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Desde cuándo nota estos síntomas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Desde hace unos seis meses, pero últimamente más seguidos y más intensos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cuánto suele durar cada episodio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entre 5 y 10 minutos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Se acompaña de mareos, sudoración, palpitaciones o dificultad para respirar?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me sudan las manos, me falta el aire y a veces siento el corazón acelerado. También ronco mucho por la noche y hay veces que parece que me quedo sin aire."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso podría ser apnea del sueño."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Duerme con almohadas extra?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, necesito al menos dos para no ahogarme."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a repasar sus antecedentes. ¿Es hipertenso?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, diagnosticado hace 10 años. Tomo enalapril 20 mg cada 12 horas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Diabetes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No diagnosticada, pero la glucosa me salió algo alta hace unos años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Colesterol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, siempre alto. Nunca me trataron con medicación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Infartos, anginas o arritmias previas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Problemas renales o pulmonares?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No que yo sepa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cirugías?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Apendicitis a los 20 años y artroscopia de rodilla a los 55."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Alguna alergia a medicamentos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ninguna conocida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Antecedentes familiares?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mi padre falleció de un infarto a los 65 años, mi madre tenía hipertensión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fuma actualmente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, lo dejé hace 5 años, pero fumé un paquete diario durante treinta años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Alguna cerveza y una copa de vino los fines de semana."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cómo es su dieta?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bastante pan, embutidos y queso. Poca verdura."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Hace ejercicio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Antes caminaba todos los días. Ahora no puedo porque me fatigo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿No ha notado hinchazón en las piernas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, sobre todo en los tobillos al final del día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Orina con normalidad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, aunque me levanto dos o tres veces por la noche."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Dolor en las piernas al caminar?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "En la izquierda, en la pantorrilla, cuando camino un rato."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Vamos a explorarlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Su tensión arterial es de 150/95 mmHg. La frecuencia de 88. El índice de masa corporal es de 30."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En la auscultación cardíaca escucho un soplo sistólico leve en el foco mitral. En los pulmones noto crepitantes en bases. Presenta edemas leves en ambos tobillos. El pulso pedio izquierdo es débil comparado con el derecho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Estos hallazgos sugieren que puede tener insuficiencia cardíaca leve, enfermedad coronaria y también enfermedad arterial periférica."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Es grave, doctor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No lo sabemos aún. Puede tratarse de angina estable, hipertensión mal controlada, insuficiencia cardíaca inicial e incluso apnea del sueño. Pediremos pruebas para aclararlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Analítica completa, electrocardiograma, ecocardiograma, prueba de esfuerzo, holter, radiografía de tórax, índice tobillo-brazo y, si procede, polisomnografía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Son seguras esas pruebas?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Completamente. La de esfuerzo es la más exigente, pero estará monitorizado todo el tiempo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y mientras tanto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mantenga enalapril. Añadiremos atorvastatina 40 mg por la noche para el colesterol y aspirina 100 mg al día como prevención. También le prescribiré nitroglicerina sublingual 0,4 mg en caso de dolor. Si la tensión no mejora, añadiremos amlodipino 5 mg al día. Y si los edemas aumentan, probablemente necesite furosemida 20 mg por la mañana."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿No es mucha medicación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es lo necesario para proteger su corazón y reducir riesgos de infarto o ictus. Además es fundamental cambiar hábitos: reducir la sal, seguir dieta mediterránea, caminar a diario según la tolerancia, perder 6 a 8 kilos, medir la tensión en casa, limitar alcohol y evitar embutidos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Me dará pautas más concretas de dieta?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, le entregaré un folleto y podemos derivarle a nutrición."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si empeoro antes de la próxima cita?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si el dolor aparece en reposo y no cede con nitroglicerina, acuda a urgencias. También si nota mucha falta de aire o los tobillos se hinchan más."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchas gracias doctor por todo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Nos vemos en cuatro semanas con las pruebas. Lo importante es que hemos detectado a tiempo la situación y tenemos margen para mejorar su calidad de vida."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "scenario_id": "oncologia_02",
+  "title": "Consulta de oncología - Evaluación de nódulo mamario",
+  "context": "Paciente que detecta un bulto en la mama derecha y acude a consulta para evaluación diagnóstica",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, cuéntame, ¿qué es lo que te preocupa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues me noté hace un par de semanas un bulto en la mama derecha al ducharme. Pensé que podía ser algo del ciclo, pero no se ha ido y me da miedo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Hiciste bien en venir. ¿Has tenido dolor, secreción por el pezón o algún cambio en la piel?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Dolor no, pero sí noto la zona un poco más dura. No he visto secreción ni hundimiento en el pezón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿Antecedentes familiares de cáncer de mama?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mi madre lo tuvo a los 65 años. Le hicieron operación y tratamiento. Y desde entonces está bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. Eso lo tendremos en cuenta. Vamos a hacerte una exploración física. Por favor, quítate la parte de arriba."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Noto un nódulo de unos 2 centímetros en el cuadrante superior externo de la mama derecha. Es móvil, no parece adherido a la piel. En la axila no palpo ganglios agrandados."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es malo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No tiene por qué. Muchos bultos en la mama resultan ser benignos, como fibroadenomas o quistes. Pero lo correcto es estudiarlo a fondo. Te voy a pedir una mamografía y una ecografía mamaria. Y si en la imagen hay dudas, haremos también una biopsia con aguja para estar completamente seguros."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y mientras tanto, qué hago?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De momento no necesitas tratamiento específico, pero si notas dolor en la zona, puedes tomar paracetamol un gramo cada 8 horas según necesidad. Y si se pone roja o caliente, consulta con tu médico de atención primaria."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. ¿Es rápido lo de las pruebas?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, te daré preferencia para que la mamografía y la ecografía se hagan en los próximos días. Después de eso, volveremos a vernos con los resultados y decidiremos el siguiente paso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me da miedo que sea algo malo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo tu preocupación, es normal. Pero recuerda, muchos nódulos no son cáncer. Y si lo fuera, detectado así de pequeño, el pronóstico es muy bueno. Lo importante es no dejarlo pasar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Está bien, entonces plan: mamografía, ecografía y si hace falta, biopsia. Te receto paracetamol para el dolor si aparece y una crema antiinflamatoria si notas la zona muy sensible. Nos vemos en cuanto tengamos los resultados."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, doctor. Gracias a ti."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo importante es que lo hemos detectado a tiempo y lo estamos estudiando bien."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "scenario_id": "otorrinolaringologia_01",
+  "title": "Otitis media barotraumática tras vuelo - Tratamiento antibiótico y medidas de alivio",
+  "context": "Consulta de otorrinolaringología por dolor de oído intenso tras viaje en avión",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenas tardes, ¿qué le sucede?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Buenas, vengo porque tengo un dolor de oído terrible que no se me quita. Llevo ya cinco días así y estoy desesperada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Cuándo empezó exactamente el dolor? ¿Recuerda si había algún desencadenante?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, empezó justo después de un vuelo que cogí el lunes pasado, era un vuelo largo de Madrid a Buenos Aires. Durante el aterrizaje sentí como"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "me fuera a explotar el oído derecho. Un dolor muy fuerte. Pensé que se me pasaría, pero ha ido a peor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido problemas de oído antes? Catarros, sinusitis, algo así recientemente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues sí, la semana antes del viaje estuve un poco constipado"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "con muchos y la nariz tapada, pero pensé que ya estaba mejor cuando cogí el avión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya veo. Ese es probablemente el origen del problema. ¿Cómo describiría el dolor? ¿Es constante o viene y va?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es constante, doctor, como una presión muy fuerte, como si tuviera"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "algo metido muy adentro. A veces siento como pinchazos y cuando me sueno la nariz empeora mucho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "También noto que oigo peor de ese oído."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido fiebre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, ayer por la noche tuve algo de fiebre, 37,8 grados. Y también me noto"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "como mareada a ratos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha probado algún analgésico?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, he tomado ibuprofeno, pero apenas me alivia. Me tomo 600 miligramos cada 8 horas, como se suele indicar, pero el dolor persiste."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Déjeme examinarle. Voy a mirarle el oído con el otoscopio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Efectivamente, tiene el tímpano muy inflamado y enrojecido. Se ve claramente que hay líquido acumulado detrás. Es lo que llamamos una otitis media barotraumática."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Eso, ¿qué significa exactamente?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Significa que durante el vuelo, al tener las vías respiratorias"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "inflamadas por el catarro, no se pudo igualar bien la presión entre el oído medio y el exterior."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Esto provocó una inflamación y acúmulo de líquido,"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "que ahora se ha infectado. Es bastante frecuente cuando se vuela estando constipado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es grave? Se me va a quedar así para siempre?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No se preocupe, no es grave y tiene muy buen tratamiento."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo que vamos a hacer es prescribirle un antibiótico para combatir la infección y algunos medicamentos para aliviar los síntomas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Qué antibiótico?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le voy a recetar amoxicilina clavulánico de 875 mg."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tiene que tomar un comprimido cada 8 horas durante 7 días. Es importante que se tome todo el tratamiento completo, aunque se encuentre mejor antes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y para el dolor? Porque el ibuprofeno no me está haciendo mucho efecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Continúe con el ibuprofeno, pero puede aumentar la dosis."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "600 miligramos cada 6 horas en lugar de cada 8. Siempre con las comidas para proteger el estómago."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si el dolor es muy intenso, puede añadir paracetamol 1 gramo entre las tomas de ibuprofeno."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Algo más para desinflamar el oído?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, también le voy a dar un descongestionante nasal para ayudar a abrir la trompa de Eustaquio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Use un spray de oximetazolina, dos pulverizaciones en cada fosa nasal, tres veces al día, pero no más de cinco días seguidos, porque puede crear dependencia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mm."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿poder hacer algo más para aliviarme?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. Aplíquese calor seco en el oído doloroso. Puede usar una bolsa de agua caliente, envuelta en una toalla, unos 15, 20 minutos varias veces al día. También puede hacer vahos con agua caliente para ayudar a descongestionar las vías respiratorias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cuándo debería empezar a notar mejoría?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Con el antibiótico en 48 o 72 horas debería empezar a sentirse mejor. El dolor debería disminuir y la fiebre desaparecer. Si en tres días no nota ninguna mejoría o si empeora, debe volver."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Puedo volar otra vez?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tengo que volver a España en dos semanas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mejor espere a estar completamente curado antes de volar. Una otitis no resuelta puede empeorar mucho con los cambios de presión. Cuando termine el tratamiento y esté sin síntomas al menos una semana, entonces puede volar sin problema."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No tome alcohol mientras esté con el antibiótico."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Es alérgico a algún medicamento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, que yo sepa no."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Entonces, tome la medicación como le he indicado y en unos días se encontrará mucho mejor. Si tiene alguna duda o empeora, no dude en volver. ¿Alguna pregunta más?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, muchas gracias. Ya me quedo más tranquilo sabiendo que es lo que tengo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Que se mejore pronto."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "scenario_id": "oncologia_01",
+  "title": "Consulta de oncología - Seguimiento tras cáncer de mama",
+  "context": "Paciente operada de cáncer de mama, completó quimio y radioterapia, ahora en tratamiento con tamoxifeno",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Cómo te has sentido desde la última vez?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mejor. Ya con más energía. Después de la quimio estaba muy cansada, pero poco a poco voy recuperando."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Me alegro. Vamos a repasar. Te operaron hace un año, te quitaron el tumor de la mama izquierda y después hiciste quimioterapia y radioterapia. Ahora estás con el tratamiento hormonal, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Tomo una pastilla por la mañana todos los días."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ese es el tamoxifeno. Es importante que lo sigas tomando durante al menos 5 años, porque reduce mucho el riesgo de que vuelva a aparecer. ¿Has notado efectos secundarios?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A veces sofocos, sobre todo por la noche."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es bastante común. Si se hacen muy molestos, podemos valorar medicación para controlarlos. ¿Dolores óseos, sangrados o molestias nuevas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Te exploré la última vez y estaba todo bien. Hoy he revisado la analítica y la mamografía. No hay signos de recaída. Los marcadores tumorales también están dentro de la normalidad."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¡Qué alivio! Tenía miedo de que volviera."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo entiendo. Es una preocupación lógica, pero hoy todo está bien. Ahora toca seguir con el tratamiento hormonal y controles cada seis meses."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te receto de nuevo el tamoxifeno, 20 miligramos, una tableta al día. Recuerda, si notas bultos, dolor persistente o sangrado vaginal, no esperes a la cita. Pide consulta antes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, lo tendré en cuenta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, nos vemos en 6 meses para repetir mamografía y analítica."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada, lo estás haciendo muy bien, mucho ánimo."
+    }
+  ]
+}

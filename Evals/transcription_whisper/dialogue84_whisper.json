@@ -1,0 +1,87 @@
+{
+  "scenario_id": "pediatria_02",
+  "title": "Consulta de pediatría - Neumonía infantil leve",
+  "context": "Niño con fiebre y tos persistente, diagnóstico clínico de neumonía derecha leve tratada ambulatoriamente",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿qué tal está el niño?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Lleva varios días con fiebre y mucha tos. Ayer parecía que estaba un poco mejor, pero hoy volvió a subir la fiebre y se le nota más cansado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cuántos días lleva con fiebre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Unos cinco. Al principio pensábamos que era un resfriado, pero cada vez tose más fuerte y no duerme casi nada por la noche."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha vomitado o tenido diarrea?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo la tos y la fiebre."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a explorarlo. El niño tiene 38,7 grados de fiebre, la saturación de oxígeno es 96% y al auscultar el pulmón derecho escucho ruidos y crepitantes en la base. Esto me hace pensar en una neumonía en el pulmón derecho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No parece grave, porque está respirando bien y los niveles de oxígeno son correctos. Por eso podemos tratarlo en casa con antibióticos y control."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué tratamiento necesita?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le voy a recetar amoxicilina en jarabe. Tres tomas al día durante siete días. Además, paracetamol si tiene fiebre o está molesto. Mucho líquido y reposo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, ¿y la tos?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La tos es parte de la neumonía. No conviene darle jarabes para cortarla. Poco a poco irá mejorando con el antibiótico. Lo que sí ayuda es mantenerlo bien hidratado y elevar un poco la cabecera de la cama para que respire mejor por la noche."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal que siga tosiendo incluso después de acabar el tratamiento, a veces durante dos o tres semanas. Pero lo importante es que la fiebre desaparezca y que cada día lo note un poco mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si la fiebre no baja?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si después de 48 horas de antibiótico sigue con fiebre alta o si lo ve muy decaído, con dificultad para respirar o con los labios morados, debe acudir de inmediato a urgencias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, entonces plan: antibiótico una semana, paracetamol si fiebre, líquidos abundantes y reposo. Revisión al finalizar el tratamiento."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, doctor, gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A ustedes, con este plan debería mejorar pronto."
+    }
+  ]
+}

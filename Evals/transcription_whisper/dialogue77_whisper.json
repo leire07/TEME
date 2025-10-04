@@ -1,0 +1,95 @@
+{
+  "scenario_id": "neurologia_03",
+  "title": "Consulta de neurología - Epilepsia controlada con recaída aislada",
+  "context": "Revisión de paciente epiléptico en tratamiento con levetiracetam tras una crisis aislada",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Cómo se encuentra?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bastante bien, aunque hace dos meses tuve una crisis y me asusté un poco porque llevaba tiempo sin ninguna."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuénteme cómo fue."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Estaba en casa, sentado, y de repente noté como un mareo raro y luego perdí la conciencia. Mi pareja me dijo que estuve unos segundos con movimientos en los brazos. Después me quedé muy cansado y con dolor de cabeza."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Recuerda cuánto tiempo había pasado desde la última crisis?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Más de un año."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Está tomando Levetiracetam 500 miligramos cada 12 horas, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, siempre lo tomo. No me salto ninguna dosis."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. La analítica y el electroencefalograma que le hicimos el mes pasado están dentro de lo esperado. Puede que la crisis haya sido por falta de sueño o estrés. ¿Cómo estaba esos días?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Justo había dormido mal y estaba muy nervioso en el trabajo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso lo explica. En muchos pacientes, el estrés, el cansancio y el alcohol son desencadenantes habituales. ¿Consume alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy poco. Solo alguna cerveza al fin de semana."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, eso no suele ser problema. ¿Y tengo que cambiar la medicación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De momento no, lo importante es seguir con el levetiracetam a la misma dosis y vigilar. Solo si aparecieran más crisis en los próximos meses, ajustaríamos la dosis o valoraríamos otro fármaco."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien. ¿Y puedo seguir conduciendo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Según la normativa, tras una crisis conviene suspender la conducción durante al menos seis meses sin nuevos episodios. Lo anotaremos en su informe."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, lo entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le aconsejo mantener horarios de sueño regulares, evitar el alcohol en exceso y no saltarse nunca la medicación. También es útil llevar un registro con la fecha y circunstancias de cada crisis, si aparece otra."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Lo haré. Así tengo controlado todo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Entonces, plan: continuar con levetiracetam, mejorar descanso y hábitos, no conducir de momento y revisión en tres meses. Si hay una nueva crisis antes, venga de inmediato."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Está evolucionando bien. Solo tenemos que mantener la regularidad para evitar recaídas."
+    }
+  ]
+}

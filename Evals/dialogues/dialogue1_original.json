@@ -1,0 +1,224 @@
+{
+  "scenario_id": "cardiologia_01",
+  "title": "Consulta de cardiología",
+  "context": "Consulta externa de cardiología",
+  "turns": [
+    {
+      "speaker": "Cardiólogo",
+      "text": "Buenos días, pase y siéntese. ¿Qué le trae hoy a la consulta de cardiología?",
+      "duration_estimate": 4.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Buenos días, doctor. Me derivó mi médico de cabecera porque llevo la tensión alta y últimamente he tenido un par de episodios de dolor en el pecho.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entiendo. Vamos a hablar de esos dolores. ¿Cuándo empezaron y cómo los describe?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Pues desde hace unas tres semanas. Me da como una presión en el pecho cuando subo escaleras o camino deprisa. Me dura unos minutos y luego se me pasa.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Ese dolor se acompaña de falta de aire, sudoración o mareo?",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, un poco de falta de aire, pero nada más.",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿El dolor cede cuando se detiene o se sienta?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, al parar mejora.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien. Eso es importante. Ahora, respecto a la tensión: ¿Sabe qué cifras ha tenido últimamente?",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "En el centro de salud me la tomaron varias veces y siempre estaba sobre 155/95 más o menos.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Vale. ¿Está tomando alguna medicación actualmente?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Solo paracetamol cuando me duele algo, pero para la tensión no me dieron nada todavía.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "De acuerdo. ¿Tiene antecedentes familiares de infarto, angina o ictus?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, mi padre tuvo un infarto a los 60 años.",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Fuma o ha fumado?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Fumé de joven, pero lo dejé hace diez años.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Perfecto. ¿Y el colesterol o la glucosa se los han mirado?",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "El médico me dijo que el colesterol estaba un poco alto, pero no me dio medicación.",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien. Le comento: por lo que me cuenta, podría tratarse de angina de esfuerzo, es decir, dolor torácico al hacer actividad porque al corazón le cuesta recibir suficiente oxígeno. No es algo para alarmarse en este momento, pero sí debemos estudiarlo y tratar la hipertensión.",
+      "duration_estimate": 15.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Ya… me asusta un poco, la verdad.",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Es normal. Lo primero es pedirle una prueba de esfuerzo y un electrocardiograma, además de una analítica completa con perfil lipídico. Mientras tanto, vamos a iniciar tratamiento.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "De acuerdo.",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Le voy a recetar un antihipertensivo: enalapril 10 mg, un comprimido por la mañana y otro por la noche. Además, por los episodios de dolor, le indicaré un antianginoso de inicio, como nitroglicerina sublingual 0,5 mg, solo en caso de dolor torácico, colocándola bajo la lengua y esperando sentado hasta que ceda.",
+      "duration_estimate": 17.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Vale. ¿Eso lo tengo que tomar todos los días?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "No, la nitroglicerina solo cuando aparezca el dolor. El enalapril sí será diario. Y dependiendo de los resultados de la analítica quizá añadamos un hipolipemiante, como atorvastatina, pero eso lo decidiremos con los análisis en la mano.",
+      "duration_estimate": 12.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Entiendo.",
+      "duration_estimate": 0.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Es fundamental también cambiar algunos hábitos: bajar el consumo de sal, hacer ejercicio moderado al menos 30 minutos al día, controlar el peso y evitar grasas saturadas. ¿Cómo lleva la alimentación?",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Bastante normal, aunque suelo comer embutidos y quesos.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Habrá que reducirlos. Le daré un folleto con la dieta recomendada para hipertensión.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Perfecto.",
+      "duration_estimate": 0.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Y muy importante: si el dolor aparece en reposo, dura más de 10 minutos o se acompaña de dificultad para respirar intensa, debe acudir inmediatamente a urgencias.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, lo tendré en cuenta.",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien, entonces quedamos en iniciar el tratamiento con enalapril 10 mg cada 12 horas, nitroglicerina sublingual solo en caso de dolor, analítica y pruebas. Nos veremos en un mes para valorar resultados.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "De acuerdo, muchas gracias doctor.",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "A usted, cuídese mucho y no dude en acudir antes si nota empeoramiento.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 546,
+    "turn_count": 35,
+    "avg_turn_length": 15.6
+  },
+  "estimated_total_duration": 181.8,
+  "generated_at": "2025-09-21T15:29:42.852420Z"
+}

@@ -1,0 +1,71 @@
+{
+  "scenario_id": "cardiologia_08",
+  "title": "Consulta de cardiología - Revisión prueba de esfuerzo",
+  "context": "Paciente en revisión tras dolor torácico leve y prueba de esfuerzo",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "A ver, cuéntame bien esta revisión. Hoy ya te había visto hace poco."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tuve un dolor... ¿Cómo se llama? ¿Me mandaste una de correr?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, una prueba de esfuerzo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Eso. Te dije que me molestaba un poquito el pecho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Por eso te pedí la prueba. Hoy vienes a revisión de eso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Es que no me había quedado claro la última vez. Vamos a ver cómo fue. Aquí está la prueba de esfuerzo. Hiciste 7 minutos. Alcanzaste 10 METS, que está muy bien. La frecuencia cardíaca al empezar era de 56 y llegaste a 144, lo que equivale al 86% de la frecuencia máxima para tu edad. La enfermera fue quien te paró."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, yo podía haber seguido más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Es una prueba significativa y salió normal, clínica y eléctricamente negativa para isquemia. Tu capacidad de ejercicio es muy buena y tu corazón hubiera podido dar más. O sea que está muy bien. El ecocardiograma previo ya mostraba una función normal, válvulas bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Voy a revisar la analítica. La última es de enero. Hemoglobina 14, hematocrito 44, leucocitos 5000, neutrófilos 52%, linfocitos 30%, plaquetas 204.000. Todo normal. Hemoglobina glicada 5.9. Buen control. Creatinina 0.6, filtrado 114, electrolitos normales, colesterol LDL 26, perfecto, triglicéridos 77, TSH 2.4, todo está muy bien. Esto te lo pidió el endocrino, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, pues todo perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Con cardiología ya solo haría falta verte en un año si todo sigue bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "También quería lo del informe para el carnet de conducir, ¿te acuerdas?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro, en el informe pondremos que puedes hacer vida completamente normal, que puedes conducir. Dejaremos claro que tu corazón es normal, que hiciste una prueba de esfuerzo que descarta problemas con el ejercicio."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, porque ahora piden esas cosas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, sí, ya te preparo el informe con todo eso."
+    }
+  ]
+}

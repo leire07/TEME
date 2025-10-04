@@ -1,0 +1,225 @@
+{
+    "scenario_id": "cardiologia_13",
+    "title": "Consulta de cardiología - Hipertensión, anemia y colesterol alto",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien. Espera un segundo. Bueno, tienes 45 años… ah, pero te vi hace un año.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Hace un año? Yo pensaba que era menos, pero pues sí.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Madre mía, el tiempo pasa muy rápido.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Verdad? María Miriam… sí, hace un año. Wow. Yo creía que había sido menos. Pues sí, un año.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, sí, en octubre de 2024.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Pues casi un año, Dios.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Y bueno, ¿cómo has estado? Te seguíamos por hipertensión, ¿no?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Comenzamos con Elixia Plus 40/12,5 y con eso quedaste con la tensión bien controlada.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, esas son las últimas.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a ver cómo tienes hoy las tensiones. De vez en cuando te sale un poquito alta, pero solo ocasionalmente, en general está bien.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, de hecho hay fines de semana que ni me la tomo, sábado o domingo, y me he sentido bien. Pero entre semana sí, por el trabajo.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No, pero la tienes que tomar siempre. La hipertensión habitualmente no da síntomas, ¿vale? A ver las analíticas… ¿las tienes?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, no me las habían dado.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, entonces no.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "La última vez vine con mucho dolor de cabeza y me comentaste que igual era por el hierro. Quise pedir cita, la agenda estaba llena, fui retrasando y ya no supe si me faltaba hierro o no.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "A ver, aquí tienes las analíticas del año pasado, de noviembre. Tenías anemia, o sea que puedes llevar un año con anemia.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Puede ser, porque ando con menos, pero sí.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Hemoglobina 11,1, glóbulos rojos pequeñitos, hay que repetirla porque ya pasó casi un año. El riñón bien, filtrado 108, potasio 3,9, sodio 137, perfil hepático normal. El NT-proBNP normal, menos de 70. El colesterol sí lo tenías alto: total 231, HDL 68, LDL 142; debería ser menos de 100.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Uy, pues sí.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Y el hierro lo tenías bajo, 31, ferritina 8,6. Déficit claro, y hay que repetir porque ya hace mucho. Vitamina B12 la tenías muy alta. ¿La tomabas?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No. Lo que sí estuve tomando fue vitamina D y hierro. Cuando terminaba el hierro es cuando ya me quedaba sin nada.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale. Entonces, vamos a repetirte la analítica.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y lo del informe para la seguridad social por el medicamento?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, claro, te lo hago.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Toma aire profundo… suelta… otra vez… suelta. Los pulmones bien ventilados, sin ruidos agregados. El corazón rítmico, sin soplos. Tensión muy bien: 100/80 y frecuencia de 67, perfecto.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces repetimos analítica completa. Si tienes anemia o déficit de hierro hay que tratarlo. Y si el colesterol vuelve a salir alto, hay que ponerte tratamiento. Yo esperaría a la analítica antes de que te lo lleve el médico de cabecera, así te lo meten todo junto. Te doy informe de hoy y repetimos eco también para ver cómo está el corazón.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, porque hace un año.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Yo tampoco creía que hacía tanto.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Es que fui retrasando: primero no había citas, luego con cosas de mi hija… no pensé que pasara tanto tiempo.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, pues un año con anemia no le viene bien a nadie. El colesterol seguramente lo tienes alto desde hace más, pero la anemia es lo más preocupante.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces hazte la analítica cualquier día en ayunas y tráela el día del eco. Ese mismo día te entrego todo y no tienes que volver otra vez.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Y el eco se hace aquí mismo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 970,
+      "turn_count": 37,
+      "avg_turn_length": 26.2
+    },
+    "estimated_total_duration": 320.0,
+    "generated_at": "2025-09-24T22:20:00Z"
+  }
+  

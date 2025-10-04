@@ -1,0 +1,143 @@
+{
+  "scenario_id": "diabetes_control_01",
+  "title": "Consulta por polidipsia, poliuria y elevación de HbA1c (intensificación de tratamiento)",
+  "context": "Paciente con sed y aumento de la diuresis, glucemias capilares >200 mg/dL y HbA1c 8.2%. Paciente en tratamiento con metformina 850 mg BID desde hace ~2 años. Plan: intensificar tratamiento añadiendo inhibidor SGLT2 (texto original con errores mantenido).",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días. Vengo a la consulta porque últimamente noto mucha sed, voy al baño más de lo normal y me siento cansado todo el tiempo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. Entiendo. ¿Ha medido su glucemia en casa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, tengo un glucómetro. Estos días me ha salido varias veces por encima de 200 miligramos por decilitro, incluso después de desayunar algo ligero."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es una cifra elevada ¿Qué medicación para la diabetes está tomando actualmente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tomó metformina 850 miligramos dos veces al día, después de las comidas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, esa es la dosis habitual inicial. ¿Hace cuánto tiempo que está con metformina?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya casi dos años. Al principio me iba bien, pero últimamente parece que no es suficiente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. ¿Ha notado pérdida de peso, visión borrosa o infecciones urinarias frecuentes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No he perdido peso, pero sí he tenido la vista borrosa a ratos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso puede estar relacionado con los niveles altos de glucosa. Vamos a revisar su última analítica de hemoglobina glicosilada. Aquí la tengo. 8,2%. El objetivo es mantenerla por debajo de 7%."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya veo. ¿Qué significa que esté tan alta?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Significa que su glucosa ha estado elevada de manera sostenida en los últimos tres meses. Esto aumenta el riesgo de complicaciones a largo plazo. Problemas en los riñones, en los ojos, en los nervios y en el corazón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué podemos hacer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En primer lugar, reforzar los hábitos de vida. Dieta baja en azúcares simples, reducir harinas refinadas, controlar las raciones y hacer ejercicio regular al menos 30 minutos de caminata al día. Pero además, con una glicosilada de 8,2% conviene intensificar el tratamiento farmacológico."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Me va a cambiar la medicación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. Mantendremos la metformina 850mg dos veces al día y añadiremos un segundo fármaco. Una opción adecuada es la dapagliflofina, 10 miligramos, una vez que se ha metido en el agua, se va a poner en el agua, se y también protege el corazón y el riñón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es pastilla también?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, es una pastilla diaria, normalmente por la mañana. Otra alternativa sería un inhibidor de la DPP-4, como la citagliptina 100mg al día, pero debido a su tensión arterial y su leve sobrepeso, la agapagliflofina puede ser más beneficiosa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si tampoco funciona?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si después de 3 meses no logramos bajar la glicosilada, valoraríamos añadir un tercer fármaco o incluso insulina basal en dosis bajas, por ejemplo, insulina glargina 10 unidades por la noche, ajustando progresivamente según la glucemia en ayunas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La insulina me da un poco de miedo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal, muchos pacientes sienten lo mismo, pero cuando se necesita puede mejorar mucho el control y evitar complicaciones. Hoy no vamos a empezar con insulina. Solo con la combinación de metformina y dapagliflofina. Y controlaremos su evolución."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tengo que medir la glucosa todos los días?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. Al menos una vez en ayunas y otra vez después de alguna comida principal. Eso nos ayudará a ajustar el tratamiento. Le daré una hoja para anotar los valores."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y la dieta. Me cuesta bastante dejar el pan y los dulces."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No hace falta eliminarlos por completo, pero sí reducirlos y preferir pan integral o de cereales. Lo importante es la cantidad y la frecuencia. También debe evitar bebidas azucaradas y zumos industriales. Le recomiendo ver a la nutricionista del centro para un plan adaptado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y el alcohol?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede tomar alguna copa de vino esporádicamente, pero evite el consumo habitual. El alcohol interfiere con el control de la glucosa y puede aumentar el riesgo de hipoglicemias si en un futuro usa insulina."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Lo entiendo. ¿Tengo que volver pronto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. Le daré cita en tres meses para repetir analítica y ver la glicofilada. Si en casa ve glicemias por encima de 250 mg por decilitro de manera repetida, o si presenta mareos, visión nivorrosa o pérdida de peso rápida, debe acudir antes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, doctor. Muchas gracias por explicármelo todo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Resumo. Continúe con metformina, 850 miligramos dos veces al día. Añadiremos dapamiflofina, 10 miligramos una vez al día. Controle la glucosa en casa y siga una dieta saludable con ejercicio. Así iremos ajustando el tratamiento paso a paso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¡Perfecto! ¡Lo haré! ¡Muy bien! Nos vemos en tres meses o antes si hay cualquier problema."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Nos vemos en tres meses o antes si hay cualquier problema."
+    }
+  ]
+}

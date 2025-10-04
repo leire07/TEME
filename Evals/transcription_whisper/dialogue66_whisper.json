@@ -1,0 +1,91 @@
+{
+  "scenario_id": "ginecologia_01",
+  "title": "Consulta de ginecología - Síndrome de ovario poliquístico (SOP)",
+  "context": "Consulta médica para diagnóstico y tratamiento del síndrome de ovario poliquístico",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué tal estás?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues, un poco preocupado. Llevo meses con las reglas muy irregulares. A veces pasan dos o tres meses sin que me venga, y además me han salido muchos granos en la cara y algo de vello en la barbilla."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo, eso es algo bastante frecuente. Ya revisé tu analítica y la ecografía, y lo que tienes es un síndrome de ovario poliquístico. ¿Habías oído hablar de él?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, algo, pero no sé muy bien qué significa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te lo explico sencillo. En este síndrome los ovarios no maduran bien los óvulos, las hormonas se desequilibran y eso provoca reglas irregulares, aumento de vello, acné y en algunas mujeres dificultad para quedarse embarazadas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y tiene tratamiento?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. El tratamiento depende de lo que quieras priorizar. Por ejemplo, si ahora mismo no buscas embarazo, lo mejor es regular las hormonas con la píldora anticonceptiva combinada, que te ayudará a tener reglas regulares, mejorar el acné y disminuir el vello."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues de momento no quiero hijos, así que eso me vendría bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Además, por el análisis he visto que tienes la insulina algo alta, lo que es común en este síndrome. Por eso, además de la píldora, podemos usar metformina 850 miligramos, una pastilla al día después de la cena, para ayudar a que el cuerpo use mejor la insulina y prevenir diabetes en el futuro."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tengo riesgo de diabetes?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. El SOP aumenta un poco el riesgo, sobre todo si hay sobrepeso. Por eso también es clave cuidar la alimentación y hacer ejercicio. ¿Cómo llevas el peso?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "He subido unos 8 kilos en los últimos dos años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso influye mucho. Con una pérdida del 5-10% del peso ya mejorarían bastante los ciclos y los síntomas. Te recomiendo caminar cada día, reducir dulces y harinas y aumentar verdura y proteína magra."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, lo intentaré. ¿Y el vello de la cara se me quitará?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Con la píldora suele mejorar, pero no desaparece de golpe. Para los pelos que ya tienes, puedes usar métodos como láser o depilación. Y si en unos meses no mejora lo suficiente, valoramos añadir medicación antiandrogénica."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo. ¿Y si en unos años quiero tener hijos?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces cambiaremos la estrategia. Hay tratamientos específicos para inducir la ovulación cuando se busca embarazo. La buena noticia es que la mayoría de mujeres con SOP logran quedarse embarazadas con el tratamiento adecuado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me tranquiliza saberlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, entonces plan: píldora anticonceptiva diaria, metformina 850 mg al día, dieta y ejercicio para bajar algo de peso y revisión conmigo en 3 meses con nueva analítica."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, gracias doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada, verás como con esto los ciclos se regulan y te encuentras mucho mejor."
+    }
+  ]
+}

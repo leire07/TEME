@@ -1,0 +1,146 @@
+{
+  "scenario_id": "consulta_neumonia_01",
+  "title": "Consulta Atención Primaria - Neumonía",
+  "context": "Paciente mujer con fiebre alta, tos productiva y dificultad respiratoria. Se diagnostica neumonía y se pauta tratamiento antibiótico y control.",
+  "turns": [
+    {
+      "speaker": "PacienteMujer",
+      "text": "Doctor, llevo dos días con fiebre alta, tos con flema verdosa y me cuesta respirar un poco.",
+      "duration_estimate": 5.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Entiendo. ¿Ha tenido escalofríos, dolor en el pecho al respirar o dolor muscular?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, escalofríos y un poco de dolor al respirar profundo. Los músculos los noto cansados.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "De acuerdo. ¿Tiene antecedentes respiratorios, como asma o EPOC?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, nunca he tenido problemas de pulmón.",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Perfecto. Voy a tomarle la tensión, frecuencia cardíaca y saturación de oxígeno. (pausa) Tiene 38,7 °C de fiebre, tensión 130/85 mmHg, pulso 102 lpm y saturación 94%.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Eso es grave?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Su saturación es un poco baja, pero no crítica. Vamos a escuchar los pulmones… (pausa) Noto crepitantes en la base del pulmón derecho. Esto, junto con sus síntomas, sugiere neumonía.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Necesito antibiótico?",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí. Le indicaré amoxicilina 875 mg con ácido clavulánico 125 mg, cada 12 horas durante 7 días,",
+      "duration_estimate": 5.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y la fiebre?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Puede tomar paracetamol 1 g cada 8 horas para bajar la fiebre y aliviar el dolor muscular. También es importante descansar, hidratarse bien y vigilar la evolución.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Tengo que quedarme en el hospital?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Con estos signos y si se mantiene estable, podemos tratarle en casa con antibiótico y seguimiento telefónico. Debe acudir inmediatamente si empeora la sensación de dificultad para respirar aparece dolor torácico intenso,",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Cuándo volver a revisión?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "En 48– horas para evaluar la respuesta al antibiótico. Si mejora, seguimos en casa; si no, haremos radiografía y valoraremos ingreso.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Puedo trabajar mientras tanto?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "No debes trabajar mientras estás con un proceso infeccioso activo Lo ideal es reposo,. No conduzca si está mareado o con fiebre alta.",
+      "duration_estimate": 7.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Está bien, doctor.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Resumiendo, iniciamos amoxicilina/ácido clavulánico 875/125 mg cada 12 horas por 7 días, paracetamol 1 g cada 8 horas según necesidad, reposo, líquidos y control de síntomas. Vuelva en 2 días o antes si empeora.",
+      "duration_estimate": 11.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto, gracias.",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "A usted. Con tratamiento y seguimiento adecuado la mayoría de neumonías leves se resuelven sin complicaciones.",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 315,
+    "turn_count": 22,
+    "avg_turn_length": 14.318181818181818
+  },
+  "estimated_total_duration": 105.0,
+  "generated_at": "2025-09-24T10:22:06.593222Z"
+}

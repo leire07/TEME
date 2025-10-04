@@ -1,0 +1,87 @@
+{
+  "scenario_id": "neumologia_02",
+  "title": "Consulta de neumología - EPOC con crisis frecuentes",
+  "context": "Paciente con EPOC moderado-grave, crisis recurrentes y abandono reciente del tabaco",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "A ver, repasemos un poco. El último año tuviste varias crisis, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, tres. Dos veces con pastillas y una vez me ingresaron unos días."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es. Y sobre todo en invierno, con mucha flema."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, ahí es cuando peor lo paso. Me ahogo mucho y saco esputo espeso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bueno, en la prueba de hoy se ve que el pulmón está bastante limitado. No es de los grados leves. Eso explica que te canses tanto. Pero lo más importante es que dejaste el tabaco, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hace seis meses."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, eso es lo mejor que podías hacer. Ahora, como sigues teniendo crisis, vamos a cambiar el tratamiento. Te voy a recetar un inhalador nuevo que combina tres medicamentos en uno, broncodilatadores y corticoide. Se llama tripleterapia. Tienes que tomar dos inhalaciones por la mañana y dos por la noche todos los días."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y el otro inhalador azul?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ese lo sigues teniendo de rescate, el salbutamol. Una o dos inhalaciones cuando notes que te falta aire de repente y nada más."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entendido. ¿Y para la flema?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te voy a dar un mucolítico. La acetilcisteína, 600 miligramos, una pastilla cada 12 horas en las semanas que tengas más secreciones. Además, mucha agua y, si puedes, ejercicios respiratorios para ayudar a expulsarla."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, porque a veces siento que se me queda pegada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro. Y si notas un empeoramiento fuerte, con fiebre o mucho más ahogo, vienes enseguida. No esperes a que se pase."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te tomo la tensión y el oxígeno, ¿vale? 95% de oxígeno en reposo. Está correcto. El pulmón se escucha que le cuesta un poco al aire salir. Una expiración prolongada. Pero sin ruidos agregados, ahora mismo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Hoy estoy bastante bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Entonces plan: inhalador de triple terapia mañana y noche, salbutamol solo si hace falta, acetilcisteína cuando tengas más flema y mantener ejercicio suave y vacunas al día. Te cito en dos meses para ver cómo vas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada, seguimos adelante."
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "scenario_id": "cardiologia_07",
+  "title": "Consulta de cardiología - Síncope en reposo",
+  "context": "Consulta externa de cardiología",
+  "turns": [
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entonces, vienes hoy solo para hacerte un electrocardiograma, ¿verdad?",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí. Fui al médico general porque en agosto, durante un vuelo, me desmayé. Perdí el conocimiento unos minutos estando sentada. Antes noté un mareo, como los que a veces me dan con la menopausia, pero más intenso. Pensé que era eso, pero al final me desvanecí. Me tumbaron con las piernas en alto y recuperé.",
+      "duration_estimate": 20.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entiendo. ¿Te ha vuelto a pasar?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, solo esa vez.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Y sentiste algo antes?",
+      "duration_estimate": 2.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, notaba que me mareaba, como siempre, pero esta vez duró más, unos 30 o 40 segundos. Luego me desmayé, estuve inconsciente alrededor de un minuto.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Y estabas sentada todo el tiempo?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, llevaba ya unos 40 minutos en el asiento.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien. Ese tipo de síncope en reposo hay que mirarlo con más cuidado, no es lo mismo que un mareo por calor, deshidratación o levantarse rápido. A veces se debe a una arritmia.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Tienes alergia a medicamentos o alimentos?",
+      "duration_estimate": 3.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No.",
+      "duration_estimate": 0.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Hipertensión o diabetes?",
+      "duration_estimate": 2.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, más bien suelo tener la tensión baja.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Fumas?",
+      "duration_estimate": 1.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Fumé hace 30 años, pero lo dejé.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Perfecto. ¿Alcohol?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Antes tomaba un poco a diario con las comidas, pero lo he dejado hace unas semanas por migrañas.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien. ¿Antecedentes familiares?",
+      "duration_estimate": 2.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Mi madre falleció hace año y medio de un derrame cerebral, con 71 años. Tenía hipertensión y microinfartos cerebrales.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Vale.",
+      "duration_estimate": 1.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Mira, como el desmayo fue en reposo, lo vamos a estudiar a fondo. Te pediremos un Holter para registrar el ritmo durante un día completo, una prueba de esfuerzo para ver cómo responde el corazón al ejercicio y un ecocardiograma para comprobar la fuerza del corazón y las válvulas. Con eso podremos valorar bien el riesgo.",
+      "duration_estimate": 20.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "De acuerdo.",
+      "duration_estimate": 1.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Vamos a explorarte. Respira profundo… bien. Los pulmones están ventilados, sin ruidos. El corazón suena rítmico, sin soplos. La tensión está en 120/70, la frecuencia en 65. Todo normal.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Desde hace un año hago deporte, porque antes, mientras estudiaba oposiciones, no hacía nada.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Eso es muy bueno. Tener frecuencias cardíacas y tensiones bajas protege al sistema circulatorio, aunque a veces da más tendencia a mareos.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entonces, te organizamos las pruebas y, cuando las tengamos, lo revisamos todo con calma.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    }
+  ],
+  "metadata": {
+    "word_count": 510,
+    "turn_count": 27,
+    "avg_turn_length": 18.9
+  },
+  "estimated_total_duration": 175.0,
+  "generated_at": "2025-09-25T10:02:32.008884Z"
+}

@@ -1,0 +1,153 @@
+{
+    "scenario_id": "endocrinologia_01",
+    "title": "Consulta de endocrinología - Control de diabetes tipo 2",
+    "context": "Consulta externa de endocrinología",
+    "turns": [
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Buenos días, ¿cómo vas?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Pues la verdad, un poco cansado. Y me preocupa el azúcar, porque cuando me la mido después de comer me suele salir en 180 o incluso en 200.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Entiendo. ¿Te la mides también en ayunas por la mañana?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, y ahí me sale en torno a 140–150. Nunca me baja de 120.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Vale, esos valores indican que la diabetes no está bien controlada. He revisado tu analítica y la hemoglobina glicosilada está en 8,2, cuando lo ideal es que esté por debajo de 7.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Ya, yo intento cuidarme, pero reconozco que la dieta la llevo regular… con el trabajo como lo que encuentro, y a veces me paso con el pan o la pasta.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "No te castigues, es difícil llevarlo perfecto. Lo importante es que hagamos cambios poco a poco. Cuéntame, ¿qué medicación tomas ahora?",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Solo la metformina, dos pastillas al día, una con el desayuno y otra con la cena.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Correcto, metformina 850 mg cada 12 horas. Es la base del tratamiento, pero en tu caso ya no es suficiente. Vamos a añadir un medicamento nuevo llamado dapagliflozina, 10 mg por la mañana.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y para qué sirve?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Ayuda a que elimines el exceso de glucosa por la orina y además protege el corazón y el riñón, que son los órganos que más sufre la diabetes.",
+        "duration_estimate": 13.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Tiene efectos secundarios?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Puede dar más ganas de orinar y, en algunas personas, irritación genital por las bacterias, pero si mantienes buena higiene y bebes agua suficiente, no suele dar problemas.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale, lo probaré.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Además de la medicación, tenemos que reforzar la dieta. No se trata de prohibir, sino de elegir mejor: menos pan, menos dulces y refrescos, y más verdura, ensalada y proteína magra como pescado o pollo. ¿Haces algo de ejercicio?",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Muy poco, camino solo los fines de semana.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Pues intenta caminar al menos media hora todos los días. No hace falta gimnasio, con andar a paso ligero ya ayuda mucho.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, lo intentaré.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Entonces, plan: mantenemos la metformina, añadimos dapagliflozina, revisamos la dieta y caminata diaria. Te pediré analítica dentro de tres meses y veremos cómo van los números.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Muy bien.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Y cualquier síntoma raro, como dolor al orinar o mareos, me lo comentas antes de la cita.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Perfecto, vamos por buen camino.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 1020,
+      "turn_count": 23,
+      "avg_turn_length": 34.3
+    },
+    "estimated_total_duration": 280.0,
+    "generated_at": "2025-09-25T05:30:00Z"
+  }
+  

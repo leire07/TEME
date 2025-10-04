@@ -1,0 +1,117 @@
+{
+    "scenario_id": "oncologia_01",
+    "title": "Consulta de oncología - Seguimiento tras tratamiento de cáncer de mama",
+    "context": "Consulta externa de oncología",
+    "turns": [
+      {
+        "speaker": "Oncólogo",
+        "text": "Buenos días, ¿cómo te has sentido desde la última vez?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Mejor, ya con más energía. Después de la quimio estaba muy cansada, pero poco a poco voy recuperando.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Me alegro. Vamos a repasar. Te operaron hace un año, te quitaron el tumor de la mama izquierda y después hiciste quimioterapia y radioterapia. Ahora estás con el tratamiento hormonal, ¿verdad?",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, tomo una pastilla por la mañana todos los días.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Eso es el tamoxifeno. Es importante que lo sigas tomando durante al menos cinco años, porque reduce mucho el riesgo de que vuelva a aparecer. ¿Has notado efectos secundarios?",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "A veces sofocos, sobre todo por la noche.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Eso es bastante común. Si se hacen muy molestos, podemos valorar medicación para controlarlos. ¿Dolores óseos, sangrados o molestias nuevas?",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, nada más.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Perfecto. Te exploré la última vez y estaba todo bien. Hoy he revisado la analítica y la mamografía: no hay signos de recaída. Los marcadores tumorales también están dentro de la normalidad.",
+        "duration_estimate": 13.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Qué alivio. Tenía miedo de que volviera.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Lo entiendo, es una preocupación lógica, pero hoy todo está bien. Ahora toca seguir con el tratamiento hormonal y controles cada seis meses.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Te receto de nuevo el tamoxifeno 20 mg, una tableta al día. Y recuerda: si notas bultos, dolor óseo persistente o sangrado vaginal, no esperes a la cita, pide consulta antes.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, lo tendré en cuenta.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Muy bien, nos vemos en seis meses para repetir mamografía y analítica.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Gracias, doctor.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "De nada, lo estás haciendo muy bien, mucho ánimo.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 860,
+      "turn_count": 17,
+      "avg_turn_length": 34.8
+    },
+    "estimated_total_duration": 240.0,
+    "generated_at": "2025-09-25T04:20:00Z"
+  }
+  

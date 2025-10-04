@@ -1,0 +1,111 @@
+{
+  "scenario_id": "neumologia_04",
+  "title": "Consulta de neumología - EPOC avanzado con cambio a triple terapia",
+  "context": "Paciente con EPOC avanzado, múltiples crisis en el último año y abandono del tabaco hace 12 meses",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "A ver, repasemos un poco. El último año tuviste varias crisis, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, tres ocasiones. En dos de ellas me manejaron en urgencias y con pastillas en casa y una vez me ingresaron unos días."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto, eso lo tengo anotado aquí. Y me decías que sobre todo en invierno, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, en invierno es cuando peor lo paso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es lo típico en el EPOC, cuando se descompensa el frío, las infecciones y el humo hacen que se agrave. La espirometría muestra que tu pulmón está ya muy comprometido."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, incluso con cosas pequeñas me noto fatigado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero lo más importante es que dejaste el tabaco. ¿Verdad que lo dejaste hace unos meses?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, ya hace 12 meses."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pues eso es lo mejor que podías haber hecho. ¡Felicidades! Ya te puedes considerar ex fumador. Si hubieras seguido fumando, los pulmones se deteriorarían mucho más rápido."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me costó, pero estoy contento de haberlo dejado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Me alegro mucho. Ahora, como sigues teniendo crisis a pesar del inhalador que llevabas, vamos a cambiar de estrategia. Te voy a recetar un inhalador nuevo que combina tres medicamentos en uno. Dos broncodilatadores para abrir los bronquios y un corticoide para bajar la inflamación. Lo llamamos triple terapia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo lo tengo que usar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Dos inhalaciones por la mañana y dos por la noche, todos los días, aunque te encuentres bien. Es un tratamiento de base, no para cuando tienes síntomas puntuales."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, ¿y el otro inhalador azul?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ese lo mantienes de rescate, el salbutamol. Lo usas solo cuando notes que te falta el aire de repente. Una o dos inhalaciones y nada más. No debes usarlo todos los días, solo en momentos puntuales."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entendido. ¿Y para la flema? ¿Qué hago?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para eso, además de beber bastante agua, te voy a dar un medicamento que ayuda a fluidificarla. Acetilcisteína de 600 miligramos, una pastilla cada 12 horas en las semanas que tengas más secreción. También ayudan los ejercicios de respiración y de tos dirigida para movilizarla mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Otra cosa importante. Si en algún momento notas un empeoramiento fuerte, con fiebre, más ahogo o un cambio claro en el color de la flema, no esperes a que se pase. Vienes enseguida o vas a urgencias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Te tomo la tensión y el oxígeno. Vale. 95% de oxígeno en reposo. Está dentro de lo esperado. Al auscultar los pulmones no tiene ruidos llamativos. Estupendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te recuerdo el plan. Inhalador de triple terapia mañana y noche, salbutamol solo si lo necesitas, acetilcisteína cuando tengas más flema, beber agua, moverte un poco cada día y tener las vacunas al día. La de la gripe cada año y la de la neumonía si no la tienes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y en dos meses te vuelvo a ver para comprobar cómo vas con el inhalador nuevo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada, espero que mejore."
+    }
+  ]
+}

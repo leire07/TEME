@@ -1,0 +1,179 @@
+{
+  "scenario_id": "medicina_interna_01",
+  "title": "Consulta de medicina interna - Asma, HTA e hipotiroidismo",
+  "context": "Paciente en revisión con múltiples comorbilidades",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Cómo has estado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bueno, pues ahí andamos, haciendo pruebas. He estado con el neumólogo y me ha mandado varias cosas. Le traigo el informe para que lo vea."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, enséñamelo. Este es el de hace poco. Ajá, veo… Bueno, aquí está lo del neumólogo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, también me ha pedido una prueba del sueño, pero de momento está para diciembre."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A ver si la pueden adelantar porque está saturado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, suele haber mucha demora."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Leo lo que pone. Asma bronquial moderada, hipertensión, hipercolesterolemia, infecciones urinarias de repetición, reflujo gastroesofágico, alteraciones tiroideas con episodios de hiper- e hipotiroidismo, osteopenia y problemas cervicales. Para el asma estás con Flutiform 250-10."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, Flutiform 250-10. Me han subido la pauta. Antes lo usaba solo cuando notaba que me bajaba el aire, pero ahora me ha dicho que lo tome de forma rutinaria mañana y noche porque dura 12 horas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es lo correcto, hay que tomarlo siempre."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, lo empecé ayer y me quieren repetir la espirometría en seis meses para ver si funciona esta pauta o hay que cambiar de estrategia."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, y además estás con lioceral por la noche. ¿Atorset para el colesterol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, ese me lo cambiaron. Antes tomaba Alista, pero ya no me bajaba los valores. Siempre se quedaban en 218, por eso me pusieron a Torset."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Y el enalapril para la tensión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tomo uno por la mañana, de 5 miligramos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Hay que tomarlo mañana y noche."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A mí solo me dijeron por la mañana."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, debe ser cada 12 horas, si no, no hace efecto."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues es que también me mandaron otro porque retenía líquidos y me bajaba tanto la tensión que parecía que iba borracha todo el día. Por eso me da miedo mezclar cosas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tranquila, no pasa nada, no se va a juntar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, yo lo digo porque no quiero ir como borracha otra vez."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Otra opción es cambiarte al lisinopril, que se toma una sola vez al día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bueno, si es más cómodo, me da igual."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es la misma potencia, solo que dura más tiempo. ¿Te hago la receta de lisinopril? 5 miligramos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sobre el colesterol. Tenías 218 de LDL. Eso lo comprobaremos con la próxima analítica."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Y en el TAC de tórax me dieron una buena noticia. Me descartaron el EPOC. En otras ocasiones me habían dicho que podía tenerlo, pero ahora no."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El EPOC se diagnostica con la espirometría. Si sale negativa, no lo tienes. Tú lo que tienes es asma, no EPOC."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, asma sí, pero no sabía la diferencia."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El EPOC es por fumar y no mejora con inhaladores. El asma sí mejora."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ah, vale, he entendido. También pone que bajes de peso y camines."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, pero con las tiroides es complicado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Como muy poco, hasta el digestivo me lo dijo. Lo que para otros es un entrante para mí es la comida. Procuro evitar frituras, pero como de todo. A la noche ceno un panecillo pequeño, a veces con un poco de embutido o queso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No soy de picar, solo a veces una cerveza o un vino cuando salgo, pero no hago excesos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Esta es la analítica. La guardo en tu historia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, lo pongo todo junto para no perderlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a tomarte la tensión, 129/90, frecuencia 72. Ahora está estupenda, porque a veces pasa de 10."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, está bien, te veo tranquila."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, por ahora, nos vemos con el resultado de la polisomnografía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Qué es eso?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La prueba del sueño, la que vienes a dormir."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ah, vale. Aquí me pone la dosis y para qué es, ¿verdad?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, lisinopril, para la tensión una vez al día."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "scenario_id": "cardiologia_17",
+  "title": "Consulta de cardiología - Seguimiento de hipertensión y hábitos de vida",
+  "context": "Paciente de 49 años en revisión de hipertensión con cambios de medicación y hábitos de vida",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Bueno, vamos a repasar. Tienes 49 años, hipertensión y por lo demás todo ha salido bien, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, de momento bien. Lo que pasa es que con el médico de cabecera me dan citas cada dos o tres meses y como no avisan, a veces se me pasan. Aquí al menos me recuerdan antes y eso va mucho mejor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me encuentro mejor. La última vez me quitaste una pastilla y me pusiste otra por la noche. El primer día me encontré fatal por la mañana, así que tomé la que había dejado. Luego llamé para preguntar si podía tomar ambas, pero no me respondieron."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo ideal es que te tomes la tensión antes de hacer cambios."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, estoy teniendo valores de 13.9, 13.8, depende del trabajo y cómo me sienta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El 9 está un poco alto, habría que bajarlo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. Estoy tomando productos naturales, espirulina, vinagre de manzana, taurina, cúrcuma y vitaminas. La inyección que me recetaste no la he podido comprar por el precio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuando puedas, me lo dices y te hago la receta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, pero me noto más tranquilo. A veces siento presión en el pecho. Creo que es ansiedad."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Mareos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Casi no. Solo algo de vértigo al girarme. Antes sentía mucho las palpitaciones al tumbarme. Ahora no."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, entonces, ¿qué tomas ahora mismo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Estoy con amlodipino y otra para la tensión. La que me dijiste que no tomara más era la hidroclorotiazida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es. Te quité el Ixia Plus porque te bajaba demasiado y lo cambié por Ixia Normal y amlodipino."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Exacto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero aún tienes la tensión alta, así que habrá que ajustar la dosis. Y sigues fumando, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, y días que más y otros que menos. He reducido, pero cuando estoy aburrido fumo más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es importante que lo dejes del todo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, lo sé. Estoy trabajando en ello."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a tomarte la tensión. Respira hondo. Suelta. Otra vez. Muy bien. Mira, hoy tienes 12/8, frecuencia 80, así que perfecto."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mejor. ¿Y si un día me sube, sirve agua con limón?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, eso no ayuda. Si sube mucho hay que ajustar medicación, no con remedios caseros."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. ¿Y me puedes pesar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro. La última vez estabas en casi 128 kilos. Ahora tienes 123. Has bajado unos 5 kilos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien. He cambiado la dieta, sin frituras ni azúcar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Se nota. La tensión antes siempre estaba alta y ahora mejor. Vamos a dejar la medicación igual por ahora."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto. Y sigo con los suplementos naturales."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Está bien, pero lo importante es perder peso, dejar de fumar y si puedes apuntarte al gimnasio."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, cuesta dar el primer paso, pero quiero hacerlo. El problema es el dinero. Pienso más en los demás que en mí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero si no te cuidas tú, ¿no podrás cuidar de los demás?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es verdad, he cambiado mucho desde que vine aquí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sigue así, vas por buen camino."
+    }
+  ]
+}

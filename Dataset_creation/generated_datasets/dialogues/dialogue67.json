@@ -1,0 +1,117 @@
+{
+    "scenario_id": "geriatria_01",
+    "title": "Consulta de geriatría - Deterioro leve de memoria",
+    "context": "Consulta externa de geriatría",
+    "turns": [
+      {
+        "speaker": "Geriatra",
+        "text": "Buenos días, ¿cómo se encuentra?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bien… aunque últimamente se me olvidan muchas cosas, cosa que no me pasaba de normal, y eso me preocupa.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Entiendo. ¿Qué tipo de cosas nota que se le olvidan más?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sobre todo citas, nombres de gente, y a veces no recuerdo dónde dejo las llaves o las gafas.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Vale. ¿Ha llegado a perderse en la calle o desorientarse en qué día está?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, eso no. Todavía me ubico bien, pero noto que no estoy como antes.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Revisé sus pruebas de memoria y la resonancia. Los resultados muestran un deterioro leve de la memoria, que puede ser el inicio de un problema de la memoria más acusado, aunque todavía está en fase temprana.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Eso significa que voy a perder la memoria del todo?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "No necesariamente. Evoluciona distinto en cada persona. Lo importante es que podemos actuar desde ahora para frenar la progresión.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y qué puedo hacer?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Vamos a empezar con un medicamento llamado donepezilo 5 mg, una pastilla por la noche, que ayuda a mejorar la memoria y la atención. Además, es fundamental mantener rutinas claras, ejercicio suave y estimulación mental: leer, crucigramas, juegos de memoria.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Está bien.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "También revisaremos la medicación que toma para otras enfermedades, porque algunos fármacos pueden empeorar la memoria. Y haremos una analítica para descartar déficit de vitamina B12 o problemas de tiroides.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Plan: iniciar donepezilo, controles periódicos, analítica completa y fomentar actividad física y mental. Nos vemos en tres meses para valorar evolución.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Está bien, doctor.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Muy bien, vamos a acompañarle en este proceso.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 940,
+      "turn_count": 17,
+      "avg_turn_length": 34.7
+    },
+    "estimated_total_duration": 270.0,
+    "generated_at": "2025-09-25T06:25:00Z"
+  }
+  

@@ -1,0 +1,219 @@
+{
+    "scenario_id": "cardiologia_14",
+    "title": "Consulta de cardiología - Revisión tras ingreso y ajuste de medicación",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Espera un segundo, vamos a hacer una recopilación de tu historial. Bueno, entonces… 79 años. Tienes un TAVI de larga data, un prolapso de la válvula mitral con disección aórtica, disección tipo A, isquemia medular… Ah, sí, cirugía cardíaca con implante de tubo en la aorta ascendente en 2017. Insuficiencia renal crónica con un filtrado de 45 ml/min. Una fibrilación auricular cuyo primer episodio fue en mayo de 2024. Y se optó por anticoagulación y control de frecuencia. Muy bien.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a repasar la medicación, a ver si es la misma: Valsartán 80 mg, uno en la mañana. Omeprazol 20 mg, uno en la mañana. Lexiana 35 mg, uno al mediodía. Furosemida 40 mg, uno en la mañana. Enconcor 5 mg, uno en la noche. Rivotril 0,5 mg. Venlafaxina retard 150 mg. ¿Algo más?",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "El omeprazol lo llevo tomando mucho tiempo. ¿Eso se puede tomar así tantos años? Estuve ingresada hace 15 días.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale. No sé si entonces te cambiaron algo de la medicación.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Estuve en urgencias un día.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Ah, solo urgencias.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, estuve tres días ingresada.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, entonces allí te modificaron la medicación. Yo había dejado indicado que tomaras la furosemida una por la mañana y otra al mediodía por dos semanas, y después venir a revisión. El resto igual.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, empecé cada día.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso, fue una descompensación, por la infección que tuviste.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Y cómo te sientes ahora?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bien, bien. Aunque los primeros días estaba un poco débil, ahora ya me he recuperado bastante.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Qué bueno. Entonces ya puedes dejar la de mediodía, ¿vale?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Cuando salí de la clínica pesaba 62, ahora peso 61. Antes pesaba 65, pero casi no comí nada esos días.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Claro, seguramente no era tanto líquido lo que tenías, sino la infección que te descompensó. Respira hondo… suelta… otra vez… muy bien. Respira normal.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Tienes un soplo, pero dentro de lo esperado. Los pulmones están bien ventilados, sin ruidos. El corazón arrítmico por la fibrilación auricular y con soplo aórtico por el tubo. No hay líquido en las piernas, así que nada de sobrecarga. Estás muy bien.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y el omeprazol, tengo que seguir tomándolo? Llevo muchos años.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "No, ya no hace falta. Puedes dejarlo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale, entonces lo dejo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "La furosemida (o Seguril, que es lo mismo) solo una por la mañana. No te líes: Seguril es nombre comercial, furosemida el genérico. Es lo mismo, nunca las dos a la vez.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale, entonces una por la mañana, Seguril.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso. Y si alguna vez te lo recetan como furosemida, recuerda que es lo mismo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, sí. Yo me miro el oxígeno con un aparatito. Siempre me da 95.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto, tiene que estar por encima de 92.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y lo del Seguril es indefinido?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, es tratamiento crónico, para orinar más y no retener líquidos.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale. Mejor que lo tenga apuntado en el informe.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, lo dejo escrito. Es lo mismo que repasamos ahora, solo quitamos el omeprazol.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto. Ya llevaba mucho tiempo con él y había escuchado que no era bueno mantenerlo tantos años.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Exacto, si no hace falta, mejor no.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Pues nada, todo muy claro. Donde pone furosemida, pongo Seguril, para que no haya confusión.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Muy bien.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien, muy bien.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 1050,
+      "turn_count": 33,
+      "avg_turn_length": 31.8
+    },
+    "estimated_total_duration": 330.0,
+    "generated_at": "2025-09-24T22:40:00Z"
+  }
+  

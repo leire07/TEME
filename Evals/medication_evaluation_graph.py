@@ -46,7 +46,7 @@ def get_llm():
     if not api_key:
         raise ValueError("OPENAI_API_KEY environment variable must be set")
     return ChatOpenAI(
-        model="gpt-4o-mini",
+        model="gpt-4o",
         temperature=0.1,
         api_key=api_key
     )
@@ -89,9 +89,6 @@ Instrucciones:
 • Marca error solo si el medicamento cambia de identidad (por ejemplo, un fármaco distinto o de otra clase terapéutica).
 • No marques como error diferencias de formato, abreviaturas o variantes de escritura si el significado clínico es el mismo.
 • Haz recuento de los medicamentos mencionados en ambos textos y compáralos.
-• Si el original menciona una CLASE farmacológica (p. ej., "antihipertensivo")
-  y la transcripción menciona un término que NO es un fármaco (p. ej., "mercurio", "sodio"),
-  clasifica como GRAVE.
 
 Clasifica el resultado en una única categoría:
 • NINGUNA → el medicamento es el mismo.
@@ -138,7 +135,9 @@ Tu tarea es comparar el texto original con la transcripción y comprobar si la d
 
 Instrucciones:
 • Marca error solo si cambia la cantidad, la unidad o la frecuencia de la dosis.
-• No marques como error diferencias de estilo o de formato si el significado es el mismo (ejemplo: "200 mg/día" y "200 miligramos al día").
+• Ignora errores con nombres de medicamentos (ya evaluados por otro agente).
+• No marques como error diferencias de estilo o de formato si el significado es el mismo (ejemplo: "200 mg/día" y "200 miligramos al día"). Es decir, ignora las abreviaturas.
+• No marques como error el formato de números (ejemplo: "0.5 mg" y "medio miligramo" son equivalentes o "4 días" y "cuatro dias")(ejemplo: "38 grados y medio" y "38,5 grados" son equivalentes).
 • Presta especial atención a diferencias numéricas que puedan ser críticas para la seguridad del paciente.
 
 Clasifica el resultado en una única categoría:
@@ -146,7 +145,7 @@ Clasifica el resultado en una única categoría:
 • LEVE → hay una diferencia menor que puede generar ligera confusión, pero no cambia la dosis.
 • GRAVE → la dosis, la unidad o la frecuencia han cambiado de forma significativa.
 
-IMPORTANTE: Si la clasificación es GRAVE o LEVE, proporciona una explicación detallada del error encontrado.
+IMPORTANTE: Si la clasificación es GRAVE o LEVE, proporciona una explicación detallada del error encontrado y de la diferencia de la dosis.
 
 TEXTO ORIGINAL:
 {original_text}
@@ -185,16 +184,18 @@ def consistency_agent(state: EvaluationState) -> EvaluationState:
 Tu tarea es comparar el texto original con la transcripción y verificar si se mantiene la coherencia de la información (síntomas, diagnósticos, alergias, instrucciones).
 
 Instrucciones:
-• Marca error solo si cambia el sentido clínico.
+• Marca error solo si cambia el sentido clínico. 
+• NO tengas en cuenta errores en nombres de medicamentos o dosis (ya evaluados por otros agentes).
 • Ignora diferencias de estilo, pequeñas omisiones o reformulaciones que no alteran el significado.
 • Presta especial atención a cambios que puedan afectar la seguridad del paciente o el diagnóstico.
 
 Clasifica el resultado en una única categoría:
-• NINGUNA → no hay cambios de significado clínico.
-• LEVE → se omite o cambia un detalle secundario, sin afectar al sentido clínico principal.
-• GRAVE → cambia el significado de forma importante (ejemplo: de "no tiene alergias" a "tiene alergias").
+• NINGUNA → no hay cambios de significado clínico (sin contar medicamentos o dosis).
+• LEVE → se omite o cambia un detalle secundario, sin afectar al sentido clínico principal (sin contar medicamentos o dosis).
+• GRAVE → cambia el significado de forma importante (ejemplo: de "no tiene alergias" a "tiene alergias" o "he vomitado" a "no he vomitado").
 
 IMPORTANTE: Si la clasificación es GRAVE o LEVE, proporciona una explicación detallada del error encontrado.
+
 
 TEXTO ORIGINAL:
 {original_text}
@@ -225,35 +226,144 @@ Formato de respuesta:
 
 
 def consensus_agent(state: EvaluationState) -> EvaluationState:
-    """ConsensusAgent: Combines classifications with algorithmic decision making and detailed error reporting"""
+    """ConsensusAgent con filtrado por LLM y decisión final mejorado"""
 
-    # Extract classifications
+    llm = get_llm()
+    prompt = f"""Eres el SUPERVISOR de una evaluación multi-agente. Tu trabajo es DISCIPLINAR a los agentes que se salen de su especialidad.
+
+CLASIFICACIONES Y EXPLICACIONES RECIBIDAS:
+• Medicamentos: {state["medication_classification"]} 
+  Explicación: "{state.get("medication_explanation", "")}"
+• Dosis: {state["dosage_classification"]}
+  Explicación: "{state.get("dosage_explanation", "")}"  
+• Coherencia: {state["consistency_classification"]}
+  Explicación: "{state.get("consistency_explanation", "")}"
+
+INSTRUCCIONES para medication agent:
+• Si el agente de medicamentos reporta un problema que no pertenece a su ámbito (por ejemplo, problemas de dosis o coherencia), ignóralo y clasifícalo como NINGUNA.
+• Si el agente de medicamentos reporta más de un problema y ninguno es de su ámbito, clasifícalo como NINGUNA.
+• Si el agente de medicamentos reporta más de un problema y hay algunos de su ámbito, vuelve a plantear la clasificación y explicación en función de los problemas de su ámbito.
+• Si el agente de medicamentos reporta un problema de MEDICAMENTOS, acepta su clasificación y explicación.
+
+INSTRUCCIONES para dosege agent:
+• Si el agente de dosis reporta un problema que no pertenece a su ámbito (por ejemplo, problemas de medicamentos o coherencia), ignóralo y clasifícalo como NINGUNA.
+• Si el agente de dosis reporta más de un problema y ninguno es de su ámbito, clasifícalo como NINGUNA.
+• Si el agente de dosis reporta más de un problema y hay algunos de su ámbito, vuelve a plantear la clasificación y explicación en función de los problemas de su ámbito.
+• Si el agente de dosis reporta un problema de su ámbito, acepta su clasificación y explicación.
+
+INSTRUCCIONES para consistency agent:
+• Si el agente de consistencia reporta un problema que no pertenece a su ámbito (por ejemplo, problemas de medicamentos o dosis), ignóralo y clasifícalo como NINGUNA.
+• Si el agente de consistencia reporta un problema relacionado con nombres de MEDICAMENTOS o DOSIS, clasifícalo como LEVE.
+• Si el agente de consistencia reporta más de un problema y ninguno es de su ámbito, clasifícalo como NINGUNA.
+• Si el agente de consistencia reporta más de un problema y hay algunos de su ámbito, vuelve a plantear la clasificación y explicación en función de los problemas de su ámbito.
+• Si el agente de dosis reporta un problema de su ámbito, acepta su clasificación y explicación.
+
+Responde SOLO con JSON válido:
+{{"medication_classification": "NINGUNA", "dosage_classification": "NINGUNA", "consistency_classification": "NINGUNA", "medication_explanation": "", "dosage_explanation": "", "consistency_explanation": ""}}"""
+
+    try:
+        response = llm.invoke([HumanMessage(content=prompt)])
+        response_text = response.content.strip()
+        
+        # 🔍 DEBUG: Mostrar respuesta del LLM
+        print(f"🔍 DEBUG - Respuesta del ConsensusAgent LLM:")
+        print(f"'{response_text}'")
+        print("---")
+        
+        # Intentar extraer JSON si hay texto adicional
+        import json
+        import re
+        
+        # Buscar el patrón JSON en el texto
+        json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+        if json_match:
+            json_str = json_match.group()
+            print(f"🔍 DEBUG - JSON extraído: {json_str}")
+            filtered = json.loads(json_str)
+            print(f"🔍 DEBUG - JSON parseado exitosamente: {filtered}")
+        else:
+            # Si no se encuentra JSON, usar valores por defecto SIN FILTRAR
+            print(f"❌ No se encontró JSON válido en la respuesta")
+            print(f"📝 Respuesta completa: {response_text}")
+            
+            # FALLBACK SIN FILTRAR - MANTIENE ORIGINALES
+            filtered = {
+                "medication_classification": state["medication_classification"],
+                "dosage_classification": state["dosage_classification"], 
+                "consistency_classification": state["consistency_classification"],
+                "medication_explanation": state.get("medication_explanation", ""),
+                "dosage_explanation": state.get("dosage_explanation", ""),
+                "consistency_explanation": state.get("consistency_explanation", "")
+            }
+            print(f"🔄 Usando fallback sin filtrar: {filtered}")
+            
+    except json.JSONDecodeError as e:
+        print(f"❌ Error JSON: {e}")
+        print(f"📝 Respuesta que falló: {response_text}")
+        
+        # FALLBACK SIN FILTRAR  
+        filtered = {
+            "medication_classification": "NINGUNA",
+            "dosage_classification": "NINGUNA",
+            "consistency_classification": "NINGUNA",
+            "medication_explanation": "",
+            "dosage_explanation": "",
+            "consistency_explanation": ""
+        }
+        print(f"🔄 Usando fallback tras error JSON: {filtered}")
+    
+    except Exception as e:
+        print(f"❌ Error inesperado: {e}")
+        print(f"📝 Respuesta: {response_text if 'response_text' in locals() else 'No disponible'}")
+        
+        # FALLBACK SIN FILTRAR
+        filtered = {
+            "medication_classification": state["medication_classification"],
+            "dosage_classification": state["dosage_classification"],
+            "consistency_classification": state["consistency_classification"],
+            "medication_explanation": state.get("medication_explanation", ""),
+            "dosage_explanation": state.get("dosage_explanation", ""),
+            "consistency_explanation": state.get("consistency_explanation", "")
+        }
+        print(f"🔄 Usando fallback tras error inesperado: {filtered}")
+
+    # Validar que las clasificaciones sean válidas
+    valid_classifications = ["NINGUNA", "LEVE", "GRAVE"]
+    for key in ["medication_classification", "dosage_classification", "consistency_classification"]:
+        if filtered.get(key) not in valid_classifications:
+            print(f"⚠️ Clasificación inválida para {key}: {filtered.get(key)}, usando NINGUNA")
+            filtered[key] = "NINGUNA"
+
+    # Actualizar el estado con las clasificaciones filtradas
+    state.update({
+        "medication_classification": filtered["medication_classification"],
+        "dosage_classification": filtered["dosage_classification"],
+        "consistency_classification": filtered["consistency_classification"],
+        "medication_explanation": filtered.get("medication_explanation", ""),
+        "dosage_explanation": filtered.get("dosage_explanation", ""),
+        "consistency_explanation": filtered.get("consistency_explanation", "")
+    })
+
+    # -------------------------------
+    # 🔽 Aquí empieza tu bloque original 🔽
+    # -------------------------------
     med_class = state["medication_classification"]
     dosage_class = state["dosage_classification"]
     consistency_class = state["consistency_classification"]
 
-    # Extract explanations
     med_explanation = state.get("medication_explanation", "")
     dosage_explanation = state.get("dosage_explanation", "")
     consistency_explanation = state.get("consistency_explanation", "")
 
     classifications = [med_class, dosage_class, consistency_class]
 
-    # Apply consensus rules
     if "GRAVE" in classifications:
         final_classification = "GRAVE"
-    elif classifications.count("LEVE") >= 2:
+    elif "LEVE" in classifications:
         final_classification = "LEVE"
-    elif classifications.count("NINGUNA") >= 2:
-        final_classification = "NINGUNA"
     else:
-        # Default to most severe non-GRAVE classification if tie
-        if "LEVE" in classifications:
-            final_classification = "LEVE"
-        else:
-            final_classification = "NINGUNA"
+        final_classification = "NINGUNA"
 
-    # Collect error details for GRAVE and LEVE classifications
     error_details = []
     detailed_errors = []
 
@@ -278,7 +388,6 @@ def consensus_agent(state: EvaluationState) -> EvaluationState:
         error_details.append(f"🟡 Error menor en coherencia: {consistency_explanation}")
         detailed_errors.append(f"Coherencia: {consistency_explanation}")
 
-    # Create comprehensive explanation
     explanation = f"""Clasificación final: {final_classification}
 
 Análisis de agentes:
@@ -291,11 +400,9 @@ Reglas aplicadas:
 • Si la mayoría es LEVE → final = LEVE
 • Si la mayoría son NINGUNA → final = NINGUNA"""
 
-    # Add error details if present
     if error_details:
         explanation += f"\n\n⚠️ DETALLES DE ERRORES ENCONTRADOS:\n" + "\n".join(error_details)
 
-    # Add safety recommendation for GRAVE classifications
     if final_classification == "GRAVE":
         explanation += "\n\n🚨 RECOMENDACIÓN: Esta transcripción requiere revisión inmediata por parte de un profesional médico antes de su uso clínico."
 
@@ -305,8 +412,6 @@ Reglas aplicadas:
         "consensus_explanation": explanation,
         "error_details": detailed_errors
     }
-
-
 # Build the graph
 def create_medication_evaluation_graph():
     """Create the medication evaluation LangGraph"""

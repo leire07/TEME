@@ -1,0 +1,159 @@
+{
+  "scenario_id": "cardiologia_16",
+  "title": "Consulta de cardiología - Primera visita por soplo",
+  "context": "Paciente de 65 años remitido a cardiología para revisión por soplo detectado en revisiones laborales",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "La primera vez que vienes con nosotros a cardiología, ¿verdad? Tienes 65 años."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, te voy a hacer unas preguntas. ¿Tienes alguna alergia a medicamentos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Algún alimento te cae mal?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Que yo sepa, no."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fumas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, lo dejé hace 21 años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, entonces eres ex fumador. ¿Alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo a veces, un fin de semana, que no tengo que conducir una copita de vino en la comida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Tienes hipertensión? ¿Tomas medicación para la tensión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo tomo medicación para el colesterol."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ah, hipercolesterolemia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me dijeron que mejor tomar la dosis mínima."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro, eso no es para que lo notes, es preventivo. El colesterol alto no da síntomas hasta que aparece el infarto. Entonces, no eres diabético, no tienes hipertensión, pero sí colesterol alto tratado. ¿Tienes ácido úrico elevado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me salió un poco alto en una analítica, pero nunca he tenido gota."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, entonces, nada grave. ¿Alguna vez te han dicho que tienes apnea del sueño?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No diagnosticada, pero en casa me dicen que ronco mucho. Yo a veces me levanto cansado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es probable que tengas apnea. Habría que estudiarlo. Y ahora vienes porque te ha mandado revisión del corazón por un soplo. ¿Desde cuándo lo sabes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Uf, hace muchos años. En las revisiones médicas del trabajo me lo detectaron. Después me hicieron un ecocardiograma y una prueba de esfuerzo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Entonces ya te lo habían estudiado, pero ahora lo seguimos nosotros. ¿Cuándo fue tu última analítica?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hace unos ocho o nueve meses."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Entonces vamos a pedir una analítica completa. Un ecocardiograma y una prueba de esfuerzo. ¿Me quito el reloj?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No hace falta. Es baratito, pero cuenta los pasos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo importante es que funcione. Toma aire profundo, suelta, otra vez, muy bien. Tienes un soplo sistólico en el foco aórtico. Los pulmones están bien ventilados y sin ruidos agregados. La tensión está muy bien, 120-70, frecuencia cardíaca 78."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A veces me fatigo un poco al subir escaleras."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal que notes algo, pero ahora mismo todo está controlado. ¿Alguna vez te han hecho un TAC de coronarias?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, una vez me hicieron una resonancia del corazón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ah, vale, eso es distinto. Entonces TAC no."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, fue hace un par de años. No sé dónde tengo los resultados porque ahora estoy viviendo en casa de mi madre."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Mejor así. Además, así la casa donde vivías no queda sola."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, mi nieta vive allí y así está habitada. Hoy en día no te puedes fiar, si no la ocupan."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro, mejor que esté cuidada. ¿Qué edad tiene tu nieta?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "26."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ah, ya es mayor. Entonces vamos a pedirte las analíticas, el eco y la prueba de esfuerzo. Si te haces la analítica aquí mejor porque hacen todo completo. En otros sitios a veces faltan cosas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, así también me ahorro usar el seguro privado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Mejor aprovechar lo público, así no suben la cuota del seguro."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es verdad."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+    "scenario_id": "cardiologia_22",
+    "title": "Consulta de cardiología - Revisión por disnea y posible apnea del sueño",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bueno, entonces, tienes 40 años, no tomas medicación y, que sepamos, no tienes ninguna enfermedad. Te mandaron con nosotros por dificultad para respirar, ¿verdad?",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, me vuelve otra vez. Era por la apnea del sueño. Me mandaron aquí para ver si podía ser del corazón antes de mandarme al neumólogo.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Ajá.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "La vez pasada me tomaste la tensión y me salió alta.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, recuerdo, tenías 140/94. Por eso te pedí un mapa de tensión.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, me lo puse.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale. ¿Y la analítica?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "También me la hice.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto. Entonces hoy vienes más que nada para hacer el ecocardiograma y revisar lo demás. Queda pendiente la prueba de esfuerzo, que es para ver cómo responde tu corazón al ejercicio.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, todavía no me la han hecho. Me dijeron que cuando me den esta cita ya me mandarán la otra.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien. Pues mira, el mapa de tensión te salió muy bien, así que es lo que llamamos “hipertensión de bata blanca”.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Ah, vale, sí, yo lo sospechaba, porque en casa siempre me sale bien.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Exacto, y la analítica también salió normal. El pro-BNP está por debajo de 70, así que la fatiga o la falta de aire es poco probable que sea por el corazón.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Ah, qué alivio.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien. Vamos entonces a hacerte el ecocardiograma. Quítate la ropa de la cintura para arriba, te tumbas y te giras mirando hacia la pared.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Así, ¿no? Vale.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto. El eco está normal.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Menos mal, porque a veces me ahogo por la noche, aunque es por épocas.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, pero teniendo el eco bien, el mapa de tensión normal y la analítica también, lo más probable es que sea por la apnea del sueño.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces, queda pendiente que te hagan la prueba de esfuerzo. Cuando la tengas hecha, vuelves y ese día ya te damos todo el informe.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale, perfecto.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 760,
+      "turn_count": 22,
+      "avg_turn_length": 34.5
+    },
+    "estimated_total_duration": 230.0,
+    "generated_at": "2025-09-25T01:20:00Z"
+  }
+  

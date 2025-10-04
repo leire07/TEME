@@ -1,0 +1,95 @@
+{
+  "scenario_id": "neumologia_01",
+  "title": "Consulta de neumología - Asma mal controlada con rinitis alérgica",
+  "context": "Consulta externa por crisis nocturnas de asma y síntomas alérgicos asociados",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿qué tal? ¿Cómo has estado con el asma?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues regular, doctor. Últimamente me despierto varias noches con pitidos en el pecho y sensación de ahogo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cada cuánto te pasa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Casi todas las semanas, a veces dos veces. Uso el inhalador azul y me calma, pero al cabo de unos días vuelvo a estar igual."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Durante el día también notas tos o falta de aire?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, sobre todo al subir escaleras o si voy deprisa. Y cuando hace frío también me cuesta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Eso significa que el asma no está bien controlada. El inhalador azul solo es para emergencias, no sirve como tratamiento diario."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya, pero es lo único que me habían dado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo que necesitas ahora es un inhalador de mantenimiento, para evitar que aparezcan esas crisis. Te voy a recetar uno que combina dos medicamentos, un corticoide y un broncodilatador. Se llama Budesonida formoterol."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo lo uso?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Dos veces al día, una inhalación por la mañana y otra por la noche, todos los días, aunque te encuentres bien. Y además, si tienes una crisis, puedes usar el mismo inhalador como rescate."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Una inhalación extra en ese momento? Entonces ya no uso el azul."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto, con este es suficiente. El azul lo dejamos solo como respaldo, pero lo normal es que no lo necesites."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, me parece bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, me contaste que tienes mocos y estornudos a menudo, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, sobre todo en primavera y cuando limpio en casa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso seguramente es rinitis alérgica. Te recomiendo un spray nasal de corticoide, mometasona, una pulverización en cada fosa al día y si notas mucho picor o congestión puedes tomar un antihistamínico."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, muy importante también, evita el humo, los ambientadores fuertes, ventila bien la casa y procura no tener alfombras o peluches porque acumulan polvo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, eso en mi casa es complicado, pero lo intentaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Haz lo que puedas, todo suma. Entonces, plan: inhalador nuevo mañana y noche, mismo inhalador si aparece crisis, spray nasal diario y medidas ambientales. Nos veremos en unos dos meses para ver si has mejorado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, gracias doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A ti. Con este tratamiento deberías notar mejoría muy pronto."
+    }
+  ]
+}

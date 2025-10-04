@@ -1,0 +1,129 @@
+{
+    "scenario_id": "reumatologia_01",
+    "title": "Consulta de reumatología - Tratamiento de osteoporosis",
+    "context": "Consulta externa de reumatología",
+    "turns": [
+      {
+        "speaker": "Reumatólogo",
+        "text": "Hola, ¿cómo te encuentras?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bien, aunque sigo con dolor de espalda a ratos. Por eso me preocupaba lo de los huesos.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "Sí, revisé la densitometría y muestra osteoporosis en la columna lumbar. Tienes menos densidad ósea de la normal, lo que aumenta el riesgo de fracturas. ¿Has tenido alguna fractura en los últimos años?",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, hace un año me rompí la muñeca al caerme.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "Eso ya es un signo de fragilidad ósea. Vamos a tratarlo para fortalecer los huesos y evitar más fracturas.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y cómo se trata?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "Lo primero es asegurarnos de que tienes suficiente calcio y vitamina D. Te voy a recetar calcio 600 mg con vitamina D 800 UI, una tableta dos veces al día. Además, te indicaré un fármaco llamado alendronato, 70 mg una vez a la semana. Es un comprimido que ayuda a frenar la pérdida de hueso.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y cómo se toma?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "En ayunas, con un vaso grande de agua, y después tienes que permanecer sentada o de pie al menos media hora, sin acostarte, para que no te dé acidez.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "También es fundamental el ejercicio: caminar, ejercicios de equilibrio y un poco de pesas ligeras, todo ayuda a fortalecer hueso y músculo.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Intentaré hacerlo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "¿Fumas o tomas alcohol?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Fumaba, pero lo dejé hace dos años. Alcohol, solo una copa de vino de vez en cuando.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "Muy bien, porque el tabaco empeora el hueso. El alcohol, cuanto menos, mejor.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Entendido.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "Entonces, plan: calcio + vitamina D cada día, alendronato una vez a la semana, ejercicio regular y revisión con analítica y nueva densitometría en un año.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Reumatólogo",
+        "text": "Muy bien, con esto reduciremos el riesgo de fractura y mejorarás la salud de tus huesos.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 910,
+      "turn_count": 19,
+      "avg_turn_length": 32.1
+    },
+    "estimated_total_duration": 255.0,
+    "generated_at": "2025-09-25T06:00:00Z"
+  }
+  

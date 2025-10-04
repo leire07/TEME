@@ -1,0 +1,153 @@
+{
+    "scenario_id": "pediatria_02",
+    "title": "Consulta de pediatría - Neumonía infantil",
+    "context": "Consulta externa de pediatría",
+    "turns": [
+      {
+        "speaker": "Pediatra",
+        "text": "Hola, ¿qué tal está el niño?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Lleva varios días con fiebre y mucha tos. Ayer parecía que estaba un poco mejor, pero hoy volvió a subir la fiebre y se le nota más cansado.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "¿Cuántos días lleva con fiebre?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Unos cinco. Al principio pensábamos que era un resfriado, pero cada vez tose más fuerte y no duerme casi nada por la noche.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "¿Ha vomitado o tenido diarrea?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "No, solo la tos y la fiebre.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Vamos a explorarlo. El niño tiene 38,7º de fiebre, la saturación de oxígeno es 96%, y al auscultar el pulmón derecho escucho ruidos y crepitantes en la base. Esto me hace pensar en una neumonía en el pulmón derecho.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Es grave?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "No parece grave, porque está respirando bien y los niveles de oxígeno son correctos. Por eso podemos tratarlo en casa con antibióticos y control.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y qué tratamiento necesita?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Le voy a recetar amoxicilina en jarabe, tres tomas al día durante 7 días. Además, paracetamol si tiene fiebre o está molesto. Mucho líquido y reposo.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale. ¿Y la tos?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "La tos es parte de la neumonía, no conviene darle jarabes para cortarla. Poco a poco irá mejorando con el antibiótico. Lo que sí ayuda es mantenerlo bien hidratado y elevar un poco la cabecera de la cama para que respire mejor por la noche.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Está bien.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Es normal que siga tosiendo incluso después de acabar el tratamiento, a veces durante dos o tres semanas, pero lo importante es que la fiebre desaparezca y que cada día lo note un poco mejor.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y si la fiebre no baja?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Si después de 48 horas de antibiótico sigue con fiebre alta, o si lo ve muy decaído, con dificultad para respirar o con los labios morados, debe acudir de inmediato a urgencias.",
+        "duration_estimate": 13.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Al terminar la semana de antibiótico lo quiero ver en consulta para revisarlo y asegurar que el pulmón está limpio.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Entonces, plan: antibiótico una semana, paracetamol si fiebre, líquidos abundantes y reposo. Revisión al finalizar el tratamiento.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Muy bien, doctor, gracias.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "A ustedes. Con este plan debería mejorar pronto.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 910,
+      "turn_count": 23,
+      "avg_turn_length": 13.5
+    },
+    "estimated_total_duration": 280.0,
+    "generated_at": "2025-09-25T21:00:00Z"
+  }
+  

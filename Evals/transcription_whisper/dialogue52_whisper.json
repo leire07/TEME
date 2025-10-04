@@ -1,0 +1,71 @@
+{
+  "scenario_id": "neurologia_03",
+  "title": "Consulta de neurología - Temblor esencial",
+  "context": "Paciente con temblor postural de más de dos años de evolución, diagnóstico de temblor esencial",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Cuéntame, ¿qué es lo que te preocupa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Que me tiembla mucho la mano derecha, sobre todo cuando intento escribir o coger un vaso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Desde cuándo lo notas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hace más de dos años, pero últimamente está empeorando."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ese temblor aparece en reposo o más cuando usas la mano?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Cuando la uso, por ejemplo para comer con la cuchara o servir agua. Si la tengo quieta apoyada apenas tiembla."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Eso es lo que llamamos temblor esencial. Es diferente al Parkinson, porque en tu caso aparece con la acción y no en reposo. ¿Alguien más en tu familia lo tiene?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, mi madre también lo tenía."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es muy común. Suele ser hereditario. ¿Tomas café, alcohol o estimulantes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Café todos los días. Unas tres tazas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso puede aumentarlo. Conviene reducir la cafeína. Y como ya interfiere con tu vida diaria, vamos a iniciar tratamiento. Te receto propranolol 40 miligramos. Media tableta por la mañana y media por la noche. ¿Vale?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso lo tengo que tomar siempre?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo iremos viendo. Si mejora mucho, podemos mantener la dosis estable. Si no, ajustamos. Y si con el tiempo desaparece, podríamos retirarlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, vamos a explorarte. Extiende las manos al frente."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, se aprecia el temblor postural. Caminar, fuerza y reflejos están normales. Es solo el temblor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, todo lo demás bien. Entonces, reducimos café, empezamos con propranolol y nos vemos en tres meses para revisar cómo vas."
+    }
+  ]
+}

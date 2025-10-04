@@ -1,0 +1,182 @@
+{
+  "scenario_id": "consulta_cardiologia_palpitaciones_01",
+  "title": "Consulta Cardiología - Palpitaciones e hipertensión",
+  "context": "Paciente hombre con palpitaciones, hipertensión y colesterol elevado. Se ajusta tratamiento con metoprolol y atorvastatina.",
+  "turns": [
+    {
+      "speaker": "PacienteHombre",
+      "text": "Buenos días, doctor. Últimamente me noto cansado al subir escaleras y a veces siento palpitaciones.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Buenos días. ¿Cuánto tiempo lleva con estos síntomas?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Un par de meses, pero en las últimas semanas se han hecho más frecuentes.",
+      "duration_estimate": 4.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Ha tenido dolor en el pecho, mareos o falta de aire en reposo?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Dolor fuerte no, pero sí una presión en el pecho cuando camino rápido. Y alguna vez me he mareado un poco.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "De acuerdo. ¿Tiene antecedentes médicos o toma alguna medicación?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, soy hipertenso y tomo enalapril 10 mg una vez al día. También colesterol alto, pero no estoy tomando nada ahora mismo.",
+      "duration_estimate": 7.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entiendo. Vamos a tomarle la tensión… (pausa) Tiene 150/95 mmHg, todavía elevada. Voy a auscultar el corazón… (pausa) El ritmo es regular, pero con algo de taquicardia.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Es grave?",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "No necesariamente, pero es importante estudiarlo. Vamos a pedirle un electrocardiograma y una analítica con perfil lipídico, glucosa y función renal.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y mientras tanto?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Para proteger su corazón, además de seguir con el enalapril, le añadiré un betabloqueante: metoprolol 50 mg al día, que ayudará a controlar las palpitaciones, la tensión y el esfuerzo cardíaco.",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Eso tiene efectos secundarios?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Puede causar cansancio o manos frías, pero suele tolerarse bien. Le ajustaré la dosis según cómo se encuentre.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y el colesterol?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Con el último análisis vimos cifras altas, por lo que es recomendable empezar con una estatina. Le recetaré atorvastatina 20 mg por la noche, que ayudará a bajar el colesterol y a proteger las arterias.",
+      "duration_estimate": 11.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Tendré que tomar todo esto de por vida?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "En la mayoría de los casos sí, aunque las dosis pueden ajustarse. Son fármacos que reducen el riesgo de infarto y mejoran la calidad de vida.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y puedo hacer algo más por mi cuenta?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Puede hacer cosas como reducir la sal en las comidas, hacer ejercicio moderado, como caminar 30 minutos al día, dejar el tabaco si fuma y seguir una dieta rica en frutas, verduras y pescado.",
+      "duration_estimate": 11.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No fumo, pero la dieta sí que debería mejorarla.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Perfecto, ese es un buen punto de partida. Además, controle su peso y trate de evitar el alcohol.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Está bien. ¿Cuándo tengo que volver?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Le citaré en un mes para revisar la tensión y cómo se encuentra con el metoprolol. Y en tres meses repetiremos análisis para ver el colesterol y ajustar la atorvastatina si es necesario.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Gracias, doctor. Me quedo más tranquilo.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Para eso estamos. Resumo: seguirá con  enalapril 10 mg cada 12 horas que es la forma adecuada de tomarlo y añadiremos metoprolol 50 mg una vez al día y atorvastatina 20 mg por la noche. Además, haremos cambios en la dieta y ejercicio regular.",
+      "duration_estimate": 14.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "De acuerdo, lo haré.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Muy bien, nos vemos en la próxima revisión.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 450,
+    "turn_count": 28,
+    "avg_turn_length": 16.071428571428573
+  },
+  "estimated_total_duration": 150.1,
+  "generated_at": "2025-09-24T10:17:13.598466Z"
+}

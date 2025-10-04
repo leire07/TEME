@@ -1,0 +1,107 @@
+{
+  "scenario_id": "sospecha_apendicitis_01",
+  "title": "Dolor abdominal agudo en fosa ilíaca derecha — sospecha de apendicitis",
+  "context": "Paciente con dolor abdominal agudo que se centra en fosa ilíaca derecha, vómitos y febrícula. Exploración con defensa localizada y signo de rebote positivo; plan diagnóstico y manejo inicial en urgencias (analítica, ecografía, analgesia, ayuno y posible antibioterapia y cirugía).",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenas, desde esta mañana tengo un dolor fuerte en la parte baja del abdomen. Primero era más difuso, pero ahora se concentra en el lado derecho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿El dolor ha ido aumentando con el paso de las horas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, empezó como un malestar general y ahora es bastante agudo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido náuseas, vómitos o fiebre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, he vomitado dos veces y tengo algo de fiebre, 38 grados Celsius."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Ha tenido problemas digestivos previos, operaciones abdominales o alguna enfermedad crónica?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, nada de eso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Voy a explorarle el abdomen. Al presionar en el lado derecho noto dolor intenso y también al soltar la presión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Esto puede ser signo de apendicitis."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Es grave, doctor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede serlo si no se trata a tiempo. La apendicitis aguda suele requerir cirugía para extirpar el apéndice antes de que se complique."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué van a hacer ahora?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a pedir una analítica y una ecografía abdominal para confirmar el diagnóstico. Mientras tanto, le pondremos una vía intravenosa para hidratarle y controlar el dolor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias, porque me duele bastante."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo, le administraremos metamizol 2 gramos intravenoso para el dolor y ondansetrón 4 miligramos IV para las náuseas. No le daremos comida ni bebida por ahora. Debe permanecer en ayunas, por si es necesario operarlo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y antibióticos?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si la ecografía confirma la apendicitis, antes de la cirugía le administraremos antibióticos profilácticos, habitualmente ceftriaxona 2 gramos IV más metronidazol 500 mg IV, para reducir el riesgo de infección."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si no es apendicitis?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Hay otras causas de dolor abdominal, como infecciones urinarias, diverticulitis o problemas ginecológicos en mujeres. Pero por sus síntomas y la exploración, la apendicitis es muy probable."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y la operación es peligrosa?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En la mayoría de los casos es una cirugía sencilla y segura. Lo más importante es hacerla antes de que el apéndice se rompa, porque eso puede causar peritonitis, una complicación grave."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien, confío en lo que me diga."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Entonces vamos a proceder con las pruebas y si se confirma, contactaremos al equipo de cirugía. Por ahora le dejamos con analgesia y suero."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchas gracias doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. No se preocupe, lo estamos controlando y actuaremos rápido si se confirma el diagnóstico."
+    }
+  ]
+}

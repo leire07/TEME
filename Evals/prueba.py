@@ -4,7 +4,7 @@ Este ejemplo muestra un error GRAVE real: antihipertensivo → mercurio
 """
 
 import json
-from medication_evaluation_graph import medication_evaluation_graph
+from Evals.medical_metrics import medication_evaluation_graph
 
 def extract_full_dialogue(json_data):
     """Extrae el diálogo completo de la estructura JSON"""

@@ -1,0 +1,129 @@
+{
+    "scenario_id": "pediatria_03",
+    "title": "Consulta de pediatría - Otitis media aguda",
+    "context": "Consulta externa de pediatría",
+    "turns": [
+      {
+        "speaker": "Pediatra",
+        "text": "Hola, ¿qué tal está el niño?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Desde ayer por la noche llora mucho, no ha dormido casi nada y se toca mucho la oreja derecha. Además tiene fiebre.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "¿Cuánto le subió la fiebre?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Casi 39 grados. Le di paracetamol y le bajó un poco, pero al rato volvió a subir.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "¿Tiene mocos o tos?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, llevaba unos días resfriado, con mocos y algo de tos.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Vamos a explorarlo. La garganta está un poco roja, pero lo más llamativo es el oído derecho: el tímpano está enrojecido y abombado. Eso es una otitis media aguda.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y eso cómo se trata?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "En algunos casos leves basta con analgésicos y esperar, pero como tiene fiebre alta y tanto dolor, vamos a darle antibiótico. Le receto amoxicilina en jarabe, cada 8 horas durante 7 días.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Para la fiebre y el dolor puede darle paracetamol o ibuprofeno, según necesite. Lo importante es que esté cómodo y pueda descansar.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y puede seguir yendo a la guardería?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "No, lo mejor es que se quede en casa hasta que lleve al menos 48 horas sin fiebre y esté más recuperado. Además así evitamos contagios.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Es normal que la fiebre tarde un par de días en bajar del todo. Si después de 48 horas sigue igual o empeora el dolor, debe traerlo de nuevo. Y cuando termine el antibiótico, lo revisaremos para asegurarnos de que el oído ha quedado bien.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "Entonces, plan: antibiótico una semana, analgésicos para fiebre y dolor, reposo en casa, y revisión al acabar el tratamiento.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Muchas gracias, doctor.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Pediatra",
+        "text": "A ustedes. Con el tratamiento debería mejorar en pocos días.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 780,
+      "turn_count": 19,
+      "avg_turn_length": 12.3
+    },
+    "estimated_total_duration": 250.0,
+    "generated_at": "2025-09-25T21:20:00Z"
+  }
+  

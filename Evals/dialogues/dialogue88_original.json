@@ -1,0 +1,153 @@
+{
+    "scenario_id": "medicina_familia_03",
+    "title": "Consulta de medicina de familia - Lumbalgia aguda mecánica",
+    "context": "Consulta externa de medicina de familia",
+    "turns": [
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "Buenos días, ¿qué le sucede?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Desde hace tres días me duele mucho la zona baja de la espalda. Empezó de repente después de agacharme para coger una caja pesada.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "¿Dónde nota exactamente el dolor?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Aquí, en la zona lumbar, más en el centro.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "¿Le baja el dolor por la pierna o se queda solo en la espalda?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "A veces siento como un tirón hacia la nalga derecha, pero no llega más abajo.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "¿Tiene hormigueo, pérdida de fuerza o dificultad para caminar?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, solo dolor, sobre todo cuando me muevo o me levanto de la cama.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "Vamos a explorarlo. Bien, la movilidad está algo limitada por el dolor, pero los reflejos y la fuerza en las piernas están normales. Esto parece una lumbalgia aguda mecánica, típica tras un esfuerzo.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y qué hago para que se me pase?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "Lo primero es reposo relativo, es decir, evitar esfuerzos, pero no estar todo el día en cama. Caminar despacio ayuda a que se recupere antes. Le voy a recetar ibuprofeno 600 mg cada 8 horas tras las comidas durante unos días, y si el dolor es muy fuerte, puede añadir paracetamol.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "También puede aplicar calor local en la zona lumbar, por ejemplo con una manta eléctrica o bolsa de agua caliente.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Eso sí lo hago, y me alivia un poco.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "Perfecto. Evite coger pesos, agacharse en seco o estar muchas horas sentado. Cuando esté mejor, podemos derivarlo a fisioterapia para hacer ejercicios de fortalecimiento y estiramientos, así reducimos el riesgo de que vuelva a repetirse.",
+        "duration_estimate": 13.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Porque esto no es la primera vez, ya me pasó hace un año.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "Claro, por eso es importante el ejercicio de rehabilitación. A veces la lumbalgia tiende a repetirse si no se cuidan los músculos de la espalda y el abdomen.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Entiendo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "En principio esto debería mejorar en una o dos semanas. Si el dolor empeora mucho, si baja por toda la pierna con hormigueos o si pierde fuerza, debe volver enseguida porque habría que hacer pruebas de imagen.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "Entonces, plan: ibuprofeno unos días, calor local, reposo relativo y evitar esfuerzos. Si mejora, en unas semanas empezamos con ejercicios suaves.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto, gracias doctor.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "DoctorPrimaria",
+        "text": "A usted, que se recupere pronto.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 690,
+      "turn_count": 23,
+      "avg_turn_length": 11.8
+    },
+    "estimated_total_duration": 230.0,
+    "generated_at": "2025-09-26T20:40:00Z"
+  }
+  

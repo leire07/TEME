@@ -1,0 +1,177 @@
+{
+    "scenario_id": "neumologia_03",
+    "title": "Consulta de neumología - Asma no controlada",
+    "context": "Consulta externa de neumología",
+    "turns": [
+      {
+        "speaker": "Neumólogo",
+        "text": "Entonces, cuéntame, ¿qué tal te has sentido estos últimos meses?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Pues sigo con los silbidos en el pecho. Me dan sobre todo por la noche, y últimamente casi todas las semanas.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "¿Y qué haces cuando te pasa?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Tengo el inhalador azul, el salbutamol. Me echo un par de veces y al rato se me pasa.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Vale. ¿Lo estás usando a menudo?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, la verdad que bastante. Casi siempre me da tos y siento falta de aire.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Mira, eso me confirma que el asma no está bien controlada. Lo ideal es que el inhalador azul lo uses muy poco, solo de manera puntual. Si lo necesitas varias veces a la semana, significa que necesitamos cambiar el tratamiento de base.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Ya… yo pensaba que con eso bastaba.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Para nada, eso solo corta la crisis, pero no trata la inflamación que tienes en los bronquios. Y si no tratamos esa inflamación, seguirás teniendo síntomas y riesgo de crisis más graves.",
+        "duration_estimate": 13.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Entiendo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Por eso, te voy a recetar un inhalador que combina dos medicamentos: uno abre los bronquios y el otro baja la inflamación. Se llama budesonida con formoterol. Lo vas a usar dos veces al día, por la mañana y por la noche, todos los días, aunque te encuentres bien. Y de rescate cuando te falte el aire, usa el azul.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "O sea que con ese hago todo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "NO. Un inhalador para el día a día y si tienes síntomas agudos está el de rescate que es el salbutamol, el azul como dices. Es muy importante ser constante, porque solo así conseguimos que el asma se mantenga tranquila.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale, lo haré así. ¿Y si mejoro mucho?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Si en tres meses vemos que estás estable y sin crisis, podemos bajar la dosis. Pero de momento tienes que usarlo siempre.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Además, me cuentas que tienes estornudos y nariz tapada. Eso puede ser rinitis alérgica, que a veces empeora el asma. Te voy a añadir un spray nasal de mometasona, una pulverización en cada fosa al día, y si notas mucha alergia puedes tomar un antihistamínico.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto, porque lo de la nariz también me molesta.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Y muy importante: evita lo que te desencadena las crisis. Nada de humo, ventila bien la casa, lava las fundas de la cama con agua caliente y, si haces deporte, calienta antes de empezar.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, eso suelo notarlo mucho, que al correr me viene enseguida.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Claro, con el tratamiento nuevo debería mejorar bastante. Y recuerda traer el inhalador cuando vuelvas para comprobar que lo usas bien. La técnica es fundamental.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, a veces me lío un poco con eso.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "No te preocupes, te lo enseño ahora mismo y te doy también un folleto con dibujos.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Entonces quedamos así: budesonida/formoterol dos veces al día y si tienes síntomas Salbutamol, spray nasal una vez al día, y me cuentas dentro de tres meses cómo vas. Si a pesar de eso sigues con muchas noches malas, adelanta la cita y te revisamos el tratamiento.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale, gracias doctor.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "De nada, verás que con esto mejoras bastante.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 1080,
+      "turn_count": 27,
+      "avg_turn_length": 40.0
+    },
+    "estimated_total_duration": 310.0,
+    "generated_at": "2025-09-25T03:40:00Z"
+  }
+  

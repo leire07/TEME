@@ -1,0 +1,212 @@
+{
+  "scenario_id": "cardiologia_06",
+  "title": "Consulta de cardiología - Dolor torácico y estudio de hipertensión",
+  "context": "Consulta externa de cardiología",
+  "turns": [
+    {
+      "speaker": "Cardiólogo",
+      "text": "Vamos a empezar la consulta. Es la primera vez que vienes, tienes 47 años y vienes remitido desde el hospital de Inca.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí.",
+      "duration_estimate": 0.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Muy bien. ¿Eres alérgico a algún medicamento?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No, no soy alérgico y no tomo medicación.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Tienes intolerancia a algún alimento?",
+      "duration_estimate": 2.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No.",
+      "duration_estimate": 0.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Fumas?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No.",
+      "duration_estimate": 0.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Alcohol?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Alguna cerveza, poco.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien, consumo ocasional. ¿Alguna enfermedad conocida?",
+      "duration_estimate": 3.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No, casi nunca voy al médico.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Alguna cirugía?",
+      "duration_estimate": 1.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No.",
+      "duration_estimate": 0.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Antecedentes familiares de enfermedad grave o muerte precoz?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No antes de los 50. Mi abuelo murió del corazón, pero más mayor.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Perfecto. ¿Por qué te derivan aquí?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Me dijeron que tenía el corazón un poco grande. A veces siento como aire que se mete en el pecho, me duele mucho y se me encogen las costillas.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Ese dolor aparece cuándo?",
+      "duration_estimate": 2.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "A veces al respirar profundo, al estornudar o tras no comer bien. También últimamente me duele una pierna, aunque creo que puede ser por ejercicio.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entonces es un dolor torácico no claramente relacionado con el esfuerzo, más bien posicional. ¿Cuánto suele durar?",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Un par de minutos.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Con el esfuerzo, como subir escaleras, tienes molestias?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No, aunque si me cuelgo de una barra o hago fuerza con el brazo, sí aparece el dolor.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien, parece un dolor más bien musculoesquelético y posicional. ¿Analítica reciente?",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, hace menos de seis meses.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Perfecto. Vamos a revisarte. Respira profundo… bien. La tensión está en 150/100 mmHg, bastante alta.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Te voy a pedir un MAPA de tensión (monitorización ambulatoria de presión arterial), que mide la tensión cada media hora de día y cada hora de noche. Si sale alta, será hipertensión. También te pediremos analítica de sangre y orina. Para ello debes venir en ayunas 12 horas, el mismo día que te coloquemos el MAPA.",
+      "duration_estimate": 18.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Entonces vengo aquí otra vez?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Sí, todo se hace aquí. Llegas a las 8 de la mañana, te haces la analítica y luego te colocamos el MAPA.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Además te pediremos un ecocardiograma basal y un ecocardiograma de esfuerzo para valorar la función y válvulas del corazón en reposo y con ejercicio.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "De acuerdo.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Muy bien, organizamos las citas y seguimos con los resultados.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 480,
+    "turn_count": 31,
+    "avg_turn_length": 15.5
+  },
+  "estimated_total_duration": 160.0,
+  "generated_at": "2025-09-25T09:33:46.580447Z"
+}

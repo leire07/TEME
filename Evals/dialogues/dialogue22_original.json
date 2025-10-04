@@ -1,0 +1,146 @@
+{
+  "scenario_id": "consulta_intoxicacion_01",
+  "title": "Consulta Urgencias - Sospecha de intoxicación química",
+  "context": "Paciente hombre con síntomas de intoxicación tras manipular disolvente químico. Se aplican medidas de soporte, oxígeno, medicación sintomática y observación.",
+  "turns": [
+    {
+      "speaker": "PacienteHombre",
+      "text": "Buenos días, creo que me he intoxicado en el trabajo, puede que no pero lo sospecho. Estuve manipulando un disolvente químico y ahora tengo mareos, náuseas y me arde la garganta.",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Entiendo. ¿Cuánto tiempo hace que sucedió y qué producto era?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Hace unas dos horas. Era un disolvente industrial, no sé exactamente cuál.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Bien. ¿Ha tenido vómitos, dificultad para respirar o dolor torácico?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, un poco de vómitos y me cuesta respirar cuando me muevo rápido.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "De acuerdo. Vamos a tomar signos vitales… (pausa) Tiene 37,8 °C de temperatura, tensión 125/80 mmHg, pulso 110 lpm y saturación 95%. La frecuencia respiratoria está algo elevada.",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Es grave, doctor?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Puede ser serio dependiendo del producto y la cantidad inhalada. Lo primero es asegurarnos de que respire aire limpio, así que lo llevaremos a la zona de desintoxicación con ventilación.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Está bien.",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Le pondremos oxígeno con mascarilla a 2–3 L/min mientras valoramos la gravedad. También le administraremos ondansetrón 4 mg IV para las náuseas y paracetamol 1 g IV si aparece dolor o malestar general.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Necesito algún antídoto?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Depende del producto. Por el momento no sabemos el químico exacto. Pediremos información al servicio de seguridad de su empresa y realizaremos análisis de sangre y orina para detectar sustancias tóxicas.",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y si me empeora la respiración?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Si la saturación baja de 92% o aparece dificultad respiratoria importante, se trasladará a unidad de cuidados intensivos  y  mantener una vigilancia más estrecha",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Tengo que quedarme ingresado?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Por precaución, le mantendremos en observación en urgencias durante varias horas, hasta que los síntomas mejoren y los análisis estén listos.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Puedo hacer algo mientras tanto?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Lo principal es respirar aire limpio, reposar y no intentar vomitar más de lo necesario. Mantendremos vía intravenosa para hidratación con suero fisiológico 500 ml.",
+      "duration_estimate": 8.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Entiendo. ¿El ardor en la garganta se irá solo?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "Sí, si fue solo por irritación del disolvente. Puede aliviarlo con agua o solución salina para enjuagar, y no ingerir alimentos hasta nueva orden.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Gracias, doctor.",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorUrgencias",
+      "text": "A usted. Tenga más cuidado la próxima vez.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 334,
+    "turn_count": 22,
+    "avg_turn_length": 15.181818181818182
+  },
+  "estimated_total_duration": 111.2,
+  "generated_at": "2025-09-24T10:24:24.315575Z"
+}

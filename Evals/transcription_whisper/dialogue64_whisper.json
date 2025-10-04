@@ -1,0 +1,83 @@
+{
+  "scenario_id": "endocrino_01",
+  "title": "Consulta de endocrinología - Obesidad y plan con semaglutida",
+  "context": "Consulta de endocrinología para control de peso y tratamiento farmacológico",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué tal estás?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, bueno, la verdad es que estoy preocupado por el peso. He intentado dietas, pero no consigo bajar. Y cada vez me noto más cansado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Vamos a repasar. Pesas ahora 108 kilos y mides 1,68, lo que da un IMC de 38, que entra en obesidad. ¿Qué cambios de alimentación has hecho últimamente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "He intentado cenar menos y quitarme los dulces, pero me cuesta mucho. Además, con el trabajo me paso el día sentado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿Tienes antecedentes de diabetes o hipertensión en la familia?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Mi padre era diabético."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bueno, pues lo primero es que ya sabes que el exceso de peso aumenta el riesgo de diabetes, hipertensión, colesterol alto y además sobrecarga articulaciones. Pero no estás solo. Hoy en día tenemos más herramientas para ayudarte."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Hay algún tratamiento que no sea solo dieta?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, lo fundamental sigue siendo la alimentación y el ejercicio, pero podemos apoyarnos en medicación. Te voy a proponer semaglutida, que es un inyectable una vez a la semana. Ayuda a controlar el apetito y mejora el azúcar incluso en personas sin diabetes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Inyectable? Uff."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es una aguja muy fina, apenas se nota y se pone en la barriga o en el muslo. La mayoría de pacientes lo tolera bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y tiene efectos secundarios?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Al principio puede dar náuseas o malestar de estómago, pero suelen mejorar en unos días. Lo revisaremos juntos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, lo probaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además empezaremos con una dieta equilibrada. Cinco comidas pequeñas, mucha verdura, fruta con moderación, proteína magra y poca fritura. Y ejercicio, aunque sea caminar 30 minutos diarios, ya es un gran paso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, porque ahora apenas me muevo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan de inicio de semaglutida con dosis progresiva, control analítico en tres meses, dieta y ejercicio. Si bajas un 5 o 10% del peso, ya habremos ganado mucho para tu salud."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, vamos a intentarlo juntos."
+    }
+  ]
+}

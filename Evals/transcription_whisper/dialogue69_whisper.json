@@ -1,0 +1,67 @@
+{
+  "scenario_id": "medicina_interna_01",
+  "title": "Consulta de medicina interna - Revisión de polimedicación",
+  "context": "Consulta médica para evaluar mareos y ajustar tratamiento farmacológico en paciente polimedicado",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Cómo se encuentra?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien en general, pero me noto mareada a veces. Y creo que son tantas pastillas que ya no sé cuál me sienta bien y cuál no."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a repasarlas una por una. ¿Me dice qué toma a diario?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues por la mañana tomo la pastilla para la tensión. La del colesterol, una para el estómago y el omeprazol. Al mediodía la del azúcar. Y por la noche otra para dormir. En total creo que son siete u ocho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya veo. Le reviso el listado. Enalapril para la tensión. Atorvastatina para el colesterol. Omeprazol. Metformina para la diabetes. Lorazepam por la noche. Y además aspirina por el corazón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, esas son."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya. El problema es que a veces tantas medicinas juntas aumentan los efectos secundarios. Por ejemplo, el lorazepam puede causar mareos y aumentar el riesgo de caídas. Y el omeprazol, tomado tanto tiempo, puede dar déficit de vitamina B12 y calcio."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vaya, y yo llevo años con ellos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No se preocupe, lo vamos a organizar. Mi propuesta: mantenemos el enalapril, la metformina y la atorvastatina, porque son necesarios. El omeprazol lo podemos suspender y dejarlo solo si reaparecen molestias de estómago. Y el lorazepam vamos a ir reduciéndolo poco a poco hasta retirarlo, para evitar mareos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué tengo para dormir entonces?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo ideal es mejorar la higiene del sueño. Horarios fijos, evitar pantallas por la noche, y si hace falta, podemos usar melatonina de liberación prolongada, 2 miligramos antes de dormir, que es más segura."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, lo intentaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, añadiremos vitamina D diaria para proteger los huesos, y la voy a citar en 3 meses para revisar cómo va el sueño y la tensión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Menos pastillas y mejor calidad de vida."
+    }
+  ]
+}

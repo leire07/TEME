@@ -1,0 +1,103 @@
+{
+  "scenario_id": "neumologia_04",
+  "title": "Consulta de neumología - Bronquitis crónica (EPOC estable)",
+  "context": "Paciente exfumador con tos crónica y espirometría compatible con bronquitis crónica",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿cómo está?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Un poco cansado, doctor. Vengo porque desde hace años tengo tos con flemas, pero últimamente es más seguido y me preocupa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Desde cuándo tiene esa tos casi a diario?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Yo diría que desde hace más de dos años. Siempre por las mañanas, toso y es esputo, normalmente blanco o amarillento."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha fumado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, fumé durante 30 años, pero lo dejé hace 5."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, dejarlo fue lo mejor que pudo hacer. Pero aún así, cada invierno empeoro. Me canso al subir cuestas y me cuesta recuperar el aire si camino rápido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. La espirometría que le hicimos muestra una obstrucción persistente de las vías respiratorias compatible con bronquitis crónica, que es una forma de EPOC. Eso explica sus síntomas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y tiene cura?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No tiene cura, pero se puede controlar. Lo fundamental es que ya no fuma y eso frena el avance. Ahora lo que haremos es mejorar los síntomas. Le voy a recetar un inhalador de broncodilatador de acción larga una vez al día para que respire mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y ese inhalador lo tengo que usar siempre?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, es un tratamiento de mantenimiento, no sólo cuando se encuentre mal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si me ahogo de repente?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para eso tendrá un inhalador de rescate, el salbutamol. Una o dos inhalaciones sólo cuando note falta de aire aguda."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, ¿y para la flema?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede usar acetilcisteína, 600 miligramos diaria, en épocas de más mucosidad. Y además es importante beber agua abundante y si puede, hacer ejercicios de fisioterapia respiratoria que ayudan a expulsar el moco."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También recomiendo caminar todos los días, aunque sea paso lento, y mantenerse activo. El reposo prolongado empeora el pulmón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, suelo salir a pasear, aunque me canso rápido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es suficiente. Con el tratamiento debería aguantar más. Además, le recomiendo vacunarse contra la gripe todos los años y ponerse la del neumococo, porque las infecciones pueden complicar mucho la bronquitis crónica."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Nunca me la puse, tendré que hacerlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, entonces, plan: inhalador diario de mantenimiento, salbutamol solo en caso de ahogo, mucolítico en épocas de más mucosidad, caminar a diario, mucha hidratación y vacunas al día. Lo citaré en tres meses para ver cómo evoluciona."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Con eso debería notar mejoría y menos crisis en invierno."
+    }
+  ]
+}

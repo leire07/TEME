@@ -1,0 +1,141 @@
+{
+    "scenario_id": "ginecologia_01",
+    "title": "Consulta de ginecología - Evaluación de bulto mamario",
+    "context": "Consulta externa de ginecología",
+    "turns": [
+      {
+        "speaker": "Oncólogo",
+        "text": "Buenos días, cuéntame, ¿qué es lo que te preocupa?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Pues me noté hace un par de semanas un bulto en la mama derecha al ducharme. Pensé que podía ser algo del ciclo, pero no se ha ido y me da miedo.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Hiciste bien en venir. ¿Has tenido dolor, secreción por el pezón o algún cambio en la piel?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Dolor no, pero sí noto la zona un poco más dura. No he visto secreción ni hundimiento en el pezón.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Vale. ¿Antecedentes familiares de cáncer de mama?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Mi madre tuvo a los 65 años, le hicieron operación y tratamiento, y desde entonces está bien.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "De acuerdo, eso lo tendremos en cuenta. Vamos a hacerte una exploración física. Por favor, quítate la parte de arriba.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "(Explora con palpación) Bien, noto un nódulo de unos dos centímetros en el cuadrante superior externo de la mama derecha. Es móvil, no parece adherido a la piel. En la axila no palpo ganglios grandes.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Eso es malo?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "No tiene por qué. Muchos bultos en la mama resultan ser benignos, como fibroadenomas o quistes, pero lo correcto es estudiarlo a fondo. Te voy a pedir una mamografía y una ecografía mamaria. Y si en la imagen hay dudas, haremos también una biopsia con aguja para estar completamente seguros.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y mientras tanto qué hago?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "De momento no necesitas tratamiento específico, pero si notas dolor en la zona puedes tomar paracetamol 1 g cada 8 horas según necesidad. Y si se pone roja caliente, consulta con tu médico de atención primaria.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale. ¿Es rápido lo de las pruebas?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Sí, te daré preferencia para que la mamografía y la ecografía se hagan en los próximos días. Después de eso, volveremos a vernos con los resultados y decidiremos el siguiente paso.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Me da miedo que sea algo malo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Entiendo tu preocupación, es normal. Pero recuerda: muchos nódulos no son cáncer. Y si lo fuera, detectado así de pequeño, el pronóstico es muy bueno. Lo importante es no dejarlo pasar.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Está bien.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Entonces, plan: mamografía, ecografía y, si hace falta, biopsia. Te receto paracetamol para el dolor si aparece y crema antiinflamatoria si notas la zona muy sensible. Nos vemos en cuanto tengamos los resultados.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo, gracias doctor.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "A ti. Lo importante es que lo hemos detectado a tiempo y lo estamos estudiando bien.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 980,
+      "turn_count": 21,
+      "avg_turn_length": 36.5
+    },
+    "estimated_total_duration": 280.0,
+    "generated_at": "2025-09-25T04:40:00Z"
+  }
+  

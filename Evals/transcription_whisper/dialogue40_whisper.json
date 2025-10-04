@@ -1,0 +1,131 @@
+{
+  "scenario_id": "cardiologia_14",
+  "title": "Consulta de cardiología - Hipertensión y antecedentes familiares",
+  "context": "Paciente en seguimiento por hipertensión moderada, colesterol alto y antecedentes familiares de cardiopatía",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a repasar tu historial. Creo que te vi hace un año, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, más de un año."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Entonces, eres hipertenso moderado, sin alergias, sin diabetes, pero con colesterol alto. ¿Sigues tomando una cerveza al día?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Más o menos, sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y nunca has fumado, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, nunca."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tu padre falleció de un infarto y tu madre también es hipertensa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, de hecho hace poco, con 60 años, le dio un infarto. Tuvo una trombosis, se cayó, se golpeó la cabeza y le salió sangre en el cerebro. Ahora está recuperándose, aunque al principio no podía ni moverse."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es muy delicado. Veo que estás con Ixia Plus 40/12,5 miligramos y con eso tu tensión se controla bien. El eco salió normal y te puse revisión ahora. ¿Cuándo fue la última analítica?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hace unos cuatro meses en una clínica cerca de casa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y cómo salió?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tenía el ácido úrico un poco alto y también el azúcar, pero ya lo bajé."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, pero lo del azúcar hay que revisarlo bien para descartar diabetes. ¿Cómo estás de tensión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, la tengo controlada. Normalmente 120 y a veces 130, pero muy ocasional."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Y me decías que a veces tienes taquicardias. ¿Cuándo te pasan?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A veces con el ejercicio, tumbado o cuando me preocupo. Creo que sobre todo después de beber alcohol."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es muy común. Incluso puede provocar arritmias si tomas bastante. ¿Sueles tener resaca?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, alguna que otra."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces esas palpitaciones seguramente se deban al alcohol. Pero si aparecen en otras circunstancias, hay que mirarlo. Llevas ya un año sin control, así que te vamos a pedir analítica completa, holter de 24 horas, prueba de esfuerzo y ecocardiograma. Así lo revisamos todo. Voy a tomarte la tensión y a auscultarte."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hay que prevenir. Ya no bebo como antes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tomar algo ocasional no pasa nada, pero si es muy seguido sí que hace daño. Toma aire profundo. Suelta. Otra vez. Muy bien. Los pulmones están bien ventilados, no hay ruidos. El corazón está rítmico, aunque tienes un soplo leve en el foco mitral, grado 2/6. Nada grave, pero lo compararemos con el eco. La tensión hoy está en 130/85."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. Por cierto, a mi tío también le operaron hace poco del corazón. Es que en mi familia hay mucho de esto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, parece que hay una predisposición genética al colesterol."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Antes era muy fiestero, todos los fines de semana, dos días seguidos. Ahora ya no, desde que supe de lo de la tensión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro, eso ayuda mucho. ¿Y en qué trabajas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "En la construcción."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Aunque supongo que aquí en España el trabajo es más exigente."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, llevo 15 años aquí. En Colombia era distinto, ahí se trabaja más relajado. Aquí es todo por contrato y hay que correr. Eso también me genera estrés."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Y la última vez que fuiste al médico en tu país?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Fue complicado. Tuve un dolor en la espalda, fui a urgencias privadas y me hicieron esperar cuatro horas. Al final firmé para irme y solo me recetaron paracetamol. La salud ya está saturada. No hay médicos suficientes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya veo. Bueno, aquí lo revisaremos todo y nos aseguraremos de que estés controlado."
+    }
+  ]
+}

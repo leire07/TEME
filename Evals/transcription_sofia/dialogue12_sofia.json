@@ -1,0 +1,231 @@
+{
+  "scenario_id": "medicina_general_02",
+  "title": "Insomnio por ansiedad y estrés - Tratamiento con Lorazepam y medidas de higiene del sueño",
+  "context": "Consulta de medicina general por insomnio persistente asociado a estrés y preocupaciones familiares",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿En qué puedo ayudarle hoy?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me he venido porque no consigo dormir bien desde hace más de un mes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me cuesta mucho quedarme dormido y luego me despierto varias veces por la noche. Estoy agotado durante el día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿A qué hora se suele ir a la cama normalmente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues sobre las 11 de la noche, pero luego me quedo dando vueltas hasta las 2 o las 3 de la madrugada."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "mente no para, estoy pensando en mil cosas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y cuántas horas duerme en total?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Unas 5 horas como mucho. Me levanto a las 7 para ir al trabajo y estoy hecho polvo. Por las tardes estoy irritable y no rindo nada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha pasado algo especial en"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "su vida últimamente, algún cambio importante o situación de estrés?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, mi padre estuvo ingresado el mes pasado por un problema del corazón. Ya está bien, pero me quedé muy preocupado. Y en el trabajo también tenemos mucha carga últimamente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal que situaciones como esa afecten al"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "sueño. ¿Toma café, té o bebidas energéticas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, café tomo bastante, sobre todo por las mañanas porque estoy muy cansado. A veces también por la tarde."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y por las noches, ve la televisión en la cama, usa el móvil?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Suele estar con el móvil o viendo series hasta tarde. Como no me duermo, pues me entretengo con algo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ahí tenemos parte del problema. Vamos a empezar con algunas medidas de higiene del sueño y le voy a recetar algo suave para ayudarle a conciliar el sueño. Le doy Lorazepam."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "de 1 miligramo, tome medio comprimido, es decir, 0.5 miligramos, media hora antes de acostarse."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Es una pastilla para dormir?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es un ansiolítico suave, que también ayuda a relajarse y conciliar el sueño. Pero es importante que lo tome solo cuando realmente lo necesite."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "no todos los días. Podemos empezar con días alternos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué más puedo hacer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Varias cosas, importantes. Primero, nada de café después de las 2 de la tarde. Segundo, una hora antes de acostarse, nada de pantallas, ni móvil, ni"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "televisión ni tablet."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Una hora entera?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. La luz blanca de las pantallas altera la producción de melatonina, que es la hormona del sueño. En esa hora puede leer un libro, escuchar música relajante o tomar una infusión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Qué tipo de infusión?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Manzanilla, tila,"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Valeriana, cualquiera que le relaje."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También puede darse un baño caliente antes de acostarse."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y muy importante, use la cama solo para dormir, no para ver la tele o estar con el móvil."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si me acuesto y no me duermo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en 20 minutos no se ha dormido, levántese, vaya"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "a otra habitación y haga algo relajante hasta que le entre sueño. No se quede en la cama dando vueltas. Eso genera más ansiedad."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cuánto tiempo tengo que tomar la medicación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo ideal es que sea solo unas semanas, mientras se establecen las nuevas rutinas de sueño. No es bueno tomarla durante mucho tiempo, porque puede"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "crear dependencia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y para la preocupación por mi padre, eso es lo que más me quita el sueño."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es comprensible que esté preocupado. ¿Ha hablado con él sobre cómo se encuentra?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A veces expresar nuestros miedos ayuda a gestionarlos mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hablo con él, pero sigo teniendo miedo de que le vuelva"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "a hacer algo. Cuando se vaya a la cama y empiecen esos pensamientos, pruebe técnicas de relajación, respiración profunda, contar hacia atrás desde 100 o imaginar un lugar que le transmita paz."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿En cuánto tiempo debería empezar a dormir mejor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si sigue las pautas que le he dado, en una semana"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "debería notar mejoría."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La medicación le ayudará a los primeros días, pero lo importante es que establezca buenos hábitos de sueño."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si no mejora?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en dos semanas no hay mejoría, vuelva y valoraremos otras opciones. A veces ayuda a hablar con un psicólogo para gestionar mejor la ansiedad y las preocupaciones."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo. ¿Puedo hacer ejercicio? ¿Ayuda a dormir?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, el ejercicio es muy bueno para el sueño, pero hágalo por la mañana o primera hora de la tarde. Si hace ejercicio por la noche puede activarse demasiado y será contraproducente."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor. ¿Y cuándo tengo que volver?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En dos semanas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mientras tanto, nada de café por la tarde, desconexión digital una hora antes de acostarse, medicación solo cuando la necesite y técnicas de relajación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Verá cómo poco a poco va recuperando el sueño."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchas gracias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Espero poder descansar por fin."
+    }
+  ]
+}

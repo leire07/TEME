@@ -1,0 +1,129 @@
+{
+    "scenario_id": "traumatologia_02",
+    "title": "Consulta de traumatología - Fractura de cadera",
+    "context": "Consulta externa de traumatología",
+    "turns": [
+      {
+        "speaker": "Traumatólogo",
+        "text": "Buenos días, ¿qué le ocurrió?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Me caí en casa, en el pasillo. Tropecé y ya no pude levantarme, me dolía mucho la cadera izquierda.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "¿Fue una caída desde su propia altura, sin golpe fuerte?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, simplemente me tropecé con la alfombra.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Le hicieron la radiografía y, como sospechábamos, se trata de una fractura de cadera en el lado izquierdo. Es una lesión muy frecuente en personas mayores porque los huesos están más frágiles por la osteoporosis.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Eso significa operación?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Sí, en la mayoría de los casos hay que operar. La idea es colocar una prótesis parcial en la cadera para que pueda volver a caminar lo antes posible. Si solo pusiéramos yeso, la recuperación sería mucho más lenta y habría más riesgo de complicaciones.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y es peligrosa la operación?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Toda cirugía tiene riesgos, pero en su caso la fractura no consolidaría bien sin operar, y el mayor riesgo sería quedarse encamado. Lo importante es que con la cirugía podrá levantarse pronto, normalmente al día siguiente ya empieza a caminar con ayuda.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Entiendo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Mientras tanto, para el dolor, le pondremos paracetamol e infiltraciones de analgesia intravenosa hasta la cirugía. Después, además de analgésicos, necesitaremos heparina pinchada en la barriga una vez al día para evitar trombos en las piernas.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Eso ya me lo habían comentado.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Muy bien. Tras la operación, necesitará rehabilitación diaria con fisioterapia para recuperar la fuerza y la movilidad. Cuanto antes empiece, mejor será la recuperación.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y cuánto tiempo tardaré en volver a caminar normal?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Normalmente, en unos tres o cuatro meses estará caminando con relativa normalidad, primero con andador y luego con bastón.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Entonces, plan: cirugía con prótesis parcial de cadera, analgesia, heparina durante unas semanas, rehabilitación intensiva. Con eso podrá volver a caminar y recuperar su autonomía.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Muchas gracias, doctor.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "A usted, vamos a trabajar juntos para que se recupere lo antes posible.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 760,
+      "turn_count": 19,
+      "avg_turn_length": 17.1
+    },
+    "estimated_total_duration": 220.0,
+    "generated_at": "2025-09-25T11:00:00Z"
+  }
+  

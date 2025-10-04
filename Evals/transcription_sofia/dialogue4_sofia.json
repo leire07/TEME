@@ -1,0 +1,143 @@
+{
+  "scenario_id": "urgencias_01",
+  "title": "Dolor en el costado derecho - Sospecha de cólico renal",
+  "context": "Consulta en urgencias por dolor abdominal agudo",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenas, llevo todo el día con un dolor muy"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "fuerte en el costado derecho. Me empezó de repente esta mañana y cada vez va a más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Ha tenido fiebre, vómitos o algún otro síntoma acompañante?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hace unas horas tuve náuseas y"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "vomitado una vez."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "También me he notado algo de fiebre, pero no la he medido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Ha tenido problemas renales, infecciones urinarias o cálculos en el pasado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No que yo recuerde, nunca me han diagnosticado piedras en el riñón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Voy a explorarle."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "abdomen."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Fruto dolor en la zona lumbar derecha a la palpación, bastante localizado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso podría estar relacionado con un cólico renal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No necesariamente, pero sí muy doloroso y requiere tratamiento."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para control del dolor, vamos a administrar"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "ahora mismo un antiinflamatorio. Ibuprofeno 600 miligramos vía oral si puede tolerarlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Más adelante, si no mejora, podemos valorar analgesia intravenosa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, gracias. La verdad es que el dolor es bastante intenso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo sé. Después de darle la medi"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "ficación, le haremos una analítica de orina y una ecografía abdominal para confirmar si se trata de un cálculo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y si es un cálculo, ¿qué pasa?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La mayoría de las veces los cálculos pequeños se expulsan solos. Le recetaré analgésicos para casa y un fármaco para ayudar a relajar la musculatura de la"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "vías urinarias. También es fundamental beber bastante agua, unos 2 litros al día si no tiene contraindicaciones."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y si la piedra es grande?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si supera cierto tamaño, normalmente más de 7 milímetros, puede que necesite un procedimiento para fragmentarla o extraerla, pero es un"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "decidiríamos con el urólogo según los resultados."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo. ¿Qué puedo tomar en casa si me vuelve el dolor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede tomar paracetamol 1 gramo cada 8 horas o ibuprofeno. Siempre que no tenga problemas gástricos ni renales previos. Le voy a recetar ambas opciones y le explicaré cómo alternar"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "y el dolor es muy intenso. Y los vómitos, si persisten, podemos darle medicación antiemética aquí en urgencias y si la necesita en casa, se la prescribiré en pastillas, pero muchas veces ceden al controlar el dolor. ¿Está bien?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cuándo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si tiene fiebre alta, escalofríos, incapacidad total para orinar o un dolor que no mejora con la medicación, debe volver inmediatamente. También le citaré con urología para seguimiento en los próximos días."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor. Gracias por la atención."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Vamos a empezar"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "con el ibuprofeno 600 mg ahora y después seguimos con las pruebas."
+    }
+  ]
+}

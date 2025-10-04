@@ -1,0 +1,103 @@
+{
+  "scenario_id": "medicina_interna_01",
+  "title": "Consulta de medicina interna - Hipercolesterolemia y prevención cardiovascular",
+  "context": "Paciente con colesterol elevado y antecedentes familiares de enfermedad cardiovascular precoz",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué tal?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vengo porque en la última analítica me dijeron que tengo el colesterol alto. Me mandaron aquí para que lo valorara un especialista."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, vamos a ver. Aquí tengo sus resultados. Colesterol total 260, LDL 180, HDL 42 y triglicéridos 130. ¿Le habían salido altos en otras ocasiones?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hace un par de años me salió un poco alto, pero no tanto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Hay antecedentes en su familia?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, mi padre tuvo un infarto con 55 años y siempre tuvo el colesterol alto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y usted fuma o bebe alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No fumo, bebo solo de vez en cuando, una copa de vino el fin de semana."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y hace ejercicio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Camino algo, pero no de forma regular. Paso muchas horas sentado por el trabajo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Vamos a explorarlo. La tensión está en 125-80. Frecuencia 76. Corazón rítmico, sin soplos. Todo normal en la exploración. Lo que tenemos que controlar es el colesterol, porque con sus antecedentes familiares aumenta el riesgo cardiovascular."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo se baja?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo primero es la dieta. Reducir fritos, embutidos, bollería y grasas animales. Aumentar frutas, verduras, pescado y aceite de oliva. También hacer ejercicio, al menos 30 minutos 5 días a la semana."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, eso me cuesta bastante."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, por los niveles que tiene y sus antecedentes, conviene empezar tratamiento farmacológico. Le voy a recetar una estatina, atorvastatina 20 miligramos por la noche."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso es para siempre?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es un tratamiento crónico, pero no tiene por qué darle problemas. A veces puede causar dolor muscular, si ocurre me lo comenta. Lo importante es que baja el colesterol y protege las arterias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo, le pediré una nueva analítica en 3 meses para ver cómo responde. El objetivo es bajar el LDL por debajo de 100 y si podemos, incluso a menos de 70 por sus antecedentes familiares."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También conviene mantener la tensión controlada, hacer ejercicio y no ganar peso. Son varios factores que se suman."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, lo entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si todo va bien, lo revisamos aquí cada seis meses."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor. Muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Con estos cambios, el riesgo de problemas de corazón baja mucho."
+    }
+  ]
+}

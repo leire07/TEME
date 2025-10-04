@@ -1,0 +1,103 @@
+{
+  "scenario_id": "cardiologia_13",
+  "title": "Consulta de cardiología - Fibrilación auricular y factores de riesgo",
+  "context": "Paciente de 73 años en seguimiento por hipertensión, diabetes, dislipemia y fibrilación auricular",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Vale, entonces vamos a repasar tu historial. Tienes 73 años, hipertensión, colesterol alto, diabetes y una fibrilación auricular crónica."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tomas edoxaban 60 miligramos, bisoprolol 2,5 miligramos, losartán 100 miligramos, amlodipino 5 miligramos, atorvastatina 40 miligramos, caduet y dutasterida."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. ¿Cómo te has encontrado?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, con la tensión controlada y el azúcar también."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cuándo fue tu última analítica?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La tengo que hacer el 17 de noviembre para llevar al endocrino y en diciembre tengo otra para el urólogo, por la operación de próstata que tuve."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Después de esa operación tuve problemas con coágulos. La cirugía salió perfecta, pero al despertar estuve horas sacando coágulos. Fue muy duro. Me pusieron más de 50 inyecciones en la tripa hasta que pasé a la medicación oral."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, eso es doloroso, pero ¿ahora estás estable?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a explorarte. Respira hondo. Suelta. Otra vez. Vale. Los pulmones están bien ventilados, el corazón arrítmico, como es habitual en la fibrilación auricular, pero sin soplos. La tensión muy bien. 120-80. Frecuencia cardíaca, 77."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A veces me sube un poco la tensión. A 15-9."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No pasa nada si la mayoría del tiempo está bien. Puede influir la alimentación o nervios puntuales."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te hicimos un ecocardiograma. El resultado, fracción de eyección normal, aurícula izquierda algo dilatada, válvula aórtica con calcificación moderada, válvula mitral normal. El ritmo de base, fibrilación auricular sin cambio respecto al eco de 2023."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "O sea, ¿lo tengo todo bien?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, está igual que el año pasado. Seguimos igual."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Lo que me pasa es que por la noche me levanto cada dos horas a orinar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No es por diuréticos, porque no tomas. Lo que ocurre es que al estar tumbado la sangre llega mejor al riñón y orinas más. Si bajas algo de peso puede mejorar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ah, ya."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces todo está estable. Te propongo que nos veamos una vez al año mientras sigas así."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    }
+  ]
+}

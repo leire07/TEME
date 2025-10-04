@@ -1,0 +1,146 @@
+{
+  "scenario_id": "consulta_colico_renal_01",
+  "title": "Consulta Urgencias - Cólico renal",
+  "context": "Paciente con dolor agudo en costado derecho, sospecha de cólico renal. Se administra analgesia y se solicitan pruebas diagnósticas.",
+  "turns": [
+    {
+      "speaker": "PacienteHombre",
+      "text": "Buenas, llevo todo el día con un dolor muy fuerte en el costado derecho, me empezó de repente esta mañana y cada vez va a más.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Entiendo. ¿Ha tenido fiebre, vómitos o algún otro síntoma acompañante?",
+      "duration_estimate": 3.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, hace unas horas tuve náuseas y he vomitado una vez. También me he notado algo de fiebre, pero no la he medido.",
+      "duration_estimate": 7.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Bien. ¿Ha tenido problemas renales, infecciones urinarias o cálculos en el pasado?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No que yo recuerde, nunca me han diagnosticado piedras en el riñón.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Perfecto. Voy a explorarle el abdomen. (pausa) Noto dolor en la zona lumbar derecha a la palpación, bastante localizado. Eso podría estar relacionado con un cólico renal.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Eso es grave?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "No necesariamente, pero sí muy doloroso y requiere tratamiento. Para control del dolor vamos a administrarle ahora mismo un antiinflamatorio: ibuprofeno 600 mg, vía oral si puede tolerarlo. Más adelante, si no mejora, podemos valorar analgesia intravenosa.",
+      "duration_estimate": 12.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Vale, gracias. La verdad es que el dolor es bastante intenso.",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Lo sé. Después de darle la medicación le haremos una analítica de orina y una ecografía abdominal para confirmar si se trata de un cálculo.",
+      "duration_estimate": 8.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y si es un cálculo, qué pasa?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "La mayoría de las veces los cálculos pequeños se expulsan solos. Le recetaré analgésicos para casa y un fármaco para ayudar a relajar la musculatura de las vías urinarias. También es fundamental beber bastante agua, unos dos litros al día si no tiene contraindicaciones.",
+      "duration_estimate": 14.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y si la piedra es grande?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si supera cierto tamaño, normalmente más de 7 mm, puede que necesite un procedimiento para fragmentarla o extraerla. Pero eso lo decidiríamos con el urólogo según los resultados.",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Entiendo. ¿Qué puedo tomar en casa si me vuelve el dolor?",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Puede tomar paracetamol 1 g cada 8 horas o ibuprofeno, siempre que no tenga problemas gástricos ni renales previos. Le voy a recetar ambas opciones y le explicaré cómo alternarlas si el dolor es muy intenso.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Y los vómitos?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si persisten, podemos darle medicación antiemética aquí en urgencias y, si lo necesita en casa, se la prescribiré en pastillas. Pero muchas veces ceden al controlar el dolor.",
+      "duration_estimate": 9.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Está bien. ¿Cuándo debo volver?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si tiene fiebre alta, escalofríos, incapacidad total para orinar o un dolor que no mejora con la medicación, debe volver inmediatamente. También le citaré con urología para seguimiento en los próximos días.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Perfecto, doctor. Gracias por la atención.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "De nada. Vamos a empezar con el ibuprofeno 600 mg ahora y después seguimos con las pruebas.",
+      "duration_estimate": 5.7,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 409,
+    "turn_count": 22,
+    "avg_turn_length": 18.59090909090909
+  },
+  "estimated_total_duration": 136.39999999999998,
+  "generated_at": "2025-09-22T16:08:29.120302Z"
+}

@@ -1,0 +1,103 @@
+{
+  "scenario_id": "cardiologia_06",
+  "title": "Consulta de cardiología - Mareo y control de tensión",
+  "context": "Paciente con antecedentes de infarto y episodios de mareo tras golpe de calor",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "El lunes fui al urólogo y al volver a casa me puse muy mal. Perdí la orientación y la vista."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Como si fuera un golpe de calor?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, empecé con una gran sudoración."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces alérgica a la penicilina, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En urgencias anotan mareo e inestabilidad de unos 30 minutos al incorporarte, acompañado de sudoración, náuseas y algo de molestia torácica no irradiada. Llegaste consciente, con tensión 117-70 y frecuencia cardíaca 82. El electro mostró ritmo sinusal, sin alteraciones significativas, y las troponinas fueron negativas. También te valoró medicina interna."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me dejaron ingresada esa noche en urgencias porque no había camas. Al día siguiente me subieron a planta. Vino la internista por la tarde y luego al anochecer me dieron el alta. Fue incómodo. Dormí en camilla, con cables, me dolía la espalda."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Además, había tenido un infarto hace dos años. En julio y agosto la tensión no me llegaba a 11. El lunes dejé de tomar un medicamento. El médico me quitó el amlodipino."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Desde entonces estás con tensiones más estables. Has perdido algo de peso también."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, poco a poco. Estoy con 7,5 y había empezado antes con 5."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si sigues así, podemos subir a 10 miligramos para mejor control."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me cuesta caminar con el calor, pero cuando refresque volveré a andar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, lo importante es que mantengas el peso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A veces siento mareo al salir del coche, como cuando paramos en la gasolinera. Estaba dentro con aire acondicionado, salí al calor y me mareé enseguida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso parece claramente un golpe de calor y un cambio brusco de temperatura. Hay que hidratarse más."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bebo agua, pero a veces lo combino con cava o vino, aunque ya casi no."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a explorarte. Respira profundo. Eso es, muy bien. Pulmones ventilados, sin ruidos, corazón rítmico, sin soplos. La tensión hoy está en 110-60. Frecuencia cardíaca 78. Todo correcto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces mantenemos el tratamiento. Subimos el munyaro a 10 miligramos semanal y seguimos controlando. ¿Cómo te va con la CEPAP?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien. La uso todas las noches y noto la diferencia. Estoy más despierta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Se nota en tu estado de ánimo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. En urgencias, incluso, tras el suero, ya estaba más activa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es buena señal. Y recuerda, lo importante es cuidarse, no obsesionarse."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Entonces seguimos con este plan y nos vemos en la próxima revisión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    }
+  ]
+}

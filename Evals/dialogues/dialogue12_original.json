@@ -1,0 +1,242 @@
+{
+  "scenario_id": "consulta_insomnio_01",
+  "title": "Consulta Atención Primaria - Insomnio",
+  "context": "Paciente mujer con insomnio persistente de más de un mes. Se indican medidas de higiene del sueño y tratamiento farmacológico suave.",
+  "turns": [
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Buenos días, ¿en qué puedo ayudarle hoy?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "He venido porque no consigo dormir bien desde hace más de un mes. Me cuesta mucho quedarme dormido y luego me despierto varias veces por la noche. Estoy agotado durante el día.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Entiendo. ¿A qué hora se suele ir a la cama normalmente?",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Pues sobre las once de la noche, pero luego me quedo dando vueltas hasta las dos o las tres de la madrugada. Mi mente no para, estoy pensando en mil cosas.",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Y cuántas horas duerme en total?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Unas cinco horas como mucho. Me levanto a las siete para ir al trabajo y estoy hecho polvo. Por las tardes estoy irritable y no rindo nada.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Ha pasado algo especial en su vida últimamente? ¿Algún cambio importante o situación de estrés?",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, mi padre estuvo ingresado el mes pasado por un problema del corazón. Ya está bien, pero me quedé muy preocupado. Y en el trabajo también tenemos mucha carga últimamente.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Es normal que situaciones como esa afecten al sueño. ¿Toma café, té o bebidas energéticas?",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, café tomo bastante, sobre todo por las mañanas porque estoy muy cansado. A veces también por la tarde.",
+      "duration_estimate": 6.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Y por las noches? ¿Ve la televisión en la cama, usa el móvil...?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, suelo estar con el móvil o viendo series hasta tarde. Como no me duermo, pues me entretengo con algo.",
+      "duration_estimate": 6.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Ahí tenemos parte del problema. Vamos a empezar con algunas medidas de higiene del sueño y le voy a recetar algo suave para ayudarle a conciliar el sueño. Le doy Lorazepam de 1 miligramo. Tome medio comprimido, es decir, 0.5 miligramos, media hora antes de acostarse.",
+      "duration_estimate": 15.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Es una pastilla para dormir?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Es un ansiolítico suave que también ayuda a relajarse y conciliar el sueño. Pero es importante que lo tome solo cuando realmente lo necesite, no todos los días. Podemos empezar con días alternos.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y qué más puedo hacer?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Varias cosas importantes: primero, nada de café después de las dos de la tarde. Segundo, una hora antes de acostarse, nada de pantallas: ni móvil, ni televisión, ni tablet.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Una hora entera?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, la luz azul de las pantallas altera la producción de melatonina, que es la hormona del sueño. En esa hora puede leer un libro, escuchar música relajante o tomar una infusión.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Qué tipo de infusión?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Manzanilla, tila, valeriana... cualquiera que le relaje. También puede darse un baño caliente antes de acostarse. Y muy importante: use la cama solo para dormir, no para ver la tele o estar con el móvil.",
+      "duration_estimate": 11.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y si me acuesto y no me duermo?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si en 20 minutos no se ha dormido, levántese, vaya a otra habitación y haga algo relajante hasta que le entre sueño. No se quede en la cama dando vueltas, eso genera más ansiedad.",
+      "duration_estimate": 11.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Cuánto tiempo tendré que tomar la medicación?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Lo ideal es que sea solo unas semanas, mientras establece las nuevas rutinas de sueño. No es bueno tomarla durante mucho tiempo porque puede crear dependencia.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y para la preocupación por mi padre? Eso es lo que más me quita el sueño.",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Es comprensible que esté preocupado. ¿Ha hablado con él sobre cómo se encuentra? A veces expresar nuestros miedos ayuda a gestionarlos mejor.",
+      "duration_estimate": 7.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, hablo con él, pero sigo teniendo miedo de que le vuelva a pasar algo.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Cuando se vaya a la cama y empiecen esos pensamientos, pruebe técnicas de relajación: respiración profunda, contar hacia atrás desde 100, o imaginar un lugar que le transmita paz.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿En cuánto tiempo debería empezar a dormir mejor?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si sigue las pautas que le he dado, en una semana debería notar mejoría. La medicación le ayudará los primeros días, pero lo importante es que establezca buenos hábitos de sueño.",
+      "duration_estimate": 10.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y si no mejoro?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si en dos semanas no hay mejoría, vuelva y valoraremos otras opciones. A veces ayuda hablar con un psicólogo para gestionar mejor la ansiedad y las preocupaciones.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "De acuerdo. ¿Puedo hacer ejercicio? ¿Ayuda a dormir?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Sí, el ejercicio es muy bueno para el sueño, pero hágalo por la mañana o primera hora de la tarde. Si hace ejercicio por la noche puede activarse demasiado y será contraproducente.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto, doctor. ¿Cuándo tengo que volver?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "En dos semanas. Mientras tanto: nada de café por la tarde, desconexión digital una hora antes de acostarse, medicación solo cuando la necesite, y técnicas de relajación. Verá como poco a poco va recuperando el sueño.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Muchas gracias. Espero poder descansar por fin.",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "neutral"
+    }
+  ],
+  "metadata": {
+    "word_count": 734,
+    "turn_count": 38,
+    "avg_turn_length": 19.31578947368421
+  },
+  "estimated_total_duration": 244.70000000000002,
+  "generated_at": "2025-09-22T16:51:10.196432Z"
+}

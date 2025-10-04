@@ -1,0 +1,119 @@
+{
+  "scenario_id": "trauma_toracico_costilla_01",
+  "title": "Traumatismo torácico por golpe en el trabajo — dolor torácico y sospecha de fractura de costilla",
+  "context": "Paciente con contusión torácica tras golpe en el trabajo; dolor a la inspiración y en la palpación costal. Manejo inicial en urgencias: valoración, analgesia, radiografía de tórax y recomendaciones de reposo y vigilancia.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, dígame. Doctor, me golpeé el pecho con una máquina en el trabajo y desde entonces me duele mucho al respirar y al moverme."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Cuánto tiempo hace del accidente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hace unas tres horas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Ha tenido dificultad para respirar, tos con sangre, mareos o dolor que se irradia a otros sitios?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me cuesta un poco respirar profundo, pero no he tosido sangre ni tengo mareos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. Vamos a tomar sus signos vitales primero. La tensión está en 135-85 milímetros de mercurio, pulso 100 latidos por minuto, saturación 96% y frecuencia respiratoria 22. Todo dentro de límites aceptables, aunque la frecuencia respiratoria está un poco elevada, probablemente por dolor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El dolor es muy intenso al inhalar profundamente. Eso es típico en fracturas de costilla. Voy a explorar el área. Hay dolor localizado al presionar varias costillas, pero no noto deformidades graves ni enfisema subcutáneo. No hay signos de complicaciones inmediatas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso significa que es solo dolor o que hay fractura?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Podría ser una fractura. Para confirmarlo necesitamos una radiografía de tórax. Además la radiografía nos permite descartar complicaciones como neumotórax."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo me van a controlar el dolor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede tomar paracetamol un gramo cada ocho horas como base. Si el dolor es intenso, podemos añadir ibuprofeno 600 miligramos cada 8 horas, siempre que lo tolere y no tenga problemas gástricos o renales."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En urgencias podemos administrarle metamizol 2 gramos y uve para alivio rápido."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tengo que usar vendaje o algo que inmovilice la zona?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya no se recomienda envolver las costillas, porque limita la respiración y aumenta el riesgo de neumonía. Lo importante es controlar el dolor para que pueda respirar profundo y toser si es necesario."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cuánto tiempo tardará en curar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Normalmente entre 4 y 6 semanas. Debe evitar actividades físicas intensas o levantar peso hasta que ceda el dolor. También conviene hacer respiraciones profundas varias veces al día para prevenir complicaciones pulmonares."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si me falta el aire o se pone pear el dolor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si aparece dificultad respiratoria marcada, dolor muy intenso, tos con sangre o fiebre, debe acudir inmediatamente. Eso podría indicar neumotórax, hemotórax o complicaciones pulmonares."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Necesitaré cirugía?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La mayoría de fracturas de costilla no requieren cirugía, salvo casos graves con múltiples fracturas desplazadas o complicaciones. Por ahora controlaremos el dolor y haremos seguimiento."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Debo tomar antibióticos?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, salvo que se presente complicación pulmonar secundaria. Por ahora no son necesarios."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y puedo trabajar mientras tanto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, hasta que el dolor esté controlado y pueda moverse sin riesgo de empeorar la fractura. Dependiendo de su trabajo, lo recomendable es reposo relativo unas semanas y luego reincorporarse progresivamente."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Resumiendo, radiografía de tórax para confirmar fractura, analgesia con paracetamol un gramo cada ocho horas yupozeno 600 miligramos cada 8 horas si lo tolera, y metamizol 2 gramos IV en urgencias para dolor intenso. Evitar esfuerzo, respirar profundo regularmente, y vigilar signos de complicación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Con el tratamiento adecuado y reposo, la mayoría de fracturas de costillas se recuperan sin problemas."
+    }
+  ]
+}

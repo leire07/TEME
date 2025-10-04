@@ -1,0 +1,285 @@
+{
+    "scenario_id": "geriatria_01",
+    "title": "Consulta de geriatría - Control cardiovascular en paciente de 81 años",
+    "context": "Consulta externa de geriatría",
+    "turns": [
+      {
+        "speaker": "Doctor",
+        "text": "Vamos a comenzar. Tienes 81 años, ¿verdad?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 0.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Es la primera vez que vienes.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 0.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Muy bien. Te voy a hacer unas preguntas. ¿Eres alérgica a algún medicamento?",
+        "duration_estimate": 4.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "A la penicilina.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Perfecto, penicilina. ¿Algún alimento que te caiga mal?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No que yo note. Si algo me sienta mal, lo dejo de comer.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Entiendo. ¿Fumas?",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, como todo natural.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "¿Y alcohol?",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Tampoco.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Bien. ¿Eres hipertensa, diabética o tienes colesterol alto?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Diabética no, gracias a Dios. Pero sí tengo de todo lo demás.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Entonces, ¿no eres hipertensa ni diabética?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "El cardiólogo me dijo que no era hipertensa, pero en invierno tomo atenolol porque se me sube un poco la tensión.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Entonces sí eres hipertensa. ¿Qué dosis tomas, 50 o 100 mg?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "El de 50, pero solo la mitad, así que 25 mg al día.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Muy bien. ¿Lo tomas todo el año?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Solo en invierno, en verano lo dejo. Soy muy contraria a los fármacos. Eso sí, tomo atorvastatina para el colesterol, ahora todos los días.",
+        "duration_estimate": 8.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Correcto, la atorvastatina hay que tomarla a diario. ¿Alguna cirugía importante?",
+        "duration_estimate": 4.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Una cesárea y a la vez me sacaron el apéndice.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Ya tienes antecedente de problemas valvulares, ¿verdad?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, siempre me lo dicen en las revisiones.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "¿Te han hablado de cirugía?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, solo vigilancia. Cada vez que me revisan me dicen que todo está bien.",
+        "duration_estimate": 4.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "¿Cuándo fue la última revisión?",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "En marzo de este año, con ecocardiograma.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Perfecto. Entonces hoy vienes por control.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, para quedarme tranquila. Sé que tengo mi edad, pero me cuido mucho.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "La edad es solo un número.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Eso me dicen. Hago pesas, pilates, yoga, camino… tengo fuerza.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Exacto, hay gente de 80 que parece de 60. Tú eres independiente, viniste en bus. Eso habla bien de tu estado.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Me cuido mucho y quiero estar tranquila, que el médico me diga que no estoy en tanto riesgo.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "De acuerdo. Vamos a tomarte la tensión.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Siempre me pongo nerviosa cuando voy al médico.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Es normal. Te explicaré cómo hacemos el seguimiento. Siempre tomamos la tensión dos veces. Respira profundo… eso es. Pulmones bien ventilados, sin ruidos. Corazón rítmico, sin soplos.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "La primera toma salió un poco alta. Te daré un papel con instrucciones sobre cómo medirte la tensión y anotar los valores mañana y noche. Si se mantiene alta, hablamos de hipertensión.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Nunca me había salido alta. Quizá porque vine corriendo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Puede ser, pero conviene comprobarlo. Vamos a hacerte un registro ambulatorio de presión arterial. Además, ten en cuenta que el atenolol no es el mejor fármaco para la tensión; hay opciones más adecuadas.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto, doctor.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Te daré también las citas para ecocardiograma y prueba de esfuerzo el mismo día, así lo resolvemos en una sola visita.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo, así hice también con neurología.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Exacto. Cuando tengas los resultados, me los traes.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 570,
+      "turn_count": 47,
+      "avg_turn_length": 12.1
+    },
+    "estimated_total_duration": 210.0,
+    "generated_at": "2025-09-24T19:05:00Z"
+  }
+  

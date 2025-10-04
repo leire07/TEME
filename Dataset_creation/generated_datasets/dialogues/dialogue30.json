@@ -1,0 +1,158 @@
+{
+  "scenario_id": "cardiologia_04",
+  "title": "Consulta de cardiología - Extrasístoles ventriculares y seguimiento",
+  "context": "Consulta externa de cardiología",
+  "turns": [
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bueno, entonces vamos a comenzar. La última vez que te vi fue en abril de 2024. Vienes ahora con el resultado del Holter, que mostró una alta densidad de extrasístoles ventriculares (18%), aunque en la prueba de esfuerzo desaparecieron. En ese momento se indicó revisión a los 9 meses con ecocardiograma y valorar un nuevo Holter. ¿Has vuelto a sentir palpitaciones?",
+      "duration_estimate": 20.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No, no las he sentido. Alguna vez de forma aislada, pero muy poco.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Perfecto. Entonces, de momento no notas síntomas. Fuiste a tu médica de cabecera, te hizo un electro y por eso te derivaron aquí, ¿verdad?",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, exactamente.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Estás tomando bisoprolol 2,5 mg, ¿correcto?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí.",
+      "duration_estimate": 0.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Además, medicación para artrosis: calcio, condroitín sulfato, glucosamina y algún suplemento para la circulación, ¿no?",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí.",
+      "duration_estimate": 0.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien. No tomas medicación para colesterol ni para diabetes. ¿Alergias a medicamentos?",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No, solo intolerancia a gramíneas y olivo, y bronquitis asmática.",
+      "duration_estimate": 5.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Qué inhalador utilizas?",
+      "duration_estimate": 2.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Foster, pero no lo uso siempre. Lo empiezo cuando refresca el tiempo, en otoño, y también en primavera porque sé que tendré crisis.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "El Foster (beclometasona + formoterol) debes usarlo todos los días, porque es tratamiento preventivo. El salbutamol (Ventolín) solo en crisis.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "De acuerdo, lo tomaré diariamente.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Por lo demás, ¿te has sentido bien?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, aunque me fatigo en cuestas, pero desde hace tiempo, no ha empeorado.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Perfecto. No duermes con varias almohadas, no te despiertas con falta de aire ni has tenido dolor en el pecho, ¿verdad?",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No.",
+      "duration_estimate": 0.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Muy bien. Vamos a revisarte. Respira profundo… muy bien. Los pulmones están bien ventilados, sin ruidos agregados. El corazón está rítmico, sin soplos. La tensión arterial está en 114/63 mmHg y la frecuencia cardíaca en 56 lpm.",
+      "duration_estimate": 14.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿No es muy baja? Antes solía tener 70-80.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "No, está bien. El bisoprolol baja un poco la frecuencia, pero también protege al corazón y reduce las extrasístoles. Hoy en la auscultación no se detectan.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "El plan es repetir Holter de 24 horas y ecocardiograma para ver cómo evolucionas con el tratamiento.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Tendré que tomar bisoprolol toda la vida?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Sí, porque presentas muchas extrasístoles. Es importante mantener el tratamiento.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 470,
+    "turn_count": 23,
+    "avg_turn_length": 20.4
+  },
+  "estimated_total_duration": 170.0,
+  "generated_at": "2025-09-24T17:23:43.356440Z"
+}

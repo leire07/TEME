@@ -1,0 +1,105 @@
+{
+    "scenario_id": "neurologia_03",
+    "title": "Consulta de neurología - Cervicobraquialgia y dolor neuropático",
+    "context": "Consulta externa de neurología",
+    "turns": [
+      {
+        "speaker": "Neurólogo",
+        "text": "Entonces, vienes por dolor en el cuello, ¿no?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, desde hace varios meses. Me duele la parte de atrás y a veces me baja el dolor hacia el brazo derecho.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "¿Notas también hormigueo o pérdida de fuerza?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Hormigueo sí, sobre todo en la mano cuando estoy mucho rato en el ordenador. Fuerza no he notado que me falte.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "¿El dolor empeora con algún movimiento?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, cuando giro la cabeza hacia la derecha o cuando paso mucho tiempo sentado.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Vale. Eso puede ser una cervicobraquialgia, a veces por desgaste de las vértebras cervicales o por una hernia discal. ¿Te han hecho alguna prueba?",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Una radiografía, pero me dijeron que tenía algo de artrosis nada más.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Correcto. La radiografía ve el hueso, pero si el dolor y el hormigueo continúan, conviene hacer una resonancia para valorar los discos y los nervios.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y mientras tanto qué hago con el dolor?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Vamos a darte tratamiento. Te receto pregabalina 75 mg por la noche, que ayuda al dolor neuropático, y paracetamol 1 g cada 8 horas según necesidad. Además, fisioterapia y ejercicios de estiramiento.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Vamos a explorarte: mueve la cabeza hacia un lado… ahora al otro… bien. La fuerza en brazos está conservada, reflejos normales. El hormigueo es lo único que molesta.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Entonces pedimos la resonancia cervical, seguimos con fisioterapia y con el tratamiento. Te veo en tres meses con el resultado.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 640,
+      "turn_count": 15,
+      "avg_turn_length": 29.3
+    },
+    "estimated_total_duration": 180.0,
+    "generated_at": "2025-09-25T02:40:00Z"
+  }
+  

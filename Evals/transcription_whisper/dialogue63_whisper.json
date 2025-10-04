@@ -1,0 +1,99 @@
+{
+  "scenario_id": "endocrinologia_02",
+  "title": "Consulta de endocrinología - Ajuste de dosis en hipotiroidismo",
+  "context": "Paciente en tratamiento con levotiroxina presenta síntomas de hipotiroidismo y TSH elevada; se ajusta dosis.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, veamos, ¿has estado siguiendo un tratamiento para la tiroides? ¿Qué tal vas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, no falto nunca la pastilla, pero sigo notando bastante cansancio y me cuesta concentrarme."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿La tomas siempre igual, en ayunas y con un poco de agua?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me la tomo nada más levantarme y luego espero media hora para desayunar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, esa es la manera correcta. He revisado tu analítica y la TSH está en 5,8, un poco más alta de lo que queremos. Lo ideal en tu caso es que esté en torno a 1 o 2."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso significa que la dosis que tomo no es suficiente?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exactamente. Estás con levotiroxina 75 microgramos al día, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pues vamos a subir a 100 microgramos cada mañana. Es un ajuste pequeño pero importante. Eso debería ayudarte a encontrarte con más energía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cuánto tarda en hacer efecto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Unas semanas. Normalmente entre 6 y 8 semanas ya deberías notar mejoría. Además en ese tiempo repetiremos la analítica para confirmar que la TSH baja."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Has notado caída de cabello, piel seca o cambios de peso?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, he engordado un par de kilos y la piel la tengo bastante seca."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Son síntomas típicos del hipotiroidismo. Con la dosis nueva deberían mejorar. También puedes usar crema hidratante a diario y beber más agua. Eso ayuda."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Importante: no tomes la pastilla junto con calcio, hierro o antiácidos, porque hacen que se absorba peor. Si necesitas esos suplementos, deja al menos 4 horas de separación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ah, no lo sabía. A veces me tomo hierro después del desayuno."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces mejor pásalo a la tarde. Así la levotiroxina actúa bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Plan: subimos la levotiroxina a 100, hidratación para la piel, dieta equilibrada y repetimos analítica en dos meses. Y si notas palpitaciones, nerviosismo o insomnio, me avisas, porque podría ser que nos pasemos de dosis."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien, muy bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos ajustando y verás cómo te encuentras mejor."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+    "scenario_id": "cardiologia_11",
+    "title": "Consulta de cardiología - Revisión tras prueba de esfuerzo",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "A ver, cuéntame bien esta revisión, ¿o ya te había visto hace poco?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Tuve un dolor… ¿cómo se llama? Me mandaste una de correr.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, una prueba de esfuerzo.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Eso. Te dije que me molestaba un poquito el pecho.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Exacto, por eso te pedí la prueba. Hoy vienes a revisión de eso.",
+        "duration_estimate": 4.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí.",
+        "duration_estimate": 0.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, es que no me había quedado claro la última vez. Vamos a ver cómo fue.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Aquí está la prueba de esfuerzo. Hiciste 7 minutos, alcanzaste 10 METS, que está muy bien. La frecuencia cardíaca al empezar era de 56 y llegaste a 144, lo que equivale al 86% de la frecuencia máxima para tu edad. La enfermera fue quien te paró.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, yo podía haber seguido más.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto. Es una prueba significativa y salió normal: clínica y eléctricamente negativa para isquemia. Tu capacidad de ejercicio es muy buena y tu corazón hubiera podido dar más, o sea que está muy bien. El ecocardiograma previo ya mostraba una función normal, válvulas bien.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Voy a revisar la analítica. La última es de enero. Hemoglobina 14, hematocrito 44, leucocitos 5.000, neutrófilos 52%, linfocitos 30%, plaquetas 204.000: todo normal. Hemoglobina glicada 5.9, buen control. Creatinina 0.6, filtrado 114, electrolitos normales. Colesterol LDL 26, perfecto. Triglicéridos 77. TSH 2.4. Todo está muy bien.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Esto te lo pidió el endocrino, ¿no?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí.",
+        "duration_estimate": 0.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Pues todo perfecto. Con cardiología ya solo haría falta verte en un año, si todo sigue bien.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "También quería lo del informe para el carné de conducir, ¿te acuerdas?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Claro, en el informe pondremos que puedes hacer vida completamente normal, que puedes conducir. Dejaremos claro que tu corazón es normal, que hiciste una prueba de esfuerzo que descarta problemas con el ejercicio.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, porque ahora piden esas cosas.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, sí, ya te preparo el informe con todo eso.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 470,
+      "turn_count": 18,
+      "avg_turn_length": 26.1
+    },
+    "estimated_total_duration": 120.0,
+    "generated_at": "2025-09-24T21:45:00Z"
+  }
+  

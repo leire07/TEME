@@ -1,0 +1,107 @@
+{
+  "scenario_id": "cardiologia_05",
+  "title": "Consulta de cardiología - Hipertensión arterial esencial",
+  "context": "Paciente con diagnóstico reciente de hipertensión arterial, sin síntomas asociados, en tratamiento con enalapril",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué tal está?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, aunque en el centro de salud me han visto la tensión alta varias veces y me mandaron aquí para revisarlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a ver. ¿Recuerda las cifras que le salieron?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, casi siempre sobre 150-95 y alguna vez más de 160."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y en casa se la mide?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Alguna vez, pero no siempre. Cuando me la tomo en casa suele estar un poco más baja, alrededor de 140-90."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿Tiene antecedentes familiares de hipertensión o problemas de corazón?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mi madre es hipertensa desde hace años y un tío tuvo un infarto joven."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fuma o bebe alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Fumaba, pero lo dejé hace seis meses. ¿Alcohol? Solo en ocasiones. Una copa de vino."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto que haya dejado el tabaco. ¿Hace ejercicio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Camino algo, pero muy irregular, sobre todo por trabajo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, vamos a explorarlo. Corazón rítmico, sin soplos, pulmones bien ventilados, sin edemas en las piernas. La tensión ahora está en 152/92, así que efectivamente está alta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso es muy grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La hipertensión no da síntomas, pero a la larga aumenta el riesgo de infarto, ictus y daño en riñones. Lo bueno es que con cambios de hábitos y medicación se controla muy bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tengo que empezar pastillas?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, en su caso conviene. Le voy a recetar enalapril 5 miligramos cada 12 horas, una por la mañana y otra por la noche. Es un medicamento seguro y eficaz para bajar la tensión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y de por vida?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo más probable es que sea un tratamiento crónico, aunque con dieta, ejercicio y pérdida de peso, a veces se puede reducir la dosis."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, le recomiendo reducir la sal, evitar embutidos, comida rápida y precocinada, más fruta, verdura y pescado. También caminar al menos 30 minutos al día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tendré que organizarme mejor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No hace falta correr. Con caminar rápido sirve. Lo importante es hacerlo de forma regular."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le pediré una analítica y un electrocardiograma en un mes para ver cómo está respondiendo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Nos vemos en la revisión."
+    }
+  ]
+}

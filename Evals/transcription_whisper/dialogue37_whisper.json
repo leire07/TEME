@@ -1,0 +1,95 @@
+{
+  "scenario_id": "cardiologia_09",
+  "title": "Consulta de cardiología - Revisión TAC coronarias",
+  "context": "Paciente en revisión tras dolor torácico y estudios cardiológicos",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿cómo andas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Espera un segundo, voy a revisar tu caso. Te vi el primero de agosto, tienes 54 años, sin factores de riesgo, y viniste por un episodio de dolor en el pecho. Te pedimos un tag de coronarias, un holter y un ecocardiograma. Hoy vienes para ver los resultados."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, para resultados, ¿vale?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Qué tal el dolor?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Al final resultó que era del músculo del pecho, el pectoral."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro, entonces era molestia muscular. Vamos a ver el TAC. El TAC muestra coronarias en buen estado. La derecha y la descendente posterior sin lesiones. El tronco de la coronaria limpio. En la descendente anterior tienes plaquitas pequeñas de colesterol y una rama intermedia con una placa calcificada muy pequeña. No es raro a tu edad. La aorta no está dilatada. Mide 34 milímetros. El calcio score es de 59. Por debajo de 100 se considera riesgo bajo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y una persona joven cuánto tiene?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cero. Mira, aquí se ven los puntitos blancos. Esos son depósitos de calcio. Son mínimos. Y las arterias no están estrechas, porque con el contraste las vemos por dentro y están permeables."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No están estrechas entonces."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, nada. Eso confirma que el dolor era muscular y que el riesgo de infarto es bajo si te cuidas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y cómo me cuido para que no vaya a más?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mantener el colesterol bajo, controlar la tensión, hacer ejercicio y seguir dieta mediterránea. Las plaquitas no desaparecen, pero lo importante es que no crezcan. ¿Vale?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El Holter también está normal. Ritmo sinusal todo el tiempo, frecuencia mínima 47, media 70, máxima 108. Sin arritmias ni pausas, todo muy bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, mira, aquí en la descendente anterior tenías esa plaquita pequeñita y otra en otro punto pero muy leves. Esto azul es una vena, lo rojo es una arteria. Esta grande es la aorta y de ahí salen las coronarias. Esta es la circunfleja, esta la descendente y aquí la coronaria derecha."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entonces es una plaquita pequeña nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Nada preocupante."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y las arterias que van a la cabeza se pueden mirar también?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Esas no hace falta. No son las que se tapan. Lo que se trata son las coronarias y si se estrechan se colocan stents."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, esos tubitos pequeñitos de 3 o 4 milímetros."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es. Cuando se estrechan mucho y quedan de apenas un milímetro, el corazón sufre para bombear y entonces hay que colocarlos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tengo un amigo que estaba bien, pero cuando empezaba a caminar o subir cuestas se cansaba mucho y le pusieron un stent."
+    }
+  ]
+}

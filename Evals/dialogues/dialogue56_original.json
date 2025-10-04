@@ -1,0 +1,171 @@
+{
+    "scenario_id": "neumologia_04",
+    "title": "Consulta de neumología - EPOC con cambio a triple terapia",
+    "context": "Consulta externa de neumología",
+    "turns": [
+      {
+        "speaker": "Neumólogo",
+        "text": "A ver, repasemos un poco. El último año tuviste varias crisis, ¿verdad?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, tres ocasiones en 2 de ellas manejarón en urgencias y con pastillas en casa y una vez me ingresaron unos días.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Exacto, eso lo tengo anotado aquí. Y me decías que sobre todo en invierno, ¿no?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, en invierno es cuando peor lo paso.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Eso es lo típico en el EPOC cuando se descompensa. El frío, las infecciones y el humo hacen que se agrave. La espirometría muestra que tu pulmón está ya muy comprometido.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, incluso con cosas pequeñas me noto fatigado.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Pero lo más importante es que dejaste el tabaco. ¿Verdad que lo dejaste hace unos meses?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, ya hace 12 meses.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Pues eso es lo mejor que podías haber hecho, felicidades, ya te puedes considerar exfumador. Si hubieras seguido fumando, los pulmones se deteriorarían mucho más rápido.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Me costó, pero estoy contento de haberlo dejado.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Me alegro mucho. Ahora, como sigues teniendo crisis a pesar del inhalador que llevabas, vamos a cambiar de estrategia. Te voy a recetar un inhalador nuevo que combina tres medicamentos en uno: dos broncodilatadores para abrir los bronquios y un corticoide para bajar la inflamación. Lo llamamos triple terapia.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y cómo lo tengo que usar?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Dos inhalaciones por la mañana y dos por la noche, todos los días, aunque te encuentres bien. Es un tratamiento de base, no para cuando tienes síntomas puntuales.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale. ¿Y el otro inhalador azul?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Ese lo mantienes de “rescate”, el salbutamol. Lo usas solo cuando notes que te falta el aire de repente. Una o dos inhalaciones, y nada más. No debes usarlo todos los días, solo en momentos puntuales.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entendido. ¿Y para la flema qué hago?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Para eso, además de beber bastante agua, te voy a dar un medicamento que ayuda a fluidificarla: acetilcisteína de 600 mg, una pastilla cada 12 horas en las semanas que tengas más secreción. También ayuda hacer ejercicios de respiración y de tos dirigida, para movilizarla mejor.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Muy bien.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Otra cosa importante: si en algún momento notas un empeoramiento fuerte, con fiebre, más ahogo o un cambio claro en el color de la flema, no esperes a que se pase. Vienes enseguida o vas a urgencias.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Perfecto. Te tomo la tensión y el oxígeno… Vale, 95% de oxígeno en reposo, está dentro de lo esperado. Al auscultar los pulmones no tiene ruidos llamativos.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Estupendo. Te recuerdo el plan: inhalador de triple terapia mañana y noche, salbutamol solo si lo necesitas, acetilcisteína cuando tengas más flema, beber agua, moverte un poco cada día y tener las vacunas al día (la de la gripe cada año y la de la neumonía si no la tienes).",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Muy bien.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Y en dos meses te vuelvo a ver para comprobar cómo vas con el inhalador nuevo.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, muchas gracias.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "De nada, espero que mejore.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 1040,
+      "turn_count": 25,
+      "avg_turn_length": 41.6
+    },
+    "estimated_total_duration": 300.0,
+    "generated_at": "2025-09-25T04:00:00Z"
+  }
+  

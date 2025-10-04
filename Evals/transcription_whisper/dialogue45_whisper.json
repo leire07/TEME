@@ -1,0 +1,111 @@
+{
+  "scenario_id": "cardiologia_18",
+  "title": "Consulta de cardiología - Ajuste de medicación en hipertensión y corazón",
+  "context": "Paciente en seguimiento con medicación múltiple para insuficiencia cardíaca e hipertensión",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Bueno, yo me he tomado el Entresto y el Carvedilol."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Sí? Y me quitaste el Carvedilol y me pusiste el Aldactone, ese diurético."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El Aldactone no actúa como diurético a la dosis que tú tomas. Es más bien un protector del corazón."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ah, pues empecé a tomarlo como me dijiste, pero se me baja mucho la tensión. A veces no me llega ni a ocho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, vamos a ver. Me da miedo porque además sube un montón y tengo dolores aquí. No sé si será por la tensión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, por tensión baja no. Eso más bien lo daría la tensión alta. Además, en el cateterismo vimos que las coronarias estaban bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, pero estoy así."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A ver, repasemos lo que tomas. Estás con la espironolactona, el Jardians, el Lipocon, el Entresto y el Carvedilol, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me tomo media de Carvedilol por la mañana y media por la noche."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Lo importante no es tanto el número de la tensión, sino cómo te sientes. ¿Te mareas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A veces, sobre todo si me agacho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y tomas suficiente agua?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, orino claro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Vamos a medirte la tensión. Respira. Vale. Está bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hoy sí, pero otros días la tengo muy baja y me suben las pulsaciones."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso pasa cuando reducimos el Carvedilol. La frecuencia sube un poco."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es que con el Carvedilol me encontraba mejor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo quitamos porque te mareabas, pero podemos volver a ajustarlo. Para verlo bien, lo mejor es hacer un mapa de tensión, que es una máquina que te mide cada media hora de día y cada hora de noche. Así sabremos exactamente cómo se comporta tu tensión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además, recuerda que en julio el eco salió con el corazón ya normal, mucho mejor que antes. Por eso lo ideal es mantener la medicación que te ayudó a recuperarte."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya, pero el calor me afecta mucho, sudo demasiado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro, en verano la tensión suele bajar y si sudas mucho también pierdes líquidos. Cuando llegue el frío mejorarás."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entonces, ¿qué hago?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Volvemos a la dosis bajita de Carvedilol y mantenemos el resto igual. Hazte el mapa y con eso vemos si hace falta cambiar algo más."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, con esa combinación yo me sentía mejor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pues seguimos así y controlamos."
+    }
+  ]
+}

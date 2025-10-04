@@ -1,0 +1,170 @@
+{
+  "scenario_id": "consulta_palpitaciones_01",
+  "title": "Consulta Cardiología - Palpitaciones durante el ejercicio",
+  "context": "Paciente mujer con palpitaciones al esfuerzo. Se realizan exploración, ECG y posible Holter para descartar arritmias. Se indican medidas de prevención.",
+  "turns": [
+    {
+      "speaker": "PacienteMujer",
+      "text": "Buenos días, doctor. Últimamente, cuando corro o hago ejercicio intenso, siento que el corazón se me acelera mucho y a veces me da como “saltos” o palpitaciones.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Buenos días. ¿Desde cuándo nota estos episodios?",
+      "duration_estimate": 2.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Hace unos tres meses. Antes podía hacer deporte sin problemas, pero ahora aparecen varias veces por semana.",
+      "duration_estimate": 5.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Ha tenido mareos, desmayos, dolor en el pecho o falta de aire durante estos episodios?",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No me he desmayado, pero a veces siento un poco de falta de aire y el corazón me late muy rápido.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien. ¿Tiene antecedentes médicos o toma alguna medicación?",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Solo hipertensión leve, y tomo enalapril 10 mg al día. Nada más.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Perfecto. Voy a explorarle: tensión arterial 130/80 mmHg, frecuencia cardíaca 78 lpm en reposo, saturación normal. La auscultación cardíaca es regular, sin soplos ni ruidos extraños.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Cree que puede ser algo grave?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Las palpitaciones durante el ejercicio pueden ser benignas, como extrasístoles, pero también hay que descartar arritmias más serias. Vamos a hacer un electrocardiograma y, dependiendo de los resultados, podríamos indicar un Holter de 24 horas o prueba de esfuerzo.",
+      "duration_estimate": 13.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y mientras tanto?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Mientras tengamos los resultados, evite deportes de alta intensidad que desencadenen los episodios. Mantenga actividad moderada como caminar o bicicleta suave.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Puedo tomar algo para que no me palpite tanto?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "No de manera preventiva. Solo si aparece una arritmia sintomática documentada, en algunos casos se indica un betabloqueante, como metoprolol 25–50 mg una vez al día, para controlar la frecuencia cardíaca. Por ahora no lo necesitamos hasta tener estudios.",
+      "duration_estimate": 13.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Hay factores que empeoren estas palpitaciones?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Sí: cafeína, alcohol, estrés, falta de sueño y ciertos suplementos energéticos o de preentreno. Evite esos mientras investigamos la causa.",
+      "duration_estimate": 6.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Debo preocuparme por un infarto?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "En su caso, sin dolor torácico típico ni factores de riesgo graves, es poco probable. Lo importante es descartar arritmias y evaluar el corazón con pruebas complementarias.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Cada cuánto tendría que revisar esto?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Tras hacer el electro y, si procede, el Holter, volverá para revisar resultados y decidir si hay que iniciar medicación o simplemente seguimiento y cambios de estilo de vida.",
+      "duration_estimate": 9.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Algo más que deba hacer?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Mantener un diario de síntomas: cuándo aparecen las palpitaciones, qué actividad hacía, duración y si hay otros síntomas. Eso ayuda mucho a correlacionar con el estudio.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Está bien, doctor.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Resumiendo: hoy haremos electrocardiograma, le doy pautas para evitar desencadenantes, evitar ejercicio intenso hasta tener resultados, y seguimiento según hallazgos. Betabloqueantes u otro tratamiento solo si se confirma arritmia significativa.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto, muchas gracias.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "A usted. Con las pruebas adecuadas podemos determinar la causa y manejarla de manera segura.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 425,
+    "turn_count": 26,
+    "avg_turn_length": 16.346153846153847
+  },
+  "estimated_total_duration": 141.90000000000003,
+  "generated_at": "2025-09-24T10:30:36.491612Z"
+}

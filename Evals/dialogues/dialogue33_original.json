@@ -1,0 +1,159 @@
+{
+    "scenario_id": "cardiologia_08",
+    "title": "Consulta de cardiología - Mareo, golpe de calor y seguimiento",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "PacienteMujer",
+        "text": "El lunes fui al urólogo y, al volver a casa, me puse muy mal. Perdí la orientación y la vista.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Como si fuera un golpe de calor.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, empecé con una gran sudoración.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces, alérgica a la penicilina, ¿verdad?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 1.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "En urgencias anotan mareo e inestabilidad de unos 30 minutos al incorporarte, acompañado de sudoración, náuseas y algo de molestia torácica no irradiada. Llegaste consciente, con tensión 117/70 y frecuencia cardíaca 82. El electro mostró ritmo sinusal, sin alteraciones significativas, y las troponinas fueron negativas. También te valoró Medicina Interna.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, me dejaron ingresada esa noche en urgencias porque no había camas. Al día siguiente me subieron a planta, vino la internista por la tarde y luego al anochecer me dieron el alta. Fue incómodo, dormí en camilla, con cables, me dolía la espalda. Además, había tenido un infarto hace dos años.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "En julio y agosto la tensión no me llegaba a 11. El lunes dejé de tomar un medicamento, el médico me quitó el amlodipino.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entiendo. Desde entonces estás con tensiones más estables. Has perdido algo de peso también.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, poco a poco. Estoy con 7,5 mg y había empezado antes con 5.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Si sigues así, podemos subir a 10 mg para mejor control.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Me cuesta caminar con el calor, pero cuando refresque volveré a andar.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Bien. Lo importante es que mantengas el peso.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "A veces siento mareo al salir del coche, como cuando paramos en la gasolinera. Estaba dentro con aire acondicionado, salí al calor y me mareé enseguida.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso parece claramente un golpe de calor y un cambio brusco de temperatura. Hay que hidratarse más.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bebo agua, pero a veces lo combino con cava o vino. Aunque ya casi no.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vamos a explorarte. Respira profundo… eso es, muy bien. Pulmones ventilados, sin ruidos. Corazón rítmico, sin soplos. La tensión hoy está en 110/60, frecuencia cardíaca 78. Todo correcto.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces mantenemos el tratamiento, subimos el Mounjaro a 10 mg semanal, y seguimos controlando. ¿Cómo te va con la CPAP?",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Muy bien, la uso todas las noches y noto la diferencia, estoy más despierta.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto, se nota en tu estado de ánimo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, en urgencias incluso, tras el suero, ya estaba más activa.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Eso es buena señal. Y recuerda: lo importante es cuidarse, no obsesionarse.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Muy bien, entonces seguimos con este plan y nos vemos en la próxima revisión.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 620,
+      "turn_count": 24,
+      "avg_turn_length": 25.8
+    },
+    "estimated_total_duration": 215.0,
+    "generated_at": "2025-09-24T20:40:00Z"
+  }
+  

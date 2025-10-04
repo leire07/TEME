@@ -1,0 +1,83 @@
+{
+  "scenario_id": "cardiologia_19",
+  "title": "Consulta de cardiología - Seguimiento de hipertensión e hipotiroidismo",
+  "context": "Paciente en revisión por hipertensión persistente y antecedentes de hipotiroidismo tratado",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Bueno, entonces te vi con el doctor que te seguía. Vamos a hacer un repaso, ¿vale? Tenías hipertensión arterial, colesterol y también hipotiroidismo, ¿cierto?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me quitaron las tiroides."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso. Estás con el Tirox de 100 microgramos, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y te habían dado indapamida y amlodipino. Ahora estás con amlodipino de 5 miligramos y con indapamida de 2,5."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cómo está la tensión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La mínima siempre la tengo alta, entre 8 y 9. La máxima suele estar en 13 y algo, a veces 14. Vamos, que siempre está un poco mal, aunque tome la medicación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, entonces sigues con tensiones altas. El año pasado te hicieron un electro, estaba en ritmo sinusal, eje normal, QRS estrecho, sin alteraciones y también un ecocardiograma que salió con función normal, sin valvulopatías. En conclusión, el seguimiento contigo es más que nada por la tensión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, porque lo demás lo tengo bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. ¿Cuándo fue la última analítica?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me la hice hace seis meses. Ahora tengo que hacer otra porque el día 30 tengo cita con el endocrino y se la tengo que llevar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Esa analítica me sirve a mí también. ¿Alguna vez te han puesto un mapa de tensión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pues quiero ponerte otro para ver cómo ajustar la medicación. Vamos a tomarte la tensión ahora. Muy bien. Respira hondo. Suelta, otra vez. Vale. Ahora tienes 116/70 y la frecuencia en 72."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "O sea, hoy está perfecta. Los pulmones se escuchan bien, el corazón rítmico, sin soplos. Entonces, lo que vamos a hacer es ponerte el mapa de tensión. Si el resultado está bien, podemos estar tranquilos. Y de paso, cuando tengas la analítica, me la traes y la revisamos juntos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, yo tengo la cita con el endocrino el día 30."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, pues después vienes conmigo ya con esa analítica, ¿de acuerdo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    }
+  ]
+}

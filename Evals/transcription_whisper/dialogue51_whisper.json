@@ -1,0 +1,67 @@
+{
+  "scenario_id": "traumatologia_01",
+  "title": "Consulta de traumatología - Dolor cervical con irradiación",
+  "context": "Paciente con dolor cervical irradiado al brazo y hormigueo, sospecha de cervicobraquialgia",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, ¿vienes por dolor en el cuello, no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, desde hace varios meses. Me duele la parte de atrás y a veces me baja el dolor hacia el brazo derecho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Notas también hormigueo o pérdida de fuerza?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hormigueo sí, sobre todo en la mano cuando estoy mucho rato en el ordenador. Fuerza no he notado que me falte."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿El dolor empeora con algún movimiento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, cuando giro la cabeza hacia un lado o cuando paso mucho tiempo sentado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Eso puede ser una cérvico-braquialgia, a veces por desgaste de las vértebras cervicales o por una hernia discal. ¿Te han hecho alguna prueba?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Una radiografía, pero me dijeron que tenía algo de artrosis nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Correcto. La radiografía ve el hueso, pero si el dolor y el hormigueo continúan, conviene hacer una resonancia para valorar los discos y los nervios."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y mientras tanto, qué hago con el dolor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a darte tratamiento. Te receto pregabalina 75 miligramos por la noche, que ayuda al dolor neuropático, y paracetamol un gramo cada ocho horas según necesidad. Además, fisioterapia y ejercicios de estiramiento."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a explorarte. Mueve la cabeza hacia un lado, ahora al otro. Bien. La fuerza en brazos está conservada, reflejos normales. El hormigueo es lo único que molesta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces pedimos la resonancia cervical, seguimos con fisioterapia y con el tratamiento. Te veo en tres meses con el resultado."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+    "scenario_id": "neurologia_04",
+    "title": "Consulta de neurología - Diagnóstico inicial de Parkinson",
+    "context": "Consulta externa de neurología",
+    "turns": [
+      {
+        "speaker": "Neurólogo",
+        "text": "Buenos días, ¿qué le preocupa?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Desde hace unos meses me tiembla la mano derecha, sobre todo cuando estoy sentado o en reposo. Al principio era leve, pero ahora es más evidente y me incomoda.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "¿El temblor aparece también cuando usa la mano, por ejemplo, al escribir o beber de un vaso?",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, ahí casi no. Es más cuando estoy tranquilo, viendo la tele o con la mano apoyada.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Entiendo. ¿Ha notado además rigidez, lentitud al moverse o problemas de equilibrio?",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, últimamente me cuesta un poco más abrocharme los botones y me noto más torpe al caminar.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Le exploré hace un rato y veo que tiene un temblor en reposo en la mano derecha, leve rigidez en el brazo y algo de lentitud en los movimientos. Todo apunta a un síndrome parkinsoniano en fase inicial.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Eso significa que tengo Parkinson?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Muy probablemente, aunque todavía estamos en un estadio temprano. Lo importante es que se ha detectado pronto y podemos empezar tratamiento para mejorar los síntomas.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y qué tratamiento hay?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "En esta fase inicial podemos comenzar con un medicamento llamado levodopa/carbidopa, en dosis bajas: medio comprimido de 100/25 mg tres veces al día. Esto ayuda a reducir el temblor y mejorar la movilidad.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y tengo que tomarlo toda la vida?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "El Parkinson es una enfermedad crónica, sí, pero el tratamiento se ajusta según la evolución. Al principio con dosis pequeñas suele ser suficiente, y con los años vamos adaptando. También hay otros fármacos que podemos combinar si hace falta.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Tiene efectos secundarios?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Puede producir náuseas o mareos al principio, pero suelen mejorar en unos días. Si aparecieran movimientos involuntarios o alucinaciones, tendría que consultarnos, aunque eso es raro en fases iniciales.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y aparte de la medicación, qué puedo hacer?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Mucho: el ejercicio físico es fundamental. Caminar a diario, hacer estiramientos y, si puede, participar en programas de rehabilitación o fisioterapia. También es útil la logopedia si en algún momento aparecen dificultades en el habla o la voz.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Caminar sí lo hago, aunque a veces me siento inseguro.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Puede usar un bastón ligero para mayor seguridad. Y en casa, evite alfombras o muebles bajos que puedan hacerle tropezar.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Está bien.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Plan: iniciar levodopa/carbidopa en dosis baja, ejercicio físico regular, medidas de seguridad en casa y revisión en tres meses para ajustar tratamiento. Si el temblor o la rigidez empeoran antes, venga de inmediato.",
+        "duration_estimate": 25.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo, doctor.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Muy bien, con estas medidas debería notar mejoría pronto en la movilidad y en el temblor.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 940,
+      "turn_count": 23,
+      "avg_turn_length": 17.3
+    },
+    "estimated_total_duration": 265.0,
+    "generated_at": "2025-09-25T14:10:00Z"
+  }
+  

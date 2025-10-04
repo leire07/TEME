@@ -1,0 +1,115 @@
+{
+  "scenario_id": "resp_neumonia_01",
+  "title": "Consulta por fiebre, tos productiva y disnea - sospecha de neumonía",
+  "context": "Paciente con 2 días de fiebre, tos con expectoración verdosa y disnea leve; exploración con crepitantes en base pulmonar y saturación 94%. Manejo inicial con antibiótico oral, antipiréticos, reposo y seguimiento a 48 horas.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Doctor, llevo dos días con fiebre alta, tos con flema verdosa y me cuesta respirar un poco."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Ha tenido escalofríos, dolor en el pecho al respirar o dolor muscular?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, escalofríos y un poco de dolor al respirar profundo. Los músculos los noto cansados."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. ¿Tiene antecedentes respiratorios, como asma o EPOC?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, nunca he tenido problemas de pulmón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. De acuerdo. ¿Tiene antecedentes respiratorios, como asma o EPOC?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, nunca he tenido problemas de pulmón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Voy a tomarle la tensión, frecuencia cardíaca y saturación de oxígeno."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tiene 38,7 grados centígrados de fiebre, tensión 130/85 milímetros de mercurio, pulso 102 latidos por minuto y saturación 94%."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Su saturación es un poco baja, pero no crítica. Vamos a escuchar los pulmones."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Noto crepitantes en la base del pulmón derecho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Esto, junto con sus síntomas, sugiere neumonía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Necesito antibiótico?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. Le indicaré amoxicilina 875 miligramos con ácido clavulánico 125 miligramos cada 12 horas, durante 7 días."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y la fiebre?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede tomar paracetamol 1 gramo cada 8 horas para bajar la fiebre y aliviar el dolor muscular. También es importante descansar, hidratarse bien y vigilar la evolución."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tengo que quedarme en el hospital?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Con estos signos y si se mantiene estable, podemos tratarla en casa con antibiótico y seguimiento telefónico. Debe acudir inmediatamente si empeora la sensación de dificultad para respirar o aparece dolor torácico intenso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cuándo volver a revisión?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En 48 horas para evaluar la respuesta al antibiótico. Si mejora, seguimos en casa. Si no, haremos radiografía y valoraremos ingreso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Puedo trabajar mientras tanto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No debes trabajar mientras estás con un proceso infeccioso activo. Lo ideal es reposo. No conduzca si está mareado o con fiebre alta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Resumiendo, iniciamos amoxicilina ácido clavulánico 875-125 mg cada 12 horas por 7 días, paracetamol 1 gramo cada 8 horas según necesidad, reposo, líquidos y control de síntomas. Vuelva en dos días o antes si empeora."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¡Perfecto! ¡Gracias!"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Con tratamiento y seguimiento adecuado, la mayoría de neumonías leves se resuelven sin complicaciones."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+    "scenario_id": "traumatologia_03",
+    "title": "Consulta de traumatología - Dolor lumbar crónico",
+    "context": "Consulta externa de traumatología",
+    "turns": [
+      {
+        "speaker": "Traumatólogo",
+        "text": "Buenos días, ¿qué le trae hoy a la consulta?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Tengo dolor en la zona baja de la espalda desde hace meses. A veces mejora unos días, pero siempre vuelve, sobre todo cuando estoy de pie mucho tiempo.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "¿Ese dolor se irradia hacia las piernas o se queda en la zona lumbar?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Generalmente se queda en la espalda, aunque de vez en cuando me baja un poco hacia la pierna izquierda, pero no hasta el pie.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Entiendo. ¿Ha tenido hormigueos o pérdida de fuerza en las piernas?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "No, solo dolor y rigidez.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Revisé sus radiografías: muestran artrosis lumbar y desgaste de los discos intervertebrales, algo muy común a su edad. No hay signos de hernia grave ni de compresión nerviosa.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entonces, ¿qué puedo hacer para que no me duela tanto?",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "El tratamiento tiene varios pasos. Para el dolor puede tomar paracetamol 1 g cada 8 horas y, en días de más molestia, ibuprofeno 600 mg cada 12 horas después de las comidas, siempre que el estómago lo tolere. También le receto un relajante muscular por la noche durante una semana para aliviar la rigidez.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale, porque a veces me despierto con la espalda dura.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Además de la medicación, lo más importante es la fisioterapia: ejercicios para fortalecer la musculatura lumbar y abdominal, estiramientos diarios y caminar al menos 20–30 minutos al día.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y reposo?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Reposo prolongado no, al contrario. Estar quieto empeora el dolor. Solo evite esfuerzos bruscos, como levantar peso o agacharse mal.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entiendo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "También puede aplicar calor local en la zona lumbar (almohadilla eléctrica o manta térmica) durante 20 minutos, dos veces al día, que suele aliviar bastante.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Eso sí que lo hago y noto alivio.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Perfecto. Y si el dolor no mejora con estas medidas, podríamos valorar infiltraciones con anestésico y corticoide en la columna.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y operación?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "La cirugía solo se plantea en casos de hernia grave con compresión nerviosa. En su caso no está indicado.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Me quedo más tranquilo.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Plan: analgésicos según necesidad, relajante muscular corto plazo, calor local, ejercicios de fisioterapia y caminatas diarias. Nos vemos en dos meses para valorar evolución.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Muy bien, doctor, gracias.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "A usted, vamos a intentar que ese dolor no limite su vida diaria.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 890,
+      "turn_count": 22,
+      "avg_turn_length": 17.0
+    },
+    "estimated_total_duration": 260.0,
+    "generated_at": "2025-09-25T11:40:00Z"
+  }
+  

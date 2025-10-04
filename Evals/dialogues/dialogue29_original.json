@@ -1,0 +1,188 @@
+{
+  "scenario_id": "cardiologia_03",
+  "title": "Consulta de cardiología - Bradicardia sinusal y colesterol alto",
+  "context": "Consulta externa de cardiología",
+  "turns": [
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entonces, veo aquí tu visita. Ya te había visto antes, ¿verdad?",
+      "duration_estimate": 4.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, hace dos años.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "La última vez fue en 2023, así que casi es como una primera consulta.",
+      "duration_estimate": 4.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Exacto.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Me comentas que en una revisión médica del trabajo te salió una bradicardia sinusal.",
+      "duration_estimate": 4.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, me dijeron que era sinusal. Que había un latido que a veces se salía de ritmo, pero que ya no aparece.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien. Veo que no fumas, no bebes alcohol, no tienes hipertensión, diabetes ni dislipemia. Tienes antecedente de tendinitis intervenida, Parkinson juvenil con mutación del gen PARKIN. Tomas Sinemet Plus (media tableta tres veces al día) y Acilete 1,5 mg por la mañana. ¿Algún otro tratamiento?",
+      "duration_estimate": 15.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No.",
+      "duration_estimate": 0.8,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entonces seguimos igual. ¿Cómo te encuentras?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Bien, aunque algo más mayor, claro.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Eso es normal. La última vez te derivaron porque el corazón iba algo lento. El Parkinson a veces puede producir bradicardia.",
+      "duration_estimate": 6.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Esta vez no me dieron el informe, pero la prueba es de 2024. Intenté acceder al resultado, pero no aparece.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Vale. Aquí veo que estás con ritmo sinusal, a unos 50 latidos por minuto. ¿Por lo demás estás bien?",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí. Lo único es algo de cansancio en las piernas, de rodillas hacia abajo, más que antes.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "¿Pero no tienes falta de aire ni dolor en el pecho?",
+      "duration_estimate": 3.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "No. Subo cuatro pisos cada día en el trabajo desde hace años y lo hago bien.",
+      "duration_estimate": 5.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entonces muy bien. Incluso haces bicicleta estática y caminas bastante en los viajes. Eso indica buena tolerancia al esfuerzo.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Te pediré un Holter de 24 horas para ver cómo va la frecuencia a lo largo del día y comprobar que durante la noche no haya pausas largas. Como toleras bien el ejercicio, no hace falta prueba de esfuerzo ahora. ¿Tienes analíticas recientes?",
+      "duration_estimate": 14.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Sí, las últimas muestran el colesterol algo alto y el ácido úrico también.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Bien. El ácido úrico, mientras no tengas gota, no nos preocupa. El azúcar está normal, la función hepática también. Lo que quiero revisar es el colesterol: total 196, triglicéridos 96, HDL 46 y LDL 131. Ese LDL está algo alto.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Entiendo.",
+      "duration_estimate": 1.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "La TSH es normal (2,6). En estos casos se recomienda dieta mediterránea, equilibrada y sostenible. Si ya comes así, lo mejor es iniciar tratamiento con medicación para bajar el colesterol, porque lo que buscamos es prevenir que las arterias se obstruyan.",
+      "duration_estimate": 14.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "¿Qué alimentos debo evitar?",
+      "duration_estimate": 2.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Sobre todo embutidos, quesos curados, exceso de carnes grasas o mariscos. Por lo demás, equilibrio. Respecto a productos como Danacol, no tienen tanto beneficio real. Mejor medicación si ya es necesario.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "De acuerdo.",
+      "duration_estimate": 1.5,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Te propondré pitavastatina 2 mg por la noche, que se tolera muy bien y no interfiere con tus otros medicamentos.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Ahora te ausculto: respira profundo… muy bien. Los pulmones están bien ventilados, sin ruidos agregados. El corazón rítmico, sin soplos. La tensión está perfecta, 120/80, con frecuencia de 62 lpm.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "Cardiólogo",
+      "text": "Entonces Holter, ecocardiograma y empezar el tratamiento para el colesterol. Después revisamos resultados.",
+      "duration_estimate": 7.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteHombre",
+      "text": "Perfecto.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    }
+  ],
+  "metadata": {
+    "word_count": 560,
+    "turn_count": 29,
+    "avg_turn_length": 19.3
+  },
+  "estimated_total_duration": 190.0,
+  "generated_at": "2025-09-24T17:17:41.825535Z"
+}

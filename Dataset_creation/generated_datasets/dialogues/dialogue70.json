@@ -1,0 +1,141 @@
+{
+    "scenario_id": "geriatria_04",
+    "title": "Consulta de geriatría - Pérdida de peso y desnutrición",
+    "context": "Consulta externa de geriatría",
+    "turns": [
+      {
+        "speaker": "Geriatra",
+        "text": "Buenos días, ¿cómo ha estado últimamente?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "La verdad es que mal… he perdido como seis kilos en los últimos meses sin proponérmelo. No tengo mucho apetito.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Entiendo. ¿Ha notado también debilidad o cansancio?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, me siento sin fuerzas, me canso solo con subir un tramo de escaleras.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "¿Ha tenido problemas para masticar o tragar alimentos?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, me cuesta con la carne dura y con el pan. Además, como vivo solo, muchas veces no me apetece cocinar. Termino tomando un café con galletas o un poco de sopa, pero nada más.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Eso es bastante común. Le exploro: la tensión está bien, el pulso regular. Veo que ha perdido masa muscular en brazos y piernas. En la analítica aparece un poco de anemia y proteínas bajas, lo que confirma desnutrición.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y qué puedo hacer para recuperar?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Vamos a actuar en varios frentes. Lo primero es adaptar la alimentación: comidas más pequeñas pero frecuentes, fáciles de masticar, como pescado, huevos, purés, verduras blandas, yogures. Y evite saltarse comidas, aunque no tenga hambre.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale, lo intentaré.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Además, le receto suplementos nutricionales orales: son batidos ricos en proteínas y calorías, para tomar uno o dos al día entre comidas. Esto le ayudará a ganar peso y fuerza.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Eso sí puedo tomarlo, me resulta más sencillo que cocinar.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Perfecto. También añadiremos vitamina D y calcio porque la desnutrición debilita los huesos y aumenta el riesgo de fracturas. Y sería bueno empezar ejercicios suaves de fuerza, aunque sea en casa: levantarse varias veces de la silla, caminar dentro de casa, o levantar botellas pequeñas de agua como pesas.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Haré el esfuerzo, aunque me noto débil.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Justamente, cuanto antes empiece, antes recuperará músculo. Empiece poco a poco y aumente progresivamente. Además, beba al menos un litro y medio de agua al día, porque la falta de líquidos también da cansancio y disminuye el apetito.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, casi no bebo agua, solo un par de vasos al día.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Pues hay que mejorar eso. Puede alternar agua con infusiones o caldos para que no le resulte pesado.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Entonces, plan: dieta adaptada con comidas pequeñas y fáciles de masticar, suplementos nutricionales diarios, calcio y vitamina D, ejercicio suave progresivo y aumentar la hidratación. Le cito en dos meses con peso y analítica. Si nota pérdida de peso más rápida o mareos, venga antes.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, doctor.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Muy bien, vamos a trabajar para que recupere fuerzas, peso y calidad de vida.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 780,
+      "turn_count": 20,
+      "avg_turn_length": 18.2
+    },
+    "estimated_total_duration": 240.0,
+    "generated_at": "2025-09-25T09:05:00Z"
+  }
+  

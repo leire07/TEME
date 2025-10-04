@@ -1,0 +1,139 @@
+{
+  "scenario_id": "cardiologia_12",
+  "title": "Consulta de cardiología - Revisión paciente mayor con TAVI y ajuste de tratamiento",
+  "context": "Paciente de 79 años en seguimiento con antecedentes de TAVI, fibrilación auricular y tratamiento diurético",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Espera un segundo, vamos a hacer una recopilación de tu historial. Bueno, entonces, 79 años, tienes un TAVI de larga data, un prolapso de la válvula mitral con disección aórtica, disección tipo A, isquemia medular, cirugía cardíaca con implante de tubo en la aorta ascendente en 2017, insuficiencia renal crónica con un filtrado de 45 mililitros por minuto, una fibrilación auricular cuyo primer episodio fue en mayo de 2024 y se optó por anticoagulación y control de frecuencia."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, vamos a repasar la medicación a ver si es la misma. Balsartan, 80 miligramos, 1 en la mañana. Omeprazol, 20 miligramos, 1 en la mañana. Lexiana, 80 miligramos, 1 en la mañana. Omeprazol, 20 miligramos, 1 en la mañana. Lexiana, 35 miligramos, 1 al mediodía. Furosemida, 40 miligramos, 1 en la mañana. Enconcor, 5 miligramos, 1 en la noche. Ribotril, 0,5 miligramos. Venlafaxina retard, 150 miligramos. ¿Algo más?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El omeprazol lo llevo tomando mucho tiempo. ¿Eso se puede tomar así tantos años? Estuve ingresada hace 15 días."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. No sé si entonces te cambiaron algo de la medicación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Estuve en urgencias un día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ah, solo urgencias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, estuve 3 días ingresada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, entonces allí te modificaron la medicación. Yo había dejado indicado que tomaras la furosemida una por la mañana y otra al mediodía por dos semanas y después venir a revisión. El resto igual."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, empecé cada día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso fue una descompensación por la infección que tuviste."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y cómo te sientes ahora?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, bien. Aunque los primeros días estaba un poco débil. Ahora ya me he recuperado bastante."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Qué bueno. Entonces ya puedes dejar la de mediodía, ¿vale? Cuando salí de la clínica pesabas 62. Ahora pesas 61. Antes pesabas 65, pero casi no comiste nada esos días."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Claro, seguramente no era tanto líquido lo que tenía, sino la infección que me descompensó."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Respira hondo. Suelta. Otra vez. Muy bien. Respira normal. Tienes un soplo, pero dentro del esperado. Los pulmones están bien ventilados, sin ruidos. El corazón arrítmico por la fibrilación auricular. Y con soplo aórtico por el tubo. No hay líquido en las piernas, así que nada de sobrecarga. Estás muy bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y el omeprazol? Tengo que seguir tomándolo. Lleva muchos años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, ya no hace falta. Puedes dejarlo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, entonces lo dejo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La furosemida o Seguril, que es lo mismo, solo una por la mañana. No te líes. Seguril es nombre comercial. Furosemida, el genérico. Es lo mismo. Nunca las dos a la vez."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. Entonces, una por la mañana. Seuril."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso. Y si alguna vez te lo recetan como furosemida, recuerda que es lo mismo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, sí. Yo me miro el oxígeno con un aparatito. Siempre me da 95."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Tiene que estar por encima de 92."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y lo del Seuril es indefinido?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, es tratamiento crónico, para orinar más y no retener líquidos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, mejor que lo tenga apuntado en el informe."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, lo dejo escrito. Es lo mismo que repasamos ahora, solo quitamos el omeprazol."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto. Ya llevaba mucho tiempo con él y había escuchado que no era bueno mantenerlo tantos años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Si no hace falta, mejor no."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues nada, todo muy claro. Donde pone furosemida, pongo Seguril, para que no haya confusión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien."
+    }
+  ]
+}

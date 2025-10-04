@@ -1,0 +1,123 @@
+{
+  "scenario_id": "cardio_tired_palpitations_01",
+  "title": "Cansancio al esfuerzo y palpitaciones en paciente hipertenso (consulta cardiología)",
+  "context": "Paciente con astenia al subir escaleras y palpitaciones intermitentes; antecedentes de hipertensión y colesterol alto. Se planifica estudio y tratamiento farmacológico (metoprolol, estatina) junto con cambio de estilo de vida.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días, doctor. Últimamente me noto cansado al subir escaleras y a veces siento palpitaciones."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Cuánto tiempo lleva con estos síntomas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Un par de meses, pero en las últimas semanas se han hecho más frecuentes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido dolor en el pecho, mareos o falta de aire en reposo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Dolor fuerte no, pero sí una presión en el pecho cuando camino rápido. Y alguna vez me he mareado un poco."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. ¿Tiene antecedentes médicos o toma algún tipo de medicamento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, pero sí una presión en el pecho cuando camino rápido, y alguna vez me he mareado un poco. De acuerdo. ¿Tiene antecedentes médicos o toma alguna medicación?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, soy hipertenso, y tomo en alapril 10 miligramos una vez al día. También colesterol alto, pero no estoy tomando nada ahora mismo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Vamos a tomarle la atención. Pausa. Tiene 150le la atención. Pausa. Tiene 150-95. MGHG. Todavía elevada. Voy a auscultar el corazón. Pausa. Thank you. El ritmo es regular, pero con algo de taquicardia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No necesariamente, pero es importante estudiarlo. Vamos a pedirle un electrocardiograma y una analítica con perfil lipídico, glucosa y función renal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y mientras tanto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para proteger su corazón, además de seguir con el enalapril, que le va a tomar correctamente cada 12 horas, le añadiré un beta bloqueante, metoprolol 50 miligramos al día, que ayudará a controlar las palpitaciones, la tensión y el esfuerzo cardíaco."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso tiene efectos secundarios?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede causar cansancio o manos frías, pero suele tolerarse bien. Le ajustaré la dosis según cómo se encuentre."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y el colesterol?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Con el último análisis vimos cifras altas, por lo que es recomendable empezar con una estatina. Le recetaré atorvastatina 20 miligramos por la noche, que ayudará a bajar el colesterol y a proteger las arterias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tendré que tomar todo esto de vida?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En la mayoría de los casos sí, aunque las dosis pueden ajustarse. Son fármacos que reducen el riesgo de infarto y mejoran la calidad de vida."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y puedo hacer algo más por mi cuenta?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bueno, puede hacer cosas como reducir la sal en las comidas, hacer ejercicio moderado, como caminar 30 minutos al día, dejar el tabaco si fuma y seguir una dieta rica en frutas, verduras y pescado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No fumo, pero la dieta sí que debería mejorarla."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, ese es un buen punto de partida. Además, controle su peso y trate de evitar el alcohol."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien. ¿Y cuándo tengo que volver?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le citaré en un mes para revisar la tensión y cómo se encuentra con el metoprolol. Y en tres meses repetiremos análisis para ver el colesterol y ajustarla a torvastatina si es necesario."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias, doctor. Me quedo más tranquilo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para eso estamos. Resumo. Seguirá con el alapril 10 miligramos cada 12 horas Que es la forma adecuada de tomarlo Y añadiremos metoprolol 50 miligramos una vez al día Y atorvastatina 20 miligramos por la noche Además haremos cambios en la dieta y ejercicio regular."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, lo haré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, nos vemos en la próxima revisión."
+    }
+  ]
+}

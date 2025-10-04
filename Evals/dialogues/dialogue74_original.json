@@ -1,0 +1,129 @@
+{
+    "scenario_id": "traumatologia_04",
+    "title": "Consulta de traumatología - Tendinitis del manguito rotador",
+    "context": "Consulta externa de traumatología",
+    "turns": [
+      {
+        "speaker": "Traumatólogo",
+        "text": "Buenos días, ¿qué le ocurre?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Desde hace varias semanas tengo dolor en el hombro derecho. Al principio era solo al moverlo, pero ahora también me molesta por la noche, sobre todo al dormir de ese lado.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "¿El dolor aparece más al levantar el brazo o al peinarse, vestirse o alcanzar cosas altas?",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, exactamente. Cuando intento levantar el brazo por encima de la cabeza me duele bastante.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Bien. Le exploro: al levantar el brazo noto dolor y cierta limitación en la movilidad. La ecografía que le hicimos muestra una tendinitis del manguito rotador, es decir, inflamación de los tendones que mueven el hombro.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y eso a qué se debe?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Puede deberse al uso repetitivo del hombro, desgaste por la edad o pequeños traumatismos. Es una causa muy frecuente de dolor en esta zona.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y qué tratamiento hay?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Vamos a combinar varias cosas. Le receto un antiinflamatorio oral, ibuprofeno 600 mg cada 12 horas durante 7 días, acompañado de protector gástrico si lo necesita. Además, puede usar un gel antiinflamatorio dos veces al día en el hombro.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Bien.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Lo más importante es la fisioterapia: ejercicios suaves para mejorar la movilidad y fortalecer los músculos del hombro. Le daré un folleto con ejercicios sencillos que puede hacer en casa.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y reposo?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "No reposo absoluto, pero evite movimientos repetitivos con el brazo en alto o cargar peso con ese lado hasta que mejore.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y si no mejora con eso?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Si en unas semanas sigue con dolor, podemos hacer una infiltración con corticoide en la articulación. Eso suele dar mucho alivio. Y solo en casos de rotura del tendón o dolor crónico que no responde al tratamiento conservador se valora cirugía.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Espero no llegar a eso.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "Plan: antiinflamatorio una semana, gel local, fisioterapia diaria, evitar esfuerzos con ese brazo y revisión en seis semanas. Si no mejora, valoramos infiltración.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, doctor, gracias.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Traumatólogo",
+        "text": "A usted. Con este plan lo normal es que el dolor mejore bastante en pocas semanas.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 820,
+      "turn_count": 19,
+      "avg_turn_length": 17.3
+    },
+    "estimated_total_duration": 240.0,
+    "generated_at": "2025-09-25T12:10:00Z"
+  }
+  

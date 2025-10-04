@@ -1,0 +1,99 @@
+{
+  "scenario_id": "neumologia_03",
+  "title": "Consulta de neumología - Neumonía adquirida en la comunidad",
+  "context": "Consulta por fiebre, tos productiva y diagnóstico radiológico de neumonía en pulmón derecho",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Qué le trae hoy a la consulta?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vine porque desde hace una semana tengo fiebre, tos con mucha flema amarilla y me siento muy cansado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿La fiebre ha sido alta?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, varios días llegué a 38,5 grados. Tomé paracetamol y me bajaba un poco, pero al rato volvía."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y tiene dolor en el pecho al respirar?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, sobre todo al toser. Me duele de este lado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Le ausculto. Escucho ruidos en el pulmón derecho, con crepitantes en la base. Con lo que me cuenta y la radiografía que le hicieron en urgencias, lo que tiene es una neumonía en el pulmón derecho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vaya, ¿y eso es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Depende de la persona y de la extensión. En su caso está controlado. No necesita ingreso porque la saturación de oxígeno está bien y porque no tiene dificultad para respirar, pero sí hay que tratarlo con antibióticos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué me va a dar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le voy a recetar amoxicilina con ácido clavulánico 875/125 miligramos cada 8 horas durante 7 días. Tómelas siempre después de las comidas. También puede seguir con paracetamol si hay fiebre o malestar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Beba mucho líquido, descanse y evite esfuerzos grandes mientras dure el tratamiento. Y es importante que complete el antibiótico aunque se sienta mejor a los pocos días."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. ¿Y cuánto tardaré en mejorar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La fiebre debería desaparecer en 2 o 3 días. La tos puede durar un par de semanas. Si en tres días no nota mejoría, o si aumenta el ahogo o la fiebre sube más, debe volver de inmediato."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entendido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Después del tratamiento repetiremos una radiografía en unas cuatro semanas para confirmar que el pulmón se limpió bien. También le recomiendo vacunarse de la gripe y el neumococo, porque ayudan a prevenir nuevas neumonías."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, nunca me he vacunado de eso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pues es buen momento para hacerlo cuando se recupere."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, hemos quedado que antibiótico una semana, paracetamol si fiebre, reposo, líquidos abundantes y revisión con radiografía en un mes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy bien, gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted, cuídese y nos vemos en la revisión."
+    }
+  ]
+}

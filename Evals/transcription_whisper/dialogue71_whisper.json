@@ -1,0 +1,87 @@
+{
+  "scenario_id": "traumatologia_01",
+  "title": "Consulta de traumatología - Artrosis de rodilla",
+  "context": "Consulta por dolor crónico en rodilla derecha con diagnóstico de artrosis",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Qué le trae hoy por aquí?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vengo por dolor en la rodilla derecha. Llevo meses con molestias, pero últimamente me duele incluso al caminar despacio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿Ese dolor aparece más con el esfuerzo o también en reposo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sobre todo al subir o bajar escaleras, al levantarme de la silla y cuando camino mucho rato. Por la noche a veces también me molesta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha notado que la rodilla se le hinche o que cruje al moverla?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, cruje bastante y a veces se me queda como rígida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Le exploro, la rodilla está algo inflamada, tiene limitación de movimiento y al moverla se nota crepitación. Las radiografías que le hicieron muestran desgaste del cartílago, lo que llamamos artrosis de rodilla."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso tiene cura?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La artrosis no se cura, pero podemos mejorar mucho el dolor y la movilidad. El primer paso es perder algo de peso, si puede, porque cada kilo de más multiplica la carga sobre la rodilla. Además, el ejercicio suave, como caminar en llano o nadar, ayuda a mantener el músculo fuerte."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya, pero a veces me duele tanto que no puedo ni caminar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para esos momentos puede tomar paracetamol un gramo cada 8 horas. Si no es suficiente, añadiremos ibuprofeno 600 miligramos cada 12 horas después de las comidas, siempre que no tenga problemas de estómago. Y le recetaré un gel antiinflamatorio para aplicar localmente en la rodilla dos veces al día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También podemos hacer infiltraciones intraarticulares con corticoide si el dolor se hace más intenso y no mejora con medicación. Y a largo plazo, si la artrosis avanza mucho y limita demasiado, la opción es la prótesis de rodilla."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso sería operación?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, pero sólo cuando el dolor sea incapacitante y no responda a otros tratamientos. De momento no está en ese punto."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y el ejercicio?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy recomendable. Ejercicios de fortalecimiento de cuádriceps, bicicleta estática sin resistencia, natación, evite correr o saltar, que dañan más la articulación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: dieta para bajar algo de peso, ejercicio suave, medicación analgésica y antiinflamatoria cuando lo necesite, gel local y revisamos en tres meses. Si en ese tiempo el dolor sigue fuerte, valoramos infiltraciones."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Con estas medidas debería mejorar bastante la calidad de vida."
+    }
+  ]
+}

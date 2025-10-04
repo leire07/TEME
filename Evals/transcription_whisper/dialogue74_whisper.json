@@ -1,0 +1,79 @@
+{
+  "scenario_id": "traumatologia_04",
+  "title": "Consulta de traumatología - Tendinitis del manguito rotador",
+  "context": "Consulta por dolor de hombro con diagnóstico de tendinitis del manguito rotador",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué le ocurre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Desde hace varias semanas tengo dolor en el hombro derecho. Al principio era sólo al moverlo, pero ahora también me molesta por la noche. Sobre todo al dormir de ese lado."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿El dolor aparece más al levantar el brazo o al peinarse, vestirse o alcanzar cosas altas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, exactamente. Cuando intento levantar el brazo por encima de la cabeza me duele bastante."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, le exploro. Al levantar el brazo noto dolor y cierta limitación en la movilidad. La ecografía que le hicimos muestra una tendinitis del manguito rotador, es decir, inflamación de los tendones que mueven el hombro."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso a qué se debe?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede deberse al uso repetitivo del hombro, desgaste por la edad o pequeños traumatismos. Es una causa muy frecuente de dolor en esta zona."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué tratamiento hay?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a combinar varias cosas. Le receto un antiinflamatorio oral, ibuprofeno, 600 miligramos cada 12 horas, durante 7 días, acompañado de protector gástrico si lo necesita. Además puede usar un gel antiinflamatorio dos veces al día en el hombro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo más importante es la fisioterapia. Ejercicios suaves para mejorar la movilidad y fortalecer los músculos del hombro. Le daré un folleto con ejercicios sencillos que puede hacer en casa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y reposo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No reposo absoluto, pero evite movimientos repetitivos con el brazo en alto o cargar peso con ese lado hasta que mejore."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si no mejora con eso?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en una semana sigue con dolor, podemos hacer una infiltración con corticoide en la articulación. Eso suele dar mucho alivio. Y solo en casos de rotura del tendón o dolor crónico que no responde al tratamiento conservador, se valora cirugía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Espero no llegar a eso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. El plan es: antiinflamatorio una semana, gel local, fisioterapia diaria, evitar esfuerzos con ese brazo y revisión en seis semanas. Si no mejora, valoramos infiltración."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor. Gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Con este plan lo normal es que el dolor mejore bastante en pocas semanas."
+    }
+  ]
+}

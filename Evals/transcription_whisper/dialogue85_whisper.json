@@ -1,0 +1,75 @@
+{
+  "scenario_id": "pediatria_03",
+  "title": "Consulta de pediatría - Otitis media aguda",
+  "context": "Niño con fiebre, dolor de oído y diagnóstico clínico de otitis media aguda",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Hola, ¿qué tal está el niño?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Desde ayer por la noche llora mucho. No ha dormido casi nada y se toca mucho la oreja derecha. Además, tiene fiebre."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cuánto le subió la fiebre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Casi 39 grados. Le di paracetamol y le bajó un poco, pero al rato volvió a subir."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Tiene mocos o tos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, llevaba unos días resfriado, con mocos y algo de tos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a explorarlo. La garganta está un poco roja, pero lo más llamativo es el oído derecho. El tímpano está enrojecido y abombado. Eso es una otitis media aguda."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso cómo se trata?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En algunos casos leves basta con analgésicos y esperar. Pero como tiene fiebre alta y tanto dolor, vamos a darle antibiótico. Le receto amoxicilina en jarabe cada ocho horas durante siete días. ¿Vale?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para la fiebre y el dolor puede darle paracetamol o ibuprofeno según necesite. Lo importante es que esté cómodo y pueda descansar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y puede seguir yendo a la guardería?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No. Lo mejor es que se quede en casa hasta que lleve al menos 48 horas sin fiebre y esté más recuperado. Además, así evitamos contagios."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal que la fiebre tarde un par de días en bajar del todo. Si después de 48 horas sigue igual o empeora el dolor, debe traerlo de nuevo. Y cuando termine el antibiótico, lo revisaremos para asegurarnos de que el oído ha quedado bien."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: antibiótico una semana, analgésicos para fiebre y dolor, reposo en casa y revisión al acabar el tratamiento."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchas gracias, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A ustedes. Con el tratamiento debería mejorar en pocos días."
+    }
+  ]
+}

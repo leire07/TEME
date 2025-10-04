@@ -1,0 +1,244 @@
+{
+  "scenario_id": "consult_cardiology_parkinson_bradicardia_2025",
+  "title": "Consulta cardiológica - bradicardia y seguimiento (Parkinson juvenil)",
+  "context": "Transcripción de la consulta tal cual (no se corrigen errores) — paciente con Parkinson juvenil y bradicardia sinusal, control y planificación de pruebas.",
+  "source_date": "2025-10-02",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Entonces veo aquí tu visita."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya te había visto antes, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, hace dos años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La última vez fue en 2023, así que casi es como una primera consulta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Exacto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Me comentas que en una revisión médica del trabajo te salió una bradicardia sinusal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me dijeron que era sinusal, que había un latido que a veces se salía de ritmo pero que ya no aparece."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Veo que no fumas, no bebes alcohol, no tienes hipertensión, diabetes ni dislipemia."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tienes antecedente de tendinitis intervenida, Parkinson juvenil con mutación del gen Parkin, tomas Sinemet Plus, media tableca tres veces al día y acilete 1,5 miligramos por la mañana."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Algún otro tratamiento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces seguimos igual."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cómo te encuentras?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien, aunque algo más mayor, claro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es normal."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La última vez te derivaron porque el corazón iba algo lento."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El Parkinson a veces puede producir bradicardia."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Esta vez no me dieron el informe, pero la prueba es de 2024."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Intenté acceder al resultado, pero no aparece."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Aquí veo que estás con ritmo sinusal a unos 50 latidos por minuto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Por lo demás estás bien?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo único es algo de cansancia en las piernas, de rodillas hacia abajo, más que antes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero no tienes falta de aire ni dolor en el pecho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, subo 4 pisos cada día en el trabajo desde hace años y lo hago bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces muy bien, incluso haces bicicleta estática y caminas bastante en los viajes, eso indica buena tolerancia al esfuerzo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te pediré un holter de 24 horas para ver cómo va la frecuencia a lo largo del día y comprobar que durante la noche no haya pausas largas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Como toleras bien el ejercicio, no hace falta prueba de esfuerzo ahora."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Tienes analíticas recientes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, las últimas muestran el colesterol algo alto y el ácido úrico también."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El ácido úrico, mientras no tengas gota, no nos preocupa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El azúcar está normal, la función hepática también."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo que quiero revisar es el colesterol."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Total 196, triglicéridos 96, HDL 46 y LDL 131."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ese LDL está algo alto."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La TSH es normal, 2,6."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En estos casos se recomienda dieta mediterránea, equilibrada y sostenible."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si ya comes así, lo mejor es iniciar tratamiento ¡Gracias por ver el video!"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La TSH es normal, 2,6."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En estos casos se recomienda dieta mediterránea, equilibrada y sostenible."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si ya comes así, lo mejor es iniciar tratamiento con medicación para bajar el colesterol, porque lo que buscamos es prevenir que las arterias se obstruyan."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Qué alimentos debo evitar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sobre todo, embutidos, quesos curados, exceso de carnes grasas o mariscos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por lo demás, equilibrio."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Respecto a productos como Danacol, no tienen tanto beneficio real."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mejor medicación si ya es necesario."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, te propondré pitabastatina 2 miligramos por la noche, que se tolera muy bien y no interfiere con tus otros medicamentos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ahora te ausculto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Respira profundo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Los pulmones están bien ventilados, sin ruidos agregados."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El corazón rítmico, sin soplos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La tensión está perfecta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¡Gracias por ver el video!"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "profundo, muy bien, los pulmones están bien ventilados, sin ruidos agregados, el corazón rítmico, sin soplos, la tensión está perfecta, 120-80, con frecuencia de 62 latidos por minuto, entonces Holter, ecocardiograma y empezar el tratamiento para el colesterol, después revisamos resultados, perfecto."
+    }
+  ]
+}

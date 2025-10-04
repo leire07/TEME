@@ -1,0 +1,152 @@
+{
+  "scenario_id": "medicina_familia_01",
+  "title": "Consulta de medicina de familia - Bronquitis aguda",
+  "context": "Consulta externa de medicina de familia",
+  "turns": [
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Buenos días, ¿qué le pasa?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Vengo porque desde hace casi una semana tengo tos muy fuerte, al principio era seca pero ahora ya saco bastante flema. A veces me cuesta hasta dormir.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Ha tenido fiebre?",
+      "duration_estimate": 2.5,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Los primeros dos días sí, unos 38 grados, pero ya no. Solo me siento cansado y sigo con la tos.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Tiene dolor en el pecho o sensación de ahogo?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Un poco de presión cuando toso mucho, pero puedo respirar bien.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Fuma?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, unos cinco cigarrillos al día, aunque intento reducir.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Eso no ayuda, conviene que lo deje, sobre todo en episodios como este.",
+      "duration_estimate": 5.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, ya me lo han dicho.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Le exploro… Vale, los pulmones se escuchan con algunos ruidos bronquiales, pero no hay signos de neumonía, la saturación está bien y no hay fiebre ahora mismo. Esto es una bronquitis aguda, que suele aparecer tras un catarro.",
+      "duration_estimate": 15.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y necesito antibiótico?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "No, en la mayoría de los casos la bronquitis aguda es causada por virus, y los antibióticos no sirven. Lo que necesita es tratamiento para los síntomas. Le voy a recetar un jarabe para la tos con expectorante, para ayudar a expulsar las flemas, y paracetamol si vuelve la fiebre o el dolor.",
+      "duration_estimate": 16.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Vale.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "También es importante beber bastante agua, descansar y evitar el tabaco, al menos mientras dure el cuadro.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, intentaré no fumar.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si en los próximos días nota que la fiebre regresa, que el dolor en el pecho empeora o que le falta el aire, entonces sí debe volver a consulta, porque habría que descartar una neumonía.",
+      "duration_estimate": 13.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "De acuerdo.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "La tos puede durar incluso dos o tres semanas aunque se encuentre bien, eso es normal. Lo importante es que poco a poco vaya mejorando y no se complique.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Perfecto.",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Nos vemos si no mejora en 10 días o antes si empeora.",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Muy bien, gracias doctor.",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "A usted, que se mejore pronto.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 730,
+    "turn_count": 23,
+    "avg_turn_length": 11.7
+  },
+  "estimated_total_duration": 245.0,
+  "generated_at": "2025-09-25T22:10:00Z"
+}

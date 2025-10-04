@@ -1,0 +1,95 @@
+{
+  "scenario_id": "neurologia_01",
+  "title": "Consulta de neurología - Episodios de pérdida de fuerza",
+  "context": "Paciente de 62 años en estudio por episodios de pérdida de fuerza en brazo derecho, probable AIT",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, vamos a repasar tu historial. Tienes 62 años y viniste la primera vez por episodios de pérdida de fuerza en el brazo derecho, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me daba como un calambre y se me quedaba tonto. Me duraba unos minutos y luego se me pasaba."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, eso podría corresponder a AITs, ataques isquémicos transitorios o episodios de convulsiones parciales, por lo que consideramos que ampliar el estudio con el electroencefalograma, electromiografía, resonancia de cráneo, un Doppler de carótidas y analítica completa. ¿Traes los resultados?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, aquí los tengo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, a ver. En el electroencefalograma no se evidencian focos epileptógenos. La resonancia no muestra lesiones recientes, solo pequeños focos antiguos, probablemente microinfartos silentes. Las carótidas están bien, sin estrechamientos significativos, apenas una placa leve en la izquierda. La analítica está correcta, aunque el colesterol lo tienes en 205. Y la electromiografía es normal, por lo que AIT es una causa más probable por tu edad, factores de riesgo y los hallazgos en la RMN."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me dijeron que tenía que bajarlo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto, tenemos que controlar todos los factores de riesgo y para eso el pilar es un control estrecho del perfil lipídico. Y continuar con el Adiro. ¿Aún lo tomas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, todos los días."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Y también te dieron Atorvastatina, ¿no?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, la tomo por la noche."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. ¿Desde que empezaste con la medicación, tuviste más episodios?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, ninguno."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es bueno, señor. ¿Cómo estás de tensión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Normalmente en 12 o 13."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Alguna vez en 14?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale. Eso está dentro de lo esperado. Es importante mantenerla controlada. ¿Fumas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, nunca fumé."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mejor. Vamos a explorarte. Aprieta fuerte con las manos. Muy bien. Levanta los brazos. Perfecto. Sigue mi dedo con la vista, todo bien. La fuerza y la coordinación están conservadas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso de los microinfartos es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No es grave ahora, pero significa que tienes riesgo aumentado. Por eso es tan importante seguir con el tratamiento, cuidar la dieta y hacer ejercicio."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, seguimos con Adiro y Atorvastatina y te veo en 6 meses con una nueva analítica de control."
+    }
+  ]
+}

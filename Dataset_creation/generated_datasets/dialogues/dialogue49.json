@@ -1,0 +1,141 @@
+{
+    "scenario_id": "neurologia_01",
+    "title": "Consulta de neurología - Revisión tras episodios de pérdida de fuerza",
+    "context": "Consulta externa de neurología",
+    "turns": [
+      {
+        "speaker": "Neurólogo",
+        "text": "Entonces, vamos a repasar tu historial. Tienes 62 años y viniste la primera vez por episodios de pérdida de fuerza en el brazo derecho, ¿verdad?",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, me daba como un calambre y se me quedaba tonto, me duraba unos minutos y luego se me pasaba.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Vale, eso podría corresponder AITs, ataques isquémicos transitorios o episodios de convulsiones parciales, por lo que consideramos que ampliar el estudio con, electroencefalograma, electromiografía, resonancia de cráneo, un Doppler de carótidas y analítica completa. ¿Traes los resultados?",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, aquí los tengo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Bien, a ver…, en el encefalograma no se evidencian focos epileptógenos, la resonancia no muestra lesiones recientes, solo pequeños focos antiguos, probablemente microinfartos silentes. Las carótidas están bien, sin estrechamientos significativos, apenas una placa leve en la izquierda. La analítica está correcta, aunque el colesterol lo tienes en 205 y la electromiografía es normal, por lo que AITEs es una causa más probable por tu edad, factores de riesgo y los hallazgos en la RMN.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, me dijeron que tenía que bajarlo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Exacto. Tenemos que controlar todos los factores de riesgo y para eso el pilar es un control estrecho del perfil lipídico y continuar con el adiro, ¿aún lo tomas?",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, todos los días.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Perfecto. Y también te dieron atorvastatina, ¿no?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, la tomo por la noche.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Muy bien. ¿Desde que empezaste con la medicación, tuviste más episodios?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, ninguno.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Eso es buena señal. ¿Cómo estás de tensión?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Normalmente en 12 o 13, alguna vez en 14.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Vale, eso está dentro de lo esperado. Es importante mantenerla controlada. ¿Fumas?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, nunca fumé.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Mejor. Vamos a explorarte: aprieta fuerte con las manos… muy bien. Levanta los brazos… perfecto. Sigue mi dedo con la vista… todo bien. La fuerza y la coordinación están conservadas.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y eso de los microinfartos es grave?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "No es grave ahora, pero significa que tienes riesgo aumentado. Por eso es tan importante seguir con el tratamiento, cuidar la dieta y hacer ejercicio.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Entonces: seguimos con Adiro y atorvastatina, y te veo en seis meses con una nueva analítica de control.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 970,
+      "turn_count": 21,
+      "avg_turn_length": 34.5
+    },
+    "estimated_total_duration": 260.0,
+    "generated_at": "2025-09-25T02:00:00Z"
+  }
+  

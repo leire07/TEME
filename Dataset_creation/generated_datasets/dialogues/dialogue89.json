@@ -1,0 +1,165 @@
+{
+    "scenario_id": "cardiologia_15",
+    "title": "Consulta de cardiología - Hipercolesterolemia y prevención cardiovascular",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Buenos días, ¿qué tal?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vengo porque en la última analítica me dijeron que tengo el colesterol alto. Me mandaron aquí para que lo valorara un especialista.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Vale, vamos a ver. Aquí tengo sus resultados: colesterol total 260, LDL 180, HDL 42 y triglicéridos 130. ¿Le habían salido altos en otras ocasiones?",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, hace un par de años me salió un poco alto, pero no tanto.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Hay antecedentes en su familia?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, mi padre tuvo un infarto con 55 años y siempre tuvo el colesterol alto.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Y usted fuma o bebe alcohol?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "No fumo, y bebo solo de vez en cuando, una copa de vino el fin de semana.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Hace ejercicio?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Camino algo, pero no de forma regular. Paso muchas horas sentado por el trabajo.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entiendo. Vamos a explorarlo: la tensión está en 125/80, frecuencia 76, corazón rítmico, sin soplos. Todo normal en la exploración. Lo que tenemos que controlar es el colesterol, porque con sus antecedentes familiares aumenta el riesgo cardiovascular.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y cómo se baja?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Lo primero es la dieta: reducir fritos, embutidos, bollería y grasas animales. Aumentar frutas, verduras, pescado y aceite de oliva. También hacer ejercicio al menos 30 minutos cinco días a la semana.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, eso me cuesta bastante.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Además, por los niveles que tiene y sus antecedentes, conviene empezar tratamiento farmacológico. Le voy a recetar una estatina: atorvastatina 20 mg por la noche.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y eso es para siempre?",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Es un tratamiento crónico, pero no tiene por qué darle problemas. A veces puede causar dolor muscular, si ocurre me lo comenta. Lo importante es que baja el colesterol y protege las arterias.",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Le pediré una nueva analítica en tres meses para ver cómo responde. El objetivo es bajar el LDL por debajo de 100, y si podemos, incluso a menos de 70 por sus antecedentes familiares.",
+        "duration_estimate": 13.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "También conviene mantener la tensión controlada, hacer ejercicio y no ganar peso. Son varios factores que se suman.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, lo entiendo.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Si todo va bien, lo revisamos aquí cada seis meses.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto, doctor, muchas gracias.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "A usted. Con estos cambios, el riesgo de problemas de corazón baja mucho.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 620,
+      "turn_count": 25,
+      "avg_turn_length": 11.2
+    },
+    "estimated_total_duration": 230.0,
+    "generated_at": "2025-09-26T22:20:00Z"
+  }
+  

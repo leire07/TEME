@@ -1,0 +1,99 @@
+{
+  "scenario_id": "neurologia_04",
+  "title": "Consulta de neurología - Parkinson en fase inicial",
+  "context": "Diagnóstico y manejo inicial de síndrome parkinsoniano leve",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué le preocupa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Desde hace unos meses me tiembla la mano derecha, sobre todo cuando estoy sentado o en reposo. Al principio era leve, pero ahora es más evidente y me incomoda."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿El temblor aparece también cuando usa la mano? Por ejemplo, al escribir o beber de un vaso."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, ahí casi no. Es más cuando estoy tranquilo, viendo la tele o con la mano apoyada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Ha notado además rigidez, lentitud al moverse o problemas de equilibrio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Últimamente me cuesta un poco más abrocharme los botones y me noto más torpe al caminar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le exploré hace un rato y veo que tiene un temblor en reposo en la mano derecha, leve rigidez en el brazo y algo de lentitud en los movimientos. Todo apunta a un síndrome parkinsoniano en fase inicial."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso significa que tengo Parkinson?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy probablemente, aunque todavía estamos en un estadio temprano. Lo importante es que se ha detectado pronto y podemos empezar tratamiento para mejorar los síntomas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué tratamiento hay?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En esta fase inicial podemos comenzar con un medicamento llamado Levodopa-Carbidopa en dosis bajas, medio comprimido de 100-25 miligramos tres veces al día. Esto ayuda a reducir el temblor y mejorar la movilidad."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y tengo que tomarlo toda la vida?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El Parkinson es una enfermedad crónica, sí, pero el tratamiento se ajusta según la evolución. Al principio con dosis pequeñas suele ser suficiente y con los años vamos adaptando. También hay otros fármacos que podemos combinar si hace falta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tiene efectos secundarios?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede producir náuseas o mareos al principio, pero suelen mejorar en unos días. Si aparecieran movimientos involuntarios o alucinaciones, tendría que consultarnos, aunque eso es raro en fases iniciales."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y aparte de la medicación, qué puedo hacer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mucho. El ejercicio físico es fundamental. Caminar a diario, hacer estiramientos y, si puede, participar en programas de rehabilitación o fisioterapia. También es útil la logopedia si en algún momento aparecen dificultades en el habla o la voz."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Caminar sí lo hago, aunque a veces me siento inseguro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede usar un bastón ligero para mayor seguridad. Y en casa evite alfombras o muebles bajos que puedan hacerle tropezar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Plan: iniciar levodopa-carbidopa en dosis baja, ejercicio físico regular, medidas de seguridad en casa y revisión en tres meses para ajustar tratamiento. Si el temblor o la rigidez empeoran antes, venga de inmediato."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, con estas medidas debería notar mejoría pronto en la movilidad y en el temblor."
+    }
+  ]
+}

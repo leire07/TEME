@@ -1,0 +1,158 @@
+{
+  "scenario_id": "consulta_apendicitis_01",
+  "title": "Consulta Urgencias - Sospecha de apendicitis",
+  "context": "Paciente mujer con dolor abdominal agudo en fosa iliaca derecha, sospecha de apendicitis. Se solicita analítica y ecografía, analgesia y posible cirugía.",
+  "turns": [
+    {
+      "speaker": "PacienteMujer",
+      "text": "Buenas, desde esta mañana tengo un dolor fuerte en la parte baja del abdomen, primero era más difuso, pero ahora se concentra en el lado derecho.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿El dolor ha ido aumentando con el paso de las horas?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, empezó como un malestar general y ahora es bastante agudo.",
+      "duration_estimate": 3.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido náuseas, vómitos o fiebre?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Sí, he vomitado dos veces y tengo algo de fiebre, 38 °C.",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Ha tenido problemas digestivos previos, operaciones abdominales o alguna enfermedad crónica?",
+      "duration_estimate": 4.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, nada de eso.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Voy a explorarle el abdomen. (pausa) Al presionar en el lado derecho noto dolor intenso y también al soltar la presión. Esto puede ser signo de apendicitis.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Es grave, doctor?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede serlo si no se trata a tiempo. La apendicitis aguda suele requerir cirugía para extirpar el apéndice antes de que se complique.",
+      "duration_estimate": 7.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y qué van a hacer ahora?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a pedir una analítica y una ecografía abdominal para confirmar el diagnóstico. Mientras tanto, le pondremos una vía intravenosa para hidratarle y controlar el dolor.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Gracias, porque me duele bastante.",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. Le administraremos metamizol 2 g intravenoso para el dolor y ondansetrón 4 mg IV para las náuseas. No le daremos comida ni bebida por ahora, debe permanecer en ayunas por si es necesario operarlo.",
+      "duration_estimate": 12.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y antibióticos?",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si la ecografía confirma la apendicitis, antes de la cirugía le administraremos antibióticos profilácticos, habitualmente ceftriaxona 2 g intravenosa más metronidazol 500 mg IV, para reducir el riesgo de infección.",
+      "duration_estimate": 10.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y si no es apendicitis?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Hay otras causas de dolor abdominal, como infecciones urinarias, diverticulitis o problemas ginecológicos en mujeres, pero por sus síntomas y la exploración, la apendicitis es muy probable.",
+      "duration_estimate": 9.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y la operación es peligrosa?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En la mayoría de los casos es una cirugía sencilla y segura. Lo más importante es hacerla antes de que el apéndice se rompa, porque eso puede causar peritonitis, una complicación grave.",
+      "duration_estimate": 10.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Está bien, confío en lo que me diga.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Entonces vamos a proceder con las pruebas y, si se confirma, contactaremos al equipo de cirugía. Por ahora le dejamos con analgesia y suero.",
+      "duration_estimate": 8.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Muchas gracias, doctor.",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. No se preocupe, lo estamos controlando y actuaremos rápido si se confirma el diagnóstico.",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 362,
+    "turn_count": 24,
+    "avg_turn_length": 15.083333333333334
+  },
+  "estimated_total_duration": 120.90000000000002,
+  "generated_at": "2025-09-24T10:18:26.186959Z"
+}

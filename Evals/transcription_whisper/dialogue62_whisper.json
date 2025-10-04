@@ -1,0 +1,99 @@
+{
+  "scenario_id": "endocrinologia_01",
+  "title": "Consulta de endocrinología - Diabetes tipo 2 mal controlada",
+  "context": "Paciente con diabetes tipo 2 y control glucémico insuficiente; se ajusta medicación y se refuerzan medidas de estilo de vida.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Cómo vas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues, la verdad, un poco cansado. Y me preocupa el azúcar, porque cuando me la mido después de comer, me suele salir en 180 o incluso en 200."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Te la mides también en ayunas por la mañana?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, y ahí me sale en torno a 140, 150. Nunca me baja de 120."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. Esos valores indican que la diabetes no está bien controlada. He revisado tu analítica y la hemoglobina glicosilada está en 8,2, cuando lo ideal es que esté por debajo de 7."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya, yo intento cuidarme, pero reconozco que la dieta la llevo regular, con el trabajo como lo que encuentro y a veces me paso con el pan o la pasta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No te castigues. Es difícil llevarlo perfecto. Lo importante es que hagamos cambios poco a poco. Cuéntame, ¿qué medicación tomas ahora?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo la metformina, dos pastillas al día, una con el desayuno y otra con la cena."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Correcto. Metformina 850 miligramos cada 12 horas. Es la base del tratamiento, pero en tu caso ya no es suficiente. Vamos a añadir un medicamento nuevo llamado Dapaglifosina, 10 miligramos por la mañana."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y para qué sirve?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ayuda a que elimines el exceso de glucosa por la orina y además protege el corazón y el riñón, que son los órganos que más sufre la diabetes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tiene efectos secundarios?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede dar más ganas de orinar y en algunas personas irritación genital por las bacterias. Pero si mantienes buena higiene y bebes agua suficiente, no suele dar problemas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, lo probaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además de la medicación tenemos que reforzar la dieta. No se trata de prohibir, sino de elegir mejor. Menos pan, menos dulces y refrescos y más verdura, ensalada y proteína magra, como pescado o pollo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Haces algo de ejercicio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy poco. Camino solo los fines de semana."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pues intenta caminar al menos media hora todos los días. No hace falta gimnasio. Con andar a paso ligero ya ayuda mucho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, lo intentaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: mantenemos la metformina, añadimos la dapaglifozina, revisamos la dieta y caminata diaria. Te pediré analítica dentro de tres meses y veremos cómo van los números."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y cualquier síntoma raro, como dolor al orinar o mareos, me lo comentas antes de la cita."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Vamos por buen camino."
+    }
+  ]
+}

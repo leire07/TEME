@@ -1,0 +1,153 @@
+{
+    "scenario_id": "endocrinologia_02",
+    "title": "Consulta de endocrinología - Ajuste de tratamiento para hipotiroidismo",
+    "context": "Consulta externa de endocrinología",
+    "turns": [
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Hola, veamos, has estado siguiendo un tratamiento para la tiroides, ¿qué tal vas?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Bien, no falto nunca a la pastilla, pero sigo notando bastante cansancio y me cuesta concentrarme.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "¿La tomas siempre igual, en ayunas y con un poco de agua?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, me la tomo nada más levantarme y luego espero media hora para desayunar.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Perfecto, esa es la manera correcta. He revisado tu analítica y la TSH está en 5,8, un poco más alta de lo que queremos. Lo ideal en tu caso es que esté en torno a 1 o 2.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Eso significa que la dosis que tomo no es suficiente?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Exactamente. Estás con levotiroxina 75 microgramos al día, ¿verdad?",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Pues vamos a subir a 100 microgramos cada mañana. Es un ajuste pequeño pero importante. Eso debería ayudarte a encontrarte con más energía.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y cuánto tarda en hacer efecto?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Unas semanas. Normalmente entre 6 y 8 semanas ya deberías notar mejoría. Además, en ese tiempo repetiremos la analítica para confirmar que la TSH baja.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "¿Has notado caída de cabello, piel seca o cambios de peso?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, he engordado un par de kilos y la piel la tengo bastante seca.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Son síntomas típicos del hipotiroidismo. Con la dosis nueva deberían mejorar. También puedes usar crema hidratante a diario y beber más agua, eso ayuda.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Importante: no tomes la pastilla junto con calcio, hierro o antiácidos, porque hacen que se absorba peor. Si necesitas esos suplementos, deja al menos 4 horas de separación.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No lo sabía, a veces me tomo hierro después del desayuno.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Entonces mejor pásalo a la tarde. Así la levotiroxina actúa bien.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Plan: subimos la levotiroxina a 100, hidratación para la piel, dieta equilibrada y repetimos analítica en 2 meses. Y si notas palpitaciones, nerviosismo o insomnio, me avisas, porque podría ser que nos pasemos de dosis.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Está bien.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Endocrinólogo",
+        "text": "Muy bien, vamos ajustando y verás cómo te encuentras mejor.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 970,
+      "turn_count": 23,
+      "avg_turn_length": 32.9
+    },
+    "estimated_total_duration": 265.0,
+    "generated_at": "2025-09-25T05:40:00Z"
+  }
+  

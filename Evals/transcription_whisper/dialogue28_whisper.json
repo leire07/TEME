@@ -1,0 +1,187 @@
+{
+  "scenario_id": "cardiologia_22",
+  "title": "Consulta de cardiología - Control rutinario en paciente de 81 años",
+  "context": "Paciente de 81 años con antecedentes valvulares y dislipemia, control de tensión arterial y revisión general.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a comenzar. Tienes 81 años, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Es la primera vez que vienes?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien, te voy a hacer unas preguntas. ¿Eres alérgica a algún medicamento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A la penicilina."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto, penicilina. ¿Algún alimento que te caiga mal?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No que yo note. Si algo me sienta mal, lo dejo de comer."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Fumas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, como todo natural."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tampoco."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Eres hipertensa, diabética o tienes colesterol alto?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Diabética no, gracias a Dios. Pero sí tengo de todo lo demás."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces no eres hipertensa ni diabética."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El cardiólogo me dijo que no era hipertensa. Pero en invierno tomo atenolol porque se me sube un poco la tensión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces sí eres hipertensa. ¿Qué dosis tomas, 50 o 100 miligramos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El de 50, pero solo la mitad, así que 25 miligramos al día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. ¿Lo tomas todo el año?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo en invierno. En verano lo dejo. Soy muy contraria a los fármacos. Eso sí, tomo atorvastatina para el colesterol, ahora todos los días."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Correcto. La atorvastatina hay que tomarla a diario. ¿Alguna cirugía importante?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Una cesárea y a la vez me sacaron el apéndice."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya tienes antecedente de problemas valvulares, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, siempre me lo dicen en las revisiones."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Te han hablado de cirugía?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo vigilancia. Cada vez que me revisan me dicen que todo está bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cuándo fue la última revisión?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "En marzo de este año, con ecocardiograma."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Entonces hoy vienes por control."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, para quedarme tranquila. Sé que tengo mi edad, pero me cuido mucho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La edad es solo un número."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Eso me dicen. Hago pesas, pilates, yoga, camino, tengo fuerza."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Hay gente de 80 que parece de 60. Tú eres independiente, viniste en bus. Eso habla bien de tu estado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me cuido mucho y quiero estar tranquila. Que el médico me diga que no estoy en tanto riesgo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. Vamos a tomarte la tensión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Siempre me pongo nerviosa cuando voy al médico."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal. Te explicaré cómo hacemos el seguimiento. Siempre tomamos la tensión dos veces. Respira profundo. Eso es. Pulmones bien ventilados, sin ruidos. Corazón rítmico, sin soplos. La primera toma salió un poco alta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te daré un papel con instrucciones sobre cómo medirte la tensión y anotar los valores mañana y noche. Si se mantiene alta, hablamos de hipertensión."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Nunca me había salido alta. Quizá porque vine corriendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede ser, pero conviene comprobarlo. Vamos a hacerte un registro ambulatorio de presión arterial. Además, ten en cuenta que el atenolol no es el mejor fármaco para la tensión. Hay opciones más adecuadas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Te daré también las citas para ecocardiograma y prueba de esfuerzo el mismo día. Así lo resolvemos en una sola visita."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo. Así hice también con neurología."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Cuando tengas los resultados, me los traes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto."
+    }
+  ]
+}

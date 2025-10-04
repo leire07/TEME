@@ -1,0 +1,239 @@
+{
+  "scenario_id": "salud_mental_01",
+  "title": "Episodio depresivo tras duelo - Inicio de tratamiento con sertralina y derivación a psicología",
+  "context": "Consulta de medicina general por cansancio, anhedonia y ánimo deprimido tras fallecimiento de un familiar",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿en qué puedo ayudarle?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Doctor, eh, vengo porque me siento muy cansado desde hace más de dos meses."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es un cansancio que no se me quita ni durmiendo. Y además, estoy muy desmotivado, no tengo ganas de hacer nada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Duerme bien por las noches?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, duermo mis 8 horas, pero me levanto como si no hubiera descansado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "durante el día estoy sin energía para nada. Hasta las cosas más simples me cuestan un mundo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ha perdido interés en actividades que antes le gustaban?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, completamente. Antes me gustaba quedar con amigos, eh, leer, incluso ver películas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ahora todo me da igual. Mi pareja me dice que estoy muy raro, que apenas hablo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido cambios en el apetito o en el peso?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "He perdido como 3 kilos sin hacer dieta. Y es que no tengo hambre. Como por rutina. Todo me sabe igual."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Se siente triste?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "vacío o tiene pensamientos negativos sobre el futuro?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, veo todo negro. Siento como si estuviera en un pozo y no pudiera salir. A veces pienso que las cosas no van a mejorar nunca."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido pensamientos de hacerse daño a sí mismo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, de hacerme daño no."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pero sí he pensado que estaría mejor si no estuviera aquí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por lo que me cuenta, sus síntomas son compatibles con un episodio depresivo. Es importante que sepa que esto tiene tratamiento y va a mejorar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Depresión? Pero si yo nunca..."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La depresión puede aparecer en cualquier momento de la vida, no tiene que ver con ser fuerte o débil."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha pasado algo importante últimamente? ¿Pérdidas, cambios laborales?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mi madre falleció hace 4 meses."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Al principio creí que..."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "llevaba bien. Pero quizás..."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es muy normal que un duelo desencadene una depresión. Vamos a empezar con un tratamiento farmacológico suave. Le voy a recetar sertralina de 50 miligramos. Tome un comprimido en la mañana con el desayuno."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "me va a quitar el cansancio. La sertralina es un antidepresivo que ayuda a regular los neurotransmisores del cerebro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Poco a poco debería recuperar la energía, el interés por las cosas y el ánimo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero no es inmediato, puede tardar tres, cuatro semanas en hacer efecto."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tiene"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "efectos secundarios. Al principio puede tener algunas náuseas, dolor de cabeza leve o cambios en el sueño. Suelen ser temporales y mejoran en una o dos semanas. Si son muy molestos, me llama."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Cuánto tiempo tendré que tomarlo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Normalmente se recomienda"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "mantenerlo al menos 6, 12 meses después de la mejoría."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero no se preocupe por eso ahora. Ya iremos viendo cómo evoluciona."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y solo con pastillas voy a mejorar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La medicación es muy importante, pero también le recomiendo hablar"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "un psicólogo para trabajar el duelo por su madre."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Le parece bien que le derive?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, creo que me vendría bien hablar con alguien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Mientras tanto, trate de mantener rutinas básicas. Levántese a la misma hora, dúchese, vístase aunque no tenga ganas. Y si puede, salga a caminar un poco cada día."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es que no tengo fuerzas ni ganas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo entiendo, pero el ejercicio suave ayuda mucho con la depresión. Aunque sea 10 minutos caminando. Y trate de no aislarse completamente, mantenga algo de contacto social."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Cuando empezaré a encontrarme mejor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede que en las primeras semanas note alguna mejoría en el sueño o el apetito."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La energía y el ánimo suelen mejorar a partir de la tercera o cuarta semana."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sea paciente consigo mismo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y si no mejoro?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Quiero verle en dos semanas para evaluar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "cómo está tolerando la medicación."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si en seis semanas no hay mejoría, ajustaremos el tratamiento, pero estoy seguro de que va a mejorar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Puedo trabajar normalmente?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si se encuentra con fuerzas, sí. Mantener la actividad laboral puede ser beneficioso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pero si se ve muy sobrepasado, podemos valorar una baja temporal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, doctor. Eh, algo más que deba saber?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Nada de alcohol mientras tome la medicación. Y muy importante, si en algún momento tiene pensamientos de hacerse daño, venga inmediatamente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "o llame al teléfono de urgencias."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entendido. Gracias por ayudarme."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Va a funcionar. Nos veremos en dos semanas para ver cómo ha evolucionado."
+    }
+  ]
+}

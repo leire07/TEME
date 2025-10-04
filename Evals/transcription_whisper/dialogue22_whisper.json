@@ -1,0 +1,111 @@
+{
+  "scenario_id": "toxic_exposure_solvent_01",
+  "title": "Sospecha de intoxicación por disolvente en el trabajo",
+  "context": "Paciente con posible inhalación de disolvente industrial: mareos, náuseas, ardor de garganta y dificultad respiratoria leve. Manejo inicial en urgencias con oxígeno, antiemético, monitorización y estudios toxicológicos.",
+  "turns": [
+    {
+      "speaker": "Paciente",
+      "text": "Buenos días. Creo que me he intoxicado en el trabajo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Puede que no, pero lo sospecho."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Estuve manipulando un disolvente químico y ahora tengo mareos, náuseas y me arde la garganta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Cuánto tiempo hace que sucedió y qué producto era?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hace unas dos horas. Era un disolvente industrial. No sé exactamente cuál."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Ha tenido vómitos, dificultad para respirar o dolor torácico?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, un poco de vómitos y me cuesta respirar cuando me muevo rápido."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. Vamos a tomar signos vitales."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tiene 37,8 grados Celsius de temperatura, tensión 125/80 milímetros mercurio, pulso 110 latidos por minuto y saturación 95. La frecuencia respiratoria está algo elevada."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Es grave, doctor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Puede ser serio, dependiendo del producto y la cantidad inhalada. Lo primero es asegurarnos de que respire aire limpio, así que lo llevaremos a la zona de desintoxicación con ventilación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le pondremos oxígeno con mascarilla a 2 o 3 litros por minuto mientras valoramos la gravedad."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También le administraremos ondansetrón 4 mg IV para las náuseas y paracetamol 1 g IV si aparece dolor o malestar general."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Necesito algún antídoto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Depende del producto. Por el momento no sabemos el químico exacto. Pediremos información al servicio de seguridad de su empresa y realizaremos análisis de sangre y orina para detectar sustancias tóxicas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y si me empeora la respiración?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si la saturación baja de 92% o aparece dificultad respiratoria importante, se trasladará a unidad de cuidados intensivos o se intubará y mantendremos vigilancia más estrecha."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Tengo que quedarme ingresado?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por precaución, le mantendremos en observación en urgencias durante varias horas, hasta que los síntomas mejoren y los análisis estén listos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo. ¿Puedo hacer algo mientras tanto?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo principal es respirar aire limpio, reposar y no intentar vomitar más de lo necesario. Mantendremos vía intravenosa para hidratación con suero fisiológico 500 ml."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo. ¿El ardor en la garganta se irá solo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, si fue solo por irritación del disolvente. Puede aliviarlo con enjuagues de agua o solución salina y no ingerir alimentos hasta nueva orden."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Tenga más cuidado la próxima vez."
+    }
+  ]
+}

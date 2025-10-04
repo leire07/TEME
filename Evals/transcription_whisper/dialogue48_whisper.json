@@ -1,0 +1,119 @@
+{
+  "scenario_id": "cardiologia_21",
+  "title": "Consulta de cardiología - Dolor torácico en mujer con hipotiroidismo",
+  "context": "Paciente mujer con hipotiroidismo y dolor torácico de esfuerzo, en estudio para descartar origen cardíaco",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenas tardes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Buenas tardes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vienes porque tienes dolor en el pecho, ¿verdad?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Antes de nada, ¿eres alérgica a algún medicamento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, a la aspirina y a todos los antiinflamatorios."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale, anotado. ¿Algún alimento que no toleres?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, ninguno."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Fumas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, lo dejé en el año 2000, hace ya más de 20 años."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. ¿Y alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo de forma ocasional."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. ¿Tienes hipertensión, diabetes o colesterol alto?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y qué medicación tomas habitualmente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Solo Eutirox por el hipotiroidismo y unas gotas para el glaucoma."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. Eso es importante. Entonces, ¿desde cuándo notas el dolor en el pecho?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Hace unos dos meses, más o menos. Es como una opresión."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y cuándo aparece?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Cuando estoy más activa, al hacer esfuerzo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y se te quita en reposo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, enseguida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Hay algo más que lo desencadene?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El estrés. Cuando estoy muy estresada también lo noto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De acuerdo. Vamos a explorarte. El corazón late rítmico, no hay soplos. Los pulmones ventilan bien. No hay edemas en las piernas. La tensión está en 110-70 y la frecuencia cardíaca en 75. En la exploración todo está normal, pero lo que me cuentas puede ser un dolor de origen cardíaco. En una mujer de tu edad y con tu perfil de riesgo, lo que haremos es pedir unas pruebas. Una analítica completa, un ecocardiograma y un TAC de coronarias con contraste. Este TAC nos dirá cómo están las arterias del corazón. Si sale normal, podemos estar tranquilos de que el dolor no viene del corazón y de que tu riesgo de infarto en los próximos 10 años es muy bajo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, me parece muy bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces te programamos esas pruebas y cuando las tengamos vemos los resultados."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    }
+  ]
+}

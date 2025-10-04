@@ -1,0 +1,153 @@
+{
+    "scenario_id": "cardiologia_09",
+    "title": "Consulta de cardiología - Estenosis aórtica moderada y prueba con dobutamina",
+    "context": "Consulta externa de cardiología",
+    "turns": [
+      {
+        "speaker": "Cardiólogo",
+        "text": "Entonces, vienes a revisión. La vez pasada estuvimos mirándote: eres hipertenso, tienes una insuficiencia mitral moderada, una disfunción diastólica grado 2 y una fibrilación auricular permanente. Estás anticoagulado con ACOS, tomas Eliquis y amlodipino.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Te hicimos el ecocardiograma. En el informe aparecía una hipertrofia excéntrica, la fracción de eyección normal, 60–65%. El ventrículo derecho funcionaba normal, la válvula aórtica muy calcificada y aparentemente bicúspide, con un rafe. Tenía un gradiente máximo de 51, medio de 29, velocidad 3,5 y un área de 1,5 cm². Eso corresponde a una estenosis moderada. La válvula mitral solo con calcificación leve. Las demás válvulas bien.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "También hicimos el Holter: salió fibrilación auricular con extrasístoles ventriculares frecuentes, un 13% del trazado, multifocales. No hubo taquicardias.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Creo que te pedimos también analítica, ¿no?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, analítica y ecocardiograma otra vez.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Ah, vale, lo tengo aquí. Es de junio. ¿Y por qué te plantearon operarte?",
+        "duration_estimate": 5.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, me lo dijeron.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Pero de momento no parece necesario. Vamos a revisar la analítica: hemoglobina 13,5, hematocrito 40, leucocitos 7.000, plaquetas 234.000. Glucosa 119, un poco alta. Creatinina 0,8, filtrado 90, todo normal. Electrolitos bien. Perfil hepático normal. ProBNP 840, algo elevado, pero en tu contexto lo consideramos aceptable.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "En resumen, la analítica está bien.",
+        "duration_estimate": 3.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "El eco repetido está igual: estenosis aórtica moderada en reposo.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Claro, yo en reposo estoy bien. No me acelera el corazón ni tengo dolor. El problema es cuando hago más esfuerzo, ahí me fatigo.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, pero cuando alguien se fatiga así, con tu tipo de problema, suele ser porque la estenosis es severa en reposo y también con el esfuerzo. No cambia. Puede que tengas una estenosis de bajo gradiente, y para confirmarlo hay que hacer una prueba especial: un ecocardiograma con dobutamina.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Eso es solo para la prueba?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Sí, la medicación es solo para la prueba. Te la ponemos para que el corazón lata con más fuerza y más rápido, y vemos cómo se comporta la válvula. Si con el esfuerzo suben mucho las presiones, confirmamos que es estenosis severa. Ese mismo día te vas a casa, pero como la prueba tiene su riesgo, se hace en la UCI.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Aquí tienes el consentimiento informado. Léelo y, si estás de acuerdo, lo firmas.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale.",
+        "duration_estimate": 1.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "¿Te ha visto también Neumología?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, me hicieron espirometría y TAC con la doctora Antonia.",
+        "duration_estimate": 4.5,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Perfecto, sé quién es.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entonces sería como darme un chute para acelerar el corazón y ver cómo responde.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Exacto, y todo bajo vigilancia. Primero pedimos autorización a tu aseguradora y después te darán la cita.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo. ¿Me la dan ahora o después?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Cardiólogo",
+        "text": "Primero tramitan la autorización, luego te citan.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 690,
+      "turn_count": 22,
+      "avg_turn_length": 31.4
+    },
+    "estimated_total_duration": 230.0,
+    "generated_at": "2025-09-24T21:05:00Z"
+  }
+  

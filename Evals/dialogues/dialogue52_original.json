@@ -1,0 +1,117 @@
+{
+    "scenario_id": "neurologia_04",
+    "title": "Consulta de neurología - Temblor esencial",
+    "context": "Consulta externa de neurología",
+    "turns": [
+      {
+        "speaker": "Neurólogo",
+        "text": "Cuéntame, ¿qué es lo que te preocupa?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Que me tiembla mucho la mano derecha, sobre todo cuando intento escribir o coger un vaso.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "¿Desde cuándo lo notas?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Hace más de dos años, pero últimamente está empeorando.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "¿Ese temblor aparece en reposo o más cuando usas la mano?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Cuando la uso, por ejemplo para comer con la cuchara o servir agua. Si la tengo quieta apoyada, apenas tiembla.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Perfecto, eso es lo que llamamos temblor esencial. Es diferente al Parkinson, porque en tu caso aparece con la acción y no en reposo. ¿Alguien más en tu familia lo tiene?",
+        "duration_estimate": 11.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, mi madre también lo tenía.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Es muy común, suele ser hereditario. ¿Tomas café, alcohol o estimulantes?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Café todos los días, unas tres tazas.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Eso puede aumentarlo. Conviene reducir la cafeína. Y como ya interfiere con tu vida diaria, vamos a iniciar tratamiento. Te receto propranolol 40 mg, media tableta por la mañana y media por la noche.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale, ¿y eso lo tengo que tomar siempre?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Lo iremos viendo. Si mejora mucho, podemos mantener la dosis estable; si no, ajustamos. Y si con el tiempo desaparece, podríamos retirarlo.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Perfecto.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Vamos a explorarte: extiende las manos… sí, se aprecia el temblor postural. Caminar, fuerza y reflejos están normales. Es solo el temblor.",
+        "duration_estimate": 12.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Sí, todo lo demás bien.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neurólogo",
+        "text": "Entonces: reducimos café, empezamos con propranolol, y nos vemos en tres meses para revisar cómo vas.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 670,
+      "turn_count": 17,
+      "avg_turn_length": 31.5
+    },
+    "estimated_total_duration": 220.0,
+    "generated_at": "2025-09-25T02:55:00Z"
+  }
+  

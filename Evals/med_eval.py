@@ -120,8 +120,24 @@ def extract_text_from_json(data: Dict[str, Any], file_path: str) -> str:
 def save_results_json(results: Dict[str, Any], output_path: str) -> None:
     """Guarda los resultados en un archivo JSON."""
     try:
+        # Asegurar que todos los campos importantes estén presentes
+        output_data = {
+            "original_text": results.get("original_text", ""),
+            "transcribed_text": results.get("transcribed_text", ""),
+            "medication_classification": results.get("medication_classification", "NINGUNA"),
+            "dosage_classification": results.get("dosage_classification", "NINGUNA"),
+            "consistency_classification": results.get("consistency_classification", "NINGUNA"),
+            "final_classification": results.get("final_classification", "NINGUNA"),
+            "explanations": results.get("explanations", []),
+            "consensus_explanation": results.get("consensus_explanation", ""),
+            "medication_explanation": results.get("medication_explanation", ""),
+            "dosage_explanation": results.get("dosage_explanation", ""),
+            "consistency_explanation": results.get("consistency_explanation", ""),
+            "error_details": results.get("error_details", [])
+        }
+        
         with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(results, f, ensure_ascii=False, indent=2)
+            json.dump(output_data, f, ensure_ascii=False, indent=2)
         print(f"💾 Resultados guardados en: {output_path}")
     except Exception as e:
         print(f"❌ Error al guardar resultados: {e}")
@@ -264,12 +280,23 @@ Ejemplos de uso:
             print("🔬 Ejecutando evaluación con IA...")
         result = medication_evaluation_graph.invoke(evaluation_state)
 
+        print("--------------Resultados de la evaluación---------------")
+        if args.verbose:
+            print("🔍 DEBUG - Resultados crudos de la evaluación:")
+            print(result)
+
         # Determinar ruta de salida
         if args.output:
             output_path = args.output
         else:
             # Crear results.json en el mismo directorio que el archivo transcrito
             output_path = transcribed_path.parent / "results.json"
+
+        # En la función main(), justo antes de save_results_json:
+        if args.verbose:
+            print(f"🔍 DEBUG - Campos en result antes de guardar:")
+            for key in ["medication_explanation", "dosage_explanation", "consistency_explanation", "error_details"]:
+                print(f"   {key}: {result.get(key, 'NO ENCONTRADO')}")
 
         # Guardar resultados en JSON
         if args.verbose:

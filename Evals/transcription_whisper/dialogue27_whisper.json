@@ -1,0 +1,151 @@
+{
+  "scenario_id": "cardio_taquicardia_deporte_01",
+  "title": "Consulta cardiología — palpitaciones con el ejercicio",
+  "context": "Paciente joven con palpitaciones muy fuertes durante el ejercicio que obligan a detenerse. Evaluación cardiológica inicial con plan de pruebas y recomendaciones.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, hoy voy a ser tu cardiólogo. Cuéntame, ¿qué te trae hoy a la consulta?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Verá, desde hace una semana tengo palpitaciones muy fuertes cuando hago deporte. Me obligan a parar y me preocupa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Vamos a hacer una historia clínica completa. ¿Eres alérgica a algún medicamento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, al molotil. Se me hincha muchísimo la lengua cuando lo tomo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Reacción de hipersensibilidad tipo 1, angioedema. Anotado. ¿Alguna otra alergia o intolerancia?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Soy intolerante a la lactosa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Pasemos a hábitos. ¿Fumas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, fumo Icos. Más o menos tres paquetes el fin de semana cuando salgo de fiesta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Tabaquismo social? ¿Alcohol?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muy poco."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien. ¿Alguna enfermedad crónica? Hipertensión, diabetes, colesterol alto..."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No que yo sepa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Cirugías previas?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me operaron de amígdalas y vegetaciones de pequeña."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Amigdalectomía y adenoidectomía."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Tomas alguna medicación de forma habitual?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, ninguna."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Antecedentes familiares de cardiopatía, infartos, muerte súbita?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, ninguno."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Entonces, las palpitaciones comenzaron hace una semana, se presentan sólo durante el ejercicio y te obligan a detenerte. ¿Cuánto duran después de parar?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Más o menos un minuto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Durante la palpitación sientes dolor torácico o presión o sensación de desmayo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, un poco de dolor en el pecho, pero no he llegado a desmayarme."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Vamos a explorarte."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ausculta al paciente mujer. Ritmo cardíaco regular. Tonos normofonéticos, sin soplos. Campos pulmonares ventilados sin ruidos agregados, extremidades sin edemas, tensión arterial 110-70, frecuencia cardíaca 75 latidos por minuto, saturación 95% en aire ambiente."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Bien, Leire, lo que describes es taquicardia de esfuerzo. Tenemos que descargar arritmias o alguna cardiopatía estructural."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a pedir analítica completa, hemograma, bioquímica, función tiroidea y troponina ultrasensible, electrocardiograma de 12 derivaciones en reposo, holter de 24 horas para ver si captamos el episodio, ecocardiograma transtorácico basal para valorar la función de tu corazón."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Prueba de esfuerzo en cinta con protocolo de Bruce. Si encontramos algo anormal, podríamos pedir resonancia magnética cardíaca o estudio electrofisiológico si sospechamos arritmia."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, doctor. ¿Debo hacer algo mientras espero los resultados?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí. Evita el ejercicio intenso hasta que tengamos los estudios. Es importante que reduzcas el consumo de tabaco."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si te interesa, podemos iniciar tratamiento de deshabituación. Por ejemplo, baremiclina. 0,5 miligramos al día los primeros tres días y luego un miligramo cada 12 horas durante 11 semanas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Lo pensaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Acude a urgencias si presentas palpitaciones prolongadas de más de 10 minutos, dolor torácico intenso o pérdida de conocimiento."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Cuando tengas las pruebas, vuelves conmigo y revisamos los resultados."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, doctor. Muchas gracias."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada. Nos vemos en la próxima cita."
+    }
+  ]
+}

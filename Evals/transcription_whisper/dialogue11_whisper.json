@@ -1,0 +1,143 @@
+{
+  "scenario_id": "gastro_intestino_irritable_01",
+  "title": "Consulta por dolor abdominal y diarrea intermitente (síndrome de intestino irritable)",
+  "context": "Paciente con tres semanas de dolor abdominal recurrente, diarrea y estrés laboral reciente. Exploración con dolor abdominal leve y diagnóstico clínico de síndrome del intestino irritable; plan: cambios dietéticos y tratamiento farmacológico.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué le sucede?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vengo porque llevo ya como tres semanas con dolor de barriga que va y viene."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No es algo que me impida hacer vida normal, pero me tiene preocupado porque no se me quita."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Puede describirme mejor ese dolor? ¿Dónde lo nota exactamente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues lo noto aquí, en el centro, y un poco hacia la izquierda. Es como un dolor sordo. A veces se vuelve más intenso, como calambres. Y he notado que me molesta más cuando como."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha notado cambios en el ritmo intestinal? ¿Diarrea? ¿Estreñimiento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí. Últimamente voy más suelto, como tres o cuatro veces al día. Y algunas veces he visto como mucosidad en las heces."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido estrés últimamente? ¿Cambios en la rutina? ¿Trabajo? ¿Familia?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues sí, la verdad. Empecé un trabajo nuevo hace un mes y he estado bastante nervioso. Duermo peor y como más deprisa y a deshoras."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha perdido peso? ¿Ha tenido fiebre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Peso no he perdido. Y fiebre no he tenido. Lo que sí noto es que me hincho mucho después de comer, como si tuviera gases."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Déjeme palparle el abdomen. A ver, relájese."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Le duele aquí? ¿Y aquí?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ahí sí me duele un poco, pero no es terrible."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por los síntomas que me describe y la exploración, parece que tiene lo que llamamos síndrome del intestino irritable. Es muy frecuente en situaciones de estrés y cambios en el estilo de vida."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Eso es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, no es grave en absoluto, pero sí molesto. Es un trastorno funcional, es decir, el intestino funciona de manera irregular, pero no hay ninguna lesión. Suele relacionarse mucho con el estrés y la ansiedad."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué puedo hacer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a empezar con cambios en la dieta y un medicamento para regular el tránsito intestinal. Le voy a recetar Trimedutina de 200 miligramos. Tome una cápsula tres veces al día, antes de las principales comidas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso me va a quitar los síntomas?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La Trimedutina ayuda a regular los movimientos del intestino y debería reducir tanto el dolor como la diarrea. En cuanto a la dieta, evite las comidas muy grasas, picantes, el café y los lácteos durante unos días a ver cómo se encuentra."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Carne puedo comer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, pero mastique despacio y coma en horarios regulares. Aumente la fibra soluble: avena, manzana madura. Y muy importante, trate de gestionar el estrés."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Hace algún ejercicio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La verdad es que no. Con el trabajo nuevo no he tenido tiempo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Intente al menos caminar 30 minutos al día. El ejercicio suave ayuda mucho con el intestino irritable y también para el estrés. Si puede, pruebe técnicas de relajación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y en cuánto tiempo debería notar mejoría?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Con la medicación y los cambios dietéticos en una o dos semanas debería empezar a encontrarse mejor. Si en 15 días no mejora nada, vuelva para valorar otros tratamientos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y si empeora, si aparece fiebre, sangre en las heces o el dolor se vuelve muy intenso, venga inmediatamente. Pero por lo que me cuenta no creo que vaya a empeorar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Una cosa más. ¿Puede tomar algo para los gases? Me molestan mucho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, puede tomar simeticona después de las comidas si le molestan mucho. La encuentra en cualquier farmacia sin receta. Y recuerde, coma despacio y evite las bebidas con gas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor. ¿Y cuándo tengo que volver?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En dos semanas para ver cómo evoluciona. Mientras tanto, medicación, dieta suave, ejercicio y tranquilidad. Verá cómo se va encontrando mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchas gracias, doctor. Me quedo más tranquilo sabiendo que no es nada grave."
+    }
+  ]
+}

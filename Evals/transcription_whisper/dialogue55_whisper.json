@@ -1,0 +1,111 @@
+{
+  "scenario_id": "neumologia_03",
+  "title": "Consulta de neumología - Asma mal controlada",
+  "context": "Paciente con síntomas frecuentes de asma nocturna y uso excesivo de salbutamol",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, cuéntame, ¿qué tal te has sentido estos últimos meses?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues sigo con los silbidos en el pecho. Me dan sobre todo por la noche y últimamente casi todas las semanas."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Y qué haces cuando te pasa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Tengo el inhalador azul, el salbutamol. Me echo un par de veces y al rato se me pasa."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vale. ¿Lo estás usando a menudo?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, la verdad que bastante. Casi siempre me da tos y siento falta de aire."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mira, eso me confirma que el asma no está bien controlada. Lo ideal es que el inhalador azul lo uses muy poco, solo de manera puntual. Si lo necesitas varias veces a la semana, significa que necesitamos cambiar el tratamiento de base."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ya, yo pensaba que con eso bastaba."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Para nada. Eso solo corta la crisis, pero no trata la inflamación que tienes en los bronquios. Y si no tratamos esa inflamación, seguirás teniendo síntomas y riesgo de crisis más graves."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por eso te voy a recetar un inhalador que combina dos medicamentos. Uno abre los bronquios y el otro baja la inflamación. Se llama Budesonida con formoterol. Lo vas a usar dos veces al día, por la mañana y por la noche, todos los días, aunque te encuentres bien. Y de rescate, cuando te falte el aire, usas el azul."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿O sea que con ese hago todo?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No. Un inhalador para el día a día, y si tienes síntomas agudos está el de rescate, que es el salbutamol, el azul, como dices. Es muy importante ser constante, porque solo así conseguimos que el asma se mantenga tranquila."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, lo haré así."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y si mejoro mucho, si en tres meses vemos que estás estable y sin crisis, podemos bajar la dosis. Pero de momento tienes que usarlo siempre."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y además, me cuentas que tienes estornudos y nariz tapada. Eso puede ser rinitis alérgica, que a veces empeora el asma. Te voy a añadir un spray nasal de mometasona, una pulverización en cada fosa al día. Y si notas mucha alergia, puedes tomar un antihistamínico."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, porque lo de la nariz también me molesta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y muy importante, evita lo que te desencadena las crisis. Nada de humo, ventila bien la casa, lava las fundas de la cama con agua caliente y si haces deporte, calienta antes de empezar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, eso suelo notarlo mucho, que al correr me viene enseguida."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro, con el tratamiento nuevo debería mejorar bastante. Y recuerda traer el inhalador cuando vuelvas para comprobar que lo usas bien. La técnica es fundamental."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, a veces me lío un poco con eso."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No te preocupes, te lo enseño ahora mismo y te doy también un folleto con dibujos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, entonces quedamos así. Budesonida con formoterol dos veces al día. Y si tienes síntomas, salbutamol. Spray nasal, una vez al día. Y me cuentas dentro de tres meses cómo vas. Si a pesar de eso sigues con muchas noches malas, adelanta la cita y te revisamos el tratamiento."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, gracias doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "De nada, verás que con esto mejoras bastante."
+    }
+  ]
+}

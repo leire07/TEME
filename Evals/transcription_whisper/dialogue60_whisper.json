@@ -1,0 +1,75 @@
+{
+  "scenario_id": "oncologia_04",
+  "title": "Consulta de oncología - Diagnóstico de cáncer de colon localizado",
+  "context": "Paciente con anemia, tras colonoscopia se diagnostica adenocarcinoma de colon derecho localizado.",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿cómo te encuentras?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Un poco preocupado. Me hicieron la colonoscopia porque tenía anemia y salió un pólipo grande."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, he revisado el informe. En la colonoscopia se vio una lesión en el colon derecho y se tomó una biopsia. El resultado confirma que es un adenocarcinoma de colon."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿O sea, es cáncer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, pero lo importante es que lo hemos detectado a tiempo. Por lo que vemos en las pruebas, parece localizado en el colon y no hay datos de que se haya extendido a otros órganos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué hay que hacer ahora?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "El tratamiento de elección es la cirugía, quitar el fragmento del colon donde está el tumor junto con los ganglios cercanos. Eso nos permitirá tratarlo y además analizar exactamente en qué fase está."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y después de la operación? ¿Necesitaré quimio?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Dependiendo de lo que encontremos en los ganglios. Si no hay afectación, puede que con la cirugía sea suficiente. Si hay ganglios con células tumorales, añadiremos quimioterapia durante unos meses para reducir el riesgo de recaída."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Mientras tanto, para la anemia, te voy a recetar hierro oral, 325 miligramos cada 12 horas. Eso te ayudará a subir la hemoglobina y llegar más fuerte a la cirugía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También es importante que cuides la dieta: rica en fibra suave, frutas, verduras y buena hidratación. Y evita automedicarte con antiinflamatorios, porque pueden aumentar el sangrado intestinal."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: derivación al cirujano para programar la operación, hierro oral para la anemia y seguimiento conmigo después de la cirugía."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Gracias doctor. Estaba muy asustado, pero me quedo más tranquilo sabiendo que tiene solución."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Exacto. Lo importante es que lo hemos cogido a tiempo y que tenemos un tratamiento claro."
+    }
+  ]
+}

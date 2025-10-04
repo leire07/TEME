@@ -1,0 +1,158 @@
+{
+  "scenario_id": "consulta_cansancio_hipertension_01",
+  "title": "Consulta Atención Primaria - Cansancio e hipertensión",
+  "context": "Paciente mujer con cansancio persistente y mal control de hipertensión. Se piden estudios complementarios.",
+  "turns": [
+    {
+      "speaker": "PacienteMujer",
+      "text": "Buenos días. Vengo porque desde hace varias semanas me siento muy cansado y me cuesta concentrarme en el trabajo.",
+      "duration_estimate": 6.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Buenos días. ¿Ese cansancio es constante o aparece en determinados momentos del día?",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Es casi constante, sobre todo por la tarde. Además, he notado que duermo peor.",
+      "duration_estimate": 4.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Entiendo. ¿Ha tenido pérdida de peso, fiebre, dolor en alguna parte del cuerpo o algún otro síntoma asociado?",
+      "duration_estimate": 6.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "No, peso igual que siempre. Solo algo de dolor de cabeza, pero lo achaco al estrés.",
+      "duration_estimate": 5.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Bien. ¿Tiene antecedentes médicos importantes o alguna medicación habitual?",
+      "duration_estimate": 3.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Solo tomo enalapril 10 mg por la mañana para la tensión. Nada más.",
+      "duration_estimate": 4.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "¿Y cómo está su tensión últimamente?",
+      "duration_estimate": 2.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "En casa me suele salir sobre 140/90, aunque a veces un poco más alta.",
+      "duration_estimate": 4.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "De acuerdo. Voy a tomarle la tensión ahora mismo. (pausa) Tiene 145/92 mmHg, todavía un poco elevada.",
+      "duration_estimate": 5.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Es grave?",
+      "duration_estimate": 0.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "No es grave de inmediato, pero sí conviene mantenerla más controlada. Podríamos ajustar la medicación por ejemplo el Enalapril se debe tomar cada 12 horas por que es el tiempo que hace efecto, pero antes quiero descartar que el cansancio tenga otra causa, como anemia, alteraciones de la tiroides o déficit de vitaminas.",
+      "duration_estimate": 17.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Qué me recomienda?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Le pediré una analítica completa con hemograma, perfil tiroideo y vitamina B12. Mientras tanto, mantenga un buen descanso nocturno, intente caminar al menos 30 minutos al día y reduzca el consumo de sal.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "Intentaré hacerlo, aunque con el trabajo me cuesta.",
+      "duration_estimate": 2.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Lo sé, pero incluso pequeñas rutinas ayudan. Respecto a la tensión, si sigue en cifras altas pese a las medidas, podríamos añadir un segundo medicamento, como amlodipino 5 mg una vez al día.",
+      "duration_estimate": 11.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Eso sería de por vida?",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "En la mayoría de los casos la hipertensión requiere tratamiento crónico, aunque los fármacos pueden ajustarse o reducirse si mejora su estilo de vida.",
+      "duration_estimate": 8.0,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Y el cansancio?",
+      "duration_estimate": 1.0,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "Si la analítica muestra anemia, podemos tratarla con hierro o vitaminas. Si la tiroides está alterada, lo abordaríamos con medicación específica. A veces el cansancio también es consecuencia del estrés o del sueño poco reparador, en cuyo caso recomendaríamos pautas de higiene del sueño.",
+      "duration_estimate": 14.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "¿Cuándo tendré los resultados?",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "En unos 5–7 días. Le daré cita para revisarlos. Si aparece empeoramiento, como falta de aire, dolor en el pecho o mareos intensos, debe venir antes.",
+      "duration_estimate": 8.7,
+      "voice_characteristics": "professional"
+    },
+    {
+      "speaker": "PacienteMujer",
+      "text": "De acuerdo. Muchas gracias.",
+      "duration_estimate": 1.3,
+      "voice_characteristics": "neutral"
+    },
+    {
+      "speaker": "DoctorPrimaria",
+      "text": "A usted. No se preocupe.",
+      "duration_estimate": 1.7,
+      "voice_characteristics": "professional"
+    }
+  ],
+  "metadata": {
+    "word_count": 386,
+    "turn_count": 24,
+    "avg_turn_length": 16.083333333333332
+  },
+  "estimated_total_duration": 128.8,
+  "generated_at": "2025-09-22T16:15:37.530831Z"
+}

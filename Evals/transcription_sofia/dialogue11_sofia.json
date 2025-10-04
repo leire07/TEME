@@ -1,0 +1,195 @@
+{
+  "scenario_id": "digestivo_01",
+  "title": "Síndrome del intestino irritable - Tratamiento dietético y farmacológico",
+  "context": "Consulta de medicina general por dolor abdominal recurrente y alteraciones del ritmo intestinal",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Qué le sucede?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vengo porque llevo ya como tres semanas con dolor de barriga que va y viene."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "no es algo que me impida hacer vida normal, pero me tiene preocupado porque no se me quita."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. Puede describirme mejor ese dolor? ¿Dónde lo nota exactamente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues lo noto aquí, en el centro y un poco hacia la izquierda."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Es como un dolor sordo. A veces se vuelve más intenso, como calambres."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "He notado que me molesta más cuando como."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha notado cambios en el ritmo intestinal? ¿Diarrea, estreñimiento?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, últimamente voy más suelto."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "como tres o cuatro veces al día. Y algunas veces he visto como mucosidad en las heces."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido estrés últimamente? ¿Cambios en la rutina, trabajo, familia?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Pues sí, la verdad. Empecé un trabajo nuevo hace un mes y he estado bastante"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "nervioso. Duermo peor y como más deprisa y a deshoras."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Ya veo. ¿Ha perdido peso? ¿Ha tenido fiebre?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Peso no he perdido, ni fiebre no he tenido. Lo que sí noto es que me hincho mucho después de comer, como si tuviera gases."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Déjeme."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "el abdomen. A ver, relájese. ¿Le duele aquí y aquí?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Ahí sí me duele un poco, pero no es terrible."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Por los síntomas que me describe y la exploración, parece que tiene lo que llamamos síndrome del intestino irritable. Es muy frecuente en situaciones de estrés y"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "en el estilo de vida. ¿Es grave?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "No, no es grave en absoluto, pero sí molesto."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es un trastorno funcional, es decir, el intestino funciona de manera irregular, pero no hay ninguna lesión. Suele relacionarse mucho con el estrés y la ansiedad."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué puedo hacer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a empezar con cambios en la dieta y un"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "medicamento para regular el tránsito intestinal."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Le voy a recetar trimebutina de 200 miligramos."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Tome una cápsula tres veces al día antes de las principales comidas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y eso me va a quitar los síntomas?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "La trimebutina ayuda a regular los movimientos del intestino y debería reducir tanto el dolor"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "como la diarrea. En cuanto a la dieta, evite las comidas muy grasas, picantes, el café y los lácteos durante unos días a ver cómo se encuentra."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Carne puedo comer?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, pero mastique despacio y coma en horarios regulares. Aumente la fibra soluble, avena, manzana,"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "la madura. Y muy importante, trate de gestionar el estrés. Hace algún ejercicio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La verdad es que no, con el trabajo nuevo no he tenido tiempo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Intente al menos caminar 30 minutos al día. El ejercicio suave ayuda mucho con el intestino irritable y también para el estrés."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "pruebe técnicas de relajación."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y en cuánto tiempo debería notar mejoría con la medicación y los cambios dietéticos?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En una o dos semanas debería empezar a encontrarse mejor. Si en 15 días no mejora nada, vuelva para valorar otros tratamientos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Y si empeor?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Si aparece fiebre, sangre en las heces o el dolor se vuelve muy intenso, venga inmediatamente. Pero por lo que me cuenta no creo que vaya a empeorar."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Una cosa más. ¿Puedo tomar algo para los gases? Me molestan mucho."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Sí, puede tomar simeticona después de las comidas si le molestan mucho. La encuentra en cualquier farmacia sin receta."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Y recuerde, coma despacio y evite las bebidas con gas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor. ¿Y cuándo tengo que volver?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En dos semanas para ver cómo evoluciona. Mientras tanto, medicación, dieta suave, ejercicio y tranquilidad. Verá cómo se va encontrando mejor."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Muchas gracias, doctor. Me queda más claro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Quiero que sepa que no es nada grave."
+    }
+  ]
+}

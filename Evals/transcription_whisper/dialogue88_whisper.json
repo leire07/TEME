@@ -1,0 +1,99 @@
+{
+  "scenario_id": "traumatologia_02",
+  "title": "Consulta de traumatología - Lumbalgia aguda mecánica",
+  "context": "Dolor lumbar agudo tras esfuerzo físico, sin signos neurológicos ni complicaciones",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿qué le sucede?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Desde hace tres días me duele mucho la zona baja de la espalda. Empezó de repente después de agacharme para coger una caja pesada."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Dónde nota exactamente el dolor?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Aquí, en la zona lumbar, más en el centro."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Le baja el dolor por la pierna o se queda solo en la espalda?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "A veces siento como un tirón hacia la nalga derecha, pero no llega más abajo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Tiene hormigueo, pérdida de fuerza o dificultad para caminar?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "No, solo dolor, sobre todo cuando me muevo o me levanto de la cama."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a explorarlo. Bien, la movilidad está algo limitada por el dolor, pero los reflejos y la fuerza en las piernas están normales. Esto parece una lumbalgia aguda mecánica, típica tras un esfuerzo."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué hago para que se me pase?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Lo primero es reposo relativo, es decir, evitar esfuerzos pero no estar todo el día en cama. Caminar despacio ayuda a que se recupere antes. Le voy a recetar ibuprofeno 600 miligramos cada 8 horas tras las comidas durante unos días. Y si el dolor es muy fuerte, puede añadir paracetamol."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "También puede aplicar calor local en la zona lumbar, por ejemplo, con una manta eléctrica o bolsa de agua caliente."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Eso sí lo hago y me alivia un poco."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Evite coger pesos, agacharse en seco o estar muchas horas sentado. Cuando esté mejor, podemos derivarlo a fisioterapia para hacer ejercicios de fortalecimiento y estiramientos. Así reducimos el riesgo de que vuelva a repetirse."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Porque esto no es la primera vez. Ya me pasó hace un año."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Claro. Por eso es importante el ejercicio de rehabilitación. A veces la lumbalgia tiende a repetirse si no se cuidan los músculos de la espalda y del abdomen."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Entiendo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "En principio esto debería mejorar en una o dos semanas. Si el dolor empeora mucho, si baja por toda la pierna con hormigueos o si pierde fuerza, debe volver enseguida porque habría que hacer pruebas de imagen."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: ibuprofeno unos días, calor local, reposo relativo y evitar esfuerzos. Si mejora, en unas semanas empezamos con ejercicio suave."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "A usted. Que se recupere pronto."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "scenario_id": "geriatria_02",
+  "title": "Consulta de geriatría - Desnutrición y pérdida de peso",
+  "context": "Consulta médica para valoración de pérdida de peso y desnutrición en paciente mayor",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días, ¿cómo ha estado últimamente?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "La verdad es que mal. He perdido como 6 kilos en los últimos meses sin proponérmelo. No tengo mucho apetito."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo. ¿Ha notado también debilidad o cansancio?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me siento sin fuerzas. Me canso solo con subir un tramo de escaleras."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido problemas para masticar o tragar alimentos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, me cuesta con la carne dura y con el pan. Además, como vivo solo, muchas veces no me apetece cocinar. Termino tomando un café con galletas o un poco de sopa, pero nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es bastante común. Le exploro. La tensión está bien, el pulso regular. Veo que ha perdido masa muscular en brazos y piernas. En la analítica aparece un poco de anemia y proteínas bajas, lo que confirma desnutrición."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "¿Y qué puedo hacer para recuperar?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Vamos a actuar en varios frentes. Lo primero es adaptar la alimentación. Comidas más pequeñas pero frecuentes, fáciles de masticar, como pescado, huevos, purés, verduras blandas, yogures, y evite saltarse comidas aunque no tenga hambre."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Vale, lo intentaré."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Además le receto suplementos nutricionales orales. Son batidos ricos en proteínas y calorías para tomar uno o dos al día entre comidas. Esto le ayudará a ganar peso y fuerza."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Eso sí puedo tomarlo, me resulta más sencillo que cocinar."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. También añadiremos vitamina D y calcio, porque la desnutrición debilita los huesos y aumenta el riesgo de fracturas. Y sería bueno empezar ejercicios suaves de fuerza, aunque sea en casa. Levantarse varias veces de la silla, caminar dentro de casa o levantar botellas pequeñas de agua, como pesas."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Haré el esfuerzo, aunque me noto débil."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Justamente, cuanto antes empiece, antes recuperará músculo. Empiece poco a poco y aumente progresivamente. Además, beba al menos un litro y medio de agua al día, porque la falta de líquidos también da cansancio y disminuye el apetito."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, casi no bebo agua, solo un par de vasos al día."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Pues hay que mejorar eso. Puede alternar agua con infusiones o caldos para que no le resulte pesado."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces plan: dieta adaptada con comidas pequeñas y fáciles de masticar, suplementos nutricionales diarios, calcio y vitamina D, ejercicio suave progresivo y aumentar la hidratación. Le cito en dos meses con peso y analítica. Si nota pérdida de peso más rápida o mareos, venga antes."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Perfecto, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Vamos a trabajar para que recupere fuerzas, peso y calidad de vida."
+    }
+  ]
+}

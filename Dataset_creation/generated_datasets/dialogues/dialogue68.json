@@ -1,0 +1,177 @@
+{
+    "scenario_id": "geriatria_02",
+    "title": "Consulta de geriatría - Prevención de caídas",
+    "context": "Consulta externa de geriatría",
+    "turns": [
+      {
+        "speaker": "Geriatra",
+        "text": "Buenos días, ¿cómo se encuentra?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Un poco preocupado… en este último mes me he caído dos veces.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Vaya, lo siento. Cuénteme, ¿cómo fueron esas caídas? ¿Se mareó antes o simplemente tropezó?",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "La primera fue en el baño, al levantarme de la taza. Sentí que las piernas se me aflojaban. La segunda fue en la calle, iba despacio y de pronto me dio como un mareo.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Entiendo. ¿Perdió el conocimiento en alguna de ellas?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "No, no llegué a desmayarme, pero me costó recuperar el equilibrio.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "¿Se hizo alguna herida o fractura?",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Solo moratones, por suerte.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Bien. Le tomo la tensión… está un poco baja. Además, noto que sus músculos de las piernas están más débiles de lo habitual. Y revisando su lista de medicamentos, veo que está tomando un antihipertensivo, un diurético y un ansiolítico para dormir. Esa combinación puede favorecer mareos y caídas.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, me lo habían dicho, pero me da miedo dejar la medicación.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "No se preocupe, no vamos a dejar nada de golpe. Solo vamos a ajustar: reduciremos la dosis del diurético y bajaremos el ansiolítico nocturno, porque ambos pueden darle mareos y debilidad.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Además, quiero que empiece ejercicios para reforzar las piernas y mejorar el equilibrio. Puede hacer fisioterapia o ejercicios sencillos en casa: levantarse varias veces seguidas de la silla, caminar apoyándose en la pared o en un bastón, subir un par de escalones.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Vale, eso creo que puedo hacerlo.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "También le recomiendo suplementos para los huesos: vitamina D 800 UI al día y calcio 600 mg dos veces al día. Así reducimos el riesgo de fractura si hubiera otra caída.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "En casa también hay que hacer cambios: retire alfombras que se muevan, asegúrese de que los pasillos estén bien iluminados, ponga barras de apoyo en el baño y evite muebles bajos que puedan estorbar.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, tengo una alfombra en la entrada que siempre se me arruga. La quitaré.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Muy bien. Otra cosa importante: cuando se levante de la cama o de la silla, hágalo despacio, primero siéntese un momento y después póngase de pie. Así evitamos mareos por bajada brusca de la tensión.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Es verdad, yo me levanto de golpe y ahí me tambaleo.",
+        "duration_estimate": 8.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Exacto. También quiero que salga a caminar todos los días un poco, aunque sea solo 10 o 15 minutos. El movimiento es clave para mantener fuerza y equilibrio.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Intentaré hacerlo, aunque a veces me da miedo volver a caer.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Lo entiendo, pero cuanto menos se mueva, más se debilitan los músculos. Con bastón o andador, si hace falta, y en lugares seguros, puede hacerlo sin problema.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Entonces, plan: ajustar medicación, suplementos de calcio y vitamina D, ejercicios de fuerza y equilibrio, cambios en casa y caminar a diario. Le citaré en dos meses para ver evolución. Si vuelve a caerse antes, venga de inmediato.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto, doctor.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Geriatra",
+        "text": "Muy bien, vamos a trabajar para que se mantenga seguro, activo y sin más caídas.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 1180,
+      "turn_count": 27,
+      "avg_turn_length": 34.8
+    },
+    "estimated_total_duration": 330.0,
+    "generated_at": "2025-09-25T06:35:00Z"
+  }
+  

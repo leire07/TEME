@@ -1,0 +1,95 @@
+{
+  "scenario_id": "neurologia_01",
+  "title": "Consulta de neurología - Seguimiento post-ictus isquémico",
+  "context": "Revisión de paciente tras ictus isquémico con leve secuela motora en mano derecha",
+  "turns": [
+    {
+      "speaker": "Doctor",
+      "text": "Buenos días. ¿Cómo se encuentra desde el último ingreso?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Mejor, aunque sigo con algo de debilidad en la mano derecha y me cuesta escribir."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Es normal. Todavía está en fase de recuperación. Repasemos. Tuvo un ictus isquémico en el hemisferio izquierdo hace tres meses, lo que explica esa afectación en la mano. ¿Ha seguido con la rehabilitación?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, voy dos veces por semana y en casa hago los ejercicios que me enseñaron."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. En el informe veo que la resonancia mostró una obstrucción en una arteria cerebral pequeña y la analítica reveló colesterol alto y algo de hipertensión. ¿Está tomando la medicación que le pautamos?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, todos los días. La pastilla para la tensión, la del colesterol y la que me dieron para la sangre."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Concretamente, enalapril, 10 miligramos cada 12 horas. Atorvastatina, 40 miligramos por la noche. Y clopidogrel, 75 miligramos al día como antiagregante, para evitar nuevos ictus."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "¿Ha tenido sangrados o moratones con el clopidogrel?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Algún morado en el brazo, pero nada más."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es normal, nada preocupante. ¿Y la tensión arterial, cómo la tiene en casa?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Suele estar entre 125-70 y 135-75 de máxima. Lo que me preocupa es que a veces me duele la cabeza y pienso que me puede dar otro ictus."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entiendo la preocupación. Los dolores de cabeza ocasionales no necesariamente significan un nuevo ictus. Lo importante es acudir a urgencias si nota pérdida súbita de fuerza, dificultad para hablar, visión borrosa o desviación de la boca. ¿Lo recuerda?"
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Sí, eso me lo explicaron en el hospital."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Perfecto. Vamos a explorarle. La tensión hoy está en 128-80, pulso regular. La movilidad de la pierna derecha ha mejorado mucho. La fuerza es casi normal. En la mano todavía hay algo de rigidez, pero los reflejos son adecuados. El habla está clara."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Me cuesta un poco la escritura fina, pero al menos ya agarro el bolígrafo."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Eso es un buen progreso. Mantenga la rehabilitación. También recomiendo caminar todos los días al menos 20-30 minutos, evitar tabaco y reducir la sal en la dieta."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "El tabaco lo dejé y ahora camino con mi hija todas las tardes."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Excelente. Como complemento, podemos añadir ácido fólico y vitamina B12, si en la próxima analítica siguen algo bajos."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "Está bien."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Entonces, plan: continuar con enalapril, atorvastatina y clopidogrel. Mantener rehabilitación, control estricto de tensión y colesterol, dieta baja en sal, caminar a diario. Revisión en tres meses con analítica completa."
+    },
+    {
+      "speaker": "Paciente",
+      "text": "De acuerdo, doctor."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Muy bien. Está evolucionando favorablemente. Vamos a seguir trabajando para que no tenga nuevos episodios."
+    }
+  ]
+}

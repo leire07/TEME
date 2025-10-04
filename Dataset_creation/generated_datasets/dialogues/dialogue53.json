@@ -1,0 +1,117 @@
+{
+    "scenario_id": "neumologia_01",
+    "title": "Consulta de neumología - Diagnóstico y tratamiento de EPOC moderado",
+    "context": "Consulta externa de neumología",
+    "turns": [
+      {
+        "speaker": "Neumólogo",
+        "text": "Entonces, vienes porque te falta el aire al subir cuestas y tienes tos desde hace tiempo, ¿verdad?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, y por las mañanas toso más, con algo de flema.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "¿Sigues fumando?",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sí, unos diez cigarrillos al día; antes eran más.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Bien. Te mandé una prueba de “soplar” y una radiografía del pecho. La prueba muestra que tus bronquios están algo estrechos y el aire sale peor de lo normal: es una EPOC de nivel moderado (una enfermedad crónica de los bronquios). En la radiografía no se ve infección ni nada preocupante. ¿Cuántos brotes fuertes has tenido este último año?",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Uno en invierno; me dieron antibiótico y corticoides.",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Vale. ¿Te falta el aire al caminar en llano o sobre todo en cuestas y cuando vas rápido?",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Sobre todo en cuestas o si acelero el paso.",
+        "duration_estimate": 5.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "De acuerdo. Vamos a mejorar el tratamiento con inhaladores y, sobre todo, trabajar para dejar el tabaco, que es lo más importante.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Ya lo sé, pero me cuesta.",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Te voy a ayudar con medicación y con la unidad para dejar de fumar. Para el EPOC, empezamos con un inhalador de mantenimiento que relaja los bronquios: umeclidinio/vilanterol 62/25 microgramos, 1 inhalación cada mañana. Y tendrás un inhalador “de rescate” para cuando te falte el aire: salbutamol 100 microgramos, 1–2 inhalaciones cuando lo necesites, dejando al menos 4–6 horas entre usos.",
+        "duration_estimate": 20.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "¿Y corticoides inhalados?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "En tu caso, de momento no hacen falta. Los usamos si hay muchos brotes o si un análisis lo indica.",
+        "duration_estimate": 7.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Muy importante la técnica del inhalador: suelta todo el aire, sella bien los labios en la boquilla, inspira hondo y aguanta el aire dentro 5–10 segundos. Te doy una hoja con dibujos para que practiques. También, vacunas: gripe cada año y neumococo si no la tienes puesta.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "Perfecto.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Neumólogo",
+        "text": "Plan: empezar el inhalador de mantenimiento (umeclidinio/vilanterol) cada mañana; salbutamol como rescate; para dejar de fumar, bupropión 150 mg: 1 comprimido al día durante 3 días y luego 1 comprimido cada 12 horas durante 7–12 semanas; y rehabilitación respiratoria (ejercicios y educación). Nos vemos en 8–12 semanas para revisar cómo vas, te pasaré un cuestionario sencillo y, si hay cambios, repetimos la prueba de soplar.",
+        "duration_estimate": 22.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteMujer",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.5,
+        "voice_characteristics": "neutral"
+      }
+    ],
+    "metadata": {
+      "word_count": 940,
+      "turn_count": 17,
+      "avg_turn_length": 34.7
+    },
+    "estimated_total_duration": 260.0,
+    "generated_at": "2025-09-25T03:10:00Z"
+  }
+  

@@ -1,0 +1,467 @@
+paracetamol
+enalapril
+nitroglicerina
+atorvastatina
+omeprazol
+almax
+carbocisteína
+ibuprofeno
+ácido acetilsalicílico
+hipertensión
+dolor torácico
+angina de esfuerzo
+infarto
+ictus
+colesterol alto
+hiperlipidemia
+reflujo gastroesofágico
+bronquitis aguda
+fiebre
+febrícula
+cólico renal
+cálculos renales
+piedras en el riñón
+infecciones urinarias
+síndrome coronario agudo
+prueba de esfuerzo
+electrocardiograma
+analítica
+perfil lipídico
+marcadores cardíacos
+orina
+gastroscopia
+auscultación
+ecografía abdominal
+cateterismo
+dolor en el pecho
+falta de aire
+disnea
+sudoración
+mareo
+ardor estomacal
+sensación de plenitud
+tos
+flemas
+expectoración
+dolor en los pulmones
+silbido al respirar
+sibilancias
+malestar general
+dolor costado
+dolor zona lumbar
+náuseas
+vómitos
+escalofríos
+hipertensión arterial
+mmhg
+anemia
+tiroides
+vitaminas
+amlodipino
+hemograma
+perfil tiroideo
+vitamina b12
+estrés
+auscultación pulmonar
+cuadro viral
+propranolol
+taquicardia supraventricular
+colesterol
+arritmias
+betabloqueante
+palpitaciones
+otitis media barotraumática
+catarro
+sinusitis
+amoxicilina clavulánico
+descongestionante nasal
+oximetazolina
+vahos
+fractura de radio distal
+radiografía
+fractura de colles
+escayola
+tramadol
+férula
+dolor
+inflamación
+rehabilitación
+fisioterapia
+síndrome de intestino irritable
+trimebutina
+simeticona
+ansiedad
+lorazepam
+insomnio
+melatonina
+fosfomicina
+infección urinaria
+analisis de orina
+leucocitos
+nitritos
+dermatitis de contacto
+betametasona
+loratadina
+antihistamínico
+lumbalgia
+ciática
+contractura muscular
+protrusión discal
+diclofenaco
+ciclobenzaprina
+diabetes tipo 2
+glucemia
+metformina
+hemoglobina glicosilada
+dapagliflozina
+sitagliptina
+insulina glargina
+sertralina
+episodio depresivo
+antidepresivo
+artrosis
+artritis inflamatoria
+simvastatina
+prótesis de rodilla
+prótesis de cadera
+metoprolol
+función renal
+apendicitis
+metamizol
+ondansetrón
+ceftriaxona
+metronidazol
+peritonitis
+cirugía
+neumonía
+asma
+epoc
+amoxicilina
+ácido clavulánico
+intoxicación química
+oxígeno
+suero fisiológico
+embarazo
+ácido fólico
+hierro
+aspirina
+gripe
+tosferina
+ecografía
+fractura costal
+neumotórax
+hemotórax
+extrasístoles
+holter
+arritmia
+angina
+insuficiencia cardíaca
+apnea del sueño
+ateroesclerosis
+aterosclerosis periférica
+ecocardiograma
+radiografía de tórax
+índice tobillo-brazo
+polisomnografía
+furosemida
+nolotil
+angioedema
+intolerancia a la lactosa
+amigdalectomía
+adenoidectomía
+bioquímica
+función tiroidea
+troponina
+ecocardiograma transtorácico
+resonancia magnética
+estudio electrofisiológico
+vareniclina
+penicilina
+atenolol
+cesárea
+bradicardia sinusal
+parkinson juvenil
+sinemet
+acilete
+ácido úrico
+tendinitis
+pitavastatina
+ts
+extrasístoles ventriculares
+bisoprolol
+calcio
+condroitín sulfato
+glucosamina
+bronquitis asmática
+foster
+beclometasona
+formoterol
+salbutamol
+ventolín
+mapa de tensión
+ecocardiograma basal
+ecocardiograma de esfuerzo
+síncope
+menopausia
+derrame cerebral
+microinfartos cerebrales
+troponinas
+ritmo sinusal
+mounjaro
+cpap
+estenosis aórtica moderada
+insuficiencia mitral
+disfunción diastólica
+fibrilación auricular
+acos
+eliquis
+hipertrofia excéntrica
+fracción de eyección
+estenosis moderada
+pro bnp
+dobutamina
+espirómetro
+tac
+asma bronquial
+hipercolesterolemia
+alteraciones tiroideas
+hipertiroidismo
+hipotiroidismo
+osteopenia
+flutiform
+espirometría
+lioceral
+atorzet
+alista
+lisinopril
+tac de tórax
+hemoglobina
+hematocrito
+neutrófilos
+linfocitos
+plaquetas
+hemoglobina glicada
+creatinina
+filtrado
+colesterol ldl
+triglicéridos
+tsh
+endocrino
+informe para carnet de conducir
+tac coronario
+placas de colesterol
+aorta
+calcio score
+dieta mediterránea
+stents
+elixia plus
+ferritina
+vitamina d
+vitamina b
+eco
+tavi
+prolapso de válvula mitral
+disección aórtica
+isquemia medular
+cirugía cardíaca
+insuficiencia renal crónica
+anticoagulación
+valsartán
+lexiana
+enconcor
+rivotril
+venlafaxina retard
+seguril
+soplo aórtico
+trombosis
+diabetes
+taquicardia
+soplo mitral
+síndrome coronario
+tabaquismo
+insulina
+hanumet
+trecally
+citalopram
+stent
+rosuvastatina
+adiro
+hipoventilación
+soplo
+resonancia
+soplo sistólico
+fibrilación auricular crónica
+edoxabán
+losartán
+caduet
+dutasterida
+urólogo
+próstata
+coágulos
+inyecciones
+aurícula izquierda
+calcificación aórtica
+válvula mitral
+espirulina
+vinagre de manzana
+taurina
+cúrcuma
+hidroclorotiazida
+ixia plus
+ixia
+entresto
+carvedilol
+aldactone
+espironolactona
+jardiance
+lipocon
+eutirox
+indapamida
+electro
+valvulopatías
+glaucoma
+dolor torácico de esfuerzo
+antiinflamatorios
+tac de coronarias
+arterias coronarias
+ait
+ataques isquémicos transitorios
+convulsiones parciales
+electroencefalograma
+electromiografía
+resonancia de cráneo
+doppler de carótidas
+encefalograma
+microinfartos
+carótidas
+placa
+migraña con aura
+triptanes
+topiramato
+cervicobraquialgia
+hernia discal
+resonancia cervical
+dolor neuropático
+pregabalina
+temblor esencial
+parkinson
+epoc moderado
+bronquios
+infección respiratoria
+inhaladores
+umeclidinio
+vilanterol
+corticoides
+vacuna
+neumococo
+bupropión
+rehabilitación respiratoria
+triple terapia
+acetilcisteína
+ejercicios respiratorios
+silbidos en el pecho
+budesonida
+rinitis alérgica
+mometasona
+quimio
+quimioterapia
+radioterapia
+tamoxifeno
+sofocos
+dolores óseos
+sangrado vaginal
+mamografía
+marcadores tumorales
+cáncer de mama
+tratamiento hormonal
+bulto mamario
+fibroadenoma
+quistes
+ecografía mamaria
+biopsia
+antiinflamatoria
+tumores benignos
+analgésicos
+adenocarcinoma de colon
+colonoscopia
+pólipo
+ganglios
+hierro oral
+sangrado intestinal
+cáncer de pulmón no microcítico
+nódulo pulmonar
+broncodilatador inhalado
+fisioterapia respiratoria
+jarabe de codeína
+glucosa
+riñón
+corazón
+levotiroxina
+caída de cabello
+piel seca
+obesidad
+imc
+semaglutida
+dieta equilibrada
+osteoporosis
+densitometría
+fractura
+alendronato
+ejercicio
+síndrome de ovario poliquístico
+píldora anticonceptiva
+hirsutismo
+acné
+deterioro leve de memoria
+donepezilo
+caídas
+antihipertensivo
+diurético
+ansiolítico
+polimedicación
+pérdida de peso
+desnutrición
+proteínas bajas
+suplementos nutricionales
+ejercicio suave
+artrosis de rodilla
+gel antiinflamatorio
+infiltraciones intraarticulares
+corticoide
+ejercicio de fortalecimiento
+bicicleta estática
+natación
+fractura de cadera
+prótesis parcial de cadera
+analgesia intravenosa
+heparina
+trombos
+andador
+bastón
+dolor lumbar crónico
+artrosis lumbar
+desgaste de discos intervertebrales
+hernia
+compresión nerviosa
+relajante muscular
+calor local
+infiltraciones
+ictus isquémico
+arteria cerebral
+clopidogrel
+antiagregante
+tensión arterial
+náusea
+sumatriptán
+falta de sueño
+epilepsia
+crisis epiléptica
+levetiracetam
+alcohol
+inhalador azul
+spray nasal
+laba/lama
+broncodilatadores
+mucolítico
+vacuna gripe
+vacuna neumonía

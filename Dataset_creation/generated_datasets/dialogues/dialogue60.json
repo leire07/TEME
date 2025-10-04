@@ -1,0 +1,117 @@
+{
+    "scenario_id": "oncologia_02",
+    "title": "Consulta de oncología - Diagnóstico de adenocarcinoma de colon",
+    "context": "Consulta externa de oncología",
+    "turns": [
+      {
+        "speaker": "Oncólogo",
+        "text": "Buenos días, ¿cómo te encuentras?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Un poco preocupado… me hicieron la colonoscopia porque tenía anemia y salió un pólipo grande.",
+        "duration_estimate": 9.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Sí, he revisado el informe. En la colonoscopia se vio una lesión en el colon derecho y se tomó una biopsia. El resultado confirma que es un adenocarcinoma de colon.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "O sea, ¿es cáncer?",
+        "duration_estimate": 3.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Sí, pero lo importante es que lo hemos detectado a tiempo. Por lo que vemos en las pruebas, parece localizado en el colon y no hay datos de que se haya extendido a otros órganos.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y qué hay que hacer ahora?",
+        "duration_estimate": 4.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "El tratamiento de elección es la cirugía: quitar el fragmento del colon donde está el tumor junto con los ganglios cercanos. Eso nos permitirá tratarlo y, además, analizar exactamente en qué fase está.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "¿Y después de la operación? ¿Necesitaré quimio?",
+        "duration_estimate": 6.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Dependiendo de lo que encontremos en los ganglios. Si no hay afectación, puede que con la cirugía sea suficiente. Si hay ganglios con células tumorales, añadiremos quimioterapia durante unos meses para reducir el riesgo de recaída.",
+        "duration_estimate": 18.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Entiendo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Mientras tanto, para la anemia, te voy a recetar hierro oral, 325 mg cada 12 horas. Eso te ayudará a subir la hemoglobina y llegar más fuerte a la cirugía.",
+        "duration_estimate": 15.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Vale.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "También es importante que cuides la dieta: rica en fibra suave, frutas, verduras y buena hidratación. Y evita automedicarte con antiinflamatorios porque pueden aumentar el sangrado intestinal.",
+        "duration_estimate": 16.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "De acuerdo.",
+        "duration_estimate": 2.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Entonces, plan: derivación al cirujano para programar la operación, hierro oral para la anemia y seguimiento conmigo después de la cirugía.",
+        "duration_estimate": 14.0,
+        "voice_characteristics": "professional"
+      },
+      {
+        "speaker": "PacienteHombre",
+        "text": "Gracias doctor, estaba muy asustado, pero me quedo más tranquilo sabiendo que tiene solución.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "neutral"
+      },
+      {
+        "speaker": "Oncólogo",
+        "text": "Exacto, lo importante es que lo hemos cogido a tiempo y que tenemos un tratamiento claro.",
+        "duration_estimate": 10.0,
+        "voice_characteristics": "professional"
+      }
+    ],
+    "metadata": {
+      "word_count": 880,
+      "turn_count": 17,
+      "avg_turn_length": 34.7
+    },
+    "estimated_total_duration": 260.0,
+    "generated_at": "2025-09-25T05:10:00Z"
+  }
+  
